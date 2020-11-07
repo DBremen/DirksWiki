@@ -1,0 +1,5 @@
+## Presence {#presence}
+
+Presence is foundational for mindfulness. By definition, being present means we’re paying attention to the people, objects, and ideas around us. This level of attention is at the very core of managing focus and awareness—the central characteristics of mindfulness—and maintaining mental effectiveness.
+
+**When we’re present for others, we embody all three definitions of present : we’re here and in this moment as a gift for other people. Instead of hopping on the neural carousel, be fully present when you’re with other people. Be fully present with your tasks. Be fully present with challenges when they occur. Being present in the moment doesn’t require a change in what you do . It requires a change in how you pay attention to what you do. It’s a conscious decision to be present in the moment.**

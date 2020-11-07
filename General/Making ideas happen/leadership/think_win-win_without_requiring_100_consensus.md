@@ -1,0 +1,5 @@
+## Think win-win without requiring 100% consensus {#think-win-win-without-requiring-100-consensus}
+
+While most people might feel that incorporating two extremely different viewpoints (or features) into a project would call for an “either/or” decision that dispenses with one extreme, consensus can often be achieved by taking an “and/and” approach.
+
+Leaders of creative teams should identify and highlight the noteworthy, memorable solutions at both ends of the spectrum that, in all likelihood, are not agreeable to all. Over the course of discussions, they should seek to identify the few of these outliers worth fighting for amidst the other inevitable compromises when dealing with other constituencies. These sacred extremes are the ideas that you want to hold on to amidst all of the other compromises you will need to make. Sometimes someone with a particular expertise should be empowered to vouch for the sacred extremes and make the final decision despite an uncertain team. We should be open to trying something new, especially when someone we respect is advocating for it.

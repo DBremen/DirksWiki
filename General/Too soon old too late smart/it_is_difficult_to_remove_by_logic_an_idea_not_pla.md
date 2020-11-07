@@ -1,0 +1,3 @@
+# It is difficult to remove by logic an idea not placed there by logic in the first place {#it-is-difficult-to-remove-by-logic-an-idea-not-placed-there-by-logic-in-the-first-place}
+
+If most of our behavior is driven by our feelings, however unclear they may be, it follows that to change ourselves we must be able to identify our emotional needs and find ways of satisfying them that do not offend those upon whom our happiness depends. If we wish, as most of us do, to be treated with kindness and forbearance, we need to cultivate those qualities in ourselves.

@@ -1,0 +1,3 @@
+# Mental strategies {#mental-strategies}
+
+Think of these strategies as another layer you can add on top of the techniques to quickly and easily improve your performance at work. They don’t replace the techniques—and they certainly don’t replace the foundational training methods—but they do mitigate the most persistent thoughts and habits that can prevent you from being your best self moment to moment.

@@ -1,0 +1,7 @@
+## humanistische Liberalismus {#humanistische-liberalismus}
+
+Ohne Geiz, Habgier und Neid gäbe es kein ständig fortschreitendes Wirtschaftswachstum, keine Triebfeder zur Anhäufung von Kapital, während sich die Werbung unsere Eitelkeit und Genusssucht eifrig zunutze macht.
+
+Dennoch muss man sich angesichts einer immer weiter fortschreitenden Ausbeutung der Natur, der schamlosen Geldgier ganzer Wirtschaftszweige, einer erschreckenden zwischenmenschlichen Entfremdung, der raschen und unbedachten Bereitschaft zur Ehrverletzung im Alltag sowie einer um sich greifenden psychischen Destabilisierung des Individuums fragen: **Leben wir nicht vielleicht in einer ausgesprochen dekadenten Gesellschaft, deren Grundübel im Fehlen einer Lebensführung besteht, die sich an den Tugenden orientiert und an dem, was wirklich gut ist, statt lediglich an dem, was sich gerade gut anfühlt?**
+
+Die westliche Gesellschaft leidet allerdings auch an einer Störung. **Deren Ursache liegt in der Verwechslung des wirklichen Glücks mit einer zwanghaften Suche nach dem Ersatzglück in den Lastern. Die kollektive Gemütsverfassung, die große Teile der kapitalistischen Gesellschaft erfasst, zeichnet sich durch einen Verlust an Sinn, Geborgenheit, Lebensfreude und Seelenfrieden aus.**

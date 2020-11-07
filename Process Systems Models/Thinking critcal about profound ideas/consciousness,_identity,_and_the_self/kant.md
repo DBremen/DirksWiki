@@ -1,0 +1,9 @@
+## Kant {#kant}
+
+Our minds actively sort, organize, relate, and synthesize the fragmented, fluctuating collection of sense data that our sense organs take in. For example, imagine that someone dumped a pile of puzzle pieces on the table in front of you. They would initially appear to be a random collection of items, unrelated to one another and containing no meaning for you, much like the basic sensations of immediate unreflective experience. However, as you began to assemble the pieces, these fragmentary items would gradually begin to form a coherent image that would have significance for you. According to Kant this meaning-constructing activity is precisely what our minds are doing all of the time: taking the raw data of experience and actively synthesizing it into the familiar, orderly, meaningful world in which we live. As you might imagine, this mental process is astonishing in its power and complexity, and it is going on all of the time.
+
+**Unity of consciousness**. Thoughts and perceptions of any given mind are bound together in a unity by being all contained in your consciousness. This picture is uniquely your picture.
+
+**Your self is able to perform this synthesizing, unifying function because it transcends sense experience.**
+
+How do our minds know the best way to construct an intelligible world out of a never-ending avalanche of sensations? We each have fundamental organizing rules or principles built into the architecture of our minds. These dynamic principles naturally order, categorize, organize, and synthesize sense data into the familiar fabric of our lives, bounded by space and time. These organizing rules are **a priori in the sense that they precede the sensations of experience and they exist independently of these sensations.** We didn’t have to learn these a priori ways of organizing and relating the world they came as software already installed in our intellectual operating systems.

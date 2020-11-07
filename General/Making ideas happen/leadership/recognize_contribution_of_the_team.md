@@ -1,0 +1,3 @@
+## Recognize contribution of the team {#recognize-contribution-of-the-team}
+
+Success is more than a personal reward for leaders; it is a valuable currency that can be distributed to the team. The only bank account that the shared credit depletes is the leader’s ego. Recognition is a powerful reward that, whether or not money is tight, can help further engage those who play a role in making your ideas happen.

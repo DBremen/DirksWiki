@@ -1,0 +1,3 @@
+# The perfect is the enemy of the good. {#the-perfect-is-the-enemy-of-the-good}
+
+The problem with perfectionists and their preoccupation with control is that the qualities that make them effective in their work can render them insufferable in their personal lives. I treat a lot of engineers and accountants and computer programmers. To be less controlling in their jobs would render them ineffective. The best one can hope for is to introduce them to the paradox of perfection: in some settings, notably in our intimate relationships, we gain control only by relinquishing it.
