@@ -1,0 +1,3 @@
+# Creating the right environment instead of controlling {#creating-the-right-environment-instead-of-controlling}
+
+Parenting needs to shift from controlling our children, which is rooted in our fears and serves to impede their progress, to supporting the development of their physical, emotional, and mental capacities. Help your kids to listen to their own desires rather than allowing others to influence their decisions.

@@ -1,0 +1,5 @@
+# Walking away but coming back {#walking-away-but-coming-back}
+
+This is an alternative for flight or fight. The problem is that neither of these extreme options helps you manage anger. If you decide to stand and fight, you need to remain angry long enough to overcome the threat — and the intensity of your anger may become accelerated in the process. On the other hand, if you retreat from the threat, you end up taking your angry feelings with you. You can outrun the threat, but not your own emotions.
+
+You can disengage (walk away) initially (“Excuse me. Give me a minute. I’ll be right back,”), but return later (“Okay, what was it you wanted to say?”), after you’ve calmed down sufficiently to discuss how to resolve the conflict. This is the most mature way to handle anger-provoking problems, but also the one most people are least likely to choose.

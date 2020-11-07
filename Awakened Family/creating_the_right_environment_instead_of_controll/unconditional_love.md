@@ -1,0 +1,3 @@
+## Unconditional love {#unconditional-love}
+
+They need us to switch from a focus on molding them in the name of love to one of creating space for them to show up as they need to, even when they are being irrational and unpredictable. Children want nothing more than to feel they have our permission to express who they are at any given moment. No, I’m not talking about mindlessly indulging them, but rather about creating the conditions for them to express their whole self. When we give them this freedom, they experience a vast, unbounded spaciousness in which to discover themselves and ultimately flourish. They feel our love as love, not as control born of our fear.
