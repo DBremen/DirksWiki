@@ -1,0 +1,1 @@
+## Group Decisions {#group-decisions}

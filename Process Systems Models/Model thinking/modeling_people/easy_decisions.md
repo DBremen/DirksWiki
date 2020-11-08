@@ -1,0 +1,1 @@
+## Easy decisions. {#easy-decisions}

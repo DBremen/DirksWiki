@@ -20,7 +20,7 @@ function build ($UpdateFilePath = '',[switch]$All) {
         if (!(Test-Path $parentFolder)){
             $null = mkdir $parentFolder
         }
-        $exportFolder =  "$($parentFolder.FullName)\$($file.BaseName)"
+        $exportFolder =  "$($parentFolder)\$($file.BaseName)"
         if (Test-Path $exportFolder){
             del $exportFolder -Recurse -Force
         }

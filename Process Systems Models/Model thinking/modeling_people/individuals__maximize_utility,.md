@@ -1,0 +1,1 @@
+## Individuals – maximize utility, {#individuals-maximize-utility}
