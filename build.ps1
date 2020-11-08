@@ -28,4 +28,5 @@ function build ($UpdateFilePath = '',[switch]$All) {
         gitbook-convert $file.FullName $exportFolder
    }
 }
+build -UpdateFilePath "C:\scripts\wikiDocs\Process Systems Models\Model thinking.docx"
 
