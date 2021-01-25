@@ -1,5 +1,7 @@
 # Complexity {#complexity}
 
+An actor in a complex system controls almost nothing but influences everything.
+
 Depends on:
 
 *   Diversity (see further down for details)

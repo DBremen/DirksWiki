@@ -1,1 +1,0 @@
-## Firms – maximize profits, {#firms-maximize-profits}

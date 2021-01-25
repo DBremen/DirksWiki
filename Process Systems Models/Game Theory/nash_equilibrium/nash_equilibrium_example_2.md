@@ -1,0 +1,1 @@
+## Nash equilibrium example 2 {#nash-equilibrium-example-2}

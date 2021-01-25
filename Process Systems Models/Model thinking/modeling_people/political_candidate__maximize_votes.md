@@ -1,1 +1,0 @@
-## Political Candidate – maximize votes {#political-candidate-maximize-votes}

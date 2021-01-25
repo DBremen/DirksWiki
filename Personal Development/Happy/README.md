@@ -1,3 +1,3 @@
 # Happy {#happy}
 
-This file serves as your book&#039;s preface, a great place to describe your book&#039;s content and ideas.
+### Based on [&quot;The Science of Happiness&quot; (GG101x on edX)](https://www.youtube.com/playlist?list=PL1t8gs-WJprDHaTTZozWnC6O56n9jHD0A) and “A Life of Happiness and Fulfillment” course on coursera (https://www.coursera.org/learn/happiness) {#based-on-the-science-of-happiness-gg101x-on-edx-and-a-life-of-happiness-and-fulfillment-course-on-coursera-https-www-coursera-org-learn-happiness}

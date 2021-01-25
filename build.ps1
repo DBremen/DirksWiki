@@ -2,7 +2,7 @@ $sourceDocsFolder = 'C:\scripts\wikiDocs'
 $repoFolder = 'C:\scripts\DirksWiki\'
 function build ($UpdateFilePath = '',[switch]$All) {
     if ($All){
-        dir $repoFolder -Exclude '*.ps1','.git'  | del -Recurse -Force
+        dir $repoFolder -Exclude '*.ps1','.git','README.md' | del -Recurse -Force
         $folders = dir $sourceDocsFolder -Directory
         foreach ($folder in $folders) {
             $currParentFolder = mkdir "$repoFolder\$($folder.Name)"

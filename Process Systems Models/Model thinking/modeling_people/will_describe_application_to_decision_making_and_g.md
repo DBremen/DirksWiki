@@ -1,1 +1,0 @@
-## Will describe application to decision making and games. {#will-describe-application-to-decision-making-and-games}

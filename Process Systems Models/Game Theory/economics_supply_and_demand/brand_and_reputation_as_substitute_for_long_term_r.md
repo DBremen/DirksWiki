@@ -1,0 +1,3 @@
+## Brand and reputation as substitute for long term relationship {#brand-and-reputation-as-substitute-for-long-term-relationship}
+
+In a situation where there is no long term relationship like for a high priced restaurant in a tourist area with a low amount of returning customers (same applies for any low frequent high cost purchase). The restaurant can only establish a high price (expecting high quality in return) by reputation/brand since customers will need to trust that the quality of the food will match the high price and they cannot punish the restaurant by not coming back. On the other hand the customers can punish the restaurants by giving them a bad review which lowers their reputation in turn.

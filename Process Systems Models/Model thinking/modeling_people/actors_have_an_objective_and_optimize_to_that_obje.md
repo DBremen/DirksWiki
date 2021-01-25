@@ -1,1 +1,0 @@
-## Actors have an objective and optimize to that objective. {#actors-have-an-objective-and-optimize-to-that-objective}

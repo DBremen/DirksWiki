@@ -22,3 +22,4 @@
   * [How do traffic jams happen?](self_organized_criticality\how_do_traffic_jams_happen.md)
   * [First world war](self_organized_criticality\first_world_war.md)
 * [Where does randomness come from?](where_does_randomness_come_from.md)
+* [Decision theory](decision_theory.md)

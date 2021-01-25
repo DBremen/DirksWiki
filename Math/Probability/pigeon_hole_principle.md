@@ -1,0 +1,5 @@
+# Pigeon hole principle {#pigeon-hole-principle}
+
+The pigeonhole principle states that If n + 1 objects are placed into n boxes, then some box contains at least 2 objects. For example, if there are 5 people living in your house, but you only have 4 bedrooms, then at least 2 people must share a bedroom.
+
+The Irish Hair puzzle is a well-known illustration of the pigeonhole principle. The population of Ireland is approximately 4.6 million however, the average number of hairs on the human head is only 150,000\. By the pigeonhole principle, there must be at least two people in Ireland with the same number of hairs on their head. In other words, even if there were 150,000 people, each with a different number of hairs on their head, the rest of the population must fit into one of the categories between 0 and 150,000 hairs.
