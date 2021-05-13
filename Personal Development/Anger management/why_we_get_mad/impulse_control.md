@@ -1,0 +1,1 @@
+## Impulse control {#impulse-control}

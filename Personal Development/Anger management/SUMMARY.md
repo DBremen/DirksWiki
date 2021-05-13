@@ -10,3 +10,6 @@
 * [Speaking out in anger](speaking_out_in_anger.md)
 * [Preventing anger](preventing_anger.md)
 * [A Zen approach to overcoming anger](a_zen_approach_to_overcoming_anger.md)
+* [Why we get mad?](why_we_get_mad\README.md)
+  * [Impulse control](why_we_get_mad\impulse_control.md)
+  * [Angry thoughts](why_we_get_mad\angry_thoughts.md)
