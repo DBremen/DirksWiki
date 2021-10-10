@@ -1,3 +1,0 @@
-# Foundational practices {#foundational-practices}
-
-Mindfulness training is an investment. It takes time. And it takes effort. And while many would argue they have no time for mindfulness training because they are busy, I see it very differently. Mindfulness training is increasingly important to me, the busier I get. The more things I need to do, the more time I train. That’s my way of ensuring I can stay focused, calm, and effective and not let the busyness clutter my mind.

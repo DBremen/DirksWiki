@@ -1,3 +1,0 @@
-# Public Victory {#public-victory}
-
-Integrity includes but goes beyond honesty. Honesty is telling the truth -- in other words, conforming our words to reality. Integrity is conforming reality to our words -- in other words, keeping promises and fulfilling expectations. This requires an integrated character, a oneness, primarily with self but also with life. One of the most important ways to manifest integrity is to be loyal to those who are not present. In doing so, we build the trust of those who are present. When you defend those who are absent, you retain the trust of those present.
