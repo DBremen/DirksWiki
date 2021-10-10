@@ -29,6 +29,7 @@ function build ($UpdateFilePath = '',[switch]$All) {
         $null = mkdir $exportFolder
         gitbook-convert $file.FullName $exportFolder
    }
+   & book sm
 }
 
 
