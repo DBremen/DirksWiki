@@ -1,0 +1,5 @@
+# The Fine Art of correction {#the-fine-art-of-correction}
+
+Don’t overdo planning but adjust as you go.
+
+We’ve got to get rid of the stigma attached to correction. People who self-correct early on have an advantage over those who spend ages fiddling with the perfect set-up and crossing their fingers that their plans will work out. There’s no such thing as the ideal training. There’s more than one life goal. There’s no perfect business strategy, no optimal stock portfolio, no one right job. They’re all myths. The truth is that you begin with one set-up and then constantly adjust it. The more complicated the world becomes, the less important your starting point is. So don’t invest all your resources into the perfect set-up—at work or in your personal life. Instead, practice the art of correction by revising the things that aren’t quite working—swiftly and without feeling guilty.

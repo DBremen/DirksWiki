@@ -7,7 +7,9 @@ function build ($UpdateFilePath = '',[switch]$All) {
         foreach ($folder in $folders) {
             $currParentFolder = mkdir "$repoFolder\$($folder.Name)"
             $files = dir $folder.FullName 
+            $files = $files.where{!($_.Name.StartsWith('~'))}
             foreach ($file in $files) {
+                Write-Host -ForegroundColor Yellow "Working on $($file.Name)"
                 $exportFolder = (mkdir "$($currParentFolder.FullName)\$($file.BaseName)").FullName
                 gitbook-convert $file.FullName $exportFolder
             }
