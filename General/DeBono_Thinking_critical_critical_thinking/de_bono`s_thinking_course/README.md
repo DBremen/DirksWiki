@@ -1,0 +1,1 @@
+# De Bono`s thinking course {#de-bono-s-thinking-course}
