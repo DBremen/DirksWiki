@@ -14,24 +14,24 @@
     * [Url Parameters](General/advancedGoogleSearch/url_parameters.md)
   - De Bono Thinking Critical Critical Thinking
     - A Well Cultivated Critical Thinker
-      * [Assumptions Vs Inferences](General/DeBono%20Thinking critical critical thinking/a_well-cultivated_critical_thinker/assumptions_vs_inferences.md)
-      * [Behavior Of Critical Thinkers](General/DeBono%20Thinking critical critical thinking/a_well-cultivated_critical_thinker/behavior_of_critical_thinkers.md)
-      * [The Elements Of Thought In Relationship](General/DeBono%20Thinking critical critical thinking/a_well-cultivated_critical_thinker/the_elements_of_thought_in_relationship.md)
+      * [Assumptions Vs Inferences](General/DeBono Thinking critical critical thinking/a_well-cultivated_critical_thinker/assumptions_vs_inferences.md)
+      * [Behavior Of Critical Thinkers](General/DeBono Thinking critical critical thinking/a_well-cultivated_critical_thinker/behavior_of_critical_thinkers.md)
+      * [The Elements Of Thought In Relationship](General/DeBono Thinking critical critical thinking/a_well-cultivated_critical_thinker/the_elements_of_thought_in_relationship.md)
     - De Bono S Thinking Course
-      * [Apc Alternatives Choices Possibilities](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/apc_alternatives,_choices,_possibilities.md)
-      * [How The Mind Works As An Information Processing Sy](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/how_the_mind_works_as_an_information_processing_sy.md)
-      * [Lateral Thinking](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/lateral_thinking.md)
-      * [Pmi Plus Minus Interesting](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/pmi_plus_minus_interesting.md)
-      * [The Brain Is A Pattern Matching Machine](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/the_brain_is_a_pattern_matching_machine.md)
+      * [Apc Alternatives Choices Possibilities](General/DeBono Thinking critical critical thinking/de_bono`s_thinking_course/apc_alternatives,_choices,_possibilities.md)
+      * [How The Mind Works As An Information Processing Sy](General/DeBono Thinking critical critical thinking/de_bono`s_thinking_course/how_the_mind_works_as_an_information_processing_sy.md)
+      * [Lateral Thinking](General/DeBono Thinking critical critical thinking/de_bono`s_thinking_course/lateral_thinking.md)
+      * [Pmi Plus Minus Interesting](General/DeBono Thinking critical critical thinking/de_bono`s_thinking_course/pmi_plus_minus_interesting.md)
+      * [The Brain Is A Pattern Matching Machine](General/DeBono Thinking critical critical thinking/de_bono`s_thinking_course/the_brain_is_a_pattern_matching_machine.md)
     - The Psychology Of Intelligence Analysis
-      * [3 Distinct Memory Processes](General/DeBono%20Thinking critical critical thinking/the_psychology_of_intelligence_analysis/3_distinct_memory_processes.md)
-      * [Getting Information Into And Out Of Long Term Memo](General/DeBono%20Thinking critical critical thinking/the_psychology_of_intelligence_analysis/getting_information_into_and_out_of_long-term_memo.md)
-      * [Organization Of Information In Memory](General/DeBono%20Thinking critical critical thinking/the_psychology_of_intelligence_analysis/organization_of_information_in_memory.md)
-      * [Step By Step Outline Of Analysis Of Competing Hypo](General/DeBono%20Thinking critical critical thinking/the_psychology_of_intelligence_analysis/step-by-step_outline_of_analysis_of_competing_hypo.md)
+      * [3 Distinct Memory Processes](General/DeBono Thinking critical critical thinking/the_psychology_of_intelligence_analysis/3_distinct_memory_processes.md)
+      * [Getting Information Into And Out Of Long Term Memo](General/DeBono Thinking critical critical thinking/the_psychology_of_intelligence_analysis/getting_information_into_and_out_of_long-term_memo.md)
+      * [Organization Of Information In Memory](General/DeBono Thinking critical critical thinking/the_psychology_of_intelligence_analysis/organization_of_information_in_memory.md)
+      * [Step By Step Outline Of Analysis Of Competing Hypo](General/DeBono Thinking critical critical thinking/the_psychology_of_intelligence_analysis/step-by-step_outline_of_analysis_of_competing_hypo.md)
     - Thinking Feeling And Wanting
-      * [Changing Irrational Behavior Grounded In Irrationa](General/DeBono%20Thinking critical critical thinking/thinking,_feeling_and_wanting/changing_irrational_behavior_grounded_in_irrationa.md)
-      * [Changing Negative Feelings Caused By Irrational Th](General/DeBono%20Thinking critical critical thinking/thinking,_feeling_and_wanting/changing_negative_feelings_caused_by_irrational_th.md)
-    * [De Bono The Six Value Medals](General/DeBono%20Thinking critical critical thinking/de_bono_the_six_value_medals.md)
+      * [Changing Irrational Behavior Grounded In Irrationa](General/DeBono Thinking critical critical thinking/thinking,_feeling_and_wanting/changing_irrational_behavior_grounded_in_irrationa.md)
+      * [Changing Negative Feelings Caused By Irrational Th](General/DeBono Thinking critical critical thinking/thinking,_feeling_and_wanting/changing_negative_feelings_caused_by_irrational_th.md)
+    * [De Bono The Six Value Medals](General/DeBono Thinking critical critical thinking/de_bono_the_six_value_medals.md)
   - Learning About Learning
     - Coursera Learning To Learn
       * [Habits](General/Learning%20about learning/coursera_learning_to_learn/habits.md)
