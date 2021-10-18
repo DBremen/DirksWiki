@@ -14,9 +14,9 @@
     * [Url Parameters](General/advancedGoogleSearch/url_parameters.md)
   - DeBono Thinking Critical Critical Thinking
     - A Well Cultivated Critical Thinker
-      * [Assumptions Vs Inferences](General/DeBono%20Thinking critical critical thinking/a_well-cultivated_critical_thinker/assumptions_vs_inferences.md)
-      * [Behavior Of Critical Thinkers](General/DeBono%20Thinking critical critical thinking/a_well-cultivated_critical_thinker/behavior_of_critical_thinkers.md)
-      * [The Elements Of Thought In Relationship](General/DeBono%20Thinking critical critical thinking/a_well-cultivated_critical_thinker/the_elements_of_thought_in_relationship.md)
+      * [Assumptions Vs Inferences](General/De_Bono_Thinking_Critical_Critical_Thinking/a_well-cultivated_critical_thinker/assumptions_vs_inferences.md)
+      * [Behavior Of Critical Thinkers](General/De_Bono_Thinking_Critical_Critical_Thinking/a_well-cultivated_critical_thinker/behavior_of_critical_thinkers.md)
+      * [The Elements Of Thought In Relationship](General/De_Bono_Thinking_Critical_Critical_Thinking/a_well-cultivated_critical_thinker/the_elements_of_thought_in_relationship.md)
     - De Bono S Thinking Course
       * [Apc Alternatives Choices Possibilities](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/apc_alternatives,_choices,_possibilities.md)
       * [How The Mind Works As An Information Processing Sy](General/DeBono%20Thinking critical critical thinking/de_bono`s_thinking_course/how_the_mind_works_as_an_information_processing_sy.md)
