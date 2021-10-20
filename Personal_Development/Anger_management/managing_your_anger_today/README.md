@@ -1,1 +1,0 @@
-# Managing your anger today {#managing-your-anger-today}

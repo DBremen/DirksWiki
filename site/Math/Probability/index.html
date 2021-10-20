@@ -1,0 +1,1633 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.4">
+    
+    
+      
+        <title>Probability - Dirk's Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.db9e7362.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#httpslearningedxorgcoursecourse-v1harvardxfc1x1t2020" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-header__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dirk's Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Probability
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-nav__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Dirk's Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          General
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="General" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          General
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Advanced_Google_Search/" class="md-nav__link">
+        Advanced Google Search
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/DeBono_Thinking_critical_critical_thinking/" class="md-nav__link">
+        DeBono Thinking critical critical thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Learning_about_learning/" class="md-nav__link">
+        Learning about learning
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Making_ideas_happen/" class="md-nav__link">
+        Making ideas happen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Physics/" class="md-nav__link">
+        Physics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Too_soon_old_too_late_smart/" class="md-nav__link">
+        Too soon old too late smart
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Math
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Math" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Math
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Discrete_Math/" class="md-nav__link">
+        Discrete Math
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Math/" class="md-nav__link">
+        Math
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Probability
+      </a>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Personal Development
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Personal Development" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Personal Development
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-nav__link">
+        7 habits of highly effective people
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Anger_management/" class="md-nav__link">
+        Anger management
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Awakened_family/" class="md-nav__link">
+        Awakened family
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Ethics/" class="md-nav__link">
+        Ethics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/First_things_first/" class="md-nav__link">
+        First things first
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Happy/" class="md-nav__link">
+        Happy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/How_to_chart_new_course_for_life/" class="md-nav__link">
+        How to chart new course for life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Influence_people/" class="md-nav__link">
+        Influence people
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Innere_MItte/" class="md-nav__link">
+        Innere MItte
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Joy_on_demand/" class="md-nav__link">
+        Joy on demand
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/MIndfullness_at_work/" class="md-nav__link">
+        MIndfullness at work
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Non_violent_communications/" class="md-nav__link">
+        Non violent communications
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Power_and_grace_between_nasty_and_nice/" class="md-nav__link">
+        Power and grace between nasty and nice
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Slight_edge/" class="md-nav__link">
+        Slight edge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_art_of_the_good_life/" class="md-nav__link">
+        The art of the good life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_third_alternative/" class="md-nav__link">
+        The third alternative
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Process System Models
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Process System Models" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Process System Models
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Complexity/" class="md-nav__link">
+        Complexity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Game_Theory/" class="md-nav__link">
+        Game Theory
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Model_thinking/" class="md-nav__link">
+        Model thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Processes/" class="md-nav__link">
+        Processes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Reasoning_across_the_disciplines/" class="md-nav__link">
+        Reasoning across the disciplines
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Root_Cause_Analysis/" class="md-nav__link">
+        Root Cause Analysis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Solving_complex_problems/" class="md-nav__link">
+        Solving complex problems
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Thinking_critcal_about_profound_ideas/" class="md-nav__link">
+        Thinking critcal about profound ideas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="httpslearningedxorgcoursecourse-v1harvardxfc1x1t2020"><a href="https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/">https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/</a></h1>
+<p>(HarvardX FC1xFat Chance: Probability from the Ground Up)</p>
+<p>Sequence = permutation = order matters (1-2 \&lt;> 2-1) (choosing
+president, vice-president, chair)</p>
+<p>Collections = combinations = order does not matter (1-2 = 2-1) (choosing
+a committee)</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image1.png" /></p>
+<h1 id="counting-sequences-ordered-or-permutations">Counting sequences (ordered) or permutations</h1>
+<p>How many numbers are in 1..10?</p>
+<p>1..n = n</p>
+<p>How many numbers are in 5..56?</p>
+<p>Subtract 4 from every number to get 1..52 = 52</p>
+<p>k..n = n -- (k -1) = n-k+1</p>
+<p>How many numbers between 23 and 283 are divisible by 5?</p>
+<p>25..280 (only include first and last number divisible within the range)</p>
+<p>25/5..280/5 = 5..56 (divide first and last number by five)</p>
+<p>5-4..56-4 = 52 numbers (subtract k-1)</p>
+<p>5000 * 10 * 365 * 400</p>
+<p>2,000,000000 * 7.3</p>
+<h2 id="multiplication-principle">Multiplication principle</h2>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image2.png" /></p>
+<h3 id="with-repitition">With repitition</h3>
+<h1 id="how-many-combos-can-you-make-out-of-3-pairs-of-shoes-7-tops-and-2-pants">How many combos can you make out of 3 pairs of shoes 7 tops and 2 pants</h1>
+<p>3 * 7 * 2 = 42</p>
+<p>If the choices are without removal powers can be used.</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image3.png" /></p>
+<p>How many 5 letter combinations can be made out of the alphabet?</p>
+<p>First letter = 26; second letter = 26 possibilities...</p>
+<p>26^5^</p>
+<h3 id="wo-repetition-unique-permutations">w/o repetition (unique, permutations)</h3>
+<p>w/o repetition means that once an object is chosen it can't be chosen
+again (e.g. a ball is not returned to its urn)</p>
+<p>How many ways are there when assigning president, vice president,
+secretary and treasurer for a class of 15 students (one person can have
+just one of the roles)</p>
+<p>15 -> president</p>
+<p>14 -> vice president</p>
+<p>13 -> secretary</p>
+<p>12 -> treasurer</p>
+<p>15*14*13*12</p>
+<p>Permut(15,4)</p>
+<p>Fact(15)/Fact(11)</p>
+<p>Number of sequences of k objects chosen without repetition from a
+collection of n objects:</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image4.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image5.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image6.png" /></p>
+<p>The denominator removes the factors that we don't want e.g.:</p>
+<p>1*2*...*15/1*2*..11 = 12*13*14*15</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image7.png" /></p>
+<p>9 * 8 *7 = 504</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image8.png" /></p>
+<p>Here the choices we make for the first two digits affect the number of
+choices we have at the third stage. But the problem can be worked out if
+we choose the last digit first:</p>
+<p>3. digit = any of 1,3,5,7,9 = 5</p>
+<p>2. digit = any of 1 to 9 -1 = 8</p>
+<p>3. digit = any of 1 to 9 -2 = 7</p>
+<p>= 5*8*7</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image9.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image10.png" /></p>
+<p>Sequence must start with a boy and alternate between sexes:</p>
+<ol>
+<li>
+<p>8</p>
+</li>
+<li>
+<p>7</p>
+</li>
+<li>
+<p>7</p>
+<p>...</p>
+</li>
+</ol>
+<!-- -->
+
+<ol>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>1</p>
+</li>
+</ol>
+<blockquote>
+<p>Or 8! * 7!</p>
+</blockquote>
+<h2 id="subtraction-principle">Subtraction principle</h2>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image11.png" /></p>
+<p>e.g. # of consonants in alphabet = 26 -- # of vowels.</p>
+<p><strong>How many four letter words (with repetition) contain at least one
+vowel?</strong></p>
+<p># four letter words = 26^4^</p>
+<p>Count the number of 4 letter words that contain only consonants and
+subtract it from all four letter words.</p>
+<p>= 21^4^</p>
+<p>26^4^ -- 21^4^</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image12.png" /></p>
+<p># between 23..283 = 283 -- 22 = 261</p>
+<p># divisible by 5 between 23..283 = 25..280 /5 = 5..56 = 56-4 = 52</p>
+<p># between 23..283 and not divisible by 5 = 261-52 = 209</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image13.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image14.png" /></p>
+<p># of ways = 10!</p>
+<p>Subtraction principle:</p>
+<p>10! - # ways we can line up the class so that Donald and Marco ARE
+adjacent</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image15.png" /></p>
+<p># ways we can line up the class so that Donald and Marco ARE adjacent =
+#ways we can put them adjacent * 8!</p>
+<p># adjacent ways =</p>
+<ul>
+<li>
+<p>if one of them is either in front or back there is only 1 way to put
+    them adjacent = 2</p>
+</li>
+<li>
+<p>in any other of the 8 places there are two places where they can be
+    adjacent = 8 * 2</p>
+</li>
+</ul>
+<p>10! -- (8! * 18)</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image16.png" /></p>
+<p># between 5..85 = 81</p>
+<p># between 5..85 divisible by 2 = 6..84 = 84/2 = 3..42 = 40</p>
+<p># between 5..85 divisible by 3 = 6..84 = 84/3 = 2..28 = 27</p>
+<p># that are divisible by 2 and 3 = numbers divisible by 6 = 6..84 =
+1..14</p>
+<p>81 -- (40 + 27 - 14) = 28</p>
+<h1 id="counting-order-does-not-matter-collections-or-combinations">Counting (order does not matter) collections or combinations</h1>
+<h2 id="wo-repetition">w/o repetition</h2>
+<p>The number of ways of choosing a collection of k objects without
+repetition from a set of n objects</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image17.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image18.png" /></p>
+<p>The number of sequences (ordered) is given by: 15*14*13*12*11 or
+n!/(n-k)! or 15!/10!</p>
+<p>N = total number of collections</p>
+<p>For each collection of 5 students there are 5! Sequences to line them
+up.</p>
+<p>The number of sequences can also be expressed as N * 5!</p>
+<p>Therefore N * 5! = 15!/10!</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image19.png" />Solving
+for N:
+<img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image20.png" /></p>
+<p>Choose 5 from 15</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image21.png" /></p>
+<p>Choose 3 from 6</p>
+<p>Combin(6,3)</p>
+<p>6!/(3!*3!)</p>
+<p>The number of ways of choosing a collection of k objects without
+repetition from a set of n objects</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image22.png" /></p>
+<p>Quotient of factorials = binomial coefficient</p>
+<p>N choose K</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image23.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image24.png" /></p>
+<p>10 choose 3 = 10 choose 7</p>
+<p>10! / 7! * 3! = 10! / 3! * 7!</p>
+<p>Because every time you choose k objects, and you take them away from the
+set n, the n minus k objects remain and give you a collection of n minus
+k objects. So every time you have a set of k objects, you also have a
+set of n minus k objects.</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image25.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image26.png" /></p>
+<p>Divide into hands that contain ace of spades and don't</p>
+<p>52 choose 5 = hands in poker game = 52! / (47! * 5!) =
+52*51*50*49*48 / 1*2*3*4*5</p>
+<p>51! / (46! * 5!) = 51*50*49*48*47 / 1*2*3*4*5</p>
+<p>51! / (47! *4!) = 51*50*49*48 / 1*2*3*4~~*5 (~~47-52= 5)</p>
+<p>Divide into hands that contain ace of spades and don't</p>
+<p>Hands that don't contain ace of spades = 52-1 choose 5</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image27.png" /></p>
+<p>Hands that do contain ace of spades = 52-1 choose 5-1</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image28.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image29.png" /></p>
+<p>Meat = 7 choose 2 = 7!/5!*2! = 7*6/2 = 21</p>
+<p>Veg. = 6 choose 2 = 6!/4!*2! = 6*5/2 = 15</p>
+<p>Overall = 21*15 = 315</p>
+<p>Overall options = 13 choose 4 = 715 (315 is a subset of that)</p>
+<h3 id="multinomials">Multinomials</h3>
+<p>Let\'s say you\'re one of a group of 9 students, and you decided as a
+group that you want to live together in a dorm on campus. You\'re in
+luck. The dorm has available a double, a triple, and a quad. That is
+suites that hold 2, 3, and 4 students. So the 9 of you will just fit.</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image30.png" /></p>
+<ol>
+<li>
+<p>Way = 9 choose 4 * 5 choose 3 = 1260</p>
+</li>
+<li>
+<p>Way = 9 choose 2 * 7 choose 3 = 1260</p>
+</li>
+</ol>
+<p>9!/(4!*3!*2!) = 1260</p>
+<p>Both ways are equivalent and a formula can be generalized as:</p>
+<p>Suppose we have a pool of n objects and we want to divide them up into k
+collections of sizes a1, a2, a3, and so on up to ak. <strong>Notice that for
+this to make sense, the numbers a1 through ak have to add up to n.</strong></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image31.png" /></p>
+<p><strong>Simplified:</strong></p>
+<p><strong>Multinomial coefficient</strong></p>
+<p>®®<img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image32.png" /></p>
+<h3 id="anagrams">Anagrams</h3>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image33.png" /></p>
+<p>Since there are duplicate letters the multiplication rule (7*6*...)
+doesn't work.</p>
+<p>We want to divide up the pool of 7 slots into 4 collections:</p>
+<ul>
+<li>
+<p>one collection of 3 slots, which will get the E\'s</p>
+</li>
+<li>
+<p>one collection of 2 slots, these get the S\'s</p>
+</li>
+<li>
+<p>and two collections of 1 each that get the C and the H.</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image34.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image32.png" /></p>
+<p>7!/(3!*2!*1!*1!) = 4*5*6*7/2 = 420</p>
+<h2 id="with-repetition">With repetition</h2>
+<p>The dining hall offers eight varieties of fruit, conveniently labelled
+A, B, and so on, up to H. You\'re feeling hungry so you\'ve decided to
+get five servings of fruit. Not necessarily five different fruits, but a
+total of five servings. And the question, of course, is the usual, how
+many different snacks could you choose?</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image35.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image36.png" /></p>
+<p>The first rule is, each serving of fruit has to be on its own tray. (5
+trays)</p>
+<p>Second, there have to be empty or divider trays-one between the trays
+containing apples and the trays containing bananas. One between the
+trays containing bananas and the trays containing cantaloupes, and so.
+In other words, Calvin needs seven empty trays marked, for example, A to
+B, B to C, C to D, and so on. He needs these trays to be there, even if
+he\'s not getting any of the fruits in questions. (7 empty trays).</p>
+<p>Answer: 12 choose 7</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image37.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image38.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image39.png" /></p>
+<h1 id="probability">Probability</h1>
+<h2 id="flipping-coins">Flipping coins</h2>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image40.png" /></p>
+<p>All possible outcomes = 2^6^ = 64</p>
+<p>Outcomes with 3H and 3T = 6 choose 3 = 20</p>
+<p>Answer = 20/64 or 5/16</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image41.png" /></p>
+<h2 id="rolling-dice">Rolling dice</h2>
+<p>When rolling two die there are 6^2^ = 36 possible outcomes (order does
+matter, 1-2 is different to 2-1)</p>
+<p>There is only way that the sum if the die will be two therefore the
+probability of such an outcome is 1/36</p>
+<p>There are 2 ways adding up to 3: 1-2, 1-1 with probability 2/36</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image42.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image43.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image44.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image45.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image46.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image47.png" /></p>
+<p>6^3^ = 216 = probability = 27/216</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image48.png" /></p>
+<p>= all outcomes -- all that are between 1-5</p>
+<p>= 6^3^ -- 5^3^ = 91</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image49.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image50.png" /></p>
+<p>Number of places = 5 choose 2 = 10</p>
+<p>Number of ways filing in the remaining places = 5^3^ = 125</p>
+<p>Probability = 10*125/6^5^</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image51.png" /></p>
+<p>Number of places to put two 1s= 5 choose 2 = 10</p>
+<p>Number of ways filing in the remaining places</p>
+<ul>
+<li>
+<p>3 ways to put a 6</p>
+</li>
+<li>
+<p>+ 4^2^</p>
+</li>
+</ul>
+<p>10*3*4^2^/6^5^</p>
+<p><a href="https://www.ucd.ie/mathstat/t4media/2.%20The%20birthday%20problem.pdf">2. The birthday
+problem.pdf</a></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image52.png" /></p>
+<p>To calculate the probability of two or more independent events, we
+multiply the probabilities of the</p>
+<p>individual events.</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image53.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image54.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image55.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image56.png" /></p>
+<h2 id="poker">Poker</h2>
+<p># of possible poker hands = 52 choose 5 = around 2.6 million</p>
+<p>What is probability of a flush (all some suit)?</p>
+<p>Choose 5 cards from one suit = # of possible flushes per suit = 13
+choose 5</p>
+<p>4 * 13 choose 5 / 52 choose 5 = about .2%</p>
+<h1 id="conditional-probabilities">Conditional probabilities</h1>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image57.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image58.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image59.png" /></p>
+<p>Bayes Theorem</p>
+<ul>
+<li>
+<p>Always remember multiplication in the context of probability, equals
+    to <strong>AND</strong>.</p>
+</li>
+<li></li>
+</ul>
+<p>Suppose we have some evidence that leads to a <strong>hypothesis</strong>. Five
+minutes pass and we then acquire new evidence that needs to be accounted
+for in our previous hypothesis. How do we update our hypothesis?</p>
+<p>Let H denote our hypothesis and E denote our evidence. Bayes' Theorem is
+defined by</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image60.png" /></p>
+<p>It's saying what is the probability that my hypothesis is true given the
+evidence we have. In order to answer these questions, we need three
+things:</p>
+<ul>
+<li>
+<p>the probability the hypothesis is true ℙ(H) also called prior if not
+    known or random we can assume .5</p>
+</li>
+<li>
+<p>the probability of the evidence given that the hypothesis is true
+    ℙ(E|H) also called the likelihood</p>
+</li>
+<li>
+<p>and the probability of the evidence ℙ(E)also called the normalizing
+    constant</p>
+</li>
+<li>
+<p>The result is called posterior</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image61.png" /></p>
+<p>D is in this case for data same as E in the other formula</p>
+<p>P(E) = P(H) * p(E|H)</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image58.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image62.png" /><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image60.png" /></p>
+<p>P(breast cancer|test positive) = p(breast cancer) * p(test
+positive|breast cancer)/p(test positive)</p>
+<p>= .01 * .9 / (.01 * .9 + .99 * .09)</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image63.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image64.emf" /></p>
+<p>P(cancer|test positive) = 8/(8+95)</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image65.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image66.png" /></p>
+<p><a href="http://www.greenteapress.com/thinkbayes/thinkbayes.pdf">http://www.greenteapress.com/thinkbayes/thinkbayes.pdf</a></p>
+<p>https://mybinder.org/repo/rlabbe/ThinkBayes</p>
+<h3 id="cookie-problem">Cookie problem</h3>
+<p>There are two bowls of cookies:</p>
+<ul>
+<li>
+<p>Bowl 1: 30 vanilla and 10 chocolate cookies</p>
+</li>
+<li>
+<p>Bowl 2: 20 vanilla and 20 chocolate cookies</p>
+</li>
+</ul>
+<p>Now suppose you choose one of the bowls at random and, without looking,
+select a cookie at random. The cookie is vanilla.</p>
+<p>p( bowl 1 | vanilla).</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image60.png" /></p>
+<p>p( bowl 1 | vanilla) = p(bowl 1) * p(vanilla | bowl 1) / p(vanilla)</p>
+<ul>
+<li>
+<p>p(bowl 1) = random .5</p>
+</li>
+<li>
+<p>p(vanilla | bowl 1) = 30 : 10 = 30/40 or ¾</p>
+</li>
+<li>
+<p>p(vanilla) = 50 : 30 = 50/80 = 5/8</p>
+<p>p( bowl 1 | vanilla) = .5 * ¾ / 5/8 = 3/5</p>
+<p><strong>p(E) can also be calculated as follows:</strong></p>
+<p>p(vanilla) = p(bowl 1) * p(vanilla | bowl 1) + p(bowl 2) *
+p(vanilla | bowl 2)</p>
+<p>= .5 * ¾ + .5 * ½ = 5/8</p>
+</li>
+</ul>
+<h3 id="mm-problem">M&amp;M Problem</h3>
+<ul>
+<li>
+<p>Mix 1994: 30% Brown, 20% Yellow, 20% Red, 10% Green, 10% Orange, 10%
+    Tan.</p>
+</li>
+<li>
+<p>Mix 1996: 24% Blue , 20% Green, 16% Orange, 14% Yellow, 13% Red, 13%
+    Brown.</p>
+</li>
+</ul>
+<p>Suppose a friend of mine has two bags of M&amp;M's, and he tells me that one
+is from 1994 and one from 1996. He won't tell me which is which, but he
+gives me one M&amp;M from each bag. One is yellow and one is green. What is
+the probability that the yellow one came from the 1994 bag?</p>
+<p>Now we construct a table with a row for each hypothesis and a column for
+each term in Bayes's theorem:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Hypothesis</th>
+<th><p>Prior</p>
+<p>p(Hypothesis)</p></th>
+<th><p>Likelihood</p>
+<p>p(Evidence | Hypothesis)</p></th>
+<th><p>Normalization constant (sum of column)</p>
+<p>Prior * Likelihood</p></th>
+<th><p>Posterior</p>
+<p>Previous column / normalization constant</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<p>Hypothesis:</p>
+<ul>
+<li>
+<p>Yellow = 1994 and Green = 1996</p>
+</li>
+<li>
+<p>Green = 1994 and Yellow = 1996</p>
+</li>
+<li>
+<p>Mix 1994: 30% Brown, 20% Yellow, 20% Red, 10% Green, 10% Orange, 10%
+    Tan.</p>
+</li>
+<li>
+<p>Mix 1996: 24% Blue , 20% Green, 16% Orange, 14% Yellow, 13% Red, 13%
+    Brown.</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>Hypothesis</th>
+<th><p>Prior</p>
+<p>p(Bag x)</p></th>
+<th><p>Likelihood</p>
+<p>p(yellow | bag x)</p></th>
+<th>p(bag x) * p(yellow | bag x)</th>
+<th><p>Posterior</p>
+<p>p(bag x | yellow)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Yellow = 1994</td>
+<td>.5</td>
+<td><p>1994: yellow = .2</p>
+<p>1996: green = .2</p>
+<p>20 * 20 = 400</p></td>
+<td>.5 *400 = 200</td>
+<td>200/(200 + 70)</td>
+</tr>
+<tr class="even">
+<td>Green = 1994</td>
+<td>.5</td>
+<td><p>1994: green = .1</p>
+<p>1996: yellow = .14</p>
+<p>10 * 14 = 140</p></td>
+<td>.5 * 140 = 70</td>
+<td>70/270</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="monty-hall-problem">Monty hall problem</h3>
+<ul>
+<li>
+<p>Monty shows you three closed doors and tells you that there is a
+    prize behind each door: one prize is a car, the other two are less
+    valuable prizes like peanut butter and fake finger nails. The prizes
+    are arranged at random.</p>
+</li>
+<li>
+<p>The object of the game is to guess which door has the car. If you
+    guess right, you get to keep the car.</p>
+</li>
+<li>
+<p>You pick a door, which we will call Door A. We'll call the other
+    doors B and C.</p>
+</li>
+<li>
+<p>Before opening the door you chose, Monty increases the suspense by
+    opening either Door B or C, whichever does not have the car. (If the
+    car is actually behind Door A, Monty can safely open B or C, so he
+    chooses one at random.) . We'll assume he opens Door B.</p>
+</li>
+<li>
+<p>Then Monty offers you the option to stick with your original choice
+    or switch to the one remaining unopened door.</p>
+</li>
+</ul>
+<p>The question is, should you stick or switch or does it make no
+difference?</p>
+<p><strong>Better switch</strong></p>
+<p>p(E) = Door B opened (and there is no car behind B)</p>
+<p>p(car is behind Door A or C | Monty opened Door B)</p>
+<table>
+<thead>
+<tr class="header">
+<th>Car is behind door x</th>
+<th><p>Prior</p>
+<p>p(car behind door x)</p></th>
+<th><p>Likelihood</p>
+<p>p(Door B opened | car behind door x)</p></th>
+<th>Prior * Likelihood</th>
+<th>Prior / (sum previous column)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>1/3</td>
+<td>1/2</td>
+<td>1/6</td>
+<td>1/6 / .5 = 1/3</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>1/3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>1/3</td>
+<td>1</td>
+<td>2/6</td>
+<td>2/6 / .5 = 2/3</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>Likelihood: If the car is actually behind A, Monty could safely open
+    Doors B or C. So the probability that he chooses B is 1/2. And since
+    the car is actually behind A, the probability that the car is not
+    behind B is 1.</li>
+</ul>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image67.png" /></p>
+<p>Choose 1 = 1/3 chance of winning</p>
+<p>Remaining chance = 2/3</p>
+<p>Of that 2/3 chance one door will be eliminated therefore it's better to
+switch</p>
+<h1 id="odds">Odds</h1>
+<p>To <strong>convert</strong> from a <strong>probability to odds</strong>, divide the
+<strong>probability</strong> by one minus that <strong>probability</strong>. So if the
+<strong>probability</strong> is 10% or 0.10 , then the <strong>odds</strong> are 0.1/0.9 or \'1 to
+9\' or 0.111. To <strong>convert</strong> from <strong>odds</strong> to a <strong>probability</strong>, divide
+the <strong>odds</strong> by one plus the <strong>odds</strong>.</p>
+<p>Odds to probability</p>
+<p>1:4 = 1/(4+1) : 4/(4+1) = 20%:80%</p>
+<p>Probability to odds</p>
+<p>20%:80% = 1: .8/.2 = 1:4</p>
+<p>Odds form of Bayes:</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image68.png" /></p>
+<h3 id="cookie-problem-using-odds">Cookie Problem using odds</h3>
+<p>There are two bowls of cookies:</p>
+<ul>
+<li>
+<p>Bowl 1: 30 vanilla and 10 chocolate cookies</p>
+</li>
+<li>
+<p>Bowl 2: 20 vanilla and 20 chocolate cookies</p>
+</li>
+</ul>
+<p>Now suppose you choose one of the bowls at random and, without looking,
+select a cookie at random. The cookie is vanilla.</p>
+<ul>
+<li>
+<p>The prior probability p(bowl 1) is 50%, so the prior odds are 1 : 1,
+    or just 1.</p>
+</li>
+<li>
+<p>The likelihoods for vanilla in each bowl are:</p>
+<ul>
+<li>
+<p>Bowl1 30 : 10 = 30/40 or ¾</p>
+</li>
+<li>
+<p>Bowl2 : 20: 20= 20/40 or ½</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Likelihood ratio = ¾ / ½ = 3/2</p>
+</li>
+<li>
+<p>Posterior odds = 3 : 2 = 3/5 in probability (60%)</p>
+</li>
+</ul>
+<h1 id="pigeon-hole-principle">Pigeon hole principle</h1>
+<p>The pigeonhole principle states that If n + 1 objects are placed into n
+boxes, then some box contains at least 2 objects. For example, if there
+are 5 people living in your house, but you only have 4 bedrooms, then at
+least 2 people must share a bedroom.</p>
+<p>The Irish Hair puzzle is a well-known illustration of the pigeonhole
+principle. The population of Ireland is approximately 4.6 million
+however, the average number of hairs on the human head is only 150,000.
+By the pigeonhole principle, there must be at least two people in
+Ireland with the same number of hairs on their head. In other words,
+even if there were 150,000 people, each with a different number of hairs
+on their head, the rest of the population must fit into one of the
+categories between 0 and 150,000 hairs.</p>
+<h1 id="birthday-paradox">Birthday paradox</h1>
+<p>What is the chance in a room with 23 people that two people share a
+birthday?</p>
+<p># of pairs that can be build = 23*22/2 = 253
+<img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image23.png" /></p>
+<p>23!/(21! * 2!)</p>
+<p>chance for two people having the same birthday = 1/365</p>
+<p>chance for two people not having the same birthday = 1- 1/365 = 364/365</p>
+<p>in 364 out of 365 scenarios there won't be a match.</p>
+<p>Chance of 253 unique pairs = (364/365)\^253</p>
+<table>
+<thead>
+<tr>
+<th>Number of pairs</th>
+<th>253 = (23 * 22)/2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chance of a unique pair</td>
+<td>99.7260% = 364/365</td>
+</tr>
+<tr>
+<td>Chance of 253 unique pairs</td>
+<td>49.95% = (99.7260%)\^253</td>
+</tr>
+<tr>
+<td>Chance of some match</td>
+<td>50.05% = 1 - 49.95%</td>
+</tr>
+</tbody>
+</table>
+<p>Can also be calculated as = 1- Permut(365,23)/(365 \^ 23)</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image69.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image70.png" /></p>
+<p><strong>Problem 6.</strong> There are n people present in a room. Prove that among
+them there are two people who have the same number of people they know
+in the room.</p>
+<p><strong>Solution.</strong> Each person may have between 0 and n − 1 acquaintances
+(inclusive). We imagine labelling each person with the number of
+acquaintances that person has. We have n people, and n possible values
+for the labels. We would like to show that some two people have the same
+label value. If there were more people than label values, we would be
+ﬁnished. But since there is the same number of label values as people,
+we appear to be stuck. However, observe that the only way that no two
+people have the same label value is that everyone has a diﬀerent label.
+Thus one person knows nobody, one person knows 1 person, and so on, and
+ﬁnally one person knows n − 1 people. But this last person then knows
+everyone else, and in particular this means that there cannot be a
+person who knows nobody. This contradiction shows that there must indeed
+be two people who have the same number of acquaintances in the room.</p>
+<p><strong>7. If you pick five cards from a standard deck of 52 cards, then at
+least two will be of the same suit.</strong></p>
+<p>Each of the five cards can belong to one of four suits. By the
+pigeonhole principle, two or more must belong to the same suit.</p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image71.png" /></p>
+<p><img alt="" src="C:\Users\Dirk\Desktop\test\docs\Math\media_Probability/media/image72.png" /></p>
+<p>There is another version of the pigeonhole principle that comes in
+handy. This version is "the maximum value is at least the average value,
+for any non-empty finite bag of real numbers" (thanks Professor
+Dijkstra)</p>
+<p>Do not let the math jargon intimidate you. The idea is intuitive. For
+typical data sets, the average is the "middle" value, so clearly the
+maximum should be at least as big. While this version sounds different,
+it is mathematically the same as the one stated with pigeons and
+pigeonholes.</p>
+<p>Consider again the problem of stuffing pigeons into pigeonholes and
+consider the average. If we have more than <em>n</em> pigeons and <em>n</em>
+pigeonholes, then the average value of (pigeons / pigeonholes) is
+greater than one. This means the maximum value should also be larger
+than one. In other words, there has to be some value of more than one
+pigeons per pigeonhole. Indeed, the two versions are about the same
+idea.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../Math/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Math" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Math
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-footer__link md-footer__link--next" aria-label="Next: 7 habits of highly effective people" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              7 habits of highly effective people
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.8397ff9e.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e84347e.min.js"></script>
+      
+    
+  </body>
+</html>

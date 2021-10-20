@@ -1,1 +1,0 @@
-## Compound inequalities {#compound-inequalities}

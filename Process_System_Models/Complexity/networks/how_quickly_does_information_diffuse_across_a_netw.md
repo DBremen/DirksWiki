@@ -1,1 +1,0 @@
-## How quickly does information diffuse across a network? {#how-quickly-does-information-diffuse-across-a-network}

@@ -1,1 +1,0 @@
-## Qualitative Analysis {#qualitative-analysis}

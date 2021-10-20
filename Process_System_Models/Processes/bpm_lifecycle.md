@@ -1,1 +1,0 @@
-# BPM lifecycle {#bpm-lifecycle}

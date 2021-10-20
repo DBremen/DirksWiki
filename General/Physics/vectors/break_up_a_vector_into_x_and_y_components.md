@@ -1,1 +1,0 @@
-## Break up a vector into X and Y components {#break-up-a-vector-into-x-and-y-components}

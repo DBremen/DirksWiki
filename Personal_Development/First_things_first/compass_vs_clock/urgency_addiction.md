@@ -1,5 +1,0 @@
-## URGENCY ADDICTION {#urgency-addiction}
-
-Some of us get so used to the adrenaline rush of handling crises that we become dependent on it for a sense of excitement and energy. How does urgency feel? Stressful? Pressured? Tense? Exhausting? Sure. But let’s be honest. It’s also sometimes exhilarating. We feel useful. We feel successful. We feel validated. And we get good at it. It brings instant results and instant gratification.
-
-We get a temporary high from solving urgent and important crises. Then when the importance isn’t there, the urgency fix is so powerful we are drawn to do anything urgent, just to stay in motion. People expect us to be busy, overworked. It’s become a status symbol in our society if we’re busy, we’re important; if we’re not busy, we’re almost embarrassed to admit it. Busyness is where we get our security. It’s validating, popular, and pleasing. It’s also a good excuse for not dealing with the more important things.

@@ -1,7 +1,0 @@
-## Being you, balance energy rather than mirror (throwing tantrums yourself) {#being-you-balance-energy-rather-than-mirror-throwing-tantrums-yourself}
-
-Drawing on the abundant nature of reality begins with accepting ourselves exactly as we are. This is fundamentally different from seeing ourselves primarily in a particular kind of role, such as a mom or dad. Though roles can be helpful at times, they need to be underpinned by the wholeness of pure being. Otherwise, roles can easily end up seriously unbalancing our energy as we become locked into a mental image of who we are “supposed” to be as a mom or dad, instead of being who we truly are.
-
-Embody the principle of balance, try to round out my child’s energy by occupying the opposite end of whatever they experience. For example, if she is anxious, I become grounded in my sense of trust; if she is angry, I enter stillness; if she is frustrated, I enter peace. By resisting the urge to match her energy and thereby amplify it, I try to take on its antidotal properties. This silent but profound shift in my energy allows her to naturally balance out her energy and find her way back to self.
-
-**By remaining grounded in ourselves, we show them that their emotions will pass and they will return to center. But how can they learn this if they have to watch us constantly being pushed and pulled by our own transient moods?**

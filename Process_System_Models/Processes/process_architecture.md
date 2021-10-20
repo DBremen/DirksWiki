@@ -1,1 +1,0 @@
-# Process Architecture {#process-architecture}

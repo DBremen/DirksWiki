@@ -1,1 +1,0 @@
-## Transparency Boosts Communal Forces {#transparency-boosts-communal-forces}

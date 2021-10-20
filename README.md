@@ -1,1 +1,7 @@
-This is my knowledge base based on gitbook it actually lives [here](https://bremendirk.gitbook.io/dirk-wiki/). The build script converts the source .docx documents into markdown with the help of [gitbook-convert](https://github.com/GitbookIO/gitbook-convert)
+# Home
+
+This is my knowledge base based on [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) it actually lives [here](https://bremendirk.gitbook.io/dirk-wiki/). 
+The build script:
+
+- Uses pandoc to convert a bunch of .docx files to markdown.
+- And runs mkdoc to convert the .md files to .html

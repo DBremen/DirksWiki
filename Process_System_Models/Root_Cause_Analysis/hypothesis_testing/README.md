@@ -1,1 +1,0 @@
-# Hypothesis testing {#hypothesis-testing}

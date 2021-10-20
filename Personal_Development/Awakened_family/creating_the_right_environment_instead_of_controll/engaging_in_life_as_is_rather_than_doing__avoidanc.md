@@ -1,5 +1,0 @@
-## Engaging in life “as is” rather than doing – avoidance of unhappiness {#engaging-in-life-as-is-rather-than-doing-avoidance-of-unhappiness}
-
-Children inherently know how to engage life as it is. They cry and throw tantrums, but they don’t attach their sense of worth to what may be happening. Unless taught otherwise, they are ready to pick themselves up when life doesn’t go their way. Children feel their feelings and move on without being attached or getting a victim of the circumstances or judging life on how it makes them feel.
-
-**By training our children to be outcome-oriented, engaging life based on whether a particular experience makes them feel good or not, we teach them that if an activity doesn’t qualify, they should avoid it and look for an experience that promises happiness. Thus, because of our fear that they might experience some kind of pain, they miss out on the immediate experience of life.**

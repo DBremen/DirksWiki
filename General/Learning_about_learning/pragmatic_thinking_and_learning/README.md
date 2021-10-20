@@ -1,1 +1,0 @@
-# Pragmatic Thinking and Learning: {#pragmatic-thinking-and-learning}

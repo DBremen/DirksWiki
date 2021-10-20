@@ -1,1 +1,0 @@
-## STEP FIVE: EXERCISE INTEGRITY IN THE MOMENT {#step-five-exercise-integrity-in-the-moment}

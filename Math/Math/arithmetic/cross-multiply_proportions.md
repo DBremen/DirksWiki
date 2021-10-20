@@ -1,1 +1,0 @@
-## Cross-multiply proportions {#cross-multiply-proportions}

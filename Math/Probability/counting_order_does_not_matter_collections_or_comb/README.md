@@ -1,1 +1,0 @@
-# Counting (order does not matter) collections or combinations {#counting-order-does-not-matter-collections-or-combinations}

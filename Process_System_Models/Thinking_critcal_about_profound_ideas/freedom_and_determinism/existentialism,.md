@@ -1,3 +1,0 @@
-## Existentialism, {#existentialism}
-
-A philosophical movement that emphasizes the challenge and responsibility of all people to create a meaningful existence through the free choices they make. In seeking meaning, existentialists believe that we cannot look outward to a supernatural creator or an intelligible universe: We must look inward, to our own resources and possibilities, as we struggle to create meaning in a world that often seems chaotic and absurd.

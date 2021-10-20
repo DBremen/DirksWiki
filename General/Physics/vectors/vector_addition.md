@@ -1,1 +1,0 @@
-## Vector addition: {#vector-addition}

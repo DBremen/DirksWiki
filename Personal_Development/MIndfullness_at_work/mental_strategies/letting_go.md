@@ -1,5 +1,0 @@
-## Letting go {#letting-go}
-
-When you identify an issue or problem that seems to stay with you, to follow you from task to task or from work to home, mentally hold on to it. Isolate the initial thought before the related thoughts begin to multiply. Then after you isolate it and observe it, let it pass. And instead, purposefully refocus on what’s happening in the moment.
-
-Use the quality of relaxation to help you let go of your thoughts. When you think, you create tension in your body. When you relax your body, you also relax your thoughts. Relax your body and allow a natural mental relaxation to follow. Then, use your focus on the experience of breathing to help you let go of thoughts and be in the moment—one breath at a time. As you begin to explore the nature of your thoughts, you will notice that some can be very difficult to let go of. Consider seeing these as opportunities to rewire your brain to let go more easily. Every time one of these difficult thoughts comes up, notice the thought is there and see if you can let it go or not.

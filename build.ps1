@@ -1,35 +1,35 @@
 $sourceDocsFolder = 'C:\scripts\wikiDocs'
-$repoFolder = 'C:\scripts\DirksWiki\'
-function build ($UpdateFilePath = '',[switch]$All) {
-    if ($All){
-        dir $repoFolder -Exclude '*.ps1','.git','README.md' | del -Recurse -Force
-        $folders = dir $sourceDocsFolder -Directory
-        foreach ($folder in $folders) {
-            $currParentFolder = mkdir "$repoFolder\$($folder.Name)"
-            $files = dir $folder.FullName 
-            $files = $files.where{!($_.Name.StartsWith('~'))}
-            foreach ($file in $files) {
-                Write-Host -ForegroundColor Yellow "Working on $($file.Name)"
-                $exportFolder = (mkdir "$($currParentFolder.FullName)\$($file.BaseName)").FullName
-                gitbook-convert $file.FullName $exportFolder
-            }
+$repoFolder = $PSScriptRoot
+function build () {
+    if (Test-Path "$repoFolder\docs"){
+        dir "$repoFolder\docs" -Exclude 'README.md' | del -Recurse -Force
+    }
+    if (Test-Path "$repofolder\site"){
+        dir "$repofolder\site" | del -Recurse -Force
+    }
+    $folders = (dir $sourceDocsFolder -Directory)
+    foreach ($folder in $folders) {
+        $currParentFolder = mkdir ($repoFolder + '\docs\' + $folder.Name)
+        $files = dir $folder.FullName 
+        $files = ($files.where{!($_.Name.StartsWith('~'))})
+        foreach ($file in $files) {
+            Write-Host -ForegroundColor Yellow "Working on $($file.Name)"
+            $parameters = New-Object System.Collections.ArrayList
+            $null = $parameters.Add('-t')
+            $null = $parameters.Add('markdown-simple_tables-multiline_tables-grid_tables')
+            $null = $parameters.Add('-o')
+            $exportPath = Join-Path -Path $currParentFolder -ChildPath ([IO.Path]::ChangeExtension($file.Name,'md'))
+            $null = $parameters.Add($exportPath)
+            $null = $parameters.Add('--lua-filter')
+            $null = $parameters.Add('.\removeImageTags.lua')
+            $mediaFolder = Join-Path $currParentFolder ('media_' + [IO.Path]::GetFileNameWithoutExtension($file.Name))
+            $null = $parameters.Add("--extract-media=$mediaFolder")
+            $null = $parameters.Add($file.FullName)
+            & pandoc $parameters
+            #pandoc -t markdown-simple_tables-multiline_tables-grid_tables -o output.md --lua-filter .\removeImageTags.lua --extract-media=./ .\Model_thinking.docx
         }
     }
-    else{
-        $file = Get-Item $UpdateFilePath
-        $folder = Split-Path $UpdateFilePath -Parent | Get-Item
-        $parentFolder = "$repoFolder\$($folder.Name)"
-        if (!(Test-Path $parentFolder)){
-            $null = mkdir $parentFolder
-        }
-        $exportFolder =  "$($parentFolder)\$($file.BaseName)"
-        if (Test-Path $exportFolder){
-            del $exportFolder -Recurse -Force
-        }
-        $null = mkdir $exportFolder
-        gitbook-convert $file.FullName $exportFolder
-   }
-   & book sm
+    mkdocs build
 }
 
 

@@ -1,1 +1,0 @@
-# How can we know the nature of reality? {#how-can-we-know-the-nature-of-reality}

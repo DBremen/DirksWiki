@@ -1,1 +1,0 @@
-## When to expect rational thinking: {#when-to-expect-rational-thinking}

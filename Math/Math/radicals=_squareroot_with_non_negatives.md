@@ -1,1 +1,0 @@
-# Radicals= squareroot with non negatives: {#radicals-squareroot-with-non-negatives}

@@ -1,3 +1,0 @@
-## Habit 6: Synergize {#habit-6-synergize}
-
-When properly understood, synergy is the highest activity in all life -- the true test and manifestation of all the other habits put together. The highest forms of synergy focus the four unique human endowments, the motive of win-win, and the skills of empathic communication on the toughest challenges we face in life. What results is almost miraculous. We create new alternatives -- something that wasn&#039;t there before.

@@ -1,1 +1,0 @@
-## Critical thinking process {#critical-thinking-process}

@@ -1,1 +1,0 @@
-# Any relationship is under the control of the person who cares the least {#any-relationship-is-under-the-control-of-the-person-who-cares-the-least}

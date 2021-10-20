@@ -1,9 +1,0 @@
-# Frustration = f(Expectations) {#frustration-f-expectations}
-
-Frustration is essentially a function of unmet expectations we expect something to be a certain way or to produce certain results, and it doesn’t. As a result, we feel frustrated.
-
-Many of us expect consciously or subconsciously to be able to go through a day and accomplish what we planned. As a result, when some unexpected challenge comes up, we are frustrated. When someone has a need we didn’t anticipate, we are frustrated. We see people essentially as interruptions. We view change as the enemy. Our peace and happiness are a function of whether or not we are able to make it through that day and check off everything on the list.
-
-But what happens when the expectation changes when we see each day as an exciting new adventure for which we have a roadmap, but also a compass that empowers us to navigate through uncharted terrain à when we see problems as opportunities to help others à when we look forward to meeting situations that challenge our priorities, confident that our compass will help us keep moving toward the best? What happens when our peace and happiness are a function of going to bed at night knowing we made the choices to put first things first throughout the day? Does that expectation make a difference in the way we interact with the realities of the day?
-
-Unmet expectations create frustration, but our expectations are within our control. We’re not talking about lowering our expectations, but about basing them on the realities of true north. One of the richest areas for eliminating much of the frustration we experience in our lives is to examine our expectations. Whenever we feel frustrated, we can go back to the root of the problem. - What expectation did I have that’s been violated?- Was that expectation based on true north?- What should I do to change the expectation?- What can I learn from this that will affect my expectations in the future?

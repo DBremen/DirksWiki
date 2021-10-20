@@ -1,1 +1,0 @@
-# Scientific notation: {#scientific-notation}
