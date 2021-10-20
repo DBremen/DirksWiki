@@ -11,7 +11,7 @@ Manually multiplication
 |     | **1** | **1** | **6** | **7** | **4** | **6** |
 |     |       |       |       |       |       |       |
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image1.png)
+![](../media_Math/media/image1.png)
 
 Commutative property (multiplication and addition):
 ---------------------------------------------------
@@ -97,7 +97,7 @@ needed because of the 7 in 84. The least common multiple of 48 and 84 is
 
 48=2 \* 2 \* 2 \* 2 \* 3
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image2.png)
+![](../media_Math/media/image2.png)
 
 FOIL (First Outside Inside Last)
 
@@ -107,7 +107,7 @@ of 2^nd^ set) + (Last of 1^st^ set \* Last of 2^nd^ set)
 
 (a + b)(c + d) = ac + ad + bc + bd.
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image3.png)
+![](../media_Math/media/image3.png)
 
 When you multiply or divide an inequality by a negative number, the
 direction of
@@ -121,47 +121,47 @@ Cross-multiply proportions
 
 $(\frac{a}{b} = \frac{c}{d}) = (ad = bc)$
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image4.png)
+![](../media_Math/media/image4.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image5.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image6.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image5.png)![](../media_Math/media/image6.png)
 
 Simplify fractions
 ------------------
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image7.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image8.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image9.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image7.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image8.png)![](../media_Math/media/image9.png)
 
 **If an equation contains several fractions, then it is usually easier
 to clear the equation of all fractions by multiplying both sides by the
 least common denominator of all the denominators.**
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image10.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image11.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image12.png)
+![](../media_Math/media/image10.png)
+![](../media_Math/media/image11.png)
+![](../media_Math/media/image12.png)
 
 Inequalities
 ------------
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image13.png)
+![](../media_Math/media/image13.png)
 
 Solution set is X such that x is less than 2
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image14.png)
+![](../media_Math/media/image14.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image15.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image16.png)
+![](../media_Math/media/image15.png)
+![](../media_Math/media/image16.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image17.png)
+![](../media_Math/media/image17.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image18.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image19.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image20.png)
+![](../media_Math/media/image18.png)
+![](../media_Math/media/image19.png)
+![](../media_Math/media/image20.png)
 
 Compound inequalities
 ---------------------
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image21.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image22.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image23.png)
+![](../media_Math/media/image21.png)
+![](../media_Math/media/image22.png)
+![](../media_Math/media/image23.png)
 
 Exponent rules:
 ===============
@@ -191,13 +191,13 @@ by
 
 i is also an imaginary number.
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image24.png)
+![](../media_Math/media/image24.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image25.png)
+![](../media_Math/media/image25.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image26.png)
+![](../media_Math/media/image26.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image27.png)
+![](../media_Math/media/image27.png)
 
 $2^{10}*2^{5\ } = 2^{15}$ $\left( 2*9 \right)^{100} = 2^{100}*9^{100}$
 
@@ -266,14 +266,14 @@ Line equation:
 The slope of a line is the ratio of the vertical change to the
 horizontal change as we move from one point on a line to another point.
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image28.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image29.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image28.png)![](../media_Math/media/image29.png)
 
 **Y=mx+b (slope\*x + y intercept) slope**=m
 =$\frac{\Delta y}{\Delta x}$=$\frac{\text{change\ in\ y}}{\text{change\ in\ x}} = \frac{\text{rise}}{\text{run}}$
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image30.png)
+![](../media_Math/media/image30.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image31.png)
+![](../media_Math/media/image31.png)
 
 **(5,2) (3,5)** (x,y) =
 $\frac{5 - 2}{3 - 5} = \frac{3}{- 2} = - \frac{3}{2}$ = 3 points down =
@@ -286,18 +286,18 @@ $2 = - \frac{3*5}{2} + b\ \ \ b = 2 + \frac{15}{2} = \frac{4 + 15}{2}$
 
 **y=**$\mathbf{-}\frac{\mathbf{3}}{\mathbf{2}}\mathbf{x +}\frac{\mathbf{19}}{\mathbf{2}}$
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image32.gif)
+![](../media_Math/media/image32.gif)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image33.png)
+![](../media_Math/media/image33.png)
 
 If the slope is downwards (upper left to down right)
 
 Then the coefficient is negative y=-2x+2 (3=coefficient and 2=y axis
 intercept)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image32.gif)
+![](../media_Math/media/image32.gif)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image34.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image35.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image34.png)![](../media_Math/media/image35.png)
 
 **In general, any equation of the form , where A, B, and C are constants
 (A and B not both zero) and x and y are variables, is a linear equation
@@ -315,17 +315,17 @@ process. We merely find two solutions, plot the corresponding points,
 and connect the points with a straight line. It is probably wise to find
 a third point as a check point.**
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image36.png)
+![](../media_Math/media/image36.png)
 
 **Point slope form**
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image37.png)
+![](../media_Math/media/image37.png)
 
 **M=slope**
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image38.png)
+![](../media_Math/media/image38.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image39.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image40.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image39.png)![](../media_Math/media/image40.png)
 
 **Systems of equations:**
 
@@ -363,7 +363,7 @@ ordered pair (6, 1), which is associated with the point of intersection
 of the two lines, satisfies both equations. In other words, we say that
 (6, 1) is the solution for x - 2y = 4 and x + 2y = 8.
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image41.png)
+![](../media_Math/media/image41.png)
 
 1.  To solve a system of linear equations by graphing, we proceed as in
     the opening discussion of this section. We graph the equations on
@@ -372,8 +372,8 @@ of the two lines, satisfies both equations. In other words, we say that
 
 2.  
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image42.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image43.png)
+![](../media_Math/media/image42.png)
+![](../media_Math/media/image43.png)
 
 3.  ![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image44.png)
     ![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image45.png)
@@ -382,52 +382,52 @@ of the two lines, satisfies both equations. In other words, we say that
 Exponents and Polynomials
 =========================
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image47.png)
+![](../media_Math/media/image47.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image48.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image49.png)
+![](../media_Math/media/image48.png)
+![](../media_Math/media/image49.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image50.png)
+![](../media_Math/media/image50.png)
 
 FOIL (First -- Outside -- Inside -- Last)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image51.png)
+![](../media_Math/media/image51.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image52.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image53.png)
+![](../media_Math/media/image52.png)
+![](../media_Math/media/image53.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image54.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image55.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image56.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image57.png)
+![](../media_Math/media/image54.png)
+![](../media_Math/media/image55.png)
+![](../media_Math/media/image56.png)
+![](../media_Math/media/image57.png)
 
 Combination problems
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image58.png)
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image59.png)
+![](../media_Math/media/image58.png)
+![](../media_Math/media/image59.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image60.png)
+![](../media_Math/media/image60.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image61.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image62.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image63.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image64.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image61.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image62.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image63.png)![](../media_Math/media/image64.png)
 
 Scientific notation:
 ====================
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image65.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image66.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image67.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image68.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image65.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image66.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image67.png)![](../media_Math/media/image68.png)
 
 Factoring
 =========
 
 Find the greatest common factor
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image69.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image70.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image71.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image69.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image70.png)![](../media_Math/media/image71.png)
 
 Summary elementary algebra
 ==========================
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image72.png)
+![](../media_Math/media/image72.png)
 
 Fractions
 =========
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image73.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image74.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image75.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image73.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image74.png)![](../media_Math/media/image75.png)

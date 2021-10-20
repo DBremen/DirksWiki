@@ -1,26 +1,26 @@
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image1.png)
+![](../media_Discrete_Math/media/image1.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image2.png)
+![](../media_Discrete_Math/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image3.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image4.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image5.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image3.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image4.png)![](../media_Discrete_Math/media/image5.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image6.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image7.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image6.png)![](../media_Discrete_Math/media/image7.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image8.png)
+![](../media_Discrete_Math/media/image8.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image9.png)
+![](../media_Discrete_Math/media/image9.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image10.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image11.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image10.png)![](../media_Discrete_Math/media/image11.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image12.png)
+![](../media_Discrete_Math/media/image12.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image13.png)
+![](../media_Discrete_Math/media/image13.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image14.png)
+![](../media_Discrete_Math/media/image14.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image15.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image16.png)
+![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image15.png)![](../media_Discrete_Math/media/image16.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image17.png)<http://www.youtube.com/watch?v=aM1fuQzWWuQ>
+![](../media_Discrete_Math/media/image17.png)
 
 **Rule of Sum:** if a first task can be done in m ways, while a second
 task can be done in n ways, and the 2^nd^ task can not to be done

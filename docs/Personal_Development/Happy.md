@@ -5,7 +5,7 @@ Happy
 
 What can it mean:
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image1.png)
+![](../media_Happy/media/image1.png)
 
 Definition: Happiness means being light-hearted and joyful. It means not
 taking yourself so seriously that it robs you of the fun of living.
@@ -116,9 +116,9 @@ Four signs a marriage will not work
 Based on study of young couple's conversations early in the marriage and
 following them for a decade:
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image2.png)
+![](../media_Happy/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image3.png)
+![](../media_Happy/media/image3.png)
 
 Attachment styles
 -----------------
@@ -130,19 +130,19 @@ importance of our early social connections to our capacity for strong
 social connections\--and thus happiness\--later in life, through the
 lens of our nervous system.
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image4.png)
+![](../media_Happy/media/image4.png)
 
 Avoidant
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image5.png)
+![](../media_Happy/media/image5.png)
 
 Securely attached = more happy
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image6.png)
+![](../media_Happy/media/image6.png)
 
 Anxious
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image7.png)
+![](../media_Happy/media/image7.png)
 
 Being overly control seeking
 ----------------------------
@@ -267,4 +267,4 @@ Autonomy
 the approach we take towards the above can be one of scarcity or
 abundance.
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Happy/media/image8.png)
+![](../media_Happy/media/image8.png)

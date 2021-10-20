@@ -77,14 +77,14 @@ a valid argument where all of the premises are true.
 Conditional (implication) =\>)
 ==============================
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image1.png)**=
+![](../media_Ethics/media/image1.png)
 same as φ =\> ψ**
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image2.png)
+![](../media_Ethics/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image3.png)
+![](../media_Ethics/media/image3.png)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image4.png)
+![](../media_Ethics/media/image4.png)
 
 Sufficient condition
 --------------------
@@ -129,7 +129,7 @@ able to function properly.
 Biconditional premise (equivalence \<=\>)
 =========================================
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image5.png)
+![](../media_Ethics/media/image5.png)
 
 One of the big goals of ethical thinking is to try to identify a good,
 wide-ranging test of what's morally right (or wrong). One way to think
@@ -161,11 +161,11 @@ the act to be right.
 Forms of arguments that are always valid
 ========================================
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image6.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image7.png)
+![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image6.png)![](../media_Ethics/media/image7.png)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image8.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image4.png)
+![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image8.png)![](../media_Ethics/media/image4.png)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image9.png)
+![](../media_Ethics/media/image9.png)
 
 Fallacies
 =========
@@ -183,7 +183,7 @@ I'm not a millionaire. (True.)
 
 Therefore, I don't have ten dollars. (False.)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Ethics/media/image10.png)
+![](../media_Ethics/media/image10.png)
 
 Premise 1 says that P is a guarantee for Q. Premise 2 says that this
 guarantee doesn't hold. What follows? Nothing. That's because there can

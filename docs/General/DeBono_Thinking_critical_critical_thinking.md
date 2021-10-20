@@ -182,7 +182,7 @@ A well-cultivated critical thinker...
 The Elements of Thought in Relationship
 ---------------------------------------
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](../media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
 
 ### Our purpose affects the manner in which we ask questions (What is our purpose?)
 
@@ -295,7 +295,7 @@ conclusions and give meaning to data.
 Assumptions vs. Inferences
 --------------------------
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image5.png)
+![](../media_DeBono_Thinking_critical_critical_thinking/media/image5.png)
 
 Behavior of critical thinkers
 -----------------------------
@@ -332,7 +332,7 @@ their receptor organs.
 **We tend to perceive what we expect (rather than what we want) to
 perceive**
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image6.png)
+![](../media_DeBono_Thinking_critical_critical_thinking/media/image6.png)
 
 Objectivity is achieved by making basic assumptions and reasoning as
 explicit as possible so that they can be challenged by others and
@@ -357,7 +357,7 @@ also facilitates assimilation.**
 -   **Emphasize procedures (like brainstorming) that expose and
     elaborate alternative points of view.**
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image7.png)
+![](../media_DeBono_Thinking_critical_critical_thinking/media/image7.png)
 
 *Wife and mother in-law*
 
@@ -670,7 +670,7 @@ How the mind works as an information processing system
 Perception is the way we look at things. Processing is what we do with
 that perception.
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image9.png)
+![](../media_DeBono_Thinking_critical_critical_thinking/media/image9.png)
 
 ### The mind is an active Information system
 
@@ -697,7 +697,7 @@ better.
 
 Sequence in which the information arrives determines the pattern:
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image10.png)
+![](../media_DeBono_Thinking_critical_critical_thinking/media/image10.png)
 
 Lateral thinking
 ----------------

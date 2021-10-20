@@ -3,7 +3,7 @@ the Right Tool at the Right Time
 
 Root Cause Analysis: The Core of Problem Solving and Corrective Action
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image1.png)
+![](../media_Root_Cause_Analysis/media/image1.png)
 
 Corrective action is the overall process involved with taking an
 identified problem and seeing that appropriate action is taken to
@@ -17,12 +17,12 @@ causes rather than symptoms, but corrective action could be taken at the
 physical level only or also at the system level, depending on the
 criticality of the problem as well as frequency, cost, and risk.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image2.png)
+![](../media_Root_Cause_Analysis/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image3.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image4.png)(Similar
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image3.png)![](../media_Root_Cause_Analysis/media/image4.png)
 to 5-Why)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image5.png)
+![](../media_Root_Cause_Analysis/media/image5.png)
 
 Root cause analysis
 ===================
@@ -85,9 +85,9 @@ Procedure
 Scientific method
 =================
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image6.png)
+![](../media_Root_Cause_Analysis/media/image6.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image7.png)
+![](../media_Root_Cause_Analysis/media/image7.png)
 
 Key Points
 ----------
@@ -261,4 +261,4 @@ Procedure
 
 8.  The team needs to be congratulated, and the report should be closed.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image8.png)
+![](../media_Root_Cause_Analysis/media/image8.png)
