@@ -29,6 +29,7 @@ function build () {
             #pandoc -t markdown-simple_tables-multiline_tables-grid_tables -o output.md --lua-filter .\removeImageTags.lua --extract-media=./ .\Model_thinking.docx
         }
     }
+    copy $repoFolder\README.md $repoFolder\docs
     mkdocs build
 }
 
