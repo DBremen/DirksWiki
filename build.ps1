@@ -30,7 +30,6 @@ function build () {
         }
     }
     mkdocs build
-    mkdocs gh-deploy --force
 }
 
 
