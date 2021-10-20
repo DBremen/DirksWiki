@@ -1,0 +1,1462 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.4">
+    
+    
+      
+        <title>Solving complex problems - Dirk's Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.db9e7362.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#conceptualizing-the-problem" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-header__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dirk's Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Solving complex problems
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-nav__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Dirk's Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" type="checkbox" id="__nav_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_1">
+          General
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="General" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          General
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Advanced_Google_Search/" class="md-nav__link">
+        Advanced Google Search
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/DeBono_Thinking_critical_critical_thinking/" class="md-nav__link">
+        DeBono Thinking critical critical thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Learning_about_learning/" class="md-nav__link">
+        Learning about learning
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Making_ideas_happen/" class="md-nav__link">
+        Making ideas happen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Physics/" class="md-nav__link">
+        Physics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Too_soon_old_too_late_smart/" class="md-nav__link">
+        Too soon old too late smart
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Math
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Math" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Math
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Discrete_Math/" class="md-nav__link">
+        Discrete Math
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math/" class="md-nav__link">
+        Math
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Probability/" class="md-nav__link">
+        Probability
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Personal Development
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Personal Development" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Personal Development
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-nav__link">
+        7 habits of highly effective people
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Anger_management/" class="md-nav__link">
+        Anger management
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Awakened_family/" class="md-nav__link">
+        Awakened family
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Ethics/" class="md-nav__link">
+        Ethics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/First_things_first/" class="md-nav__link">
+        First things first
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Happy/" class="md-nav__link">
+        Happy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/How_to_chart_new_course_for_life/" class="md-nav__link">
+        How to chart new course for life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Influence_people/" class="md-nav__link">
+        Influence people
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Innere_MItte/" class="md-nav__link">
+        Innere MItte
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Joy_on_demand/" class="md-nav__link">
+        Joy on demand
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/MIndfullness_at_work/" class="md-nav__link">
+        MIndfullness at work
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Non_violent_communications/" class="md-nav__link">
+        Non violent communications
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Power_and_grace_between_nasty_and_nice/" class="md-nav__link">
+        Power and grace between nasty and nice
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Slight_edge/" class="md-nav__link">
+        Slight edge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_art_of_the_good_life/" class="md-nav__link">
+        The art of the good life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_third_alternative/" class="md-nav__link">
+        The third alternative
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Process System Models
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Process System Models" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Process System Models
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Complexity/" class="md-nav__link">
+        Complexity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Game_Theory/" class="md-nav__link">
+        Game Theory
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Model_thinking/" class="md-nav__link">
+        Model thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Processes/" class="md-nav__link">
+        Processes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Reasoning_across_the_disciplines/" class="md-nav__link">
+        Reasoning across the disciplines
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Root_Cause_Analysis/" class="md-nav__link">
+        Root Cause Analysis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Solving complex problems
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Solving complex problems
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#steps-to-conceptualize-the-problem" class="md-nav__link">
+    Steps to conceptualize the problem:
+  </a>
+  
+    <nav class="md-nav" aria-label="Steps to conceptualize the problem:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#problem-statement" class="md-nav__link">
+    Problem statement
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#actor-objectives-analysis-criteria-for-decision-making-goal-tree" class="md-nav__link">
+    Actor objectives analysis, Criteria for decision making (goal tree)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#system-description-causal-diagram" class="md-nav__link">
+    System description (causal diagram)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#problem-diagram" class="md-nav__link">
+    Problem diagram
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thinking_critcal_about_profound_ideas/" class="md-nav__link">
+        Thinking critcal about profound ideas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#steps-to-conceptualize-the-problem" class="md-nav__link">
+    Steps to conceptualize the problem:
+  </a>
+  
+    <nav class="md-nav" aria-label="Steps to conceptualize the problem:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#problem-statement" class="md-nav__link">
+    Problem statement
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#actor-objectives-analysis-criteria-for-decision-making-goal-tree" class="md-nav__link">
+    Actor objectives analysis, Criteria for decision making (goal tree)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#system-description-causal-diagram" class="md-nav__link">
+    System description (causal diagram)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#problem-diagram" class="md-nav__link">
+    Problem diagram
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="conceptualizing-the-problem">Conceptualizing the problem</h1>
+<p>In order to solve it analytically, ideally, it first has to become clear
+exactly what the problem is. When that has been clarified, one can
+identify:</p>
+<ul>
+<li>
+<p>Who is involved in this problem (actors)</p>
+</li>
+<li>
+<p>What all these different actors want (their objectives).</p>
+</li>
+</ul>
+<p>You can make a model (a simplified representation of reality) that
+describes the problem area in a simple but practical and useful way.
+Finally, you can show which measures (alternatives) the different actors
+can take.</p>
+<p>Conceptualizing is iterative in nature. Initially, this analytical
+process appears to be sequential. First, identify precisely what the
+problem is, and only then take the next step of identifying the actors
+involved. Although you might follow the steps successively, every step
+forward will lead to a revision of one or more of the previous steps.
+When you map out what all the actors want, you will often discover that
+you have not defined the problem properly. When you gather alternatives,
+you may notice that your model of the problem area isn't complete yet.
+The process of conceptualizing the problem is iterative in nature.</p>
+<h2 id="steps-to-conceptualize-the-problem">Steps to conceptualize the problem:</h2>
+<h3 id="problem-statement">Problem statement</h3>
+<p>The proper definition of the problem before one starts working on a
+project can prevent a lot of disappointment at the end. That is why you
+should try to spend a realistic amount of time on the formulation of the
+problem! 30% (or even more) of the total project time can easily be
+devoted to precise definition of the problem, especially with complex
+problems involving new technologies and/or many different actors with
+conflicting interests.</p>
+<p>At the basis of a problem, there are two situations: the current, or
+future, undesired situation, and the desired situation that a particular
+actor wishes to be in. The difference between the undesired and the
+desired situations is called 'the gap' that should be bridged by the
+actor. However, when trying to get from the undesired situation to the
+desired one, there will always be a downside to the desired situation,
+an effect that the actor does not like, even if his wish for the desired
+situation has come about. This 'unwanted downside' to the desired
+situation we call 'the dilemma'. The dilemma is the reason why that
+desired condition of the system (no noise nuisance) isn't easily
+accomplished.</p>
+<p>The dissatisfaction of our actor about the undesired situation is due to
+a certain condition of a system in which the problem occurs. Perhaps
+this dissatisfaction is about possible alternatives too, but they are
+not expressed in the problem statement. After all, in an analysis we
+want to keep our options open, and weigh up different alternatives.
+Focusing on certain alternatives already in the problem statement
+refrains us from doing so, so avoiding alternatives in the problem
+statement is essential to a thorough analysis.</p>
+<p>In looking for the dilemma in your problem, it helps when you focus on
+the wish of an actor (getting anywhere in the world cheaply and quickly)
+and how that wish is classically fulfilled (by flying, resulting in
+noise nuisance). Focus on what is problematic when fulfilling the
+actor's wish.</p>
+<p>Remember that a problem statement is always made from the perspective of
+a certain actor. For every actor you can design a unique problem
+statement, because every actor has different interests and thus will
+have different wishes. Nevertheless, the main elements that form the
+dilemma (and thus the problem) might naturally return several times in
+those problem statements.</p>
+<p>The art is to choose an alternative (a solution) that everybody supports
+with the help of an analysis that was made with all parties involved<strong>.
+At first it may sound strange, but you do not have to agree on what you
+want to accomplish (the goal) as long as you can agree on what you are
+going to do (the means).</strong> An increase of road taxes (alternative) on
+old cars can be supported by an actor because that tax increase reduces
+the environmental damage, as fewer old cars will be driving around.
+Another actor, who possibly is not interested in the environment, can
+support this alternative because people are then sooner inclined to
+discard their old car and buy a new one, eventually leading to a rise in
+car sales.</p>
+<p>Initial problem statements are good starting points for a discussion
+with your client or one of the other actors in the problem field. If you
+have formulated an initial theoretically correct problem statement, it
+is easier for them to give a short reaction, rather than an elaborate
+story about what they think is the problem.</p>
+<p>A useful way of presenting problem statements is to list the tensions
+and dilemmas different actors face. Many actors will then realize they
+feel the same dilemma, but only the other way around. Someone wants to
+reduce Co2 emissions, but fears for the country's electricity
+production. Someone else wants to keep the electricity production up to
+keep up with expected required future capacity, but fears it might come
+at the cost of emitting more Co2</p>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image1.png" /></p>
+<p>Common mistakes when formulating problem statements:</p>
+<ol>
+<li>
+<p><strong>No dilemma</strong> -- every problem statement should contain both a gap
+    (a difference between a desired condition of a system and a deferred
+    current, or possible expected future, condition of a system) and a
+    dilemma (a reason why that desired condition of the system isn't
+    easily accomplished). Formulations without dilemma do not describe a
+    problem. In other words, you know what someone wants but not why he
+    cannot accomplish it. Because you do not know where the problem
+    lies, you don't know what to focus on. As an analyst you will not
+    show that you have sufficient knowledge of the system that you are
+    analyzing, so your credibility eventually decreases. You will get
+    less information, less co-operation, and, in the end, your analysis
+    will fail.</p>
+<p>Problem statements without dilemmas are for example: 'We want to
+reduce the emission of harmful substances', 'How can we reduce the
+traffic jams?' or 'How can we increase our profit?'</p>
+<p>A characteristic of such formulations, without dilemmas, is that
+they can be solved with simple and 'strange' alternatives. In the
+examples named above, for example, close off the chimney, prohibit
+driving or rob a bank.</p>
+</li>
+<li>
+<p><strong>No wish or 'gap'</strong> -- At first it is hard to see what a problem
+    statement is without a wish. Nevertheless these statements occur
+    frequently. They usually involve people that put the blame for a lot
+    of things on other parties, other people, and other actors. They
+    only mention reasons why something can't be accomplished. You could
+    call these people 'complainers'.</p>
+<p>Because you do not know what to accomplish with such a problem
+statement, it is impossible to know what system to focus on, or how
+you can measure whether a system's condition is improving, and you
+do not know what kind of alternatives are actually possible.</p>
+<p>Problem statements without a wish or a 'gap' are, for example: ' i t
+is clear that we need a highway here, but they don't want to
+cooperate', 'We cannot reduce residential waste without the
+commitment of the citizens' or 'We would like to give the harbor a
+'facelift', but the municipality won't make a budget available for
+us.</p>
+</li>
+<li>
+<p><strong>An apparent dilemma</strong> -- 'We want to generate environmental
+    friendly electricity without increasing C o 2 emissions', 'How can
+    we produce more efficiently without increasing the production
+    costs?' or 'What can we do about the traffic jams without everything
+    getting jammed?' All these problem statements seem to have both a
+    wish and a dilemma, but when you look closer you will actually find
+    that there isn't a real dilemma present.</p>
+<p>Fulfilling the wish is, in these examples, the same as solving the
+dilemma or the other way around: if you take care of the dilemma
+there is no wish anymore. Both wish and dilemma focus on the same
+thing. In fact there is no tension at all between the wish that a
+client has and the reason why that wish cannot simply be fulfilled.
+In his urgency to make clear what the problem is, the client or the
+analyst has made a mistake and has introduced the same thing twice.
+The same difficulties arise as in the situation of a problem
+statement without a dilemma: you have no idea what to focus on (and
+when you continue your analysis, your credibility will be questioned
+too).</p>
+</li>
+<li>
+<p>Double wishes and/or dilemmas -- it is also possible that people
+    write a problem statement that seems to be well written and
+    complete. let's take the following problem statement: 'How can the
+    municipality create more recreational facilities and better access
+    to the neighborhood, without creating nuisance for the inhabitants
+    through heavy traffic and an 'empty' neighborhood off-season?'</p>
+<p>Look at it closely: what is the wish here? Actually, there are two:
+creating more recreational facilities (of which we can think: is
+there a wish behind this? perhaps attracting more tourists?) and
+improving accessibility (by car or public transport, for example).
+Having two wishes in the problem statement means that you will have
+great difficulty finding alternatives. What if we remove the
+recreational facilities from the problem statement? Now the problem
+statement becomes 'How can the municipality create better access to
+the neighborhood, without creating nuisance for the inhabitants
+through heavy traffic and an 'empty' neighborhood off-season?' now,
+suddenly, there is no dilemma anymore! Of course, that should not be
+the case, since the municipality does experience a problem. I you
+encounter this type of problem statement, ask your client if there
+is a wish behind the description he gave. 'Better access to the
+neighborhood' can also relate to the wish of attracting more
+tourists (who are stuck in traffic right now, and choose other
+destinations because of this), so the problem statement might
+become: 'How can the municipality attract more tourists to the
+neighborhood, without creating traffic nuisance for the
+inhabitants?' This way, you have a clear view of the wish the
+municipality has, and the 'solution space' is wide open: a large
+number of different alternatives can be considered.</p>
+</li>
+<li>
+<p><strong>Mentioning a specific alternative</strong> -- The most common mistake is
+    not so much the problem mentioned, but the alternative that someone
+    has thought of to solve that problem. If the problem is about
+    capacity for electricity generation, someone will talk about the
+    'problem' of building power plants. If the problem is about
+    transport capacity, people will talk about getting as many trains as
+    possible leaving the station per hour. People find it easier to come
+    up with an alternative, with advice, or with an idea, than to
+    actually name the problem behind it all. A problem statement with an
+    alternative in it causes you to think more narrowly and less
+    creatively about possibilities to solve the problem. People will
+    stay focused on that one alternative everyone has been talking about
+    since the beginning of the analysis. Perhaps that alternative will
+    eventually be implemented, but the question remains whether the
+    right problem was solved.</p>
+<p>Examples of problem statements with alternatives named in them are;
+'How can we build that nuclear plant without exceeding the budget?',
+'We have to get the trucks off the motorway but we also have to
+maintain the flexibility of the transport system' or 'That tunnel
+has to be built there without damaging nature too much.' in these
+problem statements, one will probably not think of different
+alternatives than different types of power plants, reducing road
+freight or different forms of tunnels. This is a shame because
+alternatives like solar energy, reducing energy usage, other
+logistics, rewarding chauffeurs for desirable behaviour on the road,
+or reducing sound nuisance by placing sound walls could possibly be
+good alternatives too, depending on the real gap and dilemma of this
+actor</p>
+</li>
+<li>
+<p><strong>Using words like 'optimal', 'minimal', best, etc.</strong> -- People
+    generally tend to look for the solution to the problem. If they
+    think a little longer, they might want to find the best solution.
+    However, the problems we face are so complex, and no one can predict
+    what the future will bring; no one can possibly predict the best
+    alternative. Most likely, different actors will prefer different
+    alternatives. In the end our facilitation of the decision- making
+    process should help people to concur on a particular alternative to
+    implement. Not necessarily for the same reason, but as long as
+    people can agree on the alternative. Is this the best solution?
+    Probably not, and, in addition, no one can know. Tomorrow, or in a
+    year, the group of actors might agree on another alternative to
+    implement. Or even today, if the group of actors are different, but
+    the situation they face is the same, they might end up with a
+    different alternative.</p>
+<p>Using words like 'minimal', 'best' and 'optimal' focuses on one
+particular alternative, the one that scores minimally on a certain
+criterion, or best, or optimally. Even if it were possible to agree
+with the group on how to translate the value of one criterion
+against another (so optimization would, at least mathematically, be
+possible), problem statements would still focus on finding one
+alternative. The idea is that a rational comparison of many
+alternatives on a set of well-balanced criteria facilitates
+decision-making in such a way that the actors involved can have a
+clear view of different alternatives and their effects, without
+looking for the optimal one.</p>
+</li>
+</ol>
+<h3 id="actor-objectives-analysis-criteria-for-decision-making-goal-tree">Actor objectives analysis, Criteria for decision making (goal tree)</h3>
+<p>Actors tend to promote 'their' alternative for 'the' problem. 'Wind
+mills are the only serious option to tackle our energy problem, as they
+are really sustainable.' Usually, another actor also starts promoting
+his alternative, leading to lots of discussion and not bringing a shared
+decision for one alternative any closer. The previous Section introduced
+the problem statement to redirect the discussion from alternatives to
+the problem, mainly to keep the solution space large enough and to
+generate and compare several alternatives. When a list of alternatives
+becomes available, we would like to know to what extent they solve the
+problem and fit the preferences of the actors. Also, if we want to
+compare alternatives, we need a set of criteria with which to compare
+them.</p>
+<p>What is needed is a well-balanced set of criteria, representing all
+aspects (including the implicit ones) of our problem owner and other
+actors involved in the problem field. Although it will be clear from the
+beginning that it is difficult to take all criteria into account, it
+would be impossible for our client to make a well grounded and carefully
+considered decision if he is not aware of important criteria for all the
+actors involved.</p>
+<p>Remember the discussion with our problem owner about the problem
+statement. Especially remember the implicit dilemma he had in mind when
+you came up with a 'strange' solution to his problem. 'But that is not
+what i mean!' A clear wish and dilemma can never be represented by a
+single criterion. Gut, as we can guess, many more issues will be
+implicit in the heads of our clients. We can expect that various
+criteria are needed to represent all this. A structured approach to
+reaching these criteria is to ask 'why do you want this?' Go back to our
+client, our entrepreneur, who answered 'more turnover' when we asked
+what he wanted. We can discern several implicit thoughts behind this
+answer, by asking him the simple 'why?' question, over and over.</p>
+<p>'Why do you want more turnover?' To create more profit? And why more
+profit? To be able to continue the business? And why continue? Your
+client is an entrepreneur. To ask him why he wants to continue his
+business (apart from being a somewhat strange question) is to discuss
+the 'being' of an entrepreneur: continuing the business. Hopefully there
+is another, more abstract goal for our client when it comes to his life:
+we have reached his interest, which is always there, independent of any
+problem, even without the problem being perceived</p>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image2.png" /></p>
+<p>In other words, goal trees are actor-specific. Only when all actors are
+involved in criteria creation (i.e., all actors have their own goal
+tree) can the analyst create a well-balanced set of criteria for further
+analysis, and which can eventually be used in the decision-making
+process.</p>
+<p>In practice, it is useful to start by making a goal tree with, and for,
+your client. Once this has been done, and your client agrees with the
+result, you can discuss whether it is necessary and possible to create
+goal trees for other actors as well. When you have a set of goal trees,
+you can decide on which criteria to include in your analyses. Do not be
+too picky about selecting criteria, since having too few criteria may
+lead to alternatives being selected which do not live up to the goals of
+the actors.</p>
+<p><strong>What are commonly made mistakes and their effects in designing goal
+trees?</strong></p>
+<ol>
+<li>
+<p><strong>Causal relations and/or verbs in the goal tree</strong> -- The most
+    common error that people make in constructing goal trees is that
+    they consider lower goals to be a means to reach higher goals. This
+    comes close to our human habit of thinking in solutions rather than
+    in problems, as we discussed earlier in this book. These people
+    don't answer the question 'what is cheap energy?' They identify ways
+    to reach cheap energy, like 'decrease production costs' or 'reduce
+    transport costs'. These are means to reach the goal of cheap energy,
+    not criteria to find out whether a certain alternative A results in
+    cheaper energy than another alternative</p>
+<p>As soon as you see verbs in a goal tree, be alert. Verbs represent
+actions and, thus, cannot define goals. 'Increasing the number of
+thermal power plants' is an action, something that is done. It is
+done to reach a goal, like more environmentally friendly energy. It
+is, however, not defining what environmentally friendly energy is:
+it is a way to get it! In essence, all actions like these are
+alternatives that might (partly) solve the problem. Of course, we
+have to find out whether they really have potential but, in
+principle, they may have. Thus, when you use verbs in a goal tree
+you are basically introducing alternatives and, with this, creating
+substantial bias in your analysis.</p>
+</li>
+<li>
+<p><strong>Goal tree contains alternatives</strong> -- often, people
+    'Operationalize' objectives like 'environmentally friendly energy'
+    in terms of 'more photovoltaic cells' and 'more wind mills'.
+    However, these are two alternatives that in this problem some of the
+    actors will consider as being 'the' solution. It is alternatives
+    like these that we want to compare, or rationalize, on a
+    well-balanced set of criteria as input for the decision- making
+    process. We find criteria (or better: make implicit criteria of the
+    actors explicit) using the goal tree technique. If we introduce
+    alternatives in the goal tree, we basically create criteria for
+    specific alternatives. Later, in the decision-making process, these
+    alternatives would then be compared to each other on the full set of
+    criteria, including their 'own' criteria. As such, an alternative
+    will always have a good score on its own criteria, while other
+    alternatives will not, and substantial bias will have been
+    introduced in the analysis. To put it bluntly, an alternative that
+    involves building wind mills will never score well on 'more
+    photovoltaic cells'.</p>
+<p>If you do not recognize alternatives immediately, for all sub-goals
+ask yourself the question 'does this sub-goal lead to the higher
+goal, or, does it define the higher goal?' Alternatives will never
+have definition relations with higher goals, only causal relations.
+Useful goal trees only obtain definition relations and no causal
+relations</p>
+</li>
+<li>
+<p><strong>Main goal too</strong> <strong>generic</strong> -- if you keep on asking the 'why do
+    you want this?' question, you end up with the general interest of
+    that particular actor. Car drivers want 'good mobility'. Presidents
+    want to stay in power; entrepreneurs want 'continuity' of their
+    business. These interests look like goals, but it is not practical
+    to use them as the main goal in a goal tree. These interests are
+    always there, also no problem is perceived and, thus, no
+    alternatives to solve it are considered. The interest turns into an
+    objective at the moment this interest is violated: then the actor
+    perceives a problem or a challenge and wants to solve it. At that
+    moment it becomes practical to translate the general interest into a
+    concrete goal for that particular perceived problem.</p>
+<p>That concrete main goal is not the same as the general interest, but
+represents the general interest for this particular problem. The
+president of an electricity producing company might consider his
+interest 'continuity of his company', independent of a problem. When
+society wants to be more environmentally friendly, and people are no
+longer buying his coal-generated electricity, he might translate his
+general interest to 'sustainable energy supply'. In his case, part
+of the definition of sustainable energy supply could be that there
+needs to be a market for</p>
+<p>His production. Should 'continuity' be the main goal, no practical
+well- balanced set of criteria could be found. In this case,
+continuity would be measured in, for instance, [year], but other
+too generic main goals might lead to a lot of criteria of which the
+majority have nothing to do with the perceived problem. Both ways,
+the criteria are not supporting the decision-making process.</p>
+</li>
+<li>
+<p><strong>Goal tree too large</strong> -- if you do not limit yourself while making
+    the goal tree, you may end up with a goal tree that is too large to
+    read. It will then probably contain a very generic main goal, and a
+    number of branches that are not at all related to the problem field.
+    Try to use 3 to 4 levels in your goal tree, and not more than 20
+    goals.</p>
+</li>
+</ol>
+<h3 id="system-description-causal-diagram">System description (causal diagram)</h3>
+<p>A certain action will be an interesting alternative for a specific actor
+if it is 'doing something that solves his problem'. Now that the
+problems held by different actors are represented in criteria using the
+goal tree technique, an alternative becomes 'doing something that
+influences the scores on the criteria'. Basically, anything that
+influences the scores on the criteria can be treated as an alternative.
+Needless to say not all of these alternatives are practical, not even
+'good' (i.e., influencing criteria in the desired direction of change).
+However, how 'good' certain alternatives are is a matter of interpreting
+their scores on the criteria. First step is to find out what influences
+the scores on the criteria</p>
+<p>Practically, let's take a criterion from our well-balanced set (derived
+from all the goal trees we made for the actors involved) and ask two
+questions: 'what factors influence this criterion?' and 'what factors
+are influenced by this criterion?' note that the questions we asked when
+constructing a goal tree were definition questions ('what does it
+mean?'), while these two questions are about causal relations ('what
+influences?').</p>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image3.png" /></p>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image4.png" /></p>
+<p>Of course, many other criteria matter as well, that is why we made the
+effort to create all these goal trees for all actors involved to come to
+a well-balanced set of criteria. Your complete causal diagram, including
+all important criteria from the goal trees you designed, will be much
+larger.</p>
+<p>The causal diagram is very useful in connecting the alternatives to the
+criteria. Its usefulness is that is shows how (i.e., through what
+mechanism) the alternatives eventually change the value of the criteria.
+It makes it possible to estimate the effects of different alternatives
+on the set of criteria that is used. Therefore, it makes it possible
+that a client, in the end, can compare the alternatives and choose one
+to solve the problem. In this way, the causal diagram, like all other
+techniques presented in this book, helps the client decide. In other
+words, it facilitates the decision-making process.</p>
+<p>What can help you practically when constructing a causal diagram is to
+identify factors using a table with three columns: 'concepts', 'factors'
+and 'units'. most of the time when you start studying a system, you have
+some abstract ideas about things that are important. If the problem is
+about alternative energy sources, you quickly might think about things
+like 'climate', 'electricity usage', or 'environmental awareness'. These
+factors are not yet explicit, operational factors, but mere concepts.</p>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image5.png" /></p>
+<h3 id="problem-diagram">Problem diagram</h3>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image6.png" /></p>
+<p><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png" /><img alt="" src="C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image8.png" /></p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../Root_Cause_Analysis/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Root Cause Analysis" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Root Cause Analysis
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../Thinking_critcal_about_profound_ideas/" class="md-footer__link md-footer__link--next" aria-label="Next: Thinking critcal about profound ideas" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Thinking critcal about profound ideas
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.8397ff9e.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e84347e.min.js"></script>
+      
+    
+  </body>
+</html>
