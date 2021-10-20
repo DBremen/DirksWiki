@@ -30,13 +30,13 @@ function build () {
         }
     }
     copy $repoFolder\README.md $repoFolder\docs
-    #make the links relative 
+    #make all image links relative 
     $files = (dir "$repoFolder\docs" -Recurse | sls '\\media_').Path | sort -Unique
     foreach ($file in $files){
         $replacements = (sls -path $file -pattern '^(!\[.*\]).*\\(media_[^)]+)').foreach{
             [PSCustomObject]@{
                 ToReplace = $_.Line
-                Replacement = $_.Matches.Groups[1].Value + '(../' + $_.Matches.Groups[2].Value + ')'
+                Replacement = $_.Matches.Groups[1].Value + '(' + $_.Matches.Groups[2].Value + ')'
             }
         }
         $content = Get-Content -Path $file

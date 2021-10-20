@@ -11,7 +11,7 @@ The "P/PC Principle", which instructs that **achieving effectiveness
 requires balance between *production* and *production capability***. In
 other words, in order to produce, we need to take care of ourselves.
 
-![](../media_How_to_chart_new_course_for_life/media/image1.png)
+![](media_How_to_chart_new_course_for_life/media/image1.png)
 
 Spending too much time in quadrant 1 leads to stress, burnout and crisis
 management, which gradually tends to consume all the time available.
@@ -43,7 +43,7 @@ of sleep + 1 hour for other needs = 37.5%). It's a kind of
 "physiological tax" you have to pay to your body everyday for being
 alive. The remaining 60% represents the time available to you.
 
-![](../media_How_to_chart_new_course_for_life/media/image2.png)
+![](media_How_to_chart_new_course_for_life/media/image2.png)
 
 Process
 -------
@@ -94,7 +94,7 @@ the equilibrium. In order to maintain balance, all 4 dimensions need to
 be equally cared for. Try to aim for how you can make use of apparently
 conflicting elements to harness potential synergies between them.
 
-![](../media_How_to_chart_new_course_for_life/media/image3.png)
+![](media_How_to_chart_new_course_for_life/media/image3.png)
 
 Process
 -------
@@ -103,7 +103,7 @@ Process
 
 2.  Identify at least 3 elements for each of the four circles
 
-![](../media_How_to_chart_new_course_for_life/media/image4.png)
+![](media_How_to_chart_new_course_for_life/media/image4.png)
 
 3.  Divide the elements into 2 groups
 
@@ -111,7 +111,7 @@ Process
 
     b.  Means - activities
 
-![](../media_How_to_chart_new_course_for_life/media/image5.png)
+![](media_How_to_chart_new_course_for_life/media/image5.png)
 
 4.  Examine your results. How could you combine the elements into your
     ideal lifestyle? How can the means give you a route to the ends? Are
@@ -119,7 +119,7 @@ Process
     Look for synergy (see below) and sketch out a vision of how they
     might come together:
 
-![](../media_How_to_chart_new_course_for_life/media/image6.png)
+![](media_How_to_chart_new_course_for_life/media/image6.png)
 
 5.  Check for congruency. Can you visualize your ideal lifestyle? Does
     this vision resonate with you? Would your needs be fulfilled? Keep

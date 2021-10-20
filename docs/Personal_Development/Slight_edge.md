@@ -1,7 +1,7 @@
 ***The difficult is what takes a little time; the impossible is what
 takes a little longer.***
 
-![](../media_Slight_edge/media/image1.png)
+![](media_Slight_edge/media/image1.png)
 
 In each area of my life, did I do those things that are easy to do, and
 easy not to do? Did I continue my momentum on the success curve?"

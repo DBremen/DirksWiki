@@ -59,9 +59,9 @@ more important things.
 Quadrants
 ---------
 
-![https://lindseygendke.files.wordpress.com/2015/11/four-quadrants.png](../media_First_things_first/media/image1.png)
+![https://lindseygendke.files.wordpress.com/2015/11/four-quadrants.png](media_First_things_first/media/image1.png)
 
-![http://creativesource.com.ph/wordpress/wp-content/uploads/2013/12/Blog-Post-4.jpg](../media_First_things_first/media/image2.jpeg)
+![http://creativesource.com.ph/wordpress/wp-content/uploads/2013/12/Blog-Post-4.jpg](media_First_things_first/media/image2.jpeg)
 
 -   Quadrant I (Production): represents things that are **both urgent
     and important**. Here's where we:
@@ -442,7 +442,7 @@ STEP FIVE: EXERCISE INTEGRITY IN THE MOMENT
 STEP SIX: EVALUATE
 ------------------
 
-![](../media_First_things_first/media/image3.png)
+![](media_First_things_first/media/image3.png)
 
 Planning & goal setting
 =======================
@@ -576,7 +576,7 @@ Competence:
 Interdependency
 ===============
 
-![](../media_First_things_first/media/image4.png)
+![](media_First_things_first/media/image4.png)
 
 Decision making
 ===============

@@ -2,13 +2,13 @@
 
 http://www.slideshare.net/marlondumas
 
-![](../media_Processes/media/image1.png)
+![](media_Processes/media/image1.png)
 
-![](../media_Processes/media/image2.png)
+![](media_Processes/media/image2.png)
 
-![](../media_Processes/media/image3.png)
+![](media_Processes/media/image3.png)
 
-![](../media_Processes/media/image4.png)
+![](media_Processes/media/image4.png)
 
 Questions to ask about a process
 
@@ -36,7 +36,7 @@ BPMCBOK = for project management
 BPM advantages
 ==============
 
-![](../media_Processes/media/image5.png)
+![](media_Processes/media/image5.png)
 
 -   Model business process
 
@@ -73,54 +73,54 @@ to do so is most welcome.
 
 -   Satisfaction - Are customers and employees satisfied?
 
-![](../media_Processes/media/image6.png)
+![](media_Processes/media/image6.png)
 
 BPM lifecycle
 =============
 
-![](../media_Processes/media/image7.png)
+![](media_Processes/media/image7.png)
 
-![](../media_Processes/media/image8.png)
+![](media_Processes/media/image8.png)
 
-![](../media_Processes/media/image9.png)
+![](media_Processes/media/image9.png)
 
-![](../media_Processes/media/image10.png)
+![](media_Processes/media/image10.png)
 
-![](../media_Processes/media/image11.png)
+![](media_Processes/media/image11.png)
 
-![](../media_Processes/media/image12.png)
+![](media_Processes/media/image12.png)
 
-![](../media_Processes/media/image13.png)
+![](media_Processes/media/image13.png)
 
 Process Architecture
 ====================
 
-![](../media_Processes/media/image14.png)
+![](media_Processes/media/image14.png)
 
-![](../media_Processes/media/image15.png)
+![](media_Processes/media/image15.png)
 
-![](../media_Processes/media/image16.png)
+![](media_Processes/media/image16.png)
 
 Business Process Modelling notation
 ===================================
 
-![](../media_Processes/media/image17.png)
+![](media_Processes/media/image17.png)
 
-![](../media_Processes/media/image18.png)
+![](media_Processes/media/image18.png)
 
 Process Analysis
 ================
 
-![](../media_Processes/media/image19.png)
+![](media_Processes/media/image19.png)
 
-![](../media_Processes/media/image20.png)
+![](media_Processes/media/image20.png)
 
-![](../media_Processes/media/image21.png)
+![](media_Processes/media/image21.png)
 
 Qualitative Analysis
 --------------------
 
-![](../media_Processes/media/image22.png)
+![](media_Processes/media/image22.png)
 
 CMMI for services
 =================
@@ -192,7 +192,7 @@ Organizations typically focus on:
 
 -   tools and equipment
 
-![](../media_Processes/media/image23.png)
+![](media_Processes/media/image23.png)
 
 What holds everything together? It is the processes used in your
 organization. Processes allow you to align the way you do business. They
@@ -295,11 +295,11 @@ Primary Satisfier (more is better) = Refund received within timeframe
 
 Delighter = Receiving extra present ( discount for next purchase)
 
-![](../media_Processes/media/image24.png)
+![](media_Processes/media/image24.png)
 
-![http://www.emeraldinsight.com/content\_images/fig/0400210703007.png](../media_Processes/media/image25.png)
+![http://www.emeraldinsight.com/content\_images/fig/0400210703007.png](media_Processes/media/image25.png)
 
-![](../media_Processes/media/image26.png)
+![](media_Processes/media/image26.png)
 
 CTQ = Critical to quality
 
@@ -308,11 +308,11 @@ Use SIPOC for stakeholder analysis
 Look for waste in processes (mark value-added, non-value added and
 value-added but necessary process steps)
 
-![](../media_Processes/media/image27.png)
+![](media_Processes/media/image27.png)
 
 Determine process capability
 
-![](../media_Processes/media/image28.png)
+![](media_Processes/media/image28.png)
 
 Data
 ----
@@ -337,13 +337,13 @@ Data
 Process Improvement handbook
 ============================
 
-![](../media_Processes/media/image30.png)
+![](media_Processes/media/image30.png)
 
 In simple terms, the primary difference between a process and a
 procedure is that a process is what you do and a procedure is how you do
 it.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image35.png)![](../media_Processes/media/image36.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image35.png)![](media_Processes/media/image36.png)
 
 *Process Management* is the ensemble of planning, engineering,
 improving, and monitoring an organization's processes in order to
@@ -357,26 +357,26 @@ to reduce human error and miscommunication in these processes and to
 focus stakeholders on improving their operating environment using
 Process Improvement methods.
 
-![](../media_Processes/media/image37.png)
+![](media_Processes/media/image37.png)
 
 <http://www.acuityinstitute.com/design-for-six-sigma.html>
 
-![](../media_Processes/media/image38.png)![](../media_Processes/media/image38.png)
+![](media_Processes/media/image38.png)![](media_Processes/media/image38.png)
 
-![](../media_Processes/media/image39.png)
+![](media_Processes/media/image39.png)
 
-![](../media_Processes/media/image38.png)
+![](media_Processes/media/image38.png)
 
-![](../media_Processes/media/image40.png)
+![](media_Processes/media/image40.png)
 
 DFSS
 ====
 
-![](../media_Processes/media/image41.png)
+![](media_Processes/media/image41.png)
 
-![](../media_Processes/media/image42.png)
+![](media_Processes/media/image42.png)
 
-![](../media_Processes/media/image43.png)
+![](media_Processes/media/image43.png)
 
 -   Quantify the gap between as is and target for each KPI (e.g.
     comparison of current market share with current product on the
@@ -395,14 +395,14 @@ DFSS
     first positive contribution to margin or until Break Even is
     achieved)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image47.png)![](../media_Processes/media/image48.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image47.png)![](media_Processes/media/image48.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image49.png)![](../media_Processes/media/image50.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image49.png)![](media_Processes/media/image50.png)
 
 Service Management
 ==================
 
-![](../media_Processes/media/image51.png)
+![](media_Processes/media/image51.png)
 
 For all repeated services, a process is employed to carry out the
 service, and a set of service management processes is used to manage the
@@ -419,7 +419,7 @@ want to provide. The execution of a service is the process of performing
 the task, whereas service management is the process of making sure that
 the task is performed according to expectations.
 
-![](../media_Processes/media/image52.png)
+![](media_Processes/media/image52.png)
 
 To optimize your outcome over time, you need to monitor customers'
 expectations on an ongoing basis; simply assuming that current service
@@ -441,7 +441,7 @@ stakeholders had in mind when the service was established.
 Process capability
 ==================
 
-![](../media_Processes/media/image53.png)
+![](media_Processes/media/image53.png)
 
 For discussion purposes, we will assign a customer diameter
 specification of 0.5 ± 0.005 to the machined parts of Figure 2.3. The
@@ -472,7 +472,7 @@ Diameter Capability Ratio = 1.66
 The process is stable and capable with regard to the product
 characteristic "diameter."
 
-![](../media_Processes/media/image54.png)
+![](media_Processes/media/image54.png)
 
 Original idea originates from Ford quality manual for its suppliers:
 
@@ -586,7 +586,7 @@ CPU = 0.025 ÷ 0.003
 
 CPU = 8.33
 
-![](../media_Processes/media/image56.png)
+![](media_Processes/media/image56.png)
 
 Generally speaking, product problems on the shop floor or at the
 customer or supplier fall into one of two categories. The problem can be
@@ -594,7 +594,7 @@ one of instability or of incapability. Specifically, the problem exists
 because the product average has shifted or because the product has too
 much variation about a consistent average.
 
-![](../media_Processes/media/image57.png)
+![](media_Processes/media/image57.png)
 
 The purpose of a process capability study is to determine if the
 manufacturing process is stable and capable by measuring the critical

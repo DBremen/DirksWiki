@@ -121,7 +121,7 @@ Böse als Zusammentreffen von bestimmten Lastern mit entsprechenden
 Gelegenheiten in der Außenwelt, die destruktives Verhalten begünstigen
 (Krieg)**
 
-![](../media_Innere_MItte/media/image1.png)
+![](media_Innere_MItte/media/image1.png)
 
 *Leidenschaften*
 ================
@@ -208,9 +208,9 @@ Emotionen:
 
 -   Überraschung
 
-![](../media_Innere_MItte/media/image2.png)
+![](media_Innere_MItte/media/image2.png)
 
-![](../media_Innere_MItte/media/image3.png)
+![](media_Innere_MItte/media/image3.png)
 
 ### Gefühl
 
