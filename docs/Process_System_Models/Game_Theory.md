@@ -16,7 +16,7 @@ people behave in strategic situations.
 
 Social problems can be formulated as mathematical models -\> Games.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image1.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image1.png)
 
 The model consists the following components:
 
@@ -34,19 +34,19 @@ The model consists the following components:
 Example model setup for traffic problem. How does a new bypass affect
 traffic/drivers:
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image2.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image2.png)
 
 Rationality
 -----------
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image3.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image3.png)
 
 A rational player never chooses a strictly dominated strategy.
 
 Infinite regress with human actors
 ==================================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image4.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image4.png)
 
 Rationality alone fails to pin down individuals\' behavior in social
 problems.
@@ -56,8 +56,8 @@ This is the reason why we need game theory.
 Domination
 ==========
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image5.png)
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image6.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image5.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image6.png)
 
 Payoffs
 =======
@@ -70,7 +70,7 @@ outcomes.
 to represent the player's attitude toward risk (e.g. by assigning
 utilities to the payoffs).
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image7.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image7.png)
 
 Nash equilibrium
 ================
@@ -78,9 +78,9 @@ Nash equilibrium
 Surface of a coffee stirred in a cup as an analogy to the set of
 possible human behavior.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image8.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image8.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image9.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image9.png)
 
 Nash discovered that every social problem has a "stable point" where all
 individual are doing there best against each others -\> Nash equilibrium
@@ -96,14 +96,14 @@ solution concept that can be applied in a wide range of games.
 Nash equilibrium example1
 -------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image10.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image10.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image11.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image11.png)
 
 Determine the Nash equilibrium before and after the construction of the
 new bypass.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image12.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image12.png)
 
 Nash equilibrium = No traveler can save time by changing their route.
 
@@ -129,7 +129,7 @@ Travel time saved by bypass = 150.
 Nash equilibrium example 2
 --------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image13.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image13.png)
 
 Finding Nash equilibrium
 ========================
@@ -138,7 +138,7 @@ Finding Nash equilibrium
 
 -   If there is a match, it's a Nash equilibrium
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image14.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image14.png)
 
 Simultaneous Move Game
 ======================
@@ -202,11 +202,11 @@ without decreasing B's payoff and vice versa.
 
 Efficient outcomes \<\> nash equilibrium or individuals best choices
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image15.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image15.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image16.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image16.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image17.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image17.png)
 
 -   Benefit of good behavior may not come to you
 
@@ -242,50 +242,50 @@ Mixed strategy equilibrium
 
 Rock paper scissors
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image18.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image18.png)
 
 In those games it's important to make yourself unpredictable by using a
 random response -\> mixed strategy equilibrium. Through the mixed
 strategy equilibrium one can assign probabilities to the events.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image19.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image19.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image20.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image20.png)
 
 Sports games and game theory
 ----------------------------
 
 Penalty shots
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image21.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image21.png)
 
 Probability of goal in different combinations of goalie jumping to one
 side and kicker kicking to one side
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image22.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image22.png)
 
 The mixed strategy equilibrium is the value for p that makes the
 equations 1 and 2 equal
 
 <https://www.wolframalpha.com/input/?i=58.3p+%2B+94.97%281-p%29+%3D+92.92p+%2B+69.92%281-p%29>
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image23.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image23.png)
 
 Finding mixed strategy equilibrium
 ----------------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image24.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image24.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image25.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image25.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image26.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image26.png)
 
 Payoff table
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image27.png)
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image28.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image27.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image28.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image29.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image29.png)
 
 The black player will have the remaining winning rate (1-.4) = .6
 
@@ -310,11 +310,11 @@ without decreasing B's payoff and vice versa.
 
 Efficient outcomes \<\> nash equilibrium or individuals best choices
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image15.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image15.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image16.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image16.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image17.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image17.png)
 
 -   Benefit of good behavior may not come to you
 
@@ -348,28 +348,28 @@ QWERTY Keyboard vs. Dvorak keyboard
 Economics supply and demand
 ===========================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image30.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image30.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image31.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image31.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image32.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image32.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image33.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image33.png)
 
 Laissez-faire argument
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image34.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image34.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image35.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image35.png)
 
 Game theory: The agreement reached in (3) might not be sustainable
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image36.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image36.png)
 
 Ways to achieve the best outcome for society
 --------------------------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image37.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image37.png)
 
 1)
 
@@ -392,7 +392,7 @@ Assumptions:
 
 -   If the price is equal all customers will be split equally
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image38.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image38.png)
 
 The Nash equilibrium in this case is both gas stations charging \$2. If
 one gas station will increase the price customers will keep going to the
@@ -411,20 +411,20 @@ relationship.
 Repeated game. If the game played every day is a price competition, it's
 also called "stage game".
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image39.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image39.png)
 
 To evaluate the impact of this strategy we need to take a discounted
 future payoff into consideration (a payoff today is worth less than a
 payoff tomorrow).
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image40.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image40.png)
 
 What happens if one gas stations decides to undercut the prices of the
 other on 1^st^ March?
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image41.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image41.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Game_Theory/media/image42.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Game_Theory/media/image42.png)
 
 Brand and reputation as substitute for long term relationship
 -------------------------------------------------------------

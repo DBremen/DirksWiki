@@ -141,9 +141,9 @@ A well-cultivated critical thinker...
     and points of view with the same vigor that we question those of
     others.**
 
-> ![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image1.png)
+> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image1.png)
 >
-> ![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image2.png)
+> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image2.png)
 >
 > **Fair-mindedness** entails a consciousness of the need to treat all
 > viewpoints alike, without reference to one\'s own feelings or selfish
@@ -182,7 +182,7 @@ A well-cultivated critical thinker...
 The Elements of Thought in Relationship
 ---------------------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
 
 ### Our purpose affects the manner in which we ask questions (What is our purpose?)
 
@@ -295,7 +295,7 @@ conclusions and give meaning to data.
 Assumptions vs. Inferences
 --------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image5.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image5.png)
 
 Behavior of critical thinkers
 -----------------------------
@@ -332,7 +332,7 @@ their receptor organs.
 **We tend to perceive what we expect (rather than what we want) to
 perceive**
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image6.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image6.png)
 
 Objectivity is achieved by making basic assumptions and reasoning as
 explicit as possible so that they can be challenged by others and
@@ -357,7 +357,7 @@ also facilitates assimilation.**
 -   **Emphasize procedures (like brainstorming) that expose and
     elaborate alternative points of view.**
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image7.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image7.png)
 
 *Wife and mother in-law*
 
@@ -568,7 +568,7 @@ Step-by-Step Outline of Analysis of Competing Hypotheses
 8.  Identify milestones for future observation that may indicate events
     are taking a different course than expected.
 
-> ![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
+> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
 
 De Bono\`s thinking course
 ==========================
@@ -670,7 +670,7 @@ How the mind works as an information processing system
 Perception is the way we look at things. Processing is what we do with
 that perception.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image9.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image9.png)
 
 ### The mind is an active Information system
 
@@ -697,7 +697,7 @@ better.
 
 Sequence in which the information arrives determines the pattern:
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image10.png)
+![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image10.png)
 
 Lateral thinking
 ----------------

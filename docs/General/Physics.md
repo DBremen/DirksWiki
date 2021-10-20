@@ -6,21 +6,21 @@ https://www.youtube.com/watch?v=liVg8LCU6i4&list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlno
 Scalars
 =======
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image1.png)
-===========================================================================
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image1.png)
+=====================================================================
 
 Vectors
 =======
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image2.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image2.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image3.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image3.png)
 
 Forces are drawn as arrows with an angle pointing in the direction of
 the force or symbolized as a letter with an arrow on top of it. The
 length of the arrow indicates the magnitude of the force.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image4.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image4.png)
 
 If multiple forces act on an object operation on the vectors need to be
 carried out in order to calculate the forces.
@@ -28,7 +28,7 @@ carried out in order to calculate the forces.
 Vector addition:
 ----------------
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image5.png)![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image6.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image5.png)![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image6.png)
 
 Trigonometry
 ------------
@@ -37,7 +37,7 @@ Adjacent and opposite = relative to theta (the angel to be found)
 
 Hypothenuse = longest side of triangle
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image7.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image7.png)
 
 Any of the functions can be used to solve for theta.
 
@@ -51,25 +51,25 @@ Vector subtraction
 When subtracting vectors they are also lined up as for addition but the
 2^nd^ vector's direction is inverted.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image8.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image8.png)
 
 Break up a vector into X and Y components
 -----------------------------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image9.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image9.png)
 
 Example calculations
 --------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image10.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image10.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image11.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image11.png)
 
 Hypotenuse = SQRT(16 + 1)
 
 Angle = Inverse tan (1/4) = 14.04 degrees
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image12.png)![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image13.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image12.png)![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image13.png)
 
 Position Velocity Acceleration
 ==============================
@@ -79,7 +79,7 @@ Position Velocity Acceleration
 Distance is a scalar (how much have you moved?) and displacement is a
 vector (since it also includes the direction of the movement):
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image14.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image14.png)
 
 While both friends walk different differences they both have the same
 displacement since they end up in the same place.
@@ -113,20 +113,20 @@ acceleration will point backwards)
 Graphical analysis
 ==================
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image15.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image15.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image16.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image16.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image17.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image17.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image18.png)![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image19.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image18.png)![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image19.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image20.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image20.png)
 
 Kinematics
 ==========
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image21.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image21.png)
 
 Galileo discovered that the distance an object falls is proportional to
 the square root of time:
@@ -139,20 +139,20 @@ which is on earth 9.81 m/s^2^
 
 Gravity speeds up a falling object by 9.81m/s for every seconds it drops
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image22.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image22.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image23.png)
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image24.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image23.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image24.png)
 
 after one second, an object will have fallen a distance of 1/2 × 9.8 ×
 1^2^ = 4.9 m. After two seconds it will have fallen 1/2 × 9.8 × 2^2^ =
 19.6 m. 4.6 \* 4 = 19.6m
 
-### Fundamental kinematic equations: ![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image25.png)
+### Fundamental kinematic equations: ![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image25.png)
 
 Additional derived equations
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image26.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image26.png)
 
 d = displacement (positional change in a direction)
 
@@ -162,7 +162,7 @@ a = acceleration (will be always constant)
 
 t = time
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image27.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image27.png)
 
 Horizontal motion
 -----------------
@@ -186,7 +186,7 @@ If start velocity = 0 then average velocity = at/2
 
 **Distance =** $\frac{\mathbf{\text{at}}^{\mathbf{2}}}{\mathbf{2}}$
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image28.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image28.png)
 
 v = 0 + 2.5 m/s^2^ \* 10s = **25 m/s**
 
@@ -198,7 +198,7 @@ Car is driving at 27 m/s you hit the brakes with deceleration of -8.4
 m/s^2^. How long will it take to stop and how long is the braking
 distance?
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image29.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image29.png)
 
 t = (v~t~ -- v~i~) / a
 
@@ -216,7 +216,7 @@ You are riding your bike downtown at a speed of 15 m/s and you see a red
 light ahead. You gently brake over a distance of 50 m and come to a
 complete stop. What is your acceleration during this time?
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image30.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image30.png)
 
 a = (v~f~^2^ - v~i~^2^)/2d
 
@@ -245,7 +245,7 @@ How long was the rock in the air?
 
 What was the velocity upon the impact?
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image31.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image31.png)
 
 t^2^ = (x~t~ -- x~0~) / .5 \* a
 
@@ -253,7 +253,7 @@ t^2^ = -100m / -4.9m/s^2^
 
 **t = 4.52 s**
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image32.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image32.png)
 
 v~f~ = -9.8m/s^2^ \* 4.52s
 
@@ -267,7 +267,7 @@ parabola under the influence of gravity. The horizontal and vertical
 motion are independent of each other and are also measured
 independently:
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image33.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image33.png)
 
 E.g. if one marble is pushed from a table (with some force in the
 horizontal direction) and another is just dropped from the same height.
@@ -275,7 +275,7 @@ Their y-direction velocities and time in the air are identical.
 
 Inertial reference frame
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image34.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image34.png)
 
 How long does it take for the rock to hit the ground? (only dependent on
 y-direction e.g. gravity)
@@ -284,7 +284,7 @@ How far away from the cliff will it land? (dependent on both vectors)
 
 Horizontal velocity will be constant but vertical velocity will decrease
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image35.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image35.png)
 
 **Initial velocities in x and y directions**
 
@@ -306,11 +306,11 @@ Vy = Sin 30 deg. \* 8.5 m/s
 
 Vy = 4.25 m/s
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image33.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image33.png)
 
 Time in the air = y-direction
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image36.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image36.png)
 
 -100m = (4.25 m/s) t + .5 (-9.8 m/s^2^)t^2^
 
@@ -355,7 +355,7 @@ a horizontal velocity which is the speed of the train.**
 Forces
 ======
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image21.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image21.png)
 
 Force: any interaction that if unopposed will alter the motion of an
 object.
@@ -410,7 +410,7 @@ Bigger mass requires more force to achieve the same acceleration:
 
 1m/s^2^ = 25 N / 25 kg; 1m/s^2^ = 5 N / 5 kg
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image37.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image37.png)
 
 Newton's 3^rd^ law of motion
 ----------------------------
@@ -458,7 +458,7 @@ the surface. On a flat horizontal surface the normal force directly
 opposes weight (they both have the same magnitude) and the object will
 remain still.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image38.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image38.png)
 
 Friction
 --------
@@ -467,7 +467,7 @@ A surface exerts two forces on a moving object. Normal force (see above)
 and the frictional force which acts perpendicular to movement of the
 object in the opposite direction.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image39.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image39.png)
 
 Static friction resists the initiation of motion. The static friction
 increases as more force is applied to an object in order to move it. The
@@ -476,17 +476,17 @@ its maximum before the object starts moving.
 
 Each surface has a different friction coefficient, the max force to move
 an object can be calculated as follows:\
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image40.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image40.png)
 
 Kinetic friction resists the motion of a moving object
 
 Kinetic friction is less than static friction
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image41.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image41.png)
 
 Air and water also have friction
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image42.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image42.png)
 
 Work and Energy
 ---------------
@@ -508,9 +508,9 @@ direction of the movement of the object.
 
 Energy -\> The capacity to do work
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image43.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image43.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image44.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image44.png)
 
 Conversation of energy (kinetic)
 ================================
@@ -527,7 +527,7 @@ from rest to its stated velocity.
 Kinetic energy = accumulated momentum as velocity changes : mv vs. ½ \*
 mv^2^
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image22.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image22.png)
 
 There are different types of energy:
 
@@ -542,9 +542,9 @@ F = ma
 
 W = mad
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image45.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image45.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image46.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image46.png)
 
 #### Potential energy
 
@@ -577,7 +577,7 @@ vacuum keep going in straight line) and the gravitational pull that
 Earth has on it. A satellite orbiting closer to the Earth requires more
 velocity to resist the stronger gravitational pull.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image47.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image47.png)
 
 Since F = ma
 
@@ -591,7 +591,7 @@ r = radius = distance between the two object's centre of gravity.
 
 Earth and moon exert the same gravitational force at each other
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image48.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image48.png)
 
 The earth-moon system rotate around its center of mass (which lies
 within earth but not its center)
@@ -609,7 +609,7 @@ Gravity on earth decreases with altitude but even more so the closer you
 move towards the equator since the shape of the earth bulges towards its
 centre due to centrifugal forces (as if you squash a soft ball)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image49.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image49.png)
 
 Therefore, the gravitational force is stronger at the poles than (9.82)
 than at the equator (9.79)
@@ -664,7 +664,7 @@ stuff, the only differences being its wavelength, which is the distance
 between each crest or trough, and its frequency, which is the rate at
 which it oscillates.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image50.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image50.png)
 
 **The higher the temperature, the shorter the wavelength and therefore
 the higher the frequency.** Blue stars appear blue because they are
@@ -672,7 +672,7 @@ hotter and emit most of their light in the blue part of the visible
 spectrum. And red stars are red because they are cooler and emit a
 majority of red light.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image51.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image51.png)
 
 Infra red = beyond red = long wave length (heat camera even longer and
 micro-waves -\> radio waves)
@@ -704,7 +704,7 @@ Entropy
 Based on observations of steam engines Work = Heat energy input -- heat
 energy lost (friction, sound). No such flow exists.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image52.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image52.png)
 
 Entropy -\> The **entropy** of an object is a measure of the amount of
 [energy](https://simple.wikipedia.org/wiki/Energy) which is unavailable
@@ -719,7 +719,7 @@ an object or system smaller; without work, entropy can never become
 smaller -- you could say that everything slowly goes to disorder (or
 being from more concentrated into more dispersed) (higher entropy).
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image53.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image53.png)
 
 Number of arrangements for identical objects (based on combinations):
 
@@ -736,11 +736,11 @@ r = 3 -- 1 = 2
 **2 farms with 3 sheep in 3 plots each. Representing to solids with 3
 atoms and 3 boundaries.**
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image54.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image54.png)
 
 **Combin(6+6-1,6-1) = 462**
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image55.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image55.png)
 
 | **\# sheep 1st farm** | **Count multiplier 1** | **\# sheep 2nd farm** | **Count multiplier 2** | **Total** | **% of 462** |
 |-----------------------|------------------------|-----------------------|------------------------|-----------|--------------|
@@ -754,7 +754,7 @@ atoms and 3 boundaries.**
 
 [\[CHART\]]{.chart}
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image56.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image56.png)
 
 Since atoms have much higher numbers of "moving parts" the likelihood of
 a low entropy state (skewed distribution of sheep) is very low. This is
@@ -778,16 +778,16 @@ daemon needs to store the information and in order to delete the
 information (if the storage runs out of space) it will take energy to do
 so.
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image57.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image57.png)
 
 Calculus
 ========
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image58.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image58.png)
 
 Rates of change and their accumulation over time
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image59.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image59.png)
 
 Velocity = x/t = slope of line
 
@@ -798,14 +798,14 @@ Limit = infinitely zooming in
 
 Can also be imagined by using discrete time steps:
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image60.png)![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image61.png)
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image62.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image60.png)![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image61.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image62.png)
 
 Integral = opposite e.g. measure position based on velocity per time:
 
 Measure the area under the curve
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image63.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image63.png)
 
 Relativity
 ==========
@@ -814,15 +814,15 @@ Relativity
 
 Special relativity = E=mc^2^
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image64.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image64.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image65.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image65.png)
 
 Gravity = curvature of space-time
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image66.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image66.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image67.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image67.png)
 
 More gravity = slower time -\> clocks on mountains tick faster
 
@@ -848,7 +848,7 @@ satellite clock advances faster than a clock on the ground by about 38
 microseconds per day.
 
 https://www.youtube.com/watch?v=XFV2feKDK9E
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image68.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image68.png)
 
 <https://www.youtube.com/watch?v=XFV2feKDK9E>
 
@@ -895,11 +895,11 @@ light does not reach the eyes of the presidents at the same time since
 the movement of the train moves towards the president on the left
 hand-side (train is moving from left to right).
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image69.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image69.png)
 
 Time difference (from perspective of platform):
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image70.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image70.png)
 
 L = Length of train
 
@@ -923,12 +923,12 @@ c t~F~ = L/2 (C+V)
 
 Time difference = $\frac{\text{VL}}{C^{2 -}V^{2}}$
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image71.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image71.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image72.png)
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image73.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image72.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image73.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\General\media_Physics/media/image74.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image74.png)
 
 Information theory
 ==================

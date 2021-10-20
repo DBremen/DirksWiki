@@ -2,13 +2,13 @@
 
 http://www.slideshare.net/marlondumas
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image1.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image1.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image2.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image2.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image3.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image3.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image4.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image4.png)
 
 Questions to ask about a process
 
@@ -36,7 +36,7 @@ BPMCBOK = for project management
 BPM advantages
 ==============
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image5.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image5.png)
 
 -   Model business process
 
@@ -73,54 +73,54 @@ to do so is most welcome.
 
 -   Satisfaction - Are customers and employees satisfied?
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image6.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image6.png)
 
 BPM lifecycle
 =============
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image7.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image7.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image8.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image8.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image9.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image9.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image10.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image10.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image11.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image11.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image12.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image12.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image13.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image13.png)
 
 Process Architecture
 ====================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image14.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image14.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image15.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image15.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image16.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image16.png)
 
 Business Process Modelling notation
 ===================================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image17.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image17.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image18.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image18.png)
 
 Process Analysis
 ================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image19.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image19.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image20.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image20.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image21.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image21.png)
 
 Qualitative Analysis
 --------------------
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image22.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image22.png)
 
 CMMI for services
 =================
@@ -192,7 +192,7 @@ Organizations typically focus on:
 
 -   tools and equipment
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image23.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image23.png)
 
 What holds everything together? It is the processes used in your
 organization. Processes allow you to align the way you do business. They
@@ -295,11 +295,11 @@ Primary Satisfier (more is better) = Refund received within timeframe
 
 Delighter = Receiving extra present ( discount for next purchase)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image24.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image24.png)
 
-![http://www.emeraldinsight.com/content\_images/fig/0400210703007.png](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image25.png)
+![http://www.emeraldinsight.com/content\_images/fig/0400210703007.png](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image25.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image26.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image26.png)
 
 CTQ = Critical to quality
 
@@ -308,11 +308,11 @@ Use SIPOC for stakeholder analysis
 Look for waste in processes (mark value-added, non-value added and
 value-added but necessary process steps)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image27.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image27.png)
 
 Determine process capability
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image28.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image28.png)
 
 Data
 ----
@@ -330,20 +330,20 @@ Data
     the mean of the process output. If a process runs at 6 six sigma
     there are only 3.4 defects out of 1 million.
 
-    ![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image29.jpg)
+    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image29.jpg)
 
 -   Measure performance against process capability
 
 Process Improvement handbook
 ============================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image30.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image30.png)
 
 In simple terms, the primary difference between a process and a
 procedure is that a process is what you do and a procedure is how you do
 it.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image35.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image36.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image35.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image36.png)
 
 *Process Management* is the ensemble of planning, engineering,
 improving, and monitoring an organization's processes in order to
@@ -357,26 +357,26 @@ to reduce human error and miscommunication in these processes and to
 focus stakeholders on improving their operating environment using
 Process Improvement methods.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image37.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image37.png)
 
 <http://www.acuityinstitute.com/design-for-six-sigma.html>
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image38.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image38.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image38.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image38.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image39.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image39.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image38.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image38.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image40.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image40.png)
 
 DFSS
 ====
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image41.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image41.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image42.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image42.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image43.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image43.png)
 
 -   Quantify the gap between as is and target for each KPI (e.g.
     comparison of current market share with current product on the
@@ -395,14 +395,14 @@ DFSS
     first positive contribution to margin or until Break Even is
     achieved)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image47.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image48.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image47.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image48.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image49.png)![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image50.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image49.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image50.png)
 
 Service Management
 ==================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image51.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image51.png)
 
 For all repeated services, a process is employed to carry out the
 service, and a set of service management processes is used to manage the
@@ -419,7 +419,7 @@ want to provide. The execution of a service is the process of performing
 the task, whereas service management is the process of making sure that
 the task is performed according to expectations.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image52.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image52.png)
 
 To optimize your outcome over time, you need to monitor customers'
 expectations on an ongoing basis; simply assuming that current service
@@ -441,7 +441,7 @@ stakeholders had in mind when the service was established.
 Process capability
 ==================
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image53.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image53.png)
 
 For discussion purposes, we will assign a customer diameter
 specification of 0.5 ± 0.005 to the machined parts of Figure 2.3. The
@@ -472,7 +472,7 @@ Diameter Capability Ratio = 1.66
 The process is stable and capable with regard to the product
 characteristic "diameter."
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image54.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image54.png)
 
 Original idea originates from Ford quality manual for its suppliers:
 
@@ -523,7 +523,7 @@ accept, not desirable but acceptable.**
 >
 > **Capability Index (Cpk) versus Capability Ratio (CR)**
 >
-> ![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image55.png)
+> ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image55.png)
 >
 > The Cpk is the same concept as the CR. The only difference is that we
 > use Cpk when the product average is not the same as the customer
@@ -586,7 +586,7 @@ CPU = 0.025 ÷ 0.003
 
 CPU = 8.33
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image56.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image56.png)
 
 Generally speaking, product problems on the shop floor or at the
 customer or supplier fall into one of two categories. The problem can be
@@ -594,7 +594,7 @@ one of instability or of incapability. Specifically, the problem exists
 because the product average has shifted or because the product has too
 much variation about a consistent average.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image57.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image57.png)
 
 The purpose of a process capability study is to determine if the
 manufacturing process is stable and capable by measuring the critical
@@ -618,20 +618,20 @@ Six Sigma
 <http://www.isixsigma.com/new-to-six-sigma/dmaic/scientific-problem-solving-dmaic-terms-y-fx/>
 
 ![Figure 1: A Scientific Model of
-DMAIC](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image58.gif)
+DMAIC](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image58.gif)
 
 A Six Sigma project is successful when the team is able to solve Y =
 f(x).That is, relate all the key inputs to each expected output within a
 small magnitude of error
 
 ![Figure 2: Six Sigma Project
-Model](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image59.gif)
+Model](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image59.gif)
 
 ![Figure 3: DMAIC
-Roadmap](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image60.gif)
+Roadmap](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image60.gif)
 
 ![Figure 5: Example Application of Six Sigma Scientific
-Thinking](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image61.gif)
+Thinking](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image61.gif)
 
 ![Figure 4: Type I and Type II
-Errors](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Processes/media/image62.gif)
+Errors](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image62.gif)

@@ -121,7 +121,7 @@ Böse als Zusammentreffen von bestimmten Lastern mit entsprechenden
 Gelegenheiten in der Außenwelt, die destruktives Verhalten begünstigen
 (Krieg)**
 
-![](C:\Users\Dirk\Desktop\test\docs\Personal_Development\media_Innere_MItte/media/image1.png)
+![](C:\scripts\dirkswiki\docs\Personal_Development\media_Innere_MItte/media/image1.png)
 
 *Leidenschaften*
 ================
@@ -208,9 +208,9 @@ Emotionen:
 
 -   Überraschung
 
-![](C:\Users\Dirk\Desktop\test\docs\Personal_Development\media_Innere_MItte/media/image2.png)
+![](C:\scripts\dirkswiki\docs\Personal_Development\media_Innere_MItte/media/image2.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Personal_Development\media_Innere_MItte/media/image3.png)
+![](C:\scripts\dirkswiki\docs\Personal_Development\media_Innere_MItte/media/image3.png)
 
 ### Gefühl
 

@@ -243,7 +243,7 @@ glass or hardened steel
 Spin glass -\> checker board of particles pointing upwards = 1, pointing
 downwards = -1
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image1.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image1.png)
 
 The goal is to change the particles such that they all point in the same
 direction.
@@ -255,7 +255,7 @@ are set free to move and try to align themselves in terms of the
 direction they are pointing with their neighbours. This will cause
 neighbourhoods of particles to point into the same direction.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image2.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image2.png)
 
 At this stage the material is made gradually colder again. This will
 cause the bigger regions to be fixed. But the boundaries where the
@@ -461,7 +461,7 @@ of bridge.
 If at any point 4 people of the group do meet at the same square they
 will go off in 4 different directions.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image3.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image3.png)
 
 Eventually this system will self-organize into a critical state where
 dropping additional people will lead to huge cascades of movements
@@ -491,14 +491,14 @@ the others cars will have to slow down too. Even if the car in front
 will accelerate again it will take the other cars much longer to take up
 speed again.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image4.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image4.png)
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image5.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image5.png)
 
 It might take long enough for others cars driving behind the lane of
 cars also having to queue behind the same lane.
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image6.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image6.png)
 
 This can then cascade down to more cars causing a traffic jam.
 
@@ -523,7 +523,7 @@ First world war
 -   Later also Britain and Japan joined to help Russia, Serbia, and
     France
 
-![](C:\Users\Dirk\Desktop\test\docs\Process_System_Models\media_Complexity/media/image7.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Complexity/media/image7.png)
 
 Where does randomness come from?
 ================================
