@@ -234,13 +234,13 @@ Distrust in life and others
 -   Focus on the process rather than the outcome as a source of
     happiness
 
--   -   External outcomes only account for 10% of our happiness
+-   External outcomes only account for 10% of our happiness
 
 -   Genetic propensity = 50%
 
 -   Attitude towards life = 40%
 
--   Good thing bad thing how knows (story of the guy who wanted to have
+-   Good thing bad thing who knows (story of the guy who wanted to have
     horses)
 
 -   Try to pursue the outcome you desire and enjoy the process
@@ -248,7 +248,7 @@ Distrust in life and others
 -   Don't judge the outcome after it occurred and accept it, even if it
     > is not the outcome you desired
 
--   Keep it mind that previously perceived negative outcomes turned into
+-   Keep in mind that previously perceived negative outcomes turned into
     > positive ones
 
 -   Look for opportunities that a negative outcome might have

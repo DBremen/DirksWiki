@@ -34,8 +34,7 @@ that it's precisely our fears for our children, which we think of as
 concern, that are the problem with most parenting. These fears often
 take the form of intense anxiety with regard to our children. Whatever
 its precise manifestation, our fears undermine so many of our good
-intentions. Fear is the reason our parenting somehow manages to produce
-results that are the exact opposite of what we were aiming for.
+intentions.
 
 **Our children may be small and powerless in terms of living independent
 lives, but they are mighty in their potential to be our awakeners.**
@@ -55,15 +54,12 @@ our own emotions.
 The reason neither traditional (it's the child's fault) nor contemporary
 (be calm and understanding) responses to children's provocations are
 effective for long is that they don't get to the root of the behavior.
-The focus of the various techniques parents read about or pick up from
-experts or other parents is on the particular behavior, not on the
-dynamics that underlie the behavior. These techniques are all about
-controlling children so their actions don't trigger us. We tell
-ourselves that if we could just get the child to "do" or "not do"
-certain things, we wouldn't react the way we do. It's a game in which
-both parent and child are always trying to stay one step ahead of the
-other. Needless to say, the game results in anger, anxiety, and
-frequently disappointment and even sadness.
+These techniques are all about controlling children so their actions
+don't trigger us. We tell ourselves that if we could just get the child
+to "do" or "not do" certain things, we wouldn't react the way we do.
+It's a game in which both parent and child are always trying to stay one
+step ahead of the other. Needless to say, the game results in anger,
+anxiety, and frequently disappointment and even sadness.
 
 Pushing buttons
 ---------------
@@ -138,12 +134,6 @@ else just let them be themselves. Many children suffer from guilt, and
 in many cases live in a state of shame, because they are unable to
 perform to their parents' satisfaction.
 
-Placing expectations on your child instead of allowing the child's own
-natural inclinations to emerge spontaneously may well result in an
-emotional Grand Canyon between you and your child. As the gap widens, a
-flood of anxiety will rush in to fill it---anxiety not only for your
-child but also for yourself.
-
 Parenting is not only about the child
 -------------------------------------
 
@@ -178,11 +168,7 @@ return for which they hope to receive their parents' love.
 
 Instead of seeing her as defiant, they now realized that she was
 defending herself. Just this small shift in perspective allowed them to
-work with her in a whole new way. Now they couldn't just pin all the
-blame on her but instead had to ask themselves, "Why does our child feel
-the need to be so defensive? What can we do to help her?" As they
-examined their part, they were able to release her from the burden of
-being "the defiant one."
+work with her in a whole new way.
 
 Unconditional love
 ------------------
@@ -193,14 +179,12 @@ they are being irrational and unpredictable. Children want nothing more
 than to feel they have our permission to express who they are at any
 given moment. No, I'm not talking about mindlessly indulging them, but
 rather about creating the conditions for them to express their whole
-self. When we give them this freedom, they experience a vast, unbounded
-spaciousness in which to discover themselves and ultimately flourish.
-They feel our love as love, not as control born of our fear.
+self.
 
 Holy grail of happiness
 -----------------------
 
-In the search for eternal happiness we don't realize that this means we
+In the search for eternal happiness, we don't realize that this means we
 are conditioned to depend on life working out in a particular way, we
 appear helpless when it doesn't. Only when we separate the internal
 (ourselves) from the external (things that happen in life) do we realize
@@ -222,17 +206,7 @@ Engaging in life "as is" rather than doing -- avoidance of unhappiness
 
 Children inherently know how to engage life as it is. They cry and throw
 tantrums, but they don't attach their sense of worth to what may be
-happening. Unless taught otherwise, they are ready to pick themselves up
-when life doesn't go their way. Children feel their feelings and move on
-without being attached or getting a victim of the circumstances or
-judging life on how it makes them feel.
-
-**By training our children to be outcome-oriented, engaging life based
-on whether a particular experience makes them feel good or not, we teach
-them that if an activity doesn't qualify, they should avoid it and look
-for an experience that promises happiness. Thus, because of our fear
-that they might experience some kind of pain, they miss out on the
-immediate experience of life.**
+happening. Unless taught otherwise, they are ready to pick
 
 Control over children
 ---------------------
@@ -314,14 +288,6 @@ good health, exposing them to life's possibilities, and showing our
 support for them. If we were honest with ourselves, we would admit that
 all of this is just manipulation so we can get our way.
 
-When we understand that less-than-desirable behavior is a signal of
-something else, we are reminded to connect with our children in a more
-meaningful manner. When we view their behavior through the lens of cause
-and effect, instead of rushing to judgment about their character, we
-become curious about their feelings and experiences. This approach does
-wonders in terms of building trust and thereby drawing our children
-closer to us.
-
 **Instead of attempting to get our children to change, the challenge is
 to transform our energy from a state of neediness to one of empowerment
 based on an awareness of the abundance at our disposal. By asking, "Can
@@ -336,32 +302,6 @@ you are doing?" It doesn't occur to us to say, "Why am I getting so
 agitated right now? Can I communicate my needs in a respectful manner
 knowing that the other is not coming from a place of evil intention? Can
 I remove myself from this situation if it feels unbearable?
-
-> **\~ A New Commitment to Shedding the Past \~**
->
-> Even though I want to cling to what ought to be
->
-> And all the ways life should have been,
->
-> I know that my resistance to what is
->
-> Comes from fear,
->
-> Which blinds me to the jewels of the present moment.
->
-> If I can let go of my need to control
->
-> I can enter the unknown with vigor.
->
-> Flowing with grit, resilience, and power,
->
-> I can become the agent
->
-> Of the transformation I wish to witness.
->
-> Resisting nothing,
->
-> I greet the present moment with awareness and joy.
 
 Being you, balance energy rather than mirror (throwing tantrums yourself)
 -------------------------------------------------------------------------
@@ -470,23 +410,17 @@ go requires an alive presence that understands how connection with
 another is an engagement in which energy flows back and forth moment by
 moment with no guarantee of how things will end up. We understand that
 it's about the process of communicating, rather than where we need to
-end up or whose agenda needs to be met. It fully recognizes the
-importance of walking every step of the process together, with both
-parties engaged and empowered.
+end up or whose agenda needs to be met.
 
 Empathy is the ability to connect with what the other is feeling. This
 requires us to accept that it's okay for our child, partner, or friend
-to feel a certain way. Of course they do, since we are two distinct
-beings. This is the natural order of things in a healthy relationship.
-We don't need to change the other, any more than we need to change
-ourselves. We simply need to recognize the validity of the other's
-feelings, even as we want our own feelings to be recognized. Initially,
-holding the space within ourselves for both perspectives is extremely
-challenging. We can do this only if we aren't under siege from our own
-emotions. Anxiety constricts our inner space, causing it to quickly
-morph into control, which soon becomes anger.
+to feel a certain way. We don't need to change the other, any more than
+we need to change ourselves. We simply need to recognize the validity of
+the other's feelings, even as we want our own feelings to be recognized.
 
 -   Do" sit close to your child in complete silence.
+
+<!-- -->
 
 -   "Do" look into their eyes and keep your gaze on them.
 

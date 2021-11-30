@@ -17,20 +17,11 @@ responsible, a more helpful, a more contributing employee. If you want
 to be trusted, be trustworthy. If you want the secondary greatness of
 recognized talent, focus first on primary greatness of character.
 
-The Inside-Out approach says that Private Victories TM precede Public
-Victories TM, that making and keeping promises to ourselves precedes
-making and keeping promises to others. It says it is futile to put
-personality ahead of character, to try to improve relationships with
-others before improving ourselves. Inside-Out is a process \-- a
-continuing process of renewal based on the natural laws that govern
-human growth and progress. It\'s an upward spiral of growth that leads
-to progressively higher forms of responsible independence and effective
-interdependence.
-
-The character ethic taught that there are basic principles of effective
-living, and that people can only experience true success and enduring
-happiness as they learn and integrate these principles into their basic
-character.
+The Inside-Out approach says that Private Victories precede Public
+Victories, that making and keeping promises to ourselves precedes making
+and keeping promises to others. It says it is futile to put personality
+ahead of character, to try to improve relationships with others before
+improving ourselves.
 
 But shortly after World War I the basic view of success shifted from the
 character ethic to what we might call the personality ethic. Success
@@ -40,30 +31,17 @@ interaction. This personality ethic essentially took two paths: one was
 human and public relations techniques and the other was positive mental
 attitude (PMA).
 
-If I try to use human influence strategies and tactics of how to get
-other people to do what I want, to work better, to be more motivated, to
-like me and each other \-- while my character is fundamentally flawed,
-marked by duplicity and insincerity \-- then, in the long run, I cannot
-be successful. My duplicity will breed distrust, and everything I do \--
-even using so-called good human relations techniques \-- will be
-perceived as manipulative. It simply makes no difference how good the
-rhetoric is or even how good the intentions are; if there is little or
-no trust, there is no foundation for permanent success. Only basic
-goodness gives life to technique.
-
 This brings into focus one of the basic flaws of the personality ethic.
 To try to change outward attitudes and behaviors does very little good
 in the long run if we fail to examine the basic paradigms from which
 those attitudes and behaviors flow.
 
-Each of us tends to think we see things as they are, that we are
-objective. But this is not the case. We see the world, not as it is, but
-as we are \-- or, as we are conditioned to see it. When we open our
-mouths to describe what we see, we in effect describe ourselves, our
-perceptions, our paradigms. When other people disagree with us, we
-immediately think something is wrong with them. But, as the
-demonstration shows, sincere, clearheaded people see things differently,
-each looking through the unique lens of experience.
+We see the world, not as it is, but as we are \-- or, as we are
+conditioned to see it. When we open our mouths to describe what we see,
+we in effect describe ourselves, our perceptions, our paradigms. When
+other people disagree with us, we immediately think something is wrong
+with them. Sincere, clearheaded people see things differently, each
+looking through the unique lens of experience.
 
 The more aware we are of our basic paradigms, maps, or assumptions, and
 the extent to which we have been influenced by our experience, the more
@@ -71,53 +49,17 @@ we can take responsibility for those paradigms, examine them, test them
 against reality, listen to others and be open to their perceptions,
 thereby getting a larger picture and a far more objective view.
 
-Paradigm Shift experienced by the captain \-- and by us as we read this
-account \-- puts the situation in a totally different light. We can see
-a reality that is superseded by his limited perceptions \-- a reality
-that is as critical for us to understand in our daily lives as it was
-for the captain in the fog.
-
-Principles are guidelines for human conduct that are proven to have
-enduring, permanent value. They\'re fundamental. They\'re essentially
-unarguable because they are self-evident. One way to quickly grasp the
-self-evident nature of principles is to simply consider the absurdity of
-attempting to live an effective life based on their opposites. I doubt
-that anyone would seriously consider unfairness, deceit, baseness,
-uselessness, mediocrity, or degeneration to be a solid foundation for
-lasting happiness and success. Although people may argue about how these
-principles are defined or manifested or achieved, there seems to be an
-innate consciousness and awareness that they exist.
-
 The more closely our maps or paradigms are aligned with these principles
 or natural laws, the more accurate and functional they will be. Correct
 maps will infinitely impact our personal and interpersonal effectiveness
 far more than any amount of effort expended on changing our attitudes
 and behaviors.
 
-The glitter of the personality ethic, the massive appeal, is that there
-is some quick and easy way to achieve quality of life \-- personal
-effectiveness and rich, deep relationships with other people \-- without
-going through the natural process of work and growth that makes it
-possible
-
 Our level of development is fairly obvious with tennis or piano playing,
 where it is impossible to pretend. But it is not so obvious in the areas
 of character and emotional development. We can \"pose\" and \"put on\"
 for a stranger or an associate. We can pretend. And for a while we can
-get by with it \-- at least in public. We might even deceive ourselves.
-Yet I believe that most of us know the truth of what we really are
-inside; and I think many of those we live with and work with do as well.
-
-I have seen the consequences of attempting to shortcut this natural
-process of growth often in the business world, where executives attempt
-to \"buy\" a new culture of improved productivity, quality, morale, and
-customer service with the strong speeches, smile training, and external
-interventions, or through mergers, acquisitions, and friendly or
-unfriendly takeovers. But they ignore the low-trust climate produced by
-such manipulations. When these methods don\'t work, they look for other
-personality ethic techniques that will \-- all the time ignoring and
-violating the natural principles and processes on which high-trust
-culture is based.
+get by with it \-- at least in public.
 
 Habits are powerful factors in our lives. Because they are consistent,
 often unconscious patterns, they constantly, daily, express our
@@ -128,22 +70,6 @@ knowledge, skill, and desire. Knowledge is the theoretical paradigm, the
 what to do and the why. Skill is the how to do. And desire is the
 motivation, the want to do. In order to make something a habit in our
 lives, we have to have all three.
-
-But knowing I need to listen and knowing how to listen is not enough.
-Unless I want to listen, unless I have the desire, it won\'t be a habit
-in my life. Creating a habit requires work in all three dimensions.
-
-The Seven Habits are not a set of separate or piecemeal psyche-up
-formulas. In harmony with the natural laws of growth, they provide an
-incremental, sequential, highly integrated approach to the development
-of personal and interpersonal effectiveness. They move us progressively
-on a Maturity Continuum from dependence to interdependence.
-
-As we continue to grow and mature, we become increasingly aware that all
-of nature is interdependent, that there is an ecological system that
-governs nature, including society. We further discover that the higher
-reaches of our nature have to do with our relationships with others \--
-that human life also is interdependent.
 
 Dependent people need others to get what they want. Independent people
 can get what they want through their own effort. Interdependent people
@@ -159,30 +85,15 @@ also recognize the need for love, for giving, and for receiving love
 from others. If I am intellectually interdependent, I realize that I
 need the best thinking of other people to join with my own.
 
-As an interdependent person, I have the opportunity to share myself
-deeply, meaningfully, with others, and I have access to the vast
-resources and potential of other human beings. Interdependence is a
-choice only independent people can make.
-
 Dependent people cannot choose to become interdependent. They don\'t
 have the character to do it; they don\'t own enough of themselves.
 
-That\'s why Habits 1, 2, and 3 in the following chapters deal with
-self-mastery. They move a person from dependence to independence. They
-are the \"Private Victories,\" the essence of character growth. Private
-Victories precede Public Victories. You can\'t invert that process
-anymore than you can harvest a crop before you plant it. It\'s
-Inside-Out.
+That\'s why Habits 1, 2, and 3 move a person from dependence to
+independence. They are the \"Private Victories,\" the essence of
+character growth.
 
 The habits
 ==========
-
-The Seven Habits are habits of effectiveness. Because they are based on
-principles, they bring the maximum long-term beneficial results
-possible. They become the basis of a person\'s character, creating an
-empowering center of correct maps from which an individual can
-effectively solve problems, maximize opportunities, and continually
-learn and integrate other principles in an upward spiral of growth.
 
 They are also habits of effectiveness because they are based on a
 paradigm of effectiveness that is in harmony with a natural law, a
@@ -207,11 +118,7 @@ difference in the effective use of physical assets.
 To maintain the P/PC Balance, the balance between the golden egg
 (Production) and the health and welfare of the goose (Production
 Capability) is often a difficult judgment call. But I suggest it is the
-very essence of effectiveness. It balances short term with long term. It
-balances going for the grade and paying the price to get an education.
-It balances the desire to have a room clean and the building of a
-relationship in which the child is internally committed to do it \--
-cheerfully, willingly, without external supervision.
+very essence of effectiveness. It balances short term with long term.
 
 Private Victory 
 ================
@@ -225,11 +132,10 @@ choose.
 Within the freedom to choose are those endowments that make us uniquely
 human. In addition to self-awareness, we have imagination \-- the
 ability to create in our minds beyond our present reality. We have
-conscience \-- a deep inner awareness of right and wrong, of the
-principles that govern our behavior, and a sense of the degree to which
-our thoughts and actions are in harmony with them. And we have
-independent will \-- the ability to act based on our self-awareness,
-free of all other influences.
+conscience \-- a deep inner awareness of right and wrong, and a sense of
+the degree to which our thoughts and actions are in harmony with them.
+And we have independent will \-- the ability to act based on our
+self-awareness, free of all other influences.
 
 ### Proactivity defined
 
@@ -263,40 +169,13 @@ self-respect if we do not give it to them.\" It is our willing
 permission, our consent to what happens to us, that hurts us far more
 than what happens to us in the first place.
 
-Whether a problem is direct, indirect, or no control, we have in our
-hands the first step to the solution. Changing our habits, changing our
-methods of influence and changing the way we see our no control problems
-are all within our Circle of Influence.
-
-Anytime we think the problem is \"out there,\" that thought is the
-problem. We empower what\'s out there to control us. The change paradigm
-is \"outside-in\" \-- what\'s out there has to change before we can
-change. The proactive approach is to change from the Inside-Out: to be
+The proactive approach is to change from the Inside-Out: to be
 different, and by being different, to effect positive change in what\'s
 out there \-- I can be more resourceful, I can be more diligent, I can
 be more creative, I can be more cooperative.
 
 While we are free to choose our actions, we are not free to choose the
-consequences of those actions. Consequences are governed by natural law.
-They are out in the Circle of Concern. We can decide to step in front of
-a fast-moving train, but we cannot decide what will happen when the
-train hits us.
-
-We can decide to be dishonest in our business dealings. While the social
-consequences of that decision may vary depending on whether or not we
-are found out, the natural consequences to our basic character are a
-fixed result.
-
-Our behavior is governed by principles. Living in harmony with them
-brings positive consequences; violating them brings negative
-consequences. We are free to choose our response in any situation, but
-in doing so, we choose the attendant consequence. \"When we pick up one
-end of the stick, we pick up the other.\"
-
-For those filled with regret, perhaps the most needful exercise of
-proactivity is to realize that past mistakes are also out there in the
-Circle of Concern. We can\'t recall them, we can\'t undo them, and we
-can\'t control the consequences that came as a result.
+consequences of those actions.
 
 We can make a promise \-- and keep it. Or we can set a goal \-- and work
 to achieve it. As we make and keep commitments, even small commitments,
@@ -305,14 +184,6 @@ self-control and the courage and strength to accept more of the
 responsibility for our own lives. By making and keeping promises to
 ourselves and others, little by little, our honor becomes greater than
 our moods.
-
-The power to make and keep commitments to ourselves is the essence of
-developing the basic habits of effectiveness. Knowledge, skill, and
-desire are all within our control. We can work on any one to improve the
-balance of the three. As the area of intersection becomes larger, we
-more deeply internalize the principles upon which the habits are based
-and create the strength of character to move us in a balanced way toward
-increasing effectiveness in our lives.
 
 Habit 2: Begin with the End in Mind
 -----------------------------------
@@ -334,30 +205,6 @@ success only to discover it\'s leaning against the wrong wall. If the
 ladder is not leaning against the right wall, every step we take just
 gets us to the wrong place faster.**
 
-\"Begin with the End in Mind\" is based on the principle that all things
-are created twice. There\'s a mental or first creation, and a physical
-or second creation to all things.
-
-To the extent to which we understand the principle of two creations and
-accept the responsibility for both, we act within and enlarge the
-borders of our Circle of Influence. To the extent to which we do not
-operate in harmony with this principle and take charge of the first
-creation, we diminish it.
-
-It\'s a principle that all things are created twice, but not all first
-creations are by conscious design. In our personal lives, if we do not
-develop our own self-awareness and become responsible for first
-creations, we empower other people and circumstances outside our Circle
-or Influence to shape much of our lives by default. We reactively live
-the scripts handed to us by family, associates, other people\'s agendas,
-the pressures of circumstance \-- scripts from our earlier years, from
-our training, our conditioning
-
-These scripts come from people, not principles. And they rise out of our
-deep vulnerabilities, our deep dependency on others and our need for
-acceptance and love, for belonging, for a sense of importance and worth,
-for a feeling that we matter.
-
 ### Personal mission statement
 
 People can\'t live with change if there\'s not a changeless core inside
@@ -375,21 +222,7 @@ It is here that we deal with our vision and our values. It is here that
 we use our endowment of self-awareness to examine our maps and, if we
 value correct principles, to make certain that our maps accurately
 describe the territory, that our paradigms are based on principles and
-reality. It is here that we use our endowment of conscience as a compass
-to help us detect our own unique talents and areas of contribution. It
-is here that we use our endowment of imagination to mentally create the
-end we desire, giving direction and purpose to our beginnings and
-providing the substance of a written personal constitution.
-
-Whatever is at the center of our life will be the source of our
-security, guidance, wisdom, and power. Security represents your sense of
-worth, your identity, your emotional anchorage, your self-esteem, your
-basic personal strength or lack of it.
-
-Guidance means your source of direction in life. Encompassed by your
-map, your internal frame of reference that interprets for you what is
-happening out there, are standards or principles or implicit criteria
-that govern moment-by-moment decision-making and doing.
+reality
 
 These four factors \-- security, guidance, wisdom, and power \-- are
 interdependent. Security and clear guidance bring true wisdom, and
@@ -402,21 +235,7 @@ Principles don\'t react to anything. They won\'t divorce us or run away
 with our best friend. They aren\'t out to get us. They can\'t pave our
 way with shortcuts and quick fixes. They don\'t depend on the behavior
 of others, the environment, or the current fad for their validity.
-Principles don\'t die. They aren\'t here one day and gone the next. They
-can\'t be destroyed by fire, earthquake, or theft. Principles are deep,
-fundamental truths, classic truths, and generic common denominators.
-They are tightly interwoven threads running with exactness, consistency,
-beauty, and strength through the fabric of life.
-
-The wisdom and guidance that accompany Principle-Centered Living come
-from correct maps, from the way things really are, have been, and will
-be. Correct maps enable us to clearly see where we want to go and how to
-get there. We can make our decisions using the correct data that will
-make their implementation possible and meaningful. The personal power
-that comes from Principle-Centered Living is the power of a self-aware,
-knowledgeable, proactive individual, unrestricted by the attitudes,
-behaviors, and actions of others or by many of the circumstances and
-environmental influences that limit other people.
+Principles don\'t die.
 
 Frankl says we detect rather than invent our missions in life. I like
 that choice of words. I think each of us has an internal monitor or
@@ -436,23 +255,6 @@ minor changes as the years bring additional insights or changing
 circumstances. But fundamentally, your mission statement becomes your
 constitution, the solid expression of your vision and values. It becomes
 the criterion by which you measure everything else in your life.
-
-There are a number of techniques using your imagination that can put you
-in touch with your values. But the net effect of every one I have ever
-used is the same. When people seriously undertake to identify what
-really matters most to them in their lives, what they really want to be
-and to do, they become very reverent. They start to think in larger
-terms than today and tomorrow.
-
-In effective personal leadership, visualization and affirmation
-techniques emerge naturally out of a foundation of well thought through
-purposes and principles that become the center of a person\'s life. They
-are extremely powerful in re-scripting and reprogramming, into writing
-deeply committed-to purposes and principles into one\'s heart and mind.
-I believe that central to all enduring religions in society are the same
-principles and practices clothed in different language \-- meditation,
-prayer, covenants, ordinances, scripture study, empathy, compassion, and
-many different forms of the use of both conscience and imagination.
 
 Habit 3: Put First Things First
 -------------------------------
@@ -486,12 +288,7 @@ Quadrant II organizing involves four key activities.
     uncles, and cousins. You may want to list a few roles in your work,
     indicating different areas in which you wish to invest time and
     energy on a regular basis. You may have roles in church or community
-    affairs. You don\'t need to worry about defining the roles in a way
-    that you will live with for the rest of your life \-- just consider
-    the week and write down the areas you see yourself spending time in
-    during the next seven days.
-
-    e.g.:
+    affairs. e.g.:
 
     1.  Individual
 
@@ -575,14 +372,7 @@ commitment regarding expectations in five areas.
     should operate. These should be as few as possible to avoid methods
     delegation, but should include any formidable restrictions. You
     won\'t want a person to think he had considerable latitude as long
-    as he accomplished the objectives, only to violate some
-    long-standing traditional practice or value. That kills initiative
-    and sends people back to the gofer\'s creed: \"Just tell me what you
-    want me to do, and I\'ll do it.\"
-
-    Let people learn from your mistakes or the mistakes of others. Point
-    out the potential failure
-
+    as he accomplished the objectives. Point out the potential failure
     paths, what not to do, but don\'t tell them what to do. Keep the
     responsibility for results with them \-- to do whatever is necessary
     within the guidelines.
@@ -631,24 +421,14 @@ weak, hardball or softball, win or lose. But that kind of thinking if
 fundamentally flawed. It\'s based on power and position rather than on
 principle. Win-win is based on the paradigm that there is plenty for
 everybody, that one person\'s success is not achieved at the expense or
-exclusion of the success of others. Win-win is a belief in the Third
-Alternative. It\'s not your way or my way; it\'s a better way, a higher
-way.
+exclusion of the success of others.
 
 No deal basically means that if we can\'t find a solution that would
-benefit us both, we agree to disagree agreeably \-- no deal. No
-expectations have been created, no performance contracts established. I
-don\'t hire you or we don\'t take on a particular assignment together
-because it\'s obvious that our values or our goals are going in opposite
-directions. It is so much better to realize this up front instead of
-downstream when expectations have been created and both parties have
-been disillusioned.
-
-Anything less than win-win in an interdependent reality is a poor second
-best that will have impact in the long-term relationship. The cost of
-the impact needs to be carefully considered. If you can\'t reach a true
-win-win, you\'re very often better off to go for no deal. Win-Win or No
-Deal provides tremendous emotional freedom in the family relationship.
+benefit us both, we agree to disagree agreeably \-- no deal. It is so
+much better to realize this up front instead of downstream when
+expectations have been created and both parties have been disillusioned.
+If you can\'t reach a true win-win, you\'re very often better off to go
+for no deal.
 
 If family members can\'t agree on a video that everyone will enjoy, they
 can simply decide to do something else \-- no deal \-- rather than
@@ -686,14 +466,11 @@ When I say empathic listening, I am not referring to the techniques of
 \"active\" listening or \"reflective\" listening, which basically
 involve mimicking what another person says. That kind of listening is
 skill-based, truncated from character and relationship, and often
-insults those \"listened\" to in such a way. It is also essentially
-autobiographical. If you practice those techniques, you may not project
-your autobiography in the actual interaction, but your motive in
-listening is autobiographical. You listen with reflective skills, but
-you listen with intent to reply, to control, to manipulate. When I say
-empathic listening, I mean listening with intent to understand. I mean
-seeking first to understand, to really understand. It\'s an entirely
-different paradigm.
+insults those \"listened\" to in such a way. You listen with reflective
+skills, but you listen with intent to reply, to control, to manipulate.
+When I say empathic listening, I mean listening with intent to
+understand. I mean seeking first to understand, to really understand.
+It\'s an entirely different paradigm.
 
 Empathic (from empathy) listening gets inside another person\'s frame of
 reference. You look out through it, you see the world the way they see

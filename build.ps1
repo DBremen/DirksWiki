@@ -1,6 +1,8 @@
 $sourceDocsFolder = 'C:\scripts\wikiDocs'
 $repoFolder = $PSScriptRoot
+
 function build () {
+    dir $sourceDocsFolder -rec -file | ren -NewName {$_.Name.Replace(' ','_')}
     if (Test-Path "$repoFolder\docs"){
         dir "$repoFolder\docs" -Exclude 'README.md' | del -Recurse -Force
     }

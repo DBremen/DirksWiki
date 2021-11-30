@@ -38,7 +38,7 @@ range(..)
 filetype
 --------
 
--   filetype:kml or kmz (go to google mymaps google.com/mymaps and
+-   filetype:kml OR kmz (go to google mymaps google.com/mymaps and
     import map)
 
 -   filetype:dat OR filetype:csv

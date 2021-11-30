@@ -1088,10 +1088,9 @@ together. Then all of them move on to the west side. Then the north and
 finally the east side. So all of them, in parallel, are looking at the
 same side of the building at any one moment.
 
-Instead of argument, where A is adversarially attacking B, we have a
-system where A and B are both looking and thinking in the same direction
--- but the directions change as they move around. That is parallel
-thinking.
+Instead of argument, where A is attacking B, we have a system where A
+and B are both looking and thinking in the same direction -- but the
+directions change as they move around. That is parallel thinking.
 
 Method:
 

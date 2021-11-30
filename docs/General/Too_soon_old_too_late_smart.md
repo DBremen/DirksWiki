@@ -8,17 +8,12 @@ Evaluate people based on traits that like kindness
 We are what we do
 =================
 
-Past behavior is the most reliable predictor of future behaviour
-
-In general we get, not what we deserve, but what we expect
-
-The three components of happiness are something useful to do, someone to
-love, and something to look forward to.
-
-We love someone when the importance of his or her needs and desires
-rises to the level of our own.
-
-The point is that love is demonstrated behaviorally.
+Past behavior is the most reliable predictor of future behaviour. In
+general, we get, not what we deserve, but what we expect The three
+components of happiness are something useful to do, someone to love, and
+something to look forward to. We love someone when the importance of his
+or her needs and desires rises to the level of our own. The point is
+that love is demonstrated behaviorally.
 
 It is difficult to remove by logic an idea not placed there by logic in the first place
 =======================================================================================
@@ -133,8 +128,8 @@ transformations are rare is a source of puzzlement to many.
 The process of building has always been slower and more complicated than
 that of destruction.
 
-So here's to the role of time, patience, and reflection in our lives. If
-we believe it is better to build than destroy, better to live and let
+So, here's to the role of time, patience, and reflection in our lives.
+If we believe it is better to build than destroy, better to live and let
 live, better to be than to be seen, then we might have a chance, slowly,
 to find a satisfying way through life, this flicker of consciousness
 between two great silences.
@@ -148,8 +143,8 @@ we forget other things: birthdays, anniversaries, names, promises, it is
 also possible to discern underlying attitudes that may be hard for us to
 acknowledge openly.
 
-So it is with our choice of people to be with. Nearly every human action
-is in some way an expression of how we think about ourselves.
+So, it is with our choice of people to be with. Nearly every human
+action is in some way an expression of how we think about ourselves.
 
 The major advantage of illness is that it provides relief from responsibility 
 ==============================================================================
@@ -161,7 +156,5 @@ intermittent and unpredictable intervals. If the food stops completely,
 the lever-pulling will, over time, cease. So it is with people. We do
 those things repetitively that produce some reward. It is just hard
 sometimes to discern what that reinforcement might be.
-
-177
 
  

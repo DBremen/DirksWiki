@@ -108,7 +108,7 @@ For instance, try ﬁddling with a paper clip or some sort of tactile
 puzzle while stuck on a tedious conference call or while pondering a
 tricky problem. When you involve an additional input mode, you are
 activating more areas of the brain---you're bringing more processing
-power online, as it were.
+power online.
 
 What we need is a better way of synchronizing our L-mode and R -mode
 processing so that the whole mind can work better and more efﬁciently.
@@ -291,5 +291,3 @@ Ways to counter procrastination
 
     -   Get into the flow of work rather than procrastinating on the
         longer term goal/outcome
-
-    -   

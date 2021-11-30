@@ -245,7 +245,7 @@ free overnight shipping. Happiness is the company's most valuable
 currency. As you push ideas forward, you should make use of alternative
 rewards that keep you ---and your team---engaged with your long-term
 pursuits. The traditional methods for acknowledging progress---financial
-rewards and celebrity am ong them---are unlikely tobe available to you
+rewards and celebrity among them---are unlikely to be available to you
 in the early stages of making ideas happen. Putting an emphasis on
 happiness changes the types of goals you pursue as well as how you hire
 and manage people along the way.

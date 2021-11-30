@@ -53,16 +53,11 @@ One of the biggest misconceptions about meditation is that it involves
 responsible for turning people away from meditation than any other that
 I know of. Meditation is about allowing the mind to settle on its own
 terms, in its own time, which includes allowing thoughts to arise as and
-when they want to. It is true that over time, with practice, as the mind
-becomes more deeply settled, the stream of thoughts slows down and
-eventually goes from being like a raging waterfall to being like a
-fast-flowing river, then more like a slow-flowing stream, and finally,
-the mind is like a placid lake. Over time (in my own case, after many,
-many hours of meditation practice), the mind learns to quiet down on
-demand, but that does not come from suppressing the process of
-thinking---instead, it comes from learning to give the mind the space
-and time to settle on its own terms. Meditation is not what you think,
-or not think.
+when they want to. Over time (in my own case, after many, many hours of
+meditation practice), the mind learns to quiet down on demand, but that
+does not come from suppressing the process of thinking---instead, it
+comes from learning to give the mind the space and time to settle on its
+own terms.
 
 A skillful meditator periodically does three things: periodically he
 arouses mental energy, periodically he calms the mind, and periodically
