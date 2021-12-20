@@ -278,6 +278,19 @@ Habits
 
 In order to change the habit, we need to change the belief.
 
+-   The plasticity of our brains is also what makes bad habits so hard
+    to break: The more often you do something, the more ingrained the
+    wiring becomes for that particular activity. In fact, it's harder to
+    unlearn bad habits than to learn new ones.
+
+-   There's a difference between retaining a basic skill and a high
+    level of proficiency in a complex one. The more complex the skill,
+    the more subtle and specific the wiring in the brain that underlies
+    that ability. Unless you keep up your practice of bike racing, or
+    learning a foreign language, or playing the violin, your ability
+    will decline as the brain regions that changed as you developed the
+    skill are co-opted for other purposes.
+
 Ways to counter procrastination
 -------------------------------
 
