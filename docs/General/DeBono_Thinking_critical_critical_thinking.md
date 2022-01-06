@@ -141,9 +141,9 @@ A well-cultivated critical thinker...
     and points of view with the same vigor that we question those of
     others.**
 
-> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image1.png)
+> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image1.png)
 >
-> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image2.png)
+> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image2.png)
 >
 > **Fair-mindedness** entails a consciousness of the need to treat all
 > viewpoints alike, without reference to one\'s own feelings or selfish
@@ -182,7 +182,7 @@ A well-cultivated critical thinker...
 The Elements of Thought in Relationship
 ---------------------------------------
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
 
 ### Our purpose affects the manner in which we ask questions (What is our purpose?)
 
@@ -568,7 +568,7 @@ Step-by-Step Outline of Analysis of Competing Hypotheses
 8.  Identify milestones for future observation that may indicate events
     are taking a different course than expected.
 
-> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
+> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
 
 De Bono\`s thinking course
 ==========================

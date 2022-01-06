@@ -370,6 +370,9 @@ Prejudice
 Reward system
 =============
 
+**It is better to encourage what is right than to criticize what is
+wrong.**
+
 Humans are capable of astonishing displays of gratiﬁcation postponement.
 This capacity for gratiﬁcation postponement has a lot to do with a
 neurotransmitter called dopamine. Scientists originally thought dopamine
@@ -400,6 +403,15 @@ constrained by genes and most shaped by experience.
 Intermittency (unpredictability of receiving a reward like in gambling)
 intensely fuels dopamine. We have just introduced the word "maybe,"
 which is incredibly motivating.
+
+In the beginning, rewarding (or punishing) people is most effective when
+it is administered without delay and each time the behavior is repeated.
+Once a behavior becomes learned, variable rewards strengthen the
+behavior. Behavior that is rewarded on an unpredictable basis has the
+highest rate of response and is the most difficult to extinguish. This
+is, for example, how gamblers are rewarded. When they don\'t know when
+the reward will arrive, they try again and again. Furthermore, the
+greater the reward, the more resistant the behavior is to extinction.
 
 We humans are reinforced by some very odd things---not just by eating
 when hungry or other basic instincts. We are reinforced by things that
@@ -469,3 +481,12 @@ explain why men throughout history have focused on seeking recognition
 through military exploits, politics, exploration, and similar
 achievements in ways that most women have not. In other words,
 evolutionary processes bred men to seek attention and take risks.
+
+The reproductive success of women doesn\'t depend on how many men she
+has sex with, but on her ability to get access to resources (like food,
+shelter, and protection) for herself and her children. Women are
+therefore more discriminating than men. She won\'t pick the first guy
+around. This causes women to compete with each other for access to
+resources. A man that is perceived as wealthy and having status has an
+advantage. So mating choices (showing up as unconscious preferences) are
+influenced by the fact that women have more at stake than men do.

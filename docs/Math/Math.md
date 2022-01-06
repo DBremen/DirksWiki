@@ -123,12 +123,12 @@ $(\frac{a}{b} = \frac{c}{d}) = (ad = bc)$
 
 ![](media_Math/media/image4.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image5.png)![](media_Math/media/image6.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image5.png)![](media_Math/media/image6.png)
 
 Simplify fractions
 ------------------
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image7.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image8.png)![](media_Math/media/image9.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image7.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image8.png)![](media_Math/media/image9.png)
 
 **If an equation contains several fractions, then it is usually easier
 to clear the equation of all fractions by multiplying both sides by the
@@ -266,7 +266,7 @@ Line equation:
 The slope of a line is the ratio of the vertical change to the
 horizontal change as we move from one point on a line to another point.
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image28.png)![](media_Math/media/image29.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image28.png)![](media_Math/media/image29.png)
 
 **Y=mx+b (slope\*x + y intercept) slope**=m
 =$\frac{\Delta y}{\Delta x}$=$\frac{\text{change\ in\ y}}{\text{change\ in\ x}} = \frac{\text{rise}}{\text{run}}$
@@ -297,7 +297,7 @@ intercept)
 
 ![](media_Math/media/image32.gif)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image34.png)![](media_Math/media/image35.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image34.png)![](media_Math/media/image35.png)
 
 **In general, any equation of the form , where A, B, and C are constants
 (A and B not both zero) and x and y are variables, is a linear equation
@@ -325,7 +325,7 @@ a third point as a check point.**
 
 ![](media_Math/media/image38.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image39.png)![](media_Math/media/image40.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image39.png)![](media_Math/media/image40.png)
 
 **Systems of equations:**
 
@@ -375,9 +375,9 @@ of the two lines, satisfies both equations. In other words, we say that
 ![](media_Math/media/image42.png)
 ![](media_Math/media/image43.png)
 
-3.  ![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image44.png)
-    ![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image45.png)
-    ![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image46.png)
+3.  ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image44.png)
+    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image45.png)
+    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image46.png)
 
 Exponents and Polynomials
 =========================
@@ -408,19 +408,19 @@ Combination problems
 
 ![](media_Math/media/image60.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image61.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image62.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image63.png)![](media_Math/media/image64.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image61.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image62.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image63.png)![](media_Math/media/image64.png)
 
 Scientific notation:
 ====================
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image65.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image66.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image67.png)![](media_Math/media/image68.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image65.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image66.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image67.png)![](media_Math/media/image68.png)
 
 Factoring
 =========
 
 Find the greatest common factor
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image69.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image70.png)![](media_Math/media/image71.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image69.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image70.png)![](media_Math/media/image71.png)
 
 Summary elementary algebra
 ==========================
@@ -430,4 +430,4 @@ Summary elementary algebra
 Fractions
 =========
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image73.png)![](C:\scripts\dirkswiki\docs\Math\media_Math/media/image74.png)![](media_Math/media/image75.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image73.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math/media/image74.png)![](media_Math/media/image75.png)

@@ -26,6 +26,6 @@ level only thinking.
 
 ![](media_TRIZ/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\General\media_TRIZ/media/image3.png)![](media_TRIZ/media/image4.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_TRIZ/media/image3.png)![](media_TRIZ/media/image4.png)
 
-![](C:\scripts\dirkswiki\docs\General\media_TRIZ/media/image5.png)![](media_TRIZ/media/image6.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_TRIZ/media/image5.png)![](media_TRIZ/media/image6.png)

@@ -330,7 +330,7 @@ Data
     the mean of the process output. If a process runs at 6 six sigma
     there are only 3.4 defects out of 1 million.
 
-    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image29.jpg)
+    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image29.jpg)
 
 -   Measure performance against process capability
 
@@ -343,7 +343,7 @@ In simple terms, the primary difference between a process and a
 procedure is that a process is what you do and a procedure is how you do
 it.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image35.png)![](media_Processes/media/image36.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image35.png)![](media_Processes/media/image36.png)
 
 *Process Management* is the ensemble of planning, engineering,
 improving, and monitoring an organization's processes in order to
@@ -395,9 +395,9 @@ DFSS
     first positive contribution to margin or until Break Even is
     achieved)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image47.png)![](media_Processes/media/image48.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image47.png)![](media_Processes/media/image48.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image49.png)![](media_Processes/media/image50.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image49.png)![](media_Processes/media/image50.png)
 
 Service Management
 ==================
@@ -523,7 +523,7 @@ accept, not desirable but acceptable.**
 >
 > **Capability Index (Cpk) versus Capability Ratio (CR)**
 >
-> ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image55.png)
+> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image55.png)
 >
 > The Cpk is the same concept as the CR. The only difference is that we
 > use Cpk when the product average is not the same as the customer
@@ -618,20 +618,20 @@ Six Sigma
 <http://www.isixsigma.com/new-to-six-sigma/dmaic/scientific-problem-solving-dmaic-terms-y-fx/>
 
 ![Figure 1: A Scientific Model of
-DMAIC](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image58.gif)
+DMAIC](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image58.gif)
 
 A Six Sigma project is successful when the team is able to solve Y =
 f(x).That is, relate all the key inputs to each expected output within a
 small magnitude of error
 
 ![Figure 2: Six Sigma Project
-Model](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image59.gif)
+Model](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image59.gif)
 
 ![Figure 3: DMAIC
-Roadmap](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image60.gif)
+Roadmap](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image60.gif)
 
 ![Figure 5: Example Application of Six Sigma Scientific
-Thinking](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image61.gif)
+Thinking](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image61.gif)
 
 ![Figure 4: Type I and Type II
-Errors](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image62.gif)
+Errors](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image62.gif)

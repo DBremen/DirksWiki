@@ -53,10 +53,10 @@ Step 3 Identify own needs and those of others
 Step 4 Request what we would like of others
 ===========================================
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image11.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image12.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image13.png)![](media_Non_violent_communications/media/image14.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image11.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image12.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image13.png)![](media_Non_violent_communications/media/image14.png)
 
 ![](media_Non_violent_communications/media/image15.png)
 
 ![](media_Non_violent_communications/media/image16.png)
 
-![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image17.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image18.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image19.png)![](C:\scripts\dirkswiki\docs\Personal_Development\media_Non_violent_communications/media/image20.png)![](media_Non_violent_communications/media/image21.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image17.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image18.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image19.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image20.png)![](media_Non_violent_communications/media/image21.png)

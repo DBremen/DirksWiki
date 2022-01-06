@@ -456,4 +456,4 @@ factors are not yet explicit, operational factors, but mere concepts.
 
 ![](media_Solving_complex_problems/media/image6.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png)![](media_Solving_complex_problems/media/image8.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png)![](media_Solving_complex_problems/media/image8.png)

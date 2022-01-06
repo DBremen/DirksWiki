@@ -120,7 +120,7 @@ going to have to buy two tickets. I\'m going to basically throw away the
 
 .6\*200+.4\*600 = 360 vs. 400 better go for the buy option.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](media_Model_thinking/media/image5.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](media_Model_thinking/media/image5.png)
 
 Inferring probability
 ---------------------
@@ -469,7 +469,7 @@ Node = Dots
 
 Edges = Connections
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image21.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image22.png)![](media_Model_thinking/media/image23.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image21.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image22.png)![](media_Model_thinking/media/image23.png)
 
 | Node        | \# friends |
 |-------------|------------|
@@ -530,7 +530,7 @@ Edges = Connections
 </tbody>
 </table>
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image24.png)![](media_Model_thinking/media/image25.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image24.png)![](media_Model_thinking/media/image25.png)
 
 ![](media_Model_thinking/media/image26.png)
 
@@ -550,7 +550,7 @@ Preferential attachment model
 
 ![](media_Model_thinking/media/image28.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](media_Model_thinking/media/image30.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](media_Model_thinking/media/image30.png)
 
 Randomness
 ==========

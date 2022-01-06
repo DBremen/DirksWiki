@@ -249,7 +249,7 @@ Situation trumps disposition
 ============================
 
 Also see [Fundamental attribution
-error](#representativeness-bias-dont-judge-a-book-by-its-cover)
+error](#_Fundamental_attribution_error)
 
 Don't underestimate the impact of the situation over people's
 personality. We selectively attend to what people are doing or saying
@@ -437,6 +437,29 @@ How to learn
 Illusions and Biases
 ====================
 
+Overly relying on past successes
+--------------------------------
+
+After a success, we become overly optimistic risk-takers. After a
+failure, we become overly pessimistic and risk-averse even in cases
+where success or failure was merely a result of chance. Good
+consequences don\'t necessarily mean we made a good decision, and bad
+consequences don\'t necessarily mean we made a bad decision.
+[]{#_Fundamental_attribution_error .anchor}This automatic association to
+what worked in the past causes people to under-react to new conditions
+and circumstances.
+
+Comparing relatives or gradual changes instead of absolutes
+-----------------------------------------------------------
+
+In one experiment, a group of people was asked to choose between \$6 and
+an elegant pen. Most choose the cash. Another group of people was asked
+to choose between \$6, the elegant pen, or an inferior pen. Most choose
+the elegant pen. By adding an inferior option, another option seemed
+more attractive.
+
+**Evaluate people and objects by themselves and not by their contrast.**
+
 Representativeness bias "Don't judge a book by its cover"
 ---------------------------------------------------------
 
@@ -490,7 +513,7 @@ simply disagree.]{.underline}**
 
 ![Fundamental Attribution Error: Interesting Facts About The Brain \|
 Fundamental attribution error, Brain facts, Mind
-tricks](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image4.jpeg)
+tricks](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image4.jpeg)
 
 We judge others by their actions and ourselves by our intentions.
 
@@ -504,7 +527,7 @@ Cognitive dissonance
 --------------------
 
 ![Cognitive
-Dissonance](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image5.png)
+Dissonance](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image5.png)
 
 Cognitive dissonance is one facet of our next mistake, the rigidity that
 comes with the innate human desire to be internally and externally
@@ -570,7 +593,7 @@ frequently than normal during the past, it is less likely to happen in
 the future (or vice versa), when it has otherwise been established that
 the probability of such events does not depend on what has happened in
 the
-past.![](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image6.jpeg)
+past.![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image6.jpeg)
 
 Availability bias
 -----------------
@@ -594,6 +617,9 @@ resembles the typical case. Linda the feminist bank teller.
 
 Sales people might use of the **anchoring effect** by offering an
 extremely high price at the beginning.
+
+Consider choices from a zero base level and remember what you want to
+achieve.
 
 ### Misc
 
@@ -690,4 +716,4 @@ treatments/outcomes:
 </table>
 
 ![What are Type 1 and Type 2
-Errors?](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image9.png)
+Errors?](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image9.png)

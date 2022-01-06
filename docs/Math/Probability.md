@@ -522,7 +522,7 @@ P(E) = P(H) \* p(E\|H)
 
 ![](media_Probability/media/image58.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image62.png)![](media_Probability/media/image60.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image62.png)![](media_Probability/media/image60.png)
 
 P(breast cancer\|test positive) = p(breast cancer) \* p(test
 positive\|breast cancer)/p(test positive)

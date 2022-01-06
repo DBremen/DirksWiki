@@ -132,7 +132,7 @@ Process
     needs are not fulfilled? What is causing you stress? Which part of
     the *ikigai* diagram do you currently spend most of your time in?
 
-    ![](C:\scripts\dirkswiki\docs\Personal_Development\media_How_to_chart_new_course_for_life/media/image7.png)
+    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_How_to_chart_new_course_for_life/media/image7.png)
 
 7.  Plan a transition --- how could you move from your current situation
     towards the center of the diagram? Which areas require the most

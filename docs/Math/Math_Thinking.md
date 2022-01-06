@@ -10,7 +10,7 @@ Q : the set of all rational numbers (fractions)
 
 R : the set of all real numbers
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math_Thinking/media/image1.png)![](media_Math_Thinking/media/image2.png)
+![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image1.png)![](media_Math_Thinking/media/image2.png)
 
 Implication
 ===========
