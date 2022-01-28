@@ -7,7 +7,7 @@ Scalars
 =======
 
 ![](media_Physics/media/image1.png)
-=========================================================================================
+=====================================================================
 
 Vectors
 =======
@@ -28,7 +28,7 @@ carried out in order to calculate the forces.
 Vector addition:
 ----------------
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image5.png)![](media_Physics/media/image6.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image5.png)![](media_Physics/media/image6.png)
 
 Trigonometry
 ------------
@@ -69,7 +69,7 @@ Hypotenuse = SQRT(16 + 1)
 
 Angle = Inverse tan (1/4) = 14.04 degrees
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image12.png)![](media_Physics/media/image13.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image12.png)![](media_Physics/media/image13.png)
 
 Position Velocity Acceleration
 ==============================
@@ -119,7 +119,7 @@ Graphical analysis
 
 ![](media_Physics/media/image17.png)
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image18.png)![](media_Physics/media/image19.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image18.png)![](media_Physics/media/image19.png)
 
 ![](media_Physics/media/image20.png)
 
@@ -148,7 +148,7 @@ after one second, an object will have fallen a distance of 1/2 × 9.8 ×
 1^2^ = 4.9 m. After two seconds it will have fallen 1/2 × 9.8 × 2^2^ =
 19.6 m. 4.6 \* 4 = 19.6m
 
-### Fundamental kinematic equations: ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image25.png)
+### Fundamental kinematic equations: ![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image25.png)
 
 Additional derived equations
 
@@ -798,7 +798,7 @@ Limit = infinitely zooming in
 
 Can also be imagined by using discrete time steps:
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image60.png)![](media_Physics/media/image61.png)
+![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image60.png)![](media_Physics/media/image61.png)
 ![](media_Physics/media/image62.png)
 
 Integral = opposite e.g. measure position based on velocity per time:

@@ -9,6 +9,182 @@ securities immediately, and then hopes to buy them back later at a lower
 price. Investors borrow securities when they believe that their value
 will fall.
 
+Think of investing similar to horse betting where the amount of money in
+the pool for betting determines the odds (betting on a weak horse costs
+less money if you win you win the pool but paid less than people that
+bet on a strong horse).
+
+**Always consider quality and price when buying stocks. Aim for getting
+more quality per price.**
+
+Anti-Fragile
+============
+
+E.g. youtuber winning with negative and positive comments
+
+Fragile - robust - anti-fragile
+
+-   Bailouts
+
+-   Trying to protect your kid from all harms
+
+-   Overly hygienic
+
+    Are all turning something robust or anti-fragile into something
+    fragile
+
+    Something that is fragile (a car hitting a wall at increasing
+    speeds). Exponential decrease
+
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image1.png)
+
+    Something that is anti-fragile. Exponential growth:
+
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image2.png)
+
+    Investing in bio-tech
+
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image3.png)
+
+**When dealing with random events (or black-swan events) focus on
+prevention rather than trying to predict**
+
+**Aim for small uncorrelated errors**
+
+**Lindy effect = indicator of anti-fragile**
+
+That which is old is also that which is expected to survive the longest.
+Something that managed to survive for a long time has most likely
+developed anti-fragile features. Insurance for old vs. you and insurance
+against dropping out of book seller top chart:
+
+All else equal better bet on a company that his been longer around and a
+font manager with a longer track record.
+
+![](media_Investing/media/image4.png)
+
+Focus on pay-off rather than probability
+========================================
+
+![](media_Investing/media/image5.png)
+
+1.  Pay-off: .1\*2 = .2
+
+2.  Pay-off: .9\* -.1 = -.09
+
+3.  .2 + .09 = .11 = 11%
+
+4.  Investing 100\$ = 100 \* .2 + 100 \* -.09 = 20 - 9 = 11%
+
+Better multiple favorable bets with less pay-off but lower risk
+===============================================================
+
+**Should you invest 100\$ in a start-up that has 40% probability of
+succeeding if a succeeding you win 500\$. Or put 25\$ in 4 (independent)
+start-ups with 40% probability of succeeding?**
+
+-   One company expected value = 500\$ \* .4 - 100\$ \* .6 = 140\$
+
+-   Multiple companies
+
+-   4\* 500\$ \* .4 - 4 \* 25\$ \* .6 = 750\$
+
+-   60% p(failure)
+
+-   60% failure happening 4 times in a row = (.6)^4^ = 12.96%
+
+-   Chance of 40% event happening at least once = 100%-12.96% = 87.04%
+
+-   The probability that 10 mutually independent start-ups all succeed
+    is 0.01 % (0.4^10^) but the probability that at least one succeeds
+    is 99.4% (1 - 0.6^10^).
+
+Economy
+=======
+
+https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
+
+-   The economy is mainly driven by three factors
+
+-   Productivity growth
+
+-   Short term debt cycle (5-8 years cycle)
+
+-   Up-cycle
+
+-   More debt/credit creates more spending
+
+-   Economic expansion
+
+-   Prices rise
+
+-   Inflation
+
+-   Inflation is countered by higher interest rates (decrease borrowing
+    > debt)
+
+-   Down-cycle
+
+-   Higher interest rates cause less credits
+
+-   Less spending
+
+-   Economy shrinks
+
+-   Prices go down
+
+-   Deflation -\> recession
+
+-   Deflation is countered by lower interest rates to fuel the economy
+    > with more credit
+
+-   Long term debt cycle (75-100 years cycles)
+
+-   People tend to borrow more than the repay
+
+-   As longs as the income and asset values grow faster than the debts
+    > that works
+
+-   At one point the level of debt grows bigger than the income and
+    > asset values
+
+-   People have to spend more on repaying their loans than they can
+    > afford
+
+-   That causes people to spend less
+
+-   Causing a depression and stock market crashes
+
+-   Credit is an asset to the lender (bank) and a liability to the
+    borrower.
+
+-   Debt drives the economic cycles more than productivity growth (it
+    usually follows a quite constant growth while debts swing up and
+    down)
+
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image6.png)
+
+<!-- -->
+
+-   Borrowing is a way of spending more money in the present rather than
+    in the future (the settlement of the transaction based on debt is
+    deferred)
+
+-   In order to buy something that you can\'t afford you need to spend
+    more than you currently make
+
+-   You borrow from your future self
+
+-   To pay the debt back at one point you need to spend less than you
+    make.
+
+<!-- -->
+
+-   More debt allows people to purchase more than we produce and less
+    debt prevents people from buying as much as we produce
+
+![](media_Investing/media/image7.png)
+
 Dividend discount model
 -----------------------
 
@@ -29,7 +205,7 @@ Dividend discount model
         -   To use the CAPM to estimate the expected return, or discount
             rate, on a stock, we use the following formula:
 
-        -   ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image1.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image2.png)
+        -   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image8.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image9.png)
 
         -   E(r~i~) = expected return
 
@@ -64,10 +240,10 @@ of its outstanding shares. This is a **substitute for a dividend**
 because the company has to pay cash for these repurchased shares, which
 returns cash to the company's shareholders.
 
-Advantage of long term investment over short term![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image3.png)
-============================================================================================================================================
+Advantage of long term investment over short term![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image10.png)
+=========================================================================================================================
 
-![](media_Investing/media/image4.png)
+![](media_Investing/media/image11.png)
 
 <https://www.visualcapitalist.com/stock-market-returns-time-periods-1872-2018/>
 
@@ -80,7 +256,7 @@ Earnings yield = opposite of P/E shows % earning per stock price
 
 10-yr- US treasure bonds as indicator for interest
 
-![](media_Investing/media/image5.png)
+![](media_Investing/media/image12.png)
 
 Three pillars of trading
 ========================
@@ -109,7 +285,7 @@ Man = trend
 Dog = oscillator (oscillates around trend sometimes strays away may end
 up in a different direction=
 
-![](media_Investing/media/image6.png)
+![](media_Investing/media/image13.png)
 
 -   Exponential moving averages are better than normal moving averages
     (stronger weight of more recent trend)
@@ -121,7 +297,7 @@ up in a different direction=
 
     Entry criteria:
 
-    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image7.png)
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image14.png)
 
 <!-- -->
 
@@ -148,7 +324,7 @@ Box model for exit strategy
 -   Establish a new upper bound and make previous upper bound the new
     lower bound
 
-![](media_Investing/media/image8.png)
+![](media_Investing/media/image15.png)
 
 ### Kelly Criterion
 
@@ -192,7 +368,7 @@ Determine position size based on:
 
 -   Expectancy = average R over time
 
-    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image9.png)
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image16.png)
 
 -   **Look of the distribution of R multiples not only the average (e.g.
     volatility and drawdowns)**
@@ -207,11 +383,11 @@ Determine position size based on:
 
 -   Opportunity (how often does the system generate signals)
 
--   ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png)
+-   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image17.png)
 
 -   Position sizing
 
--   ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image11.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image11.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image11.png)![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image12.png)
+-   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image18.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image18.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image18.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image19.png)
 
 1.  Survival (never risk \> 2% of equity in one trade including fees)
 
@@ -222,7 +398,7 @@ Determine position size based on:
 
     c.  Only move stop-loss in direction of the trade (higher)
 
-> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image13.png)
+> ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image20.png)
 
 2.  Steady returns
 
@@ -231,9 +407,9 @@ Determine position size based on:
 Valuation of stock prices
 =========================
 
-![](media_Investing/media/image14.png)
+![](media_Investing/media/image21.png)
 
-![](media_Investing/media/image15.png)
+![](media_Investing/media/image22.png)
 
 Compare this in conjunction with P/E
 
@@ -244,7 +420,7 @@ Compare stocks to a similar competitor and take the cheaper one.
 
 Competitive advantage
 
-![](media_Investing/media/image16.png)
+![](media_Investing/media/image23.png)
 
 -   Find comparable
 
@@ -252,7 +428,7 @@ Competitive advantage
 
 -   Adjust for differences (e.g. take earning growths)
 
-> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image17.png)
+> ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image24.png)
 
 Intrinsic valuation (follow-up of above)
 ----------------------------------------
@@ -261,9 +437,9 @@ Intrinsic valuation (follow-up of above)
 
 -   Company share = claim against portion of the future earnings
 
-![](media_Investing/media/image18.png)
+![](media_Investing/media/image25.png)
 
-![](media_Investing/media/image19.png)
+![](media_Investing/media/image26.png)
 
 Interpretation of financial statements
 ======================================
@@ -275,16 +451,16 @@ Interpretation of financial statements
 
 -   Compare within the same industry
 
-![](media_Investing/media/image20.png)
+![](media_Investing/media/image27.png)
 
 Intrinsic value (liquidation value)
 -----------------------------------
 
 Use book value = Sell all assets and repay all liabilities
 
-![](media_Investing/media/image21.png)
+![](media_Investing/media/image28.png)
 
-![](media_Investing/media/image22.png)
+![](media_Investing/media/image29.png)
 
 Income statement (over a period)
 --------------------------------
@@ -292,11 +468,11 @@ Income statement (over a period)
 Best is to express everything as a % of the of total revenue (top line)
 and compare with average of top 5 competitors
 
-![](media_Investing/media/image23.png)
+![](media_Investing/media/image30.png)
 
-![](media_Investing/media/image24.png)
+![](media_Investing/media/image31.png)
 
-![](media_Investing/media/image25.png)
+![](media_Investing/media/image32.png)
 
 Balance sheet (snapshot in time)
 --------------------------------
@@ -305,11 +481,11 @@ Look at a percentage of total assets and compare with top competitors
 
 Bad signs
 
-![](media_Investing/media/image26.png)
+![](media_Investing/media/image33.png)
 
-![](media_Investing/media/image27.png)
+![](media_Investing/media/image34.png)
 
-![](media_Investing/media/image28.png)
+![](media_Investing/media/image35.png)
 
 Cash flow statement
 -------------------
@@ -325,7 +501,7 @@ Net income (income statement) / Total equity (Balance sheet)
 
 ### Return on tangible assets
 
-![](media_Investing/media/image29.png)
+![](media_Investing/media/image36.png)
 
 ### Net margin
 
@@ -335,7 +511,7 @@ Net income (income statement) / Total equity (Balance sheet)
 
 -   Gross margin = gross profit / revenue (+40% ideal)
 
-![](media_Investing/media/image30.png)
+![](media_Investing/media/image37.png)
 
 -   Tells you what percentage of how much the company earns on a dollar
 
@@ -348,7 +524,7 @@ Net income (income statement) / Total equity (Balance sheet)
 -   Indicator of whether a company is able to fulfil its short-term
     obligations
 
-![](media_Investing/media/image31.png)
+![](media_Investing/media/image38.png)
 
 ### P/B ratio price to book ratio
 
@@ -376,7 +552,7 @@ A market cycle oscillates around a secular trend.
 The stock market is driven by bust and boom periods. Those are
 exaggerations in both directions followed by reversion to the mean.
 
-![](media_Investing/media/image32.png)
+![](media_Investing/media/image39.png)
 
 Cycles are influenced by other cycles:
 
@@ -385,14 +561,14 @@ Cycles are influenced by other cycles:
 -   Cycle of profits of businesses (P/E price to earnings ratio)
     (multpl.com)
 
--   ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image33.png)
+-   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image40.png)
 
 -   Credit cycle
 
 -   Psychology (attitudes towards risk)
-    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image34.png)
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image41.png)
 
-    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image35.png)
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image42.png)
 
 Ideas
 =====
@@ -421,7 +597,7 @@ Acquirer\'s multiple
 -   AM = Enterprise value (market cap + cash reserves - debt) /
     operating earnings
 
-![](media_Investing/media/image36.png)
+![](media_Investing/media/image43.png)
 
 -   Buy companies with low acquirer multiple
 
@@ -452,7 +628,7 @@ Stay in circle of competence with humility (but think independently)
 
 -   Don't follow analysts or irrelevant news.
 
-    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image37.png)
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image44.png)
 
 Evaluate risk
 -------------
@@ -481,7 +657,7 @@ Focus on macro rather than micro decisions
 
 -   Compare based on total cost of ownership rather than purchase price
 
-    ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image38.png)
+    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image45.png)
 
 Don't fall in love with your investment/position
 ================================================

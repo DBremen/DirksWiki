@@ -513,9 +513,11 @@ simply disagree.]{.underline}**
 
 ![Fundamental Attribution Error: Interesting Facts About The Brain \|
 Fundamental attribution error, Brain facts, Mind
-tricks](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image4.jpeg)
+tricks](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image4.jpeg)
 
 We judge others by their actions and ourselves by our intentions.
+
+![](media_The_Science_of_Everyday_Thinking/media/image5.png)
 
  Fundamental cognitive error
 ---------------------------
@@ -527,7 +529,7 @@ Cognitive dissonance
 --------------------
 
 ![Cognitive
-Dissonance](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image5.png)
+Dissonance](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image6.png)
 
 Cognitive dissonance is one facet of our next mistake, the rigidity that
 comes with the innate human desire to be internally and externally
@@ -593,7 +595,7 @@ frequently than normal during the past, it is less likely to happen in
 the future (or vice versa), when it has otherwise been established that
 the probability of such events does not depend on what has happened in
 the
-past.![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image6.jpeg)
+past.![](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image7.jpeg)
 
 Availability bias
 -----------------
@@ -613,7 +615,7 @@ a long-term trend.
 Judge the frequency or likelihood of an event by the extent to which it
 resembles the typical case. Linda the feminist bank teller.
 
-![](media_The_Science_of_Everyday_Thinking/media/image7.png)
+![](media_The_Science_of_Everyday_Thinking/media/image8.png)
 
 Sales people might use of the **anchoring effect** by offering an
 extremely high price at the beginning.
@@ -685,7 +687,7 @@ Cochrane library to check for tested alternative medicines or treatments
 2 Way contingency table to consider alternative causes/explanations for
 treatments/outcomes:
 
-![](media_The_Science_of_Everyday_Thinking/media/image8.png)
+![](media_The_Science_of_Everyday_Thinking/media/image9.png)
 
 <table>
 <thead>
@@ -716,4 +718,4 @@ treatments/outcomes:
 </table>
 
 ![What are Type 1 and Type 2
-Errors?](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image9.png)
+Errors?](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image10.png)

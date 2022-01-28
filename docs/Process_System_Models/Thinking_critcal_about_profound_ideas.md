@@ -440,7 +440,7 @@ be connected together into (my) one conscious- ness. This principle
 stands firm a priori, and may be called "the transcendental principle of
 unity" for all the multiplicity of our perceptions and sensations.
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image9.png)![](media_Thinking_critcal_about_profound_ideas/media/image10.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image9.png)![](media_Thinking_critcal_about_profound_ideas/media/image10.png)
 
 **The entire reality, which we assume to be completely independent of
 ourselves, is in fact, as Kant maintained, constituted by the active

@@ -401,7 +401,7 @@ injustice. Emotions are fundamentally separate from behaviors.
 
         **What might I have done to contribute to this?**
 
-> ![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Anger_management/media/image1.png)
+> ![](C:\scripts\dirkswiki\docs\Personal_Development\media_Anger_management/media/image1.png)
 
 Impulse control
 ---------------

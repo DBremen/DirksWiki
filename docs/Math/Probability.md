@@ -1,6 +1,9 @@
 <https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/>
 =================================================================
 
+<https://harvard.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2255a37adc-eaae-4aa6-8a06-ab25015a4ee8%22>
+(Steven Pinker)
+
 (HarvardX FC1xFat Chance: Probability from the Ground Up)
 
 Sequence = permutation = order matters (1-2 \<\> 2-1) (choosing
@@ -378,10 +381,32 @@ Answer: 12 choose 7
 Probability
 ===========
 
+![](media_Probability/media/image40.png)
+
+![](media_Probability/media/image41.png)
+
+![](media_Probability/media/image42.png)
+
+![](media_Probability/media/image43.png)
+
+![](media_Probability/media/image44.png)
+
+![](media_Probability/media/image45.png)
+
+![](media_Probability/media/image46.png)
+
+Conditional
+
+![](media_Probability/media/image47.png)
+
+![](media_Probability/media/image48.png)
+
+![](media_Probability/media/image49.png)
+
 Flipping coins
 --------------
 
-![](media_Probability/media/image40.png)
+![](media_Probability/media/image50.png)
 
 All possible outcomes = 2^6^ = 64
 
@@ -389,7 +414,7 @@ Outcomes with 3H and 3T = 6 choose 3 = 20
 
 Answer = 20/64 or 5/16
 
-![](media_Probability/media/image41.png)
+![](media_Probability/media/image51.png)
 
 Rolling dice
 ------------
@@ -402,29 +427,29 @@ probability of such an outcome is 1/36
 
 There are 2 ways adding up to 3: 1-2, 1-1 with probability 2/36
 
-![](media_Probability/media/image42.png)
+![](media_Probability/media/image52.png)
 
-![](media_Probability/media/image43.png)
+![](media_Probability/media/image53.png)
 
-![](media_Probability/media/image44.png)
+![](media_Probability/media/image54.png)
 
-![](media_Probability/media/image45.png)
+![](media_Probability/media/image55.png)
 
-![](media_Probability/media/image46.png)
+![](media_Probability/media/image56.png)
 
-![](media_Probability/media/image47.png)
+![](media_Probability/media/image57.png)
 
 6^3^ = 216 = probability = 27/216
 
-![](media_Probability/media/image48.png)
+![](media_Probability/media/image58.png)
 
 = all outcomes -- all that are between 1-5
 
 = 6^3^ -- 5^3^ = 91
 
-![](media_Probability/media/image49.png)
+![](media_Probability/media/image59.png)
 
-![](media_Probability/media/image50.png)
+![](media_Probability/media/image60.png)
 
 Number of places = 5 choose 2 = 10
 
@@ -432,7 +457,7 @@ Number of ways filing in the remaining places = 5^3^ = 125
 
 Probability = 10\*125/6^5^
 
-![](media_Probability/media/image51.png)
+![](media_Probability/media/image61.png)
 
 Number of places to put two 1s= 5 choose 2 = 10
 
@@ -447,20 +472,20 @@ Number of ways filing in the remaining places
 [2. The birthday
 problem.pdf](https://www.ucd.ie/mathstat/t4media/2.%20The%20birthday%20problem.pdf)
 
-![](media_Probability/media/image52.png)
+![](media_Probability/media/image62.png)
 
 To calculate the probability of two or more independent events, we
 multiply the probabilities of the
 
 individual events.
 
-![](media_Probability/media/image53.png)
+![](media_Probability/media/image63.png)
 
-![](media_Probability/media/image54.png)
+![](media_Probability/media/image64.png)
 
-![](media_Probability/media/image55.png)
+![](media_Probability/media/image65.png)
 
-![](media_Probability/media/image56.png)
+![](media_Probability/media/image66.png)
 
 Poker
 -----
@@ -472,18 +497,37 @@ What is probability of a flush (all some suit)?
 Choose 5 cards from one suit = \# of possible flushes per suit = 13
 choose 5
 
-4 \* 13 choose 5 / 52 choose 5 = about .2%
+4 \* 13 choose 5 / 52 choose 5 = about
+.2%![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image67.png)
+
+Correct answer = next day
+
+Probability of strike on Friday = .03 (\~ 1/30)
+
+![](media_Probability/media/image68.png)
+
+Exponentially less likely explaining clustering of random events
+
+[\[CHART\]]{.chart}
 
 Conditional probabilities
 =========================
 
-![](media_Probability/media/image57.png)
+![](media_Probability/media/image47.png)
 
-![](media_Probability/media/image58.png)
+![](media_Probability/media/image43.png)
 
-![](media_Probability/media/image59.png)
+![](media_Probability/media/image69.png)
 
-Bayes Theorem
+![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image70.png)![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image71.png)![](media_Probability/media/image72.png)
+
+![](media_Probability/media/image73.png)
+
+![](media_Probability/media/image74.png)
+
+![](media_Probability/media/image75.png)
+
+### Bayes Theorem
 
 -   Always remember multiplication in the context of probability, equals
     to **AND**.
@@ -497,7 +541,7 @@ for in our previous hypothesis. How do we update our hypothesis?
 Let H denote our hypothesis and E denote our evidence. Bayes' Theorem is
 defined by
 
-![](media_Probability/media/image60.png)
+![](media_Probability/media/image76.png)
 
 It's saying what is the probability that my hypothesis is true given the
 evidence we have. In order to answer these questions, we need three
@@ -514,34 +558,152 @@ things:
 
 -   The result is called posterior
 
-![](media_Probability/media/image61.png)
+![](media_Probability/media/image77.png)
+
+![](media_Probability/media/image78.png)
 
 D is in this case for data same as E in the other formula
 
 P(E) = P(H) \* p(E\|H)
 
-![](media_Probability/media/image58.png)
+![](media_Probability/media/image74.png)
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image62.png)![](media_Probability/media/image60.png)
+![](media_Probability/media/image79.png)
+
+![](media_Probability/media/image76.png)
 
 P(breast cancer\|test positive) = p(breast cancer) \* p(test
 positive\|breast cancer)/p(test positive)
 
 = .01 \* .9 / (.01 \* .9 + .99 \* .09)
 
-![](media_Probability/media/image63.png)
+![](media_Probability/media/image80.png)
 
-![](media_Probability/media/image64.emf)
+![](media_Probability/media/image81.emf)
 
 P(cancer\|test positive) = 8/(8+95)
 
-![](media_Probability/media/image65.png)
+![](media_Probability/media/image82.png)
 
-![](media_Probability/media/image66.png)
+![](media_Probability/media/image83.png)
 
 <http://www.greenteapress.com/thinkbayes/thinkbayes.pdf>
 
-https://mybinder.org/repo/rlabbe/ThinkBayes
+<https://mybinder.org/repo/rlabbe/ThinkBayes>
+
+![](media_Probability/media/image84.png)
+
+![](media_Probability/media/image85.png)
+
+![](media_Probability/media/image86.png)
+
+#### Odds bayes
+
+![](media_Probability/media/image87.png)
+
+![](media_Probability/media/image88.png)
+
+#### Taxi problem
+
+A cab was involved in a hit and run accident at night. Two cab
+companies, the Green and the Blue, operate in the city. 85% of the cabs
+in the city are Green and 15% are Blue. A witness identified the cab as
+Blue. The court tested the reliability of the witness under the same
+circumstances that existed on the night of the accident and concluded
+that the witness correctly identified each one of the two colours 80% of
+the time and failed 20% of the time.
+
+What is the probability that the cab involved in the accident was Blue
+rather than Green knowing that this witness identified it as Blue?
+
+##### Conventional solution:
+
+-   H = Accident caused by Blue cab.
+
+-   D = Witness said the cab was Blue.
+
+-   P(H) = 15%
+
+-   P(D\|H) = 80%
+
+-   P(D) = Well, when would the witness say that the cab was Blue?
+    Either, when the cab was Blue and so the witness is right, or when
+    the cab was actually Green and the witness is incorrect. Thus,
+    following the law of total probability:
+
+-   P(D) = P(D\|H) \* P(H) + P(D\|not H) \* P(not H)
+
+    P(D) = .8 \* .15 + (1-.8) \* (1-.15) = .29
+
+-   ![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image89.png)
+
+-   ![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image90.png)
+
+-   = .8 \* .15 / .29 = .41
+
+Odds solution:\
+![](media_Probability/media/image91.png)
+
+P(G\|W) = 17/29
+
+See bayes.xlsx
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Hypothesis</strong></th>
+<th><strong>Prior<br />
+p(Hypothesis)</strong></th>
+<th><strong>Likelihood<br />
+p(Evidence | Hypothesis)</strong></th>
+<th><strong>Prior * Likelihood</strong></th>
+<th><strong>Posterior</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Green</td>
+<td>0.15</td>
+<td>0.8</td>
+<td>0.12</td>
+<td>0.413793</td>
+</tr>
+<tr class="even">
+<td>Blue</td>
+<td>0.85</td>
+<td>0.2</td>
+<td>0.17</td>
+<td>0.586207</td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td> </td>
+<td><strong>Normalization constant</strong></td>
+<td>0.29</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+##### Graphical solution
+
+![](media_Probability/media/image92.png)
+
+**Post-Test Odds = Pre-test Odds \* LR.**
+
+For example, let's say a patient returning from a vacation to Rio
+presents with a fever and joint pain. Past data tells you that 70% of
+patients in your practice who return from Rio with a fever and joint
+pain have Zika. The blood test result is positive, with a likelihood
+ratio of 6. To calculate the probability the patient has Zika:
+
+Step 1: Convert the pre-test probability to odds:\
+0.7 / (1 -- 0.7) = 2.33.\
+Step 2: **Use the formula** to convert pre-test to post-test odds:\
+Post-Test Odds = Pre-test Odds \* LR = 2.33 \* 6 = 13.98.\
+Step 3: Convert the odds in Step 2 back to probability:\
+(13.98) / (1 + 13.98) = 0.93.\
+There is a 93% chance the patient has Zika.
 
 ### Cookie problem
 
@@ -556,7 +718,7 @@ select a cookie at random. The cookie is vanilla.
 
 p( bowl 1 \| vanilla).
 
-![](media_Probability/media/image60.png)
+![](media_Probability/media/image76.png)
 
 p( bowl 1 \| vanilla) = p(bowl 1) \* p(vanilla \| bowl 1) / p(vanilla)
 
@@ -742,7 +904,7 @@ p(car is behind Door A or C \| Monty opened Door B)
     the car is actually behind A, the probability that the car is not
     behind B is 1.
 
-![](media_Probability/media/image67.png)
+![](media_Probability/media/image93.png)
 
 Choose 1 = 1/3 chance of winning
 
@@ -750,6 +912,42 @@ Remaining chance = 2/3
 
 Of that 2/3 chance one door will be eliminated therefore it's better to
 switch
+
+Binomial probability
+====================
+
+-   An event that is repeatable or the experiment consists of n number
+    of identical and independent trials.
+
+-   There are only two outcomes in every trial - success/failure,
+    right/wrong, present/absent, 0/1 etc.
+
+-   The probabilities of success and failure are constant in every
+    trial.
+
+The probability distribution for a binomial experiment is:
+
+Number of possible ways of selecting k things from n things= ( \# of
+ways observing k successes in n trials) x (probability of success)^k^ (1
+- probability of success)^n-k^
+
+Example:\
+We toss a single die 5 times. How likely is it that you will roll
+exactly 3 sixes?
+
+-   What is success? Rolling a 6 on a single die.
+
+-   What\'s the probability of rolling a 6 on a single die? 1/
+
+-   What is the probability of failure? 1-116 = 5/6.
+
+-   What is the number of trials? 5.
+
+-   What is the number of successes out of those trials? 3. In how many
+    ways can you roll three sixes (successes) in 5 trials? 5!/3!(5-3)! =
+    10
+
+Probability = 10 x (1/6)^3^ \* (5/6)^2^ = 3.2%
 
 Odds
 ====
@@ -770,7 +968,7 @@ Probability to odds
 
 Odds form of Bayes:
 
-![](media_Probability/media/image68.png)
+![](media_Probability/media/image88.png)
 
 ### Cookie Problem using odds
 
@@ -840,9 +1038,9 @@ Chance of 253 unique pairs = (364/365)\^253
 
 Can also be calculated as = 1- Permut(365,23)/(365 \^ 23)
 
-![](media_Probability/media/image69.png)
+![](media_Probability/media/image94.png)
 
-![](media_Probability/media/image70.png)
+![](media_Probability/media/image95.png)
 
 **Problem 6.** There are n people present in a room. Prove that among
 them there are two people who have the same number of people they know
@@ -868,9 +1066,9 @@ least two will be of the same suit.**
 Each of the five cards can belong to one of four suits. By the
 pigeonhole principle, two or more must belong to the same suit.
 
-![](media_Probability/media/image71.png)
+![](media_Probability/media/image96.png)
 
-![](media_Probability/media/image72.png)
+![](media_Probability/media/image97.png)
 
 There is another version of the pigeonhole principle that comes in
 handy. This version is "the maximum value is at least the average value,

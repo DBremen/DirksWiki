@@ -19,7 +19,7 @@ criticality of the problem as well as frequency, cost, and risk.
 
 ![](media_Root_Cause_Analysis/media/image2.png)
 
-![](C:\Users\Dirk\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image3.png)![](media_Root_Cause_Analysis/media/image4.png)
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image3.png)![](media_Root_Cause_Analysis/media/image4.png)
 to 5-Why)
 
 ![](media_Root_Cause_Analysis/media/image5.png)

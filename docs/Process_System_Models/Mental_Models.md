@@ -1,3 +1,15 @@
+Survivor ship bias
+==================
+
+![](media_Mental_Models/media/image1.png)
+
+![](media_Mental_Models/media/image2.png)
+
+Deductive reasoning (from general to specific)
+==============================================
+
+![](media_Mental_Models/media/image3.png)
+
 Focus on avoiding mistakes instead of trying to be right all the time 
 ======================================================================
 
@@ -65,7 +77,7 @@ appropriate for the situation.
 Kelly formula for optimal betting size
 ======================================
 
-![](media_Mental_Models/media/image1.png)
+![](media_Mental_Models/media/image4.png)
 
 Coin flip:
 
@@ -80,6 +92,114 @@ Coin flip:
     -- W)/B**, where W is the win probability, B is the profit in the
     event of a win (20%), and A is the potential loss (also 20%).
 
+Statistical decision theory
+===========================
+
+![](media_Mental_Models/media/image5.png)
+
+-   Hits and misses trade off by definition
+
+-   Correct rejections and false alarms also trade off and..
+
+-   Hits and false alarms and ..
+
+-   Misses and correct rejections
+
+![](media_Mental_Models/media/image6.png)
+
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image7.png)![](media_Mental_Models/media/image8.png)
+
+-   Performance in a signal detection task depends on two parameters:
+
+-   Criterion / Response bias / trigger-happiness / beta ß
+
+-   Sensitivity / d\' (d-prime)
+
+-   How separated the signal and noise distributions are (in standard
+    > deviations)
+
+![](media_Mental_Models/media/image9.png)
+
+-   Improving Sensitivity (Better than twiddling with response bias (ß))
+
+-   Enhance the signal, reduce the noise
+
+-   Better instruments
+
+-   More reliable forensic methods
+
+-   More sensitive diagnostic tests
+
+-   Combinations of evidence
+
+![](media_Mental_Models/media/image10.png)
+
+Applied to hypothesis testing
+
+![](media_Mental_Models/media/image11.png)
+
+![](media_Mental_Models/media/image12.png)
+
+![](media_Mental_Models/media/image13.png)
+
+![](media_Mental_Models/media/image14.png)
+
+![](media_Mental_Models/media/image15.png)
+
+Correlation and causation
+=========================
+
+The correlation co-efficient measures the closeness of the data to the
+best fitting **straight-line.**
+
+**All r = .82**
+
+![](media_Mental_Models/media/image16.png)
+
+![](media_Mental_Models/media/image17.png)
+
+Simpsons paradox example note: The overall correlation was negative
+because more women applied to departments where the general acceptance
+rate was lower (hard to get into).
+
+-   A cause must precede effect
+
+-   If the effect still happens (to the same extend) after a potential
+    cause is removed it was not (the only) cause. - There could be
+    multiple causes that only work together to cause the effect though.
+
+    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image18.png)
+
+-   Effects might have multiple causes
+
+    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image19.png)
+
+-   Bayesian network
+
+-   ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image20.png)
+
+-   ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image21.png)
+
+-   2\. Exclude reverse causation by checking whether the correlation between
+    > the B and A is greater at a later time as compared to an earlier time.
+    > Compared to the same for A and B
+
+-   E.g. does democracy lead to peace, or are countries at peace more
+    > likely to become democratic?
+
+    Show correlation between Democracy at time 1 and Peace at time 2 \>
+    Peace at time 2 and Democracy time 1
+
+-   3\. Exclude confound
+
+-   Partial/Multiple regression
+
+-   Use randomized (subjects are assigned randomly to either group)
+    controlled trial
+
+-   If the intervention leads to a different outcome in one group only
+    > it\'s likely caused by it.
+
 Bayes Theorem
 =============
 
@@ -88,10 +208,35 @@ probability. You can home after a weekend and find someone else\'s
 underpants on your bed. How likely is it that your girlfriend has been
 cheating on you?
 
-![](media_Mental_Models/media/image2.png)
+![](media_Mental_Models/media/image22.png)
+
+### Quasi Bayes approach to forecasting
+
+![](media_Mental_Models/media/image23.png)
+
+Prospect theory
+===============
+
+As opposed to utility theory takes into consideration human
+preferences/biases (loss and risk aversion)
+
+![](media_Mental_Models/media/image24.png)
+
+Prospect = Psychologically conceivable possibility
+
+![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image25.png)![](media_Mental_Models/media/image26.png)
 
 Common sources of mistakes and misjudgements
 ============================================
+
+-   **Base rate neglect**
+
+    Not considering the prior/base rate probability when looking at test
+    results
+
+    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image27.png)
+
+    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image28.png)
 
 -   **Bias from mere association** - We automatically feel pleasure or
     pain when we connect a stimulus - a thing, situation or individual-
@@ -382,9 +527,32 @@ the relative frequency of this condition or disease in the population?
     magnitudes. Includes not using basic math to count and quantify.
     Also not differentiating between relative and absolute risk.
 
--   Underestimating the effect of exponential growth.
+\"Research shows that the new drug reduces the risk of getting the
+disease by 25%.\"
 
--   Underestimating the time value of money.
+-   What benefits can be expected by taking the new drug?
+
+-   Without the drug 20 people in 1 ,000 get the disease.
+
+-   By taking the drug, the figure drops to 15 people in 1,000.
+
+-   How efficient is the drug if we look at the absolute number of
+    > people saved from the disease?
+
+-   he reduction in absolute risk is 5 people in 1,000 (20-15) or 0.5%.
+
+-   The reduction in relative risk or the relative number of people
+    > saved from the disease is 25% (5120).
+
+-   A 25% reduction only means something if many people are saved. How
+    > many people need to take the drug in order to save one individual
+    > from the disease? Since 5 people in 1,000 (or 1 in 200) are saved
+    > from the disease by taking the drug, only one person out of 200
+    > that take the drug will be saved. For the other 199 people the
+    > drug does not have any positive effect.
+
+-   Underestimating the effect of exponential growth. Underestimating
+    the time value of money.
 
 ### Probabilities and number of possible outcomes 
 
@@ -415,6 +583,28 @@ the relative frequency of this condition or disease in the population?
 
 -   Failing to consider the consequences of being wrong.
 
+**We should never risk something we have and need for something we
+don\'t need.**
+
+#### Expectation
+
+*A lottery has 100 tickets. Each ticket costs \$10. The cash price is
+\$500. Is it worthwhile for Mary to buy a lottery ticket?*
+
+Expected value = p(win) \* pay-off - p(losing) \* pay-off(losing)
+
+-   p(win) = 1% (100:1)
+
+-   p(losing) = 99% (100:99)
+
+-   pay-off win = 500\$
+
+-   pay-off lose = 10\$
+
+-   1% \* 500\$ - 99% \* 10\$ = -4.9\$ (lose -4.9 on every 10\$)
+
+-   99% chance of losing 10% and 1% chance of winning 490\$
+
 ### Scenarios 
 
 -   Overestimating the probability of scenarios where all of a series of
@@ -422,11 +612,61 @@ the relative frequency of this condition or disease in the population?
     opportunities for failure and what normally happens in similar
     situations. (P1\*P2\*P3)
 
+**The more independent steps that are involved in achieving a scenario,
+the more opportunities for failure and the less likely it is that the
+scenario will happen.**
+
+**The compensation we need for taking a risk is really a function of the
+wanted outcome in relation to all possible outcomes**
+
+-   Likelihood of rolling a die with a six four times in a row
+
+-   Number of possible outcomes = 6^4^= 1296
+
+-   Likelihood = (1/6)^4^ or 1/1296 = 0.077 %
+
+-   If we have to invest 1\$ for every roll we need to pay 1296\$ on
+    > average to win
+
+Should you invest 100\$ in a start-up that has 40% probability of
+succeeding if a succeeding you win 500\$. Or put 25\$ in 4 (independent)
+start-ups with 40% of succeeding?
+
+-   One company expected value = 500\$ \* .4 - 100\$ \* .6 = 140\$
+
+-   Multiple companies
+
+-   4\* 500\$ \* .4 - 4 \* 25\$ \* .6 = 750\$
+
+-   60% p(failure)
+
+-   60% failure happening 4 times in a row = (.6)^4^ = 12.96%
+
+-   Chance of 40% event happening at least once = 100%-12.96% = 87.04%
+
+<!-- -->
+
 -   Underestimating the probability of systems failure - scenarios
     composed of many parts where system failure can happen one way or
     another. Includes failing to consider that time horizon changes
     probabilities. Also assuming independence when it is not present
     and/or assuming events are equally likely when they are not.
+
+Unlikely things happen if enough time passes. An event that has one
+chance in 20 of happening in any given year (assume that the probability
+stay the same over time) is nearly certain to happen over 50 years
+
+-   20:1 = 4.8% p(happening) = 1-.48 p(happening)
+
+-   1-(1-.048)^50^ = 91.5%
+
+Separate between independent and dependent events. The probability that
+an airplane navigation system works is 99% and the probability that the
+backup navigation system works is 90%. The probability that the backup
+system fails is not influenced by whether the primary system fails or
+not. The probability that neither navigation system works is one tenth
+of a percent (0.01 \* .1). Navigation system reliability is therefore
+99.9% (at least one navigation system will work).
 
 -   Not adding a factor of safety for known and unknown risks. Size of
     factor depends on the consequences of failure, how well the risks
@@ -437,6 +677,9 @@ the relative frequency of this condition or disease in the population?
 -   Underestimating that surprises and improbable events happen,
     somewhere, sometime, to someone, if they have enough opportunities
     (large enough size or time) to happen.
+
+    Tossing tails 4 times in a row happens once for every
+    (1/\[math\]::Pow(.5,20))-1 = 1,048,575.00 people
 
 -   Looking for meaning, searching for causes and making up patterns for
     chance events, especially events that have emotional implications.
@@ -455,6 +698,24 @@ the relative frequency of this condition or disease in the population?
     match, and the probability of a false positive and false negative.
     Also failing to consider a relevant comparison population that bears
     the characteristic we are seeking.
+
+*John testifies in court: \'1 witnessed the accident and the cab
+involved was green. \"*
+
+-   John\'s probability being right = 80%
+
+-   Cab\'s population = 90 blue and 10 green
+
+-   Prior probability (before John is witnessing) = 10%
+
+![](media_Mental_Models/media/image29.png)
+
+Posterior % = (10\*.8) / (90\*.2) + (10\*.8) = 8 / 26
+
+Out of 100 cabs (90 blue and 10 green) John would identify 8 green
+one\'s a green and 18 blue one\'s as green. The likelihood that the cab
+was actually green when he is saying it was is 31% (8/26). It seems the
+cab involved is more likely to have been blue.
 
 ### Misrepresentative evidence 
 
