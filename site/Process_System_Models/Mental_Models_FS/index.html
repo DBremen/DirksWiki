@@ -1,0 +1,1659 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.1.3">
+    
+    
+      
+        <title>Mental Models FS - Dirk's Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.edf004c2.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.e6a45f82.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#thinking-concepts" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-header__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dirk's Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Mental Models FS
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-nav__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Dirk's Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Finance
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Finance" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Finance
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/BalanceSheet_IncomeStatement/" class="md-nav__link">
+        BalanceSheet IncomeStatement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Investement_models/" class="md-nav__link">
+        Investement models
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Investing/" class="md-nav__link">
+        Investing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Money/" class="md-nav__link">
+        Money
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Think_like_an_economist/" class="md-nav__link">
+        Think like an economist
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          General
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="General" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          General
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/4-hour-chef/" class="md-nav__link">
+        4 hour chef
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Advanced_Google_Search/" class="md-nav__link">
+        Advanced Google Search
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Biological_behaviour/" class="md-nav__link">
+        Biological behaviour
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Bitcoin/" class="md-nav__link">
+        Bitcoin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/DeBono_Thinking_critical_critical_thinking/" class="md-nav__link">
+        DeBono Thinking critical critical thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Essential_scientific_concepts/" class="md-nav__link">
+        Essential scientific concepts
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Get_Anyone_Do_Anything/" class="md-nav__link">
+        Get Anyone Do Anything
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Learning_about_learning/" class="md-nav__link">
+        Learning about learning
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Making_ideas_happen/" class="md-nav__link">
+        Making ideas happen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Meetings_Dont_just_do_something_standin_there/" class="md-nav__link">
+        Meetings Dont just do something standin there
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Mindfulness_at_work/" class="md-nav__link">
+        Mindfulness at work
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Nature/" class="md-nav__link">
+        Nature
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Physics/" class="md-nav__link">
+        Physics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/TRIZ/" class="md-nav__link">
+        TRIZ
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/The_Science_of_Everyday_Thinking/" class="md-nav__link">
+        The Science of Everyday Thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Too_soon_old_too_late_smart/" class="md-nav__link">
+        Too soon old too late smart
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Understanding_mysteries_of_human_behaviour/" class="md-nav__link">
+        Understanding mysteries of human behaviour
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Math
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Math" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Math
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Discrete_Math/" class="md-nav__link">
+        Discrete Math
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math/" class="md-nav__link">
+        Math
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math_Thinking/" class="md-nav__link">
+        Math Thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Probability/" class="md-nav__link">
+        Probability
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Thinking_better/" class="md-nav__link">
+        Thinking better
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Personal Development
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Personal Development" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Personal Development
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/101_Essays/" class="md-nav__link">
+        101 Essays
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/4-hour-body/" class="md-nav__link">
+        4 hour body
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-nav__link">
+        7 habits of highly effective people
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Anger_management/" class="md-nav__link">
+        Anger management
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Awakened_family/" class="md-nav__link">
+        Awakened family
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/First_things_first/" class="md-nav__link">
+        First things first
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Happy/" class="md-nav__link">
+        Happy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/How_to_chart_new_course_for_life/" class="md-nav__link">
+        How to chart new course for life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Influence_people/" class="md-nav__link">
+        Influence people
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Innere_MItte/" class="md-nav__link">
+        Innere MItte
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Joy_on_demand/" class="md-nav__link">
+        Joy on demand
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Lifes_little_instruction_book/" class="md-nav__link">
+        Lifes little instruction book
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/MIndfullness_at_work/" class="md-nav__link">
+        MIndfullness at work
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Non_violent_communications/" class="md-nav__link">
+        Non violent communications
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Power_and_grace_between_nasty_and_nice/" class="md-nav__link">
+        Power and grace between nasty and nice
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life/" class="md-nav__link">
+        School of life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life_great_thinkers/" class="md-nav__link">
+        School of life great thinkers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Slight_edge/" class="md-nav__link">
+        Slight edge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_art_of_the_good_life/" class="md-nav__link">
+        The art of the good life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_third_alternative/" class="md-nav__link">
+        The third alternative
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Process System Models
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Process System Models" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Process System Models
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Causal_Diagrams/" class="md-nav__link">
+        Causal Diagrams
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Complexity/" class="md-nav__link">
+        Complexity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Game_Theory/" class="md-nav__link">
+        Game Theory
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mental_Models/" class="md-nav__link">
+        Mental Models
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mental_Models_FS./" class="md-nav__link">
+        Mental Models FS.
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Mental Models FS
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Mental Models FS
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#thinking-flaws" class="md-nav__link">
+    Thinking flaws
+  </a>
+  
+    <nav class="md-nav" aria-label="Thinking flaws">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#perspective" class="md-nav__link">
+    Perspective
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ego" class="md-nav__link">
+    Ego
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance" class="md-nav__link">
+    Distance
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#circle-of-competence" class="md-nav__link">
+    Circle of Competence
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#first-principle-thinking" class="md-nav__link">
+    First Principle Thinking
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inversion" class="md-nav__link">
+    Inversion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-map-is-not-the-territory" class="md-nav__link">
+    The map is not the territory
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Model_thinking/" class="md-nav__link">
+        Model thinking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Processes/" class="md-nav__link">
+        Processes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Reasoning_across_the_disciplines/" class="md-nav__link">
+        Reasoning across the disciplines
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Root_Cause_Analysis/" class="md-nav__link">
+        Root Cause Analysis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Solving_complex_problems/" class="md-nav__link">
+        Solving complex problems
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thinking_critcal_about_profound_ideas/" class="md-nav__link">
+        Thinking critcal about profound ideas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#thinking-flaws" class="md-nav__link">
+    Thinking flaws
+  </a>
+  
+    <nav class="md-nav" aria-label="Thinking flaws">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#perspective" class="md-nav__link">
+    Perspective
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ego" class="md-nav__link">
+    Ego
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance" class="md-nav__link">
+    Distance
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#circle-of-competence" class="md-nav__link">
+    Circle of Competence
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#first-principle-thinking" class="md-nav__link">
+    First Principle Thinking
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inversion" class="md-nav__link">
+    Inversion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-map-is-not-the-territory" class="md-nav__link">
+    The map is not the territory
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+<h1 id="thinking-concepts">Thinking Concepts</h1>
+<h2 id="thinking-flaws">Thinking flaws</h2>
+<h3 id="perspective">Perspective</h3>
+<p>We have a hard time seeing any system that we are in. Galileo throwing
+ball below deck on a ship vs. a fish seeing the vertical and the
+horizontal movements.</p>
+<h3 id="ego">Ego</h3>
+<p>Investment into a specific opinion prevent us from seeing reality.</p>
+<h3 id="distance">Distance</h3>
+<p>The further we are from the results of our decisions, the easier it is
+to keep our current views rather than update them.</p>
+<h2 id="circle-of-competence">Circle of Competence</h2>
+<p>Try to stay mainly within the circle for when we stray too far, we get
+into areas where we don't even know what we don't know. We may not even
+know the questions we need to ask.</p>
+<p>Try to learn the basics about areas outside your circle of competence
+and try to learn from experts.</p>
+<h2 id="first-principle-thinking">First Principle Thinking</h2>
+<p>Clarify complicated problems by separating the underlying ideas or facts
+from any assumptions based on them. What remain are the essentials. If
+you know the first principles of something, you can build the rest of
+your knowledge around them to produce something new.</p>
+<p>The discovery that a bacterium, not stress, actually caused the majority
+of stomach ulcers is a great example of what can be accomplished when we
+push past assumptions to get at first principles.</p>
+<p>To improve something, we need to understand why it is successful or not.
+Otherwise, we are just copying thoughts or behaviors without
+understanding why they worked.</p>
+<h2 id="inversion">Inversion</h2>
+<p>There are two approaches to applying inversion in your life.</p>
+<ol>
+<li>Start by assuming that what you're trying to prove is either true or
+    false, then show what else would have to be true.</li>
+</ol>
+<!-- -->
+
+<ol>
+<li>Instead of aiming directly for your goal, think deeply about what
+    you want to <em>avoid</em> and then see what options are left over.</li>
+</ol>
+<h2 id="the-map-is-not-the-territory">The map is not the territory</h2>
+<p>A model is by definition a simplification of the real world, never
+assume that it fully reflects the real world and update the model/map if
+necessary.</p>
+<h1 id="physics">Physics</h1>
+<h2 id="relativity">Relativity</h2>
+<p>Different perspectives of whether lightning struck at the same time
+(Bob) or first in front (Alice because of the train movement the light
+from point B had to move further and thus was perceived later)</p>
+<p><img alt="" src="../media_Mental_Models_FS/media/image1.png" /></p>
+<p>We often think someone is wrong because they see things from a different
+perspective than we do. Relativity helps us to understand that there is
+more than one way to see everything. That doesn't mean everyone's
+perspective is equally valid, only that we might not have the most
+complete view into a problem or situation.</p>
+<p>The reality of multiple perspectives is critical to understanding the
+world and your place in it. We can only see so much. In concrete terms,
+relativity highlights a subjectivity of perspective that explains partly
+why eyewitness testimonies have lost their credibility over the years.</p>
+<p>Many problems become clearer if you extend the timeline. What does this
+situation look like in the weeks, months, and years ahead? Assuming
+different perspectives allows you to gain a more complete understanding
+of what's really going on.</p>
+<h2 id="reciprocity">Reciprocity</h2>
+<p>In physics, reciprocity is Newton's third law, which states that for
+every force exerted by object A on object B, there is an equal but
+opposite force exerted by object B on object A. Every force involves the
+interaction of two objects where the force asserted by one is
+reciprocated with an equally powerful and directionally opposite force
+by the other object. Forces always occur in pairs of the same type of
+force, and it is not possible for one object to exert a force without
+experiencing a reciprocal force.</p>
+<p>Reciprocation teaches us that if you give people cynicism and curtness
+or nothing at all, you are likely to receive the same. But if you give
+people opportunity and the benefit of the doubt, you will, more often
+than not, be on the receiving end of the same behavior.</p>
+<h2 id="thermodynamics">Thermodynamics</h2>
+<ol>
+<li>
+<p>The first law of thermodynamics states that energy cannot be created
+    or destroyed; it can only be transferred or changed from one form to
+    another, such as from light to heat.</p>
+</li>
+<li>
+<p>The second law of thermodynamics states that entropy (a measure of
+    disorder simply understood as energy unable to be used to do work)
+    of an isolated system always increases. Isolated systems are those
+    that spontaneously progress toward the state of maximum entropy of
+    the system, also described as thermal equilibrium---no net heat flow
+    between objects. The entropy of the universe only increases with
+    time. One of the impacts of this law is that we need to expend
+    energy to create order. Without the deployment of energy, all things
+    move away from order.</p>
+</li>
+<li>
+<p>There are more ways for things to be mixed up than sorted.</p>
+</li>
+<li>
+<p>But there is value in contrast. If all the forces are balanced, a
+    true state of equilibrium, there is no change, no growth, no
+    movement. It is contrast that drives development.</p>
+</li>
+<li>
+<p>There is a constant effort to maintain structure (avoid entropy) by
+    consuming external energy (sunlight, food). In the process, life
+    increases the entropy of (destroys) its environment and decreases
+    entropy (builds or repairs) the organism's body.</p>
+</li>
+<li></li>
+<li>
+<p>The third law of thermodynamics states that as temperature
+    approaches absolute zero, the entropy of a given system approaches a
+    constant value.</p>
+</li>
+<li>
+<p>The fourth law of thermodynamics is known as the zeroth law. This is
+    because it was formulated after the first three laws but is
+    fundamental to and assumed by the others. It states that if two
+    objects are in thermal equilibrium with a third object, then those
+    two objects are also in thermal equilibrium with each other.</p>
+</li>
+</ol>
+<h2 id="inertia">Inertia</h2>
+<p>Starting something is hard, but so is stopping something. In physics,
+inertia refers to the resistance a physical object has to a change in
+its state of motion.</p>
+<p>The relevance of mass has analogous application in our habits. The
+longer we've been doing something, the more it has become part of both
+our identity and our understanding of the world. Thus, the amount of
+effort required to change a habit is greater proportional to the length
+of time we've had it.</p>
+<p>Getting started is the hardest part. Once something is moving in a
+direction, it's much easier to keep it in motion.</p>
+<p>To achieve our aims, reducing resistance is often easier than using more
+force.</p>
+<h2 id="friction-and-viscosity">Friction and Viscosity</h2>
+<p>While we can never eliminate the forces that impede our progress, we can
+work to minimize them. Like a smooth surface provides less challenge to
+a rolling ball, or how water is easier for a human to swim through than
+a krill, shaping our environment to reduce the challenges of opposing
+forces is a key to improving productivity.</p>
+<p>Viscosity, which can be seen as the partner of friction, is the "measure
+of how hard it is for one layer of fluid to slide over another layer."
+If a liquid is hard to move it is more viscous. If it is more viscous
+there is more resistance.</p>
+<h2 id="velocity">Velocity</h2>
+<p>Velocity is often confused with speed, but the two concepts are very
+different. Speed is just movement; even if you are running in place, you
+have speed. Velocity has direction. You must go somewhere in order to
+have velocity. This model teaches us that it's much more important to
+pay attention to where you are going and not how fast you are moving</p>
+<h1 id="chemistry">Chemistry</h1>
+<h2 id="activation-energy">Activation Energy</h2>
+<p>In chemistry, activation energy is the energy that must be delivered to
+a chemical system in order to initiate a reaction, breaking bonds so
+that new ones can form. Molecules must collide to react, and movement
+speeds up when temperature increases. All chemical reactions have a
+required activation energy, but there is a range. We start with an
+increase in temperature, which leads to an increase in molecular
+velocity, resulting in an increase of the frequency of molecular
+collisions. The more collisions, the more chances of having sufficient
+energy to produce a reaction.</p>
+<p>The bigger and more challenging an action is, the more activation energy
+required. And it's important to remember that the buildup to doing
+something is part of the activation energy required---this build up
+includes everything.</p>
+<p>When trying to change something it's not enough to put up the energy to
+remove the unwanted thing or behaviour you also must anticipate what's
+required to form a new structure once you break the old one apart.</p>
+<h1 id="biology">Biology</h1>
+<h2 id="adaption-and-read-queen-effect">Adaption and Read Queen effect</h2>
+<p>We have to deal with the environment we are in, not the one we wish we
+were in. Adaptations are successful relative to their performance in a
+specific environment, relative to the pressure and competition the
+organisms face. We don't have to be objectively best, just better than
+those we are competing against. "In other words, living things do only
+as well as they have to rather than optimize."<a href="javascript:void(0)">1</a></p>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../Mental_Models_FS./" class="md-footer__link md-footer__link--prev" aria-label="Previous: Mental Models FS." rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Mental Models FS.
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../Model_thinking/" class="md-footer__link md-footer__link--next" aria-label="Next: Model thinking" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Model thinking
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.0bbba5b5.min.js"}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e1a181d9.min.js"></script>
+      
+    
+  </body>
+</html>

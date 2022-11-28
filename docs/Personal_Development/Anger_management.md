@@ -419,3 +419,175 @@ Angry thoughts
 -   catastrophizing
 
 -   **inflammatory labeling** (calling names)
+
+Self-control
+============
+
+Emotional freedom doesn't mean doing whatever we feel like doing;
+rather, it is doing what we truly want to do, despite our desires at the
+moment
+
+Self-esteem stimulates the desire to invest in ourselves and provides
+the energy for self-discipline. When our self-esteem is low, our
+interest and attention shift from long-term to immediate
+gratification---if it feels good, do it, regardless of the consequences.
+
+When people become upset they sometimes act
+aggressively,[7](javascript:void(0)) spend too much
+money,[8](javascript:void(0)) engage in risky
+behavior,[9](javascript:void(0)) comfort with alcohol, drugs or food,
+and fail to pursue important life goals.[10](javascript:void(0)) Anger
+is related to relapse for a number of addictive behaviors, such as
+alcoholism, gambling and drug addiction;[11](javascript:void(0)) and
+increased eating by chronic dieters[12](javascript:void(0)) and greater
+smoking intensity by smokers.[13](javascript:void(0))
+
+Self-esteem
+===========
+
+When we lack self-esteem, we push away the very people we so desperately
+want in our lives because we can't fathom why anyone would love someone
+as unlovable as ourselves. And whatever affection or kindness forces its
+way through to us, we hardly embrace it. Such overtures don't serve to
+comfort but, rather, to confuse us; and the ego's mandate is clear:
+reject others before they have a chance to reject us.
+
+It should come as no surprise that anger is easily triggered when we
+focus on our own pain and how difficult life is for us. For instance,
+when faced with a present or impending loss, the egocentric person
+grieves less for the other, and more for himself. His loss. His guilt.
+His woe. The less the ego is involved, the less stuck we will become,
+because normal feelings of sadness are processed healthily rather than
+suppressed, masked, or channeled away from the healing process.
+
+When a person suffers from low self-esteem, he takes what he needs in an
+attempt to make himself feel whole, which is why the last person you
+want trying to love you is someone who doesn't love himself. This person
+cannot really love, he can only control and take. The more self-esteem
+we have, the more complete we are. Receiving, after all, is a natural
+and reciprocal consequence of giving. When we only take, however, to
+fill a constant void, we are left empty, and are forced to continue
+taking in a futile quest to feel fulfilled, which only reinforces our
+dependency and exhausts us emotionally and physically.
+
+Through this paradigm, we learn how to tell whether someone has high or
+low self-esteem; it is reflected in how he treats himself and others. A
+person who lacks self-esteem may indulge in things to satisfy only his
+own desires, and he will not treat others particularly well (a product
+of an arrogant mentality). Alternatively, this person may cater to
+others because he craves their approval and respect, but he does not
+take care of his own needs (a product of the doormat mentality). Only
+someone who has higher self-esteem can give responsibly---love and
+respect---to both himself and others.
+
+Even a highly sensitive person who is seemingly void of ego can also be
+self-centered and selfish. He is absorbed in his own pain, filled with
+self-pity, and he can't feel anyone else's pain while drowning in his
+own. Such a person experiences no real connection to anyone outside of
+himself, despite his seemingly noble nature. Without genuine humility,
+he will not---cannot---burden himself unless he receives a larger payout
+in the form of acceptance or approval. His taking is disguised as
+giving. His fear is dressed up as love.
+
+A person who is not self-centered feels humility and a connection to
+others. The wall of I am me and he is he is broken down, and where there
+is no ego, there is connection, a bond. A person who is not
+self-centered feels humility and a connection to others. The wall of I
+am me and he is he is broken down, and where there is no ego, there is
+connection, a bond.
+
+Anger cannot exist where there is no separation, no "I" to get in the
+way, but when we are self-focused, the ego cuts the cord. Fundamentally,
+anger is a disconnection---to avoid pain, to inflict pain.
+
+Confidence is how effective we feel within a specific area or situation,
+while self-esteem is defined as how much we recognize our inherent worth
+and feel deserving of happiness and good fortune. Self-esteem is shaped
+by the quality of our choices rather than by the assets at our disposal.
+A person who attempts to fortify his self-image by taking pride in a
+specific trait may exhibit signs of high self-esteem to the untrained
+eye, but, in fact, such an individual often suffers from low
+self-esteem, because all he has is an inflated ego.
+
+Don't fall into the trap of believing that a person with an inflated ego
+likes himself; ego and self-esteem are inversely related. No matter how
+much a person appears to be happy with himself, if he is egocentric,
+that person suffers with feelings of inferiority.
+
+How someone behaves toward you is reflection of his own feelings of
+self-worth and has nothing to do with your intrinsic worth---unless you
+(the ego) decide to make it about you.
+
+When we suffer from low self-esteem, we're often afraid that something
+bad will happen to us after something good occurs in our lives. When
+fortune unexpectedly smiles on us, we feel anxious because of our sense
+of unworthiness. To alleviate our emotional tension, we might even
+sabotage our success so that we can fulfill our personal prophecy: The
+world is as we predicted. We feel secure because our beliefs---no matter
+how damaging and distorted---have been reaffirmed. We will be right,
+even if it kills us.
+
+<https://www.cci.health.wa.gov.au/resources/looking-after-yourself/self-esteem>
+
+![](media_Anger_management/media/image2.png)
+
+Ego and fear
+============
+
+The ego is on the lookout for any situation that calls into question our
+worth, fearful that we are not lovable and may be rejected. Hence, the
+opposite of control---feeling vulnerable or even being stared at, let
+alone being disrespected or ridiculed, can send the egocentric psyche
+into overdrive. It becomes clear then why relationships, particularly
+with those closest to us, can result in unrelenting anger---it sets off
+so many emotional triggers. Take a simple scenario: a child does not
+listen to a parent.
+
+•  Guilt (Maybe I've done a poor job parenting.)
+
+•  Disrespect (How dare he not listen to me!)
+
+•  Rejection (He doesn't love me.)
+
+•  Embarrassment (If others are around, what do they think of me?)
+
+•  Fear (What's going to become of him? What will become of our
+relationship?)
+
+•  Injustice (After all I've done for him.)
+
+Wisdom is a function of both intellectual and emotional clarity. To the
+degree that our ego is engaged, we unconsciously distort (or consciously
+ignore) reality and gravitate toward the less-responsible choice.
+Therefore, in any given situation, it's quite possible for a smart
+person to make an astonishingly poor decision while his less-intelligent
+counterpart will make the wiser, more prudent choice.
+
+Those whose egos reign lack self-esteem and can't afford to question
+their own judgment, worth, or intelligence. Justification then binds
+them to the past and drags their mistakes into the future.
+
+ANGRY PEOPLE BEHAVE STUPIDLY
+============================
+
+Research finds self-regulation failure is central to nearly all the
+personal and social problems that currently plague the modern, developed
+world.
+
+Control
+=======
+
+The path to living anger free is paved not by circumstances, but by
+choice. An individual who controls himself recognizes that he doesn't
+control the world, and so he is not anxious. In fact, this understanding
+offers solace because all he has to do is exercise self-control, and God
+will take care of the rest. Conversely, one who cannot control himself
+falsely believes---courtesy of his ego---that he is, or should be, in
+control, and so becomes anxious in uncertain times and angry when
+reality unfolds against his expectations. His foolish quest to control
+that which is beyond his control will only lead him to lose more control
+over himself. This is a nuanced, yet critical, point. The more
+self-control we have, the more we see---and accept---what is within our
+control and what is not. Therefore we can, as the saying goes, let go
+and let God, because we know that when we have done all we can, God will
+do all we can't.
