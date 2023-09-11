@@ -1,4 +1,4 @@
-# Thinking like a chemist
+## Thinking like a chemist
 
 Heat is preserved, it is only transferred. This is how the sun provides
 us with Energy.
@@ -21,7 +21,7 @@ Weight in Newtons
 
 ![](media_Reasoning_across_the_disciplines/media/image2.png)
 
-# Understanding how others think (mind perception)
+## Understanding how others think (mind perception)
 
 Whether people have a consciousness/mind is usually perceived based
 along two dimensions or metrics:
