@@ -45,8 +45,7 @@ effect of D on E, we should draw an arrow.
 
 ![](media_Causal_Diagrams/media/image4.png)
 
-Χausal DAG 
------------
+## Χausal DAG 
 
 If two variables on the graph share a cause:
 
@@ -69,8 +68,7 @@ since it is a common cause of Aspirin and is also causing Y directly
 
 ![](media_Causal_Diagrams/media/image6.png)
 
-Common causes
-=============
+# Common causes
 
 When we\'re using data to estimate the causal effect of A on Y, any
 association between A and Y that is not due to the effect of A and Y is
@@ -105,5 +103,4 @@ Y conditional on L.
 
 ![](media_Causal_Diagrams/media/image8.png)
 
-Common effects
-==============
+# Common effects

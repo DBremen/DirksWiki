@@ -1,5 +1,4 @@
-Misc.
-=====
+# Misc.
 
 -   9 am in dublin in berlin
 
@@ -10,11 +9,9 @@ Misc.
 
     -   goes from concept to term
 
-Search operators
-================
+# Search operators
 
-site
-----
+## site
 
 -   site:standford.edu
 
@@ -28,15 +25,13 @@ site
 
 -   -site:dontwant
 
-range(..)
----------
+## range(..)
 
 -   \"10..50 V\" battery
 
 -   \"75.. mpg\" hybrid car
 
-filetype
---------
+## filetype
 
 -   filetype:kml OR kmz (go to google mymaps google.com/mymaps and
     import map)
@@ -45,20 +40,17 @@ filetype
 
 -   filetype:pdf intitle:word
 
-OR
---
+## OR
 
 -   OR (default is and must be caps)
 
-Wildcard (\*)
--------------
+## Wildcard (\*)
 
 -   Works also when in quotes
 
 -   In combination with others and multiple times
 
-Other
------
+## Other
 
 -   intitle:
 
@@ -71,10 +63,9 @@ Other
 -   apple AROUND(4) iphone: proximity search (find words within
     proximity no further than)
 
-Specific search engines
-=======================
+# Specific search engines
 
--   [google.com/advanced\_search](google.com/advanced_search) (also
+-   [google.com/advanced_search](google.com/advanced_search) (also
     google settings advanced search)
 
 -   <https://news.google.ie/newspapers> (newspaper archives)
@@ -82,7 +73,7 @@ Specific search engines
     -   wiki digital news archive
 
 -   [https://patents.google.com/](https://patents.google.com/%20)
-    (google.com/advanced\_patent\_search)
+    (google.com/advanced_patent_search)
 
 -   <https://trends.google.com/trends/explore?q=%2Fm%2F0dl567,%2Fm%2F0261x8t&date=now%207-d&geo=US>
 
@@ -102,16 +93,15 @@ Specific search engines
 
 -   <https://books.google.com/ngrams>
 
-URL parameters
-==============
+# URL parameters
 
 -   https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
 
 -   https://seoheronews.com/url-google
 
--   https://developers.google.com/custom-search/docs/xml\_results?hl=en\#lrsp
+-   https://developers.google.com/custom-search/docs/xml_results?hl=en#lrsp
 
--   https://www.google.com/search?q=test&lr=lang\_es
+-   https://www.google.com/search?q=test&lr=lang_es
 
 -   https://www.google.com/search?q=test&cr=countryAU
 
@@ -120,7 +110,7 @@ URL parameters
 -   &start=
 
 -   lr -- the language of the document (accept values in the form
-    lr=lang\_ru where the last two letters indicate the language index,
+    lr=lang_ru where the last two letters indicate the language index,
     in this example -- Russian)
 
     -   <https://www.google.com/preferences?hl=en&fg=1#languages> (to

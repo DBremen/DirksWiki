@@ -27,8 +27,7 @@ from behind the clouds and smiled kindly on the old man. Presently, he
 mopped his brow and pulled off his coat. The sun then told the wind that
 gentleness and friendliness were always stronger than fury and force.*
 
-Fundamental Techniques in Handling People
-=========================================
+# Fundamental Techniques in Handling People
 
 -   Don\'t criticize, condemn or complain.
 
@@ -37,8 +36,7 @@ Fundamental Techniques in Handling People
 -   Arouse in the other person an eager want. (make them want what you
     want them to do)
 
-Six Ways To Make People Like You 
-=================================
+# Six Ways To Make People Like You 
 
 1.  Become genuinely interested in other people.
 
@@ -54,8 +52,7 @@ Six Ways To Make People Like You
 6.  Make the other person feel important and do it sincerely (no
     flattery)
 
-How To Win People To Your Way Of Thinking
-=========================================
+# How To Win People To Your Way Of Thinking
 
 -   A man convinced against his will is of the same opinion still.
 
@@ -98,8 +95,7 @@ How To Win People To Your Way Of Thinking
 
 -   Throw down a challenge.
 
-Be a Leader: How to Change People without Giving Offense or Arousing Resentment
-===============================================================================
+# Be a Leader: How to Change People without Giving Offense or Arousing Resentment
 
 -   Begin with praise and honest appreciation. (don't end it with but...
     use and...)
@@ -121,8 +117,7 @@ Be a Leader: How to Change People without Giving Offense or Arousing Resentment
 
 -   Make the other person happy about doing the thing you suggest.
 
-The effective leader should keep the following guidelines in mind when it is necessary to change attitudes or behavior: 
-========================================================================================================================
+# The effective leader should keep the following guidelines in mind when it is necessary to change attitudes or behavior: 
 
 -   Be sincere. Do not promise anything that you cannot deliver.
 

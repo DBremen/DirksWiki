@@ -2,8 +2,7 @@ Aristoteles (mit seiner *Nikomachischen Ethik)* 
 
 Thomas von Aquin *(Summe der Theologie). (Thomas Anquinas)*
 
-Laster und Tugenden (vices and virtues)
-=======================================
+# Laster und Tugenden (vices and virtues)
 
 **Tugend = Abeleitet von Tauglichkeit/Tüchtigkeit = Gesundheit der
 Seele**
@@ -19,11 +18,9 @@ verringern und zu meiden, kann sich die Tugend zunehmend von einem
 vereinzelten Ereignis zu einer gewohnheitsmäßigen Haltung entwickeln,
 freiwillig das Gute zu tun.**
 
-Mittelweg
----------
+## Mittelweg
 
-humanistische Liberalismus 
----------------------------
+## humanistische Liberalismus 
 
 Ohne Geiz, Habgier und Neid gäbe es kein ständig fortschreitendes
 Wirtschaftswachstum, keine Triebfeder zur Anhäufung von Kapital, während
@@ -46,15 +43,13 @@ kollektive Gemütsverfassung, die große Teile der kapitalistischen
 Gesellschaft erfasst, zeichnet sich durch einen Verlust an Sinn,
 Geborgenheit, Lebensfreude und Seelenfrieden aus.**
 
-autoritäre Fundamentalismus
----------------------------
+## autoritäre Fundamentalismus
 
 dogmatischen Vorschriften bezüglich Sitten und Moral, mit
 gesellschaftlicher Intoleranz und der Verfolgung Andersdenkender
 ersetzen. Doppelmoral -\> moralisches Handeln aus Egoismus.
 
-Tugend- und Laster
-==================
+# Tugend- und Laster
 
 Basierend auf dem Mittelweg (golden rule Aristotetle):
 
@@ -106,8 +101,7 @@ Gelegenheiten in der Außenwelt, die destruktives Verhalten begünstigen
 
 ![](media_Innere_MItte/media/image1.png)
 
-*Leidenschaften*
-================
+# Leidenschaften
 
 Die Leidenschaften sind von einer Defizitmotivation bestimmte Triebe,
 die aus einem Gefühl der Sinnlosigkeit, der Leere und der
@@ -116,8 +110,7 @@ Verwirklichung der unbefriedigten Sehnsucht und nach einer
 Wiederherstellung eines Zustandes der Erfüllung und Zufriedenheit,
 verhindern dies jedoch gleichzeitig.
 
-Emotion vs. Gefühle (Emotion vs. Feeling)
------------------------------------------
+## Emotion vs. Gefühle (Emotion vs. Feeling)
 
 Leidenschaften sind nicht das Gleiche wie Gefühle. Kant verglich die
 Gefühle mit Wasser, das durch einen Damm bricht, die Leidenschaften aber
@@ -207,15 +200,19 @@ beschreiben und damit auch versprachlichen lassen, wie u. a. Liebe,
 Angst, Ärger, Komik, Ironie sowie Mitleid, Eifersucht, Furcht, Freude
 und Liebe.**
 
-Vom Laster zur Tugend
-=====================
+# Vom Laster zur Tugend
 
 Grundvoraussetzung für alles ist Liebe und guter Wille.
 
-Von der Unvernunft zur Weisheit (Angemessner Einsatz des Verstandes)
---------------------------------------------------------------------
+## Von der Unvernunft zur Weisheit (Angemessner Einsatz des Verstandes)
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -252,7 +249,8 @@ Von der Unvernunft zur Weisheit (Angemessner Einsatz des Verstandes)
 </ul></td>
 <td>Besserwisserei</td>
 <td><p>Klugheit und Weisheit</p>
-<p><strong>Klugheit</strong> -&gt; durch Einsicht gewonnenes Wissen das als gut Erkannte zu tun und das als schlecht Erkannte zu lassen</p>
+<p><strong>Klugheit</strong> -&gt; durch Einsicht gewonnenes Wissen das
+als gut Erkannte zu tun und das als schlecht Erkannte zu lassen</p>
 <ul>
 <li><p>Überlegung - Urteil – Beschluss</p></li>
 <li><p>Mehrere angemessene langfristige Ziele</p></li>
@@ -268,13 +266,20 @@ Von der Unvernunft zur Weisheit (Angemessner Einsatz des Verstandes)
 <ul>
 <li><p>Offenheit</p></li>
 <li><p>Erkenntnisfähigkeit</p></li>
-<li><p>sapere aude, »Habe den Mut, dich deines eigenen Verstandes zu bedienen«.</p></li>
+<li><p>sapere aude, »Habe den Mut, dich deines eigenen Verstandes zu
+bedienen«.</p></li>
 <li></li>
 </ul></td>
 <td><p>Gegenmittel:</p>
-<p>Nicht zu bequem, zu eingebildet oder ist intellektuell zu beschränkt, sein um sich in seinen Handlungen durch kluge Überlegungen leiten zu lassen.</p></td>
+<p>Nicht zu bequem, zu eingebildet oder ist intellektuell zu beschränkt,
+sein um sich in seinen Handlungen durch kluge Überlegungen leiten zu
+lassen.</p></td>
 <td></td>
-<td><p><strong>Weisheit -</strong> Wer weise ist, ist zugleich klug, aber nicht jeder, der klug ist, ist auch weise. Wer weise ist, vermag über alles richtig zu urteilen. Weisheit beruht auf Erkenntnis und guten Willen. Weisheit ist ein vollkom-menes Zusammenspiel zwischen Geist und Charakter, zwischen Wissen und Tun.</p>
+<td><p><strong>Weisheit -</strong> Wer weise ist, ist zugleich klug,
+aber nicht jeder, der klug ist, ist auch weise. Wer weise ist, vermag
+über alles richtig zu urteilen. Weisheit beruht auf Erkenntnis und guten
+Willen. Weisheit ist ein vollkom-menes Zusammenspiel zwischen Geist und
+Charakter, zwischen Wissen und Tun.</p>
 <p>Voraussetzung für Weisheit:</p>
 <ul>
 <li><p>Abwesenheit von Laster und Leidenschaft</p></li>
@@ -307,10 +312,15 @@ Entwicklung ausgerichtet sind. Verstand und Vernunft sind somit nicht
 das Gleiche. Der Verstand als Teilaspekt der psychischen Fähigkeiten
 lässt sich sowohl vernünftig als auch unvernünftig gebrauchen.
 
-Von der Falschheit zur Wahrhaftigkeit
--------------------------------------
+## Von der Falschheit zur Wahrhaftigkeit
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -322,7 +332,11 @@ Von der Falschheit zur Wahrhaftigkeit
 <tbody>
 <tr class="odd">
 <td><p>Ungerechtigkeit und Falscheit</p>
-<p><strong>Ungerechtigkeit -&gt;</strong> Bewusste und willentlichen Grenzüberschreitung, die jemandem etwas Gutes wegnimmt oder etwas Schlechtes zufügt, ohne dass diese Person es verdient hätte. Warum? Täter wollen keine Gerechtigkeit wollen oder bedenken die Folgen ihrer Taten nicht.</p>
+<p><strong>Ungerechtigkeit -&gt;</strong> Bewusste und willentlichen
+Grenzüberschreitung, die jemandem etwas Gutes wegnimmt oder etwas
+Schlechtes zufügt, ohne dass diese Person es verdient hätte. Warum?
+Täter wollen keine Gerechtigkeit wollen oder bedenken die Folgen ihrer
+Taten nicht.</p>
 <p>Gerechtigkeit ohne Liebe kann in Grausamkeit enden.</p>
 <ul>
 <li><p>öffentlich beschimpften</p></li>
@@ -335,22 +349,32 @@ Von der Falschheit zur Wahrhaftigkeit
 <td>Gewissenslosigkeit</td>
 <td>Scheinheiligkeit und Spießertum</td>
 <td><p>Gerechtigkeit und Wahrhaft</p>
-<p>Nicht nur nach eigenen Bedürfnissen handeln sonder bewusst sein, dass jedes Geschöpf bestimmte Rechte besitzt.</p>
+<p>Nicht nur nach eigenen Bedürfnissen handeln sonder bewusst sein, dass
+jedes Geschöpf bestimmte Rechte besitzt.</p>
 <p><strong>Gerechtigkeit:</strong></p>
 <ul>
 <li><p>Ausgleichende: Beziehungen einzelner zueinander</p></li>
-<li><p>Austeilende: Beziehungen des sozialen Ganzen zu den einzelnen (Staat)</p></li>
-<li><p>Gesetzliche: Beziehungen der einzelnen zum sozialen Ganzen</p></li>
+<li><p>Austeilende: Beziehungen des sozialen Ganzen zu den einzelnen
+(Staat)</p></li>
+<li><p>Gesetzliche: Beziehungen der einzelnen zum sozialen
+Ganzen</p></li>
 </ul>
-<p>Freundlichkeit, Dankbarkeit, Freigebigkeit, Fairness, Respekt gegenüber den Eltern</p></td>
+<p>Freundlichkeit, Dankbarkeit, Freigebigkeit, Fairness, Respekt
+gegenüber den Eltern</p></td>
 </tr>
 <tr class="even">
-<td><strong>Falscheit -&gt;</strong> Täuschung, Lügen, Heuchlei, Prahlerei, Manipulation, Hinterhalt, Verrat, Verlogenheit, List, Unaufrichtig gegenüber sich selbst. Die Warheit wird erkannt aber absichtlich verdreht. Sich selbst etwas vormachen.</td>
+<td><strong>Falscheit -&gt;</strong> Täuschung, Lügen, Heuchlei,
+Prahlerei, Manipulation, Hinterhalt, Verrat, Verlogenheit, List,
+Unaufrichtig gegenüber sich selbst. Die Warheit wird erkannt aber
+absichtlich verdreht. Sich selbst etwas vormachen.</td>
 <td></td>
 <td></td>
 <td><p><strong>Wahrhaftigkeit</strong> -&gt; Ehrlichkeit</p>
-<p>Der äußere Ausdruck entspricht dem inneren Sein -&gt; Authentizität. Umgekehrt bedeutet authentisch zu leben jedoch nicht, dass man alles, was man innerlich erlebt, ungefiltert nach außen kommuniziert.</p>
-<p>Ein wahrhafter Mensch kann nicht lügen, weil er nicht irgendetwas anderes sein kann, als er ist.</p>
+<p>Der äußere Ausdruck entspricht dem inneren Sein -&gt; Authentizität.
+Umgekehrt bedeutet authentisch zu leben jedoch nicht, dass man alles,
+was man innerlich erlebt, ungefiltert nach außen kommuniziert.</p>
+<p>Ein wahrhafter Mensch kann nicht lügen, weil er nicht irgendetwas
+anderes sein kann, als er ist.</p>
 <p>Persönliche Integrität:</p>
 <ul>
 <li><p>Handeln basierend auf Werten (Idealen)</p></li>
@@ -363,10 +387,15 @@ Von der Falschheit zur Wahrhaftigkeit
 </tbody>
 </table>
 
-Vom Hochmut zur Demut
----------------------
+## Vom Hochmut zur Demut
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -378,34 +407,60 @@ Vom Hochmut zur Demut
 <tbody>
 <tr class="odd">
 <td><p>Hochmut (Arroganz) und Stolz</p>
-<p>Beide sind anmaßend, arrogant und überheblich. Hochmut -&gt; unkluge Fehleinschätzung des eigenen Seins und Könnens.</p>
-<p>Stolz -&gt; eigenen Vorzüge werden richtig erkannt, doch auf unkluge und ungerechte Weise benutzt. Schwer zu beurteilen, ob jemand zu Recht auf einen Vorzug stolz ist oder ob er diesen nur hochmütig vorspielt.</p>
-<p>Durch ein betont »cooles« Gehabe (rar machen), wird versucht, sich selbst und die eigene Referenzgruppe als außergewöhnlich darzustellen.</p>
+<p>Beide sind anmaßend, arrogant und überheblich. Hochmut -&gt; unkluge
+Fehleinschätzung des eigenen Seins und Könnens.</p>
+<p>Stolz -&gt; eigenen Vorzüge werden richtig erkannt, doch auf unkluge
+und ungerechte Weise benutzt. Schwer zu beurteilen, ob jemand zu Recht
+auf einen Vorzug stolz ist oder ob er diesen nur hochmütig
+vorspielt.</p>
+<p>Durch ein betont »cooles« Gehabe (rar machen), wird versucht, sich
+selbst und die eigene Referenzgruppe als außergewöhnlich
+darzustellen.</p>
 <ul>
-<li><p><strong>Ansicht, das Gute komme aus einem selbst</strong></p></li>
-<li><p><strong>Glauben, das von Gott Gegebene erhalte man aufgrund eigener Verdienste</strong></p></li>
+<li><p><strong>Ansicht, das Gute komme aus einem
+selbst</strong></p></li>
+<li><p><strong>Glauben, das von Gott Gegebene erhalte man aufgrund
+eigener Verdienste</strong></p></li>
 <li><p>Prahlerei, etwas zu besitzen, das man gar nicht hat</p></li>
-<li><p>Anschein, den man sich selbst gibt: im Streben nach dem eigenen Vorrang</p></li>
+<li><p>Anschein, den man sich selbst gibt: im Streben nach dem eigenen
+Vorrang</p></li>
 </ul></td>
 <td><p>Selbstverachtung, Unterwürfigket</p>
-<p>Bescheidenheit und Demut befreien und lösen ruhige, zufriedene Gefühle aus. Unterwürfigkeit dagegen führt zu Anspannung, zu Scham und Frustration. Wer sich nie zutraut, <strong>offen zu seiner Meinung zu stehen, seine Wünsche zu äußern, für seine Bedürfnisse einzustehen oder sich bei Ungerechtigkeiten zur Wehr zu setzen</strong>, erstickt den natürlichen Impuls des Ichs, seine eigenen Grenzen zu wahren.</p></td>
+<p>Bescheidenheit und Demut befreien und lösen ruhige, zufriedene
+Gefühle aus. Unterwürfigkeit dagegen führt zu Anspannung, zu Scham und
+Frustration. Wer sich nie zutraut, <strong>offen zu seiner Meinung zu
+stehen, seine Wünsche zu äußern, für seine Bedürfnisse einzustehen oder
+sich bei Ungerechtigkeiten zur Wehr zu setzen</strong>, erstickt den
+natürlichen Impuls des Ichs, seine eigenen Grenzen zu wahren.</p></td>
 <td><p>Falsche Bescheidenheit</p>
-<p>Wenn jemand bescheiden feststellt, Ehre und Lob wären ihm nicht wichtig, ein kleines Wort des Dankes würde schon genügen, verrät dieser als Bescheidenheit getarnte enttäuschte Wunsch nach Anerkennung, dass sich dieser Mensch in seinem Hochmut darin gefällt, innerlich auf all die Undankbaren hinabzublicken.</p></td>
+<p>Wenn jemand bescheiden feststellt, Ehre und Lob wären ihm nicht
+wichtig, ein kleines Wort des Dankes würde schon genügen, verrät dieser
+als Bescheidenheit getarnte enttäuschte Wunsch nach Anerkennung, dass
+sich dieser Mensch in seinem Hochmut darin gefällt, innerlich auf all
+die Undankbaren hinabzublicken.</p></td>
 <td><p>Demut/Bescheidenheit und Seelengröße</p>
-<p>Wahre Demut erwartet weder Lohn noch Dank, denn sie geschieht aus Freude und Liebe, die sich selbst Lohn genug sind.</p>
+<p>Wahre Demut erwartet weder Lohn noch Dank, denn sie geschieht aus
+Freude und Liebe, die sich selbst Lohn genug sind.</p>
 <p>Demut:</p>
 <ul>
 <li><p>Sich nicht aufblasen</p></li>
 <li><p>Zugeben dass man sich irren kann</p></li>
-<li><p>wissen, dass man die meisten Gaben, als unverdientes Geschenk erhalten hat</p></li>
-<li><p>nicht zu eingebildet, um den Anteil anderer an ihren Verdiensten dankbar anzuerkennen</p></li>
-<li><p>glauben nicht, dass sie ein größeres Stück des Kuchens verdienten als andere, nur weil sie sich mehr anstrengen oder besser aussehen</p></li>
+<li><p>wissen, dass man die meisten Gaben, als unverdientes Geschenk
+erhalten hat</p></li>
+<li><p>nicht zu eingebildet, um den Anteil anderer an ihren Verdiensten
+dankbar anzuerkennen</p></li>
+<li><p>glauben nicht, dass sie ein größeres Stück des Kuchens verdienten
+als andere, nur weil sie sich mehr anstrengen oder besser
+aussehen</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>Eine andere Strategie, sich einen Vorrang zu sichern, wählt derjenige, der versucht, andere offen herabzusetzen, sie zu kritisieren,</p>
+<td><p>Eine andere Strategie, sich einen Vorrang zu sichern, wählt
+derjenige, der versucht, andere offen herabzusetzen, sie zu
+kritisieren,</p>
 <p>Eitelkeit -&gt; übertriebenen Sorge um die eigenen Vorzüge.</p>
-<p>Während der Eitle äußere Ehrenzeichen leidenschaftlich begehrt, der Hochmütige sie rücksichtslos fordert, verschmäht sie der Stolze</p>
+<p>Während der Eitle äußere Ehrenzeichen leidenschaftlich begehrt, der
+Hochmütige sie rücksichtslos fordert, verschmäht sie der Stolze</p>
 <p>Ehrgeiz -&gt; Im Sinne von Gier nach Ehre</p>
 <p>Töchtern der Ruhmsucht</p>
 <ul>
@@ -417,9 +472,20 @@ Vom Hochmut zur Demut
 </ul></td>
 <td></td>
 <td></td>
-<td><p>Großsinnigkeit -&gt; sich aufgrund der eigener Gaben großer Dinge für würdig halten. Sie schätzt andere dann gering ein, wenn sie scheinbar keinerlei Gaben besitzen oder diese nicht nutzen.</p>
-<p>Demut -&gt; sich selbst in Anbetracht der eigenen Unzulänglichkeiten gering schätzen und andere wegen der ihnen verliehenen Gaben hoch.</p>
-<p>Seelengröße verhindert es, dass die Demut in Selbstverachtung und Unterwürfigkeit abgleitet, während die Demut verhindert, dass sich die Seelengröße zu Hochmut und Stolz aufbläht. Eigennutz abzulegen macht es möglich, anderen Menschen freiwillig und mit Freuden zu dienen, nicht aus feiger Unterwürfigkeit, sondern aus Achtung und Liebe. Wir müssen uns nicht mehr mit anderen vergleichen und nicht mehr abwägen, wer den größeren Nutzen davonträgt. Wir müssen nicht mehr stolz an unserer Version der Wahrheit festhalten und benötigen keine Nahrung für den Hochmut, indem wir uns trotzig im Recht wissen wollen.</p></td>
+<td><p>Großsinnigkeit -&gt; sich aufgrund der eigener Gaben großer Dinge
+für würdig halten. Sie schätzt andere dann gering ein, wenn sie
+scheinbar keinerlei Gaben besitzen oder diese nicht nutzen.</p>
+<p>Demut -&gt; sich selbst in Anbetracht der eigenen Unzulänglichkeiten
+gering schätzen und andere wegen der ihnen verliehenen Gaben hoch.</p>
+<p>Seelengröße verhindert es, dass die Demut in Selbstverachtung und
+Unterwürfigkeit abgleitet, während die Demut verhindert, dass sich die
+Seelengröße zu Hochmut und Stolz aufbläht. Eigennutz abzulegen macht es
+möglich, anderen Menschen freiwillig und mit Freuden zu dienen, nicht
+aus feiger Unterwürfigkeit, sondern aus Achtung und Liebe. Wir müssen
+uns nicht mehr mit anderen vergleichen und nicht mehr abwägen, wer den
+größeren Nutzen davonträgt. Wir müssen nicht mehr stolz an unserer
+Version der Wahrheit festhalten und benötigen keine Nahrung für den
+Hochmut, indem wir uns trotzig im Recht wissen wollen.</p></td>
 </tr>
 </tbody>
 </table>
@@ -435,9 +501,9 @@ ersten Schritte in der Entwicklung der Demut beziehen sich somit auf die
 richtige spirituelle Verankerung. Je höher wir steigen, desto mehr
 verkörpert sich die Demut auch bis hinab ins Leibliche.
 
-1\. Gottesfurcht: Die Gottesfurcht ist somit nichts anders als unbedingte
-Liebe zu Gott, wozu die Stärke notwendig ist, **stets das Gute zu tun
-und das Böse zu meiden.**
+1\. Gottesfurcht: Die Gottesfurcht ist somit nichts anders als
+unbedingte Liebe zu Gott, wozu die Stärke notwendig ist, **stets das
+Gute zu tun und das Böse zu meiden.**
 
 2\. Willenlosigkeit: Auf der zweiten Stufe soll man den eigenen **Willen
 nicht lieben und sich nicht in der Befriedigung seiner Wünsche
@@ -446,8 +512,8 @@ eigenen Stolz dienen, ermöglicht **das Loslassen der aktiven
 Willenstätigkeit eine Öffnung für das reale Leben, das größer und
 schöner ist, als sich das kleine Ich erträumen könnte.**
 
-3\. Gehorsam: Gehorsam im spirituellen Sinn bedeutet **die Fähigkeit, auf
-die innere Stimme zu horchen.** Der Gehorsam ermöglicht es, dass
+3\. Gehorsam: Gehorsam im spirituellen Sinn bedeutet **die Fähigkeit,
+auf die innere Stimme zu horchen.** Der Gehorsam ermöglicht es, dass
 **dasjenige, das klein ist, sich demjenigen unterordnet, das groß ist.**
 Dadurch wird der Hochmut unmöglich gemacht, denn dieser beruht auf einer
 Verwechslung des Kleinen mit dem Großen. Wir **öffnen uns für die
@@ -527,10 +593,15 @@ Lebendigkeit erfüllt ist.**
 
 -   Zielorientierung (Realismus, Energie, Mut)
 
-Vom Neid zur Dankbarkeit
-------------------------
+## Vom Neid zur Dankbarkeit
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -543,30 +614,60 @@ Vom Neid zur Dankbarkeit
 <tr class="odd">
 <td><p>Neid und Eifersucht</p>
 <p>Verbunden mit Vorstellungen des Ungenügens und des Mangels</p>
-<p>Neid -&gt; Die Person oder Gruppe, mit der ein Neider sich vergleicht, kommt besser weg als er selbst.</p>
-<p>Der Begriff Missgunst bezeichnet die weniger schlimme Form des Neides. Bei der schlimmeren Form sprechen wir von Schadenfreude.</p></td>
+<p>Neid -&gt; Die Person oder Gruppe, mit der ein Neider sich
+vergleicht, kommt besser weg als er selbst.</p>
+<p>Der Begriff Missgunst bezeichnet die weniger schlimme Form des
+Neides. Bei der schlimmeren Form sprechen wir von
+Schadenfreude.</p></td>
 <td>Selbstüberhöhung</td>
 <td><p>Moralische Entrüstung</p>
-<p>Man empört sich nicht deshalb über die Lasterhaftigkeit anderer Menschen, weil man sich aufrichtig um ihr Wohlergehen sorgt oder weil man selbst ein so leuchtendes Beispiel für Tugendhaftigkeit abgibt, sondern um dem verzehrenden Neid oder der nagenden Eifersucht Luft zu verschaffen. »Moralische Entrüstung ist Eifersucht mit einem Heiligenschein«</p></td>
+<p>Man empört sich nicht deshalb über die Lasterhaftigkeit anderer
+Menschen, weil man sich aufrichtig um ihr Wohlergehen sorgt oder weil
+man selbst ein so leuchtendes Beispiel für Tugendhaftigkeit abgibt,
+sondern um dem verzehrenden Neid oder der nagenden Eifersucht Luft zu
+verschaffen. »Moralische Entrüstung ist Eifersucht mit einem
+Heiligenschein«</p></td>
 <td><p>Dankbarkeit und Großherzigkeit (Güte)</p>
-<p>Der Grund für die Herzensgröße gütiger Menschen ist ihre Dankbarkeit. Großherzige Menschen schauen nicht auf das, was sie nicht besitzen oder nicht sind, sondern sind zutiefst für alles Gute dankbar, das ihnen geschenkt wird.</p>
-<p>Ein dankbarer Mensch vergisst nie, was ihm Gutes widerfährt. Eine schonungslose Analyse des eigenen Neides kann dazu beitragen, sich mit der Zeit immer mehr vom Neid zu lösen und eine Haltung der Dankbarkeit einzunehmen. Der Weg von einem missgünstigen Dasein zur Dankbarkeit führt über die Akzeptanz eigener Gefühle des Neides oder der Eifersucht.</p></td>
+<p>Der Grund für die Herzensgröße gütiger Menschen ist ihre Dankbarkeit.
+Großherzige Menschen schauen nicht auf das, was sie nicht besitzen oder
+nicht sind, sondern sind zutiefst für alles Gute dankbar, das ihnen
+geschenkt wird.</p>
+<p>Ein dankbarer Mensch vergisst nie, was ihm Gutes widerfährt. Eine
+schonungslose Analyse des eigenen Neides kann dazu beitragen, sich mit
+der Zeit immer mehr vom Neid zu lösen und eine Haltung der Dankbarkeit
+einzunehmen. Der Weg von einem missgünstigen Dasein zur Dankbarkeit
+führt über die Akzeptanz eigener Gefühle des Neides oder der
+Eifersucht.</p></td>
 </tr>
 <tr class="even">
-<td><p>Eifersucht -&gt; »Eifersucht ist eine Leidenschaft, die mit Eifer sucht, was Leiden schafft.«</p>
-<p>Als Emotion erleben wir Eifersucht, wenn wir meinen, seitens einer Drittperson nicht genügend Aufmerksamkeit oder Zuneigung zu erhalten, während scheinbar eine andere Person, von der wir ausgestochen werden, in einem höheren Maße durch die Drittperson begünstigt wird.</p></td>
+<td><p>Eifersucht -&gt; »Eifersucht ist eine Leidenschaft, die mit Eifer
+sucht, was Leiden schafft.«</p>
+<p>Als Emotion erleben wir Eifersucht, wenn wir meinen, seitens einer
+Drittperson nicht genügend Aufmerksamkeit oder Zuneigung zu erhalten,
+während scheinbar eine andere Person, von der wir ausgestochen werden,
+in einem höheren Maße durch die Drittperson begünstigt wird.</p></td>
 <td></td>
 <td></td>
-<td><p><strong>Ein Leben, das sich am Sein statt am Haben ausrichtet, betrachtet das Dasein stets vom Standpunkt der Ewigkeit aus – im Wissen darum, dass jeglicher Besitz wieder verloren geht, es sei denn, der Besitz kann im eigenen Herzen aufbewahrt werden.</strong></p>
-<p>Die Dankbarkeit über das eigene Dasein führt zum Wunsch, anderen Menschen mit Nächstenliebe, mit Mitgefühl, Freundschaft, Sympathie und ohne Vorurteile oder Egoismus zu begegnen.</p></td>
+<td><p><strong>Ein Leben, das sich am Sein statt am Haben ausrichtet,
+betrachtet das Dasein stets vom Standpunkt der Ewigkeit aus – im Wissen
+darum, dass jeglicher Besitz wieder verloren geht, es sei denn, der
+Besitz kann im eigenen Herzen aufbewahrt werden.</strong></p>
+<p>Die Dankbarkeit über das eigene Dasein führt zum Wunsch, anderen
+Menschen mit Nächstenliebe, mit Mitgefühl, Freundschaft, Sympathie und
+ohne Vorurteile oder Egoismus zu begegnen.</p></td>
 </tr>
 </tbody>
 </table>
 
-Vom Jähzorn zur Sanftmut
-------------------------
+## Vom Jähzorn zur Sanftmut
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -578,7 +679,9 @@ Vom Jähzorn zur Sanftmut
 <tbody>
 <tr class="odd">
 <td><p>Jähzorn und Grausamkeit</p>
-<p>Jähzorn -&gt; aggressiven Gefühlsausbruch, der plötzlich und unvermittelt (»jäh«) aus kleinstem Anlass gegenüber Personen oder Dingen auftritt.</p>
+<p>Jähzorn -&gt; aggressiven Gefühlsausbruch, der plötzlich und
+unvermittelt (»jäh«) aus kleinstem Anlass gegenüber Personen oder Dingen
+auftritt.</p>
 <ul>
 <li><p>Streiterei</p></li>
 <li><p>Ärger, Wut, Zorn</p></li>
@@ -588,7 +691,11 @@ Vom Jähzorn zur Sanftmut
 <li><p>Fluchen</p></li>
 <li><p>Unfreundlichkeit oder Unverträglichkeit.</p></li>
 </ul>
-<p>Feindschaft, Hass, Rachsucht, Grausamkeit -&gt; Wer hasst, verabscheut nicht nur einen Menschen, sondern möchte ihm auch schaden. Hass entspringt oft anderen Lastern, insbesondere dem Neid, dem gekränkten Ehrgeiz oder der Eifersucht. <strong>Ohne vorangehende Liebe kann Hass nämlich gar nicht auftreten.</strong></p></td>
+<p>Feindschaft, Hass, Rachsucht, Grausamkeit -&gt; Wer hasst,
+verabscheut nicht nur einen Menschen, sondern möchte ihm auch schaden.
+Hass entspringt oft anderen Lastern, insbesondere dem Neid, dem
+gekränkten Ehrgeiz oder der Eifersucht. <strong>Ohne vorangehende Liebe
+kann Hass nämlich gar nicht auftreten.</strong></p></td>
 <td>Aggressionshemmung, Unerzürnbarkeit</td>
 <td>Falsche Friedfertigkeit gespielte Freundlichkeit</td>
 <td><p>Sanftmut (Milde) und Freundlichkeit</p>
@@ -600,8 +707,11 @@ Vom Jähzorn zur Sanftmut
 <li><p><strong>Gelassenheit</strong></p></li>
 <li><p><strong>Ruhe</strong></p></li>
 </ul>
-<p><strong>Friedfertigkeit &lt;&gt; Schwäche Aggressivität &lt;&gt; Stärke</strong></p>
-<p>Freundlichkeit -&gt; ein freundlicher Mensch ist allen gegenüber rücksichtsvoll, taktvoll und höflich, auch gegenüber Personen, die er nicht mag.</p></td>
+<p><strong>Friedfertigkeit &lt;&gt; Schwäche Aggressivität &lt;&gt;
+Stärke</strong></p>
+<p>Freundlichkeit -&gt; ein freundlicher Mensch ist allen gegenüber
+rücksichtsvoll, taktvoll und höflich, auch gegenüber Personen, die er
+nicht mag.</p></td>
 </tr>
 </tbody>
 </table>
@@ -661,10 +771,15 @@ sanftmütigere und friedlichere Reaktionen ersetzt werden.**
 **Man darf und soll sich ärgern, aber so, dass man weder sich noch
 andere schädigt und kein neues Unrecht schafft.**
 
-Vom Trübsinn zum Fleiß
-----------------------
+## Vom Trübsinn zum Fleiß
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -689,28 +804,40 @@ Vom Trübsinn zum Fleiß
 <li><p>Kummer</p></li>
 <li><p>Selbstmitleid</p></li>
 </ul>
-<p>Kummer und Trübsinn sind somit die Folge einer Frustration, die wegen der Unbeständigkeit und Vergänglichkeit aller materiellen Dinge eintritt.</p></td>
+<p>Kummer und Trübsinn sind somit die Folge einer Frustration, die wegen
+der Unbeständigkeit und Vergänglichkeit aller materiellen Dinge
+eintritt.</p></td>
 <td><p>Agitiertheit, Zerstreuung</p>
-<p>Party-Gesellschaft -&gt; Krampf-hafte Ausgelassenheit gespielte Freude,</p>
-<p>Suche nach Zerstreuung, Ablenkung, oberflächlicher Unterhaltung und Stimulation sind nichts anderes als die unruhige Kehrseite von Trübsinn und Überdruss.</p></td>
+<p>Party-Gesellschaft -&gt; Krampf-hafte Ausgelassenheit gespielte
+Freude,</p>
+<p>Suche nach Zerstreuung, Ablenkung, oberflächlicher Unterhaltung und
+Stimulation sind nichts anderes als die unruhige Kehrseite von Trübsinn
+und Überdruss.</p></td>
 <td>Übertriebener Arbeitseifer, demonstrative Ausgelassenheit</td>
 <td><p>Hoffnung und Fleiß</p>
 <ul>
 <li><p>Hauptsächlich im Hier und Jetzt sein</p></li>
 <li><p>Kein Selbstmitleid</p></li>
 <li><p>Humor</p></li>
-<li><p>Den Überdruss heilen Standhaftigkeit und dass man alles mit großer Sorgfalt, Gottesfurcht und Ausdauer tut.</p></li>
+<li><p>Den Überdruss heilen Standhaftigkeit und dass man alles mit
+großer Sorgfalt, Gottesfurcht und Ausdauer tut.</p></li>
 <li><p>Kleine positive Ziele setzen</p></li>
-<li><p>Geduld/Ausdauer -&gt; achtsames verweilen in der Gegenwart</p></li>
+<li><p>Geduld/Ausdauer -&gt; achtsames verweilen in der
+Gegenwart</p></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-Von der Ängstlichkeit zum Mut
------------------------------
+## Von der Ängstlichkeit zum Mut
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -724,22 +851,38 @@ Von der Ängstlichkeit zum Mut
 <td><p>Ängstlichkeit und Feigheit</p>
 <p>Übertriebene Vermeidung von Risiken</p>
 <p>Peinlichkeit/Scham</p>
-<p>ie gleiche Person kann sich in unterschiedlichen Situationen einmal als mutig, dann als feige erweisen, und beides kann klug sein, wenn die zu erwartenden Ergebnisse der verschiedenen Handlungsalternativen abgewogen werden. Draufgängerisches Handeln ist nicht immer klug, während »Feigheit nicht selten auf guten Informationen beruht«, wie der englische Schauspieler Peter Ustinov bemerkte.</p>
-<p><strong>Herrschaft der Mehrzahl fördert Passivität und Kleinmut</strong></p></td>
+<p>ie gleiche Person kann sich in unterschiedlichen Situationen einmal
+als mutig, dann als feige erweisen, und beides kann klug sein, wenn die
+zu erwartenden Ergebnisse der verschiedenen Handlungsalternativen
+abgewogen werden. Draufgängerisches Handeln ist nicht immer klug,
+während »Feigheit nicht selten auf guten Informationen beruht«, wie der
+englische Schauspieler Peter Ustinov bemerkte.</p>
+<p><strong>Herrschaft der Mehrzahl fördert Passivität und
+Kleinmut</strong></p></td>
 <td>Furchtlosigkeit, Schamlosigkeit</td>
 <td>Tollkühnheit und Vermessenheit</td>
 <td><p>Mut und Gelassenheit</p>
-<p>Mutig ist, wer sich trotz Risiken und Widerwärtigkeiten auf eine Gefahr einlässt, weil er sich davon einen großen Gewinn erhofft.</p>
-<p><strong>Mut -&gt; überlegte und hoffnungsvolle Selbsthingabe aus Liebe.</strong></p>
-<p><strong>Mut zeigt sich nicht nur im aktiven Tun (Energie), sondern auch im unerschütterlichen Festhalten (Standhaftigkeit) an dem, was wesentlich ist, und im Loslassen (Gelassenheit) dessen, was ich nicht mehr festhalten kann oder will</strong></p></td>
+<p>Mutig ist, wer sich trotz Risiken und Widerwärtigkeiten auf eine
+Gefahr einlässt, weil er sich davon einen großen Gewinn erhofft.</p>
+<p><strong>Mut -&gt; überlegte und hoffnungsvolle Selbsthingabe aus
+Liebe.</strong></p>
+<p><strong>Mut zeigt sich nicht nur im aktiven Tun (Energie), sondern
+auch im unerschütterlichen Festhalten (Standhaftigkeit) an dem, was
+wesentlich ist, und im Loslassen (Gelassenheit) dessen, was ich nicht
+mehr festhalten kann oder will</strong></p></td>
 </tr>
 </tbody>
 </table>
 
-Vom Geiz zur Großzügigkeit
---------------------------
+## Vom Geiz zur Großzügigkeit
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -751,29 +894,50 @@ Vom Geiz zur Großzügigkeit
 <tbody>
 <tr class="odd">
 <td><p>Habgier und Verschwendungssucht</p>
-<p>Habgier -&gt; suchtartiges Streben nach materiellem Besitz, weitgehend unabhängig von dessen tatsächlichem Nutzen</p>
-<p>»Habsucht ist nichts anderes als Völlerei mittels unverdaulicher Güter«, schreibt Sofsky</p></td>
+<p>Habgier -&gt; suchtartiges Streben nach materiellem Besitz,
+weitgehend unabhängig von dessen tatsächlichem Nutzen</p>
+<p>»Habsucht ist nichts anderes als Völlerei mittels unverdaulicher
+Güter«, schreibt Sofsky</p></td>
 <td><p>Geiz (Sparsucht), mangelnder Erwerbstrieb</p>
-<p>Geiz -&gt; übertriebene Sparsamkeit und Unwillen, etwas von seinem Besitz herzugeben.</p></td>
+<p>Geiz -&gt; übertriebene Sparsamkeit und Unwillen, etwas von seinem
+Besitz herzugeben.</p></td>
 <td><p>Falsche Freigiebigkeit, geheuchelte Bedürfnislosigkeit</p>
-<p>nur deshalb von seinem Besitz hergibt, um als großzügiger Wohltäter zu erscheinen</p></td>
+<p>nur deshalb von seinem Besitz hergibt, um als großzügiger Wohltäter
+zu erscheinen</p></td>
 <td><p>Großzügigkeit, Armut und Nicht-Anhaften</p>
-<p>Die Haltung, den Besitz nicht so wichtig zu nehmen, lässt sich am besten einüben, indem man wertvolle Dinge loslässt und verschenkt. Durch bewusste Freigebigkeit lässt man andere am eigenen Besitz Anteil haben und verleiht dadurch zwei wichtigen Tatsachen Ausdruck:</p>
+<p>Die Haltung, den Besitz nicht so wichtig zu nehmen, lässt sich am
+besten einüben, indem man wertvolle Dinge loslässt und verschenkt. Durch
+bewusste Freigebigkeit lässt man andere am eigenen Besitz Anteil haben
+und verleiht dadurch zwei wichtigen Tatsachen Ausdruck:</p>
 <ul>
-<li><p>materielle Besitz ist nur geliehen (spätestens beim Tod zurückgeben)</p></li>
-<li><p>Beziehung zu den Menschen, mit denen man teilt, einen ungleich höheren Wert hat als der materielle Besitz, den man ihnen schenkt.</p></li>
+<li><p>materielle Besitz ist nur geliehen (spätestens beim Tod
+zurückgeben)</p></li>
+<li><p>Beziehung zu den Menschen, mit denen man teilt, einen ungleich
+höheren Wert hat als der materielle Besitz, den man ihnen
+schenkt.</p></li>
 </ul>
-<p>Ein freigebiger Mensch ist sich bewusst, dass sich das Rad des Schicksals beständig dreht. Sogar wenn er nur wenig besitzt, denkt er immer noch daran, was er anderen geben kann.</p>
-<p><strong>Geld und andere wertvolle Dinge bewusst spenden und verschenken, nicht wahl- und ziellos, sondern so, dass wirklich etwas Gutes und Sinnvolles bewirkt wird.</strong></p>
-<p><strong>Der Unterschied zwischen Geben und Nehmen ist unwichtig geworden. Vollkommen entspannt öffnet sich das Herz für die unermessliche Fülle des Daseins.</strong></p></td>
+<p>Ein freigebiger Mensch ist sich bewusst, dass sich das Rad des
+Schicksals beständig dreht. Sogar wenn er nur wenig besitzt, denkt er
+immer noch daran, was er anderen geben kann.</p>
+<p><strong>Geld und andere wertvolle Dinge bewusst spenden und
+verschenken, nicht wahl- und ziellos, sondern so, dass wirklich etwas
+Gutes und Sinnvolles bewirkt wird.</strong></p>
+<p><strong>Der Unterschied zwischen Geben und Nehmen ist unwichtig
+geworden. Vollkommen entspannt öffnet sich das Herz für die
+unermessliche Fülle des Daseins.</strong></p></td>
 </tr>
 </tbody>
 </table>
 
-Von der Genusssucht zur Ausgeglichenheit
-----------------------------------------
+## Von der Genusssucht zur Ausgeglichenheit
 
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 29%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Übermaß</th>
@@ -785,7 +949,8 @@ Von der Genusssucht zur Ausgeglichenheit
 <tbody>
 <tr class="odd">
 <td><p>Wollust und Genussucht</p>
-<p>die Bedürfnisbefriedigung übersteigt das sozial akzeptierte Maß</p></td>
+<p>die Bedürfnisbefriedigung übersteigt das sozial akzeptierte
+Maß</p></td>
 <td><p>Lustfeindlichkeit, Empfindungslosigkeit</p>
 <p>Abstumpfung des Geistes</p></td>
 <td>Vorgespielte Zucht</td>
@@ -793,7 +958,10 @@ Von der Genusssucht zur Ausgeglichenheit
 <p>Mäßigkeit</p>
 <p>Sinnliches geniessen</p>
 <p>Das Schöne geniessens</p>
-<p>Im Zustand der Nüchternheit nimmt der Organismus nicht mehr und nicht weniger auf, als er braucht. Statt dass Fantasien und Lüste alles mit sich reißen, verhilft die Nüchternheit zu einer festen Verankerung in der Realität und im Moment.</p></td>
+<p>Im Zustand der Nüchternheit nimmt der Organismus nicht mehr und nicht
+weniger auf, als er braucht. Statt dass Fantasien und Lüste alles mit
+sich reißen, verhilft die Nüchternheit zu einer festen Verankerung in
+der Realität und im Moment.</p></td>
 </tr>
 </tbody>
 </table>

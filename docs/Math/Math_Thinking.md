@@ -1,5 +1,4 @@
-Sets
-====
+# Sets
 
 N : the set of all natural numbers (i.e., the numbers 1, 2, 3, etc.)
 
@@ -10,10 +9,9 @@ Q : the set of all rational numbers (fractions)
 
 R : the set of all real numbers
 
-![](C:\scripts\dirkswiki\docs\Math\media_Math_Thinking/media/image1.png)![](media_Math_Thinking/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image1.png)![](media_Math_Thinking/media/image2.png)
 
-Implication
-===========
+# Implication
 
 Implication has a truth and a causation part.
 
@@ -71,8 +69,7 @@ P does not imply Q is equivalent to P **And** ⌐Q
 | F   | T   | F   | T           | F                  | F        |
 | F   | T   | F   | T           | F                  | F        |
 
-Equivalence
-===========
+# Equivalence
 
 P and Q is said to equivalent (logically) if each implies the other.
 
@@ -97,8 +94,7 @@ A:(P And Q) OR (¬ P) is equivalent to B: P ⇒ Q
 | F   | T   | F       | T   | T                  | T             |
 | F   | F   | F       | T   | T                  | T             |
 
-Equivalence and Implication in Language
----------------------------------------
+## Equivalence and Implication in Language
 
 The following all means "P implies Q":
 
@@ -122,11 +118,9 @@ The following all means "P is equivalent to Q":
 -   P if and only if Q (statements 3. and 4. From above combined)
     (abbrev. Iff)
 
-Quantifiers
-===========
+# Quantifiers
 
-There exists... (Existential quantifier ∃)
-------------------------------------------
+## There exists... (Existential quantifier ∃)
 
 There is an object X having property P.
 
@@ -138,8 +132,7 @@ There exists a real number x such that x^2^ + 2x + 1 = 0
 
 For all...(universal quantifier)
 
-∀ x "For all x it is the case that..."
---------------------------------------
+## ∀ x "For all x it is the case that..."
 
 Combinations of quantifiers
 

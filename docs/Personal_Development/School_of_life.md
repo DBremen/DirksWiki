@@ -14,8 +14,7 @@ find our own path around our unfeasibly complicated minds -- a move as
 striking (and as wise) as suggesting that each generation should
 rediscover the laws of physics by themselves.
 
-School of life
---------------
+## School of life
 
 In an ideal society, it would be not only children who were known to
 need an education. All adults would recognize that they inevitably
@@ -25,8 +24,7 @@ emotional intelligence would be open for everyone, so that children
 would feel that they were participating in the early stages of a
 lifelong process.
 
-Emotional intelligence
-----------------------
+## Emotional intelligence
 
 We are referring to their ability to introspect and communicate, to read
 the moods of others, to relate with patience, charity and imagination.
@@ -87,8 +85,7 @@ Treats of EI:
 
 -   Capacity to be vulnerable
 
-Work
-----
+## Work
 
 The values we seek in meaningful job are:
 
@@ -113,8 +110,7 @@ necessarily reflect our personal choices:
     is best for us, what educates us most, what is most healthy. Because
     we are exhausted.
 
-Self-Help
----------
+## Self-Help
 
 Religion used to be the authority on providing guidance if it comes to
 emotional intelligence. There was an attempt, realizing the downfall of
@@ -124,8 +120,7 @@ beauty and repetition. A good 'school' shouldn't tell us only things
 we've never heard of before; it should be deeply interested in
 rehearsing all that is theoretically known yet practically forgotten.
 
-Human condition
----------------
+## Human condition
 
 Humans are by nature inherently flawed beings. It helps to understand
 this and not try to fix this or think that we can be perfect instead we
@@ -144,8 +139,7 @@ being.
 strange about us are in reality wholly ubiquitous, though simply rarely
 spoken of in the reserved and cautious public sphere.**
 
-Melancholy
-----------
+## Melancholy
 
 Melancholy is not rage or bitterness or sarcasm it is a noble species of
 sadness that arises when we are properly open to the idea that suffering
@@ -154,8 +148,7 @@ disorder that needs to be cured; it is a tender-hearted, calm,
 dispassionate acknowledgement of how much agony we will inevitably have
 to travel through.
 
-Decision making
----------------
+## Decision making
 
 Think of every issue through the eyes of your
 
@@ -192,8 +185,7 @@ Think of every issue through the eyes of your
 
     -   Do the unexpected.
 
-Simple truths
--------------
+## Simple truths
 
 -   we should understand rather than condemn
 
@@ -202,8 +194,7 @@ Simple truths
 -   every strength of character we admire bears with it a weakness we
     must forgive
 
-Self-knowledge
-==============
+# Self-knowledge
 
 A casual acquaintance may, in a few minutes of conversation, deduce more
 about our psyches than we have been able to determine across many
@@ -222,8 +213,7 @@ unbudgeable sadness. Much of what destroys our lives can be attributed
 to emotions that our conscious selves haven't found a way to understand
 or to address in time.
 
-Childhood
----------
+## Childhood
 
 Our species' offspring is born very helpless and remains very dependent
 for many years, as compared to many other species. The dependence is
@@ -270,8 +260,7 @@ judges of ourselves.**
 voice that has those characteristics, internalize and rehearse it during
 judgements.**
 
-EMOTIONALLY HEALTHY CHILDHOOD
------------------------------
+## EMOTIONALLY HEALTHY CHILDHOOD
 
 In an emotionally healthy childhood,...
 
@@ -316,11 +305,9 @@ In an emotionally healthy childhood,...
     extension, becomes ready to accept that everyone they like will be a
     mixture of the positive and the negative.
 
-Others
-======
+# Others
 
-Be Kind and forgiving
----------------------
+## Be Kind and forgiving
 
 Provide people with kindness. Provide people with positive
 interpretations of their blunders by revealing the underlying positive
@@ -348,8 +335,7 @@ bathetic, temptingly neglected ingredient: pain.**
 
 One has to feel very small in order to belittle.
 
-Be polite and considerate and praise people
--------------------------------------------
+## Be polite and considerate and praise people
 
 The polite person starts from the assumption that others are highly
 likely to be in quite different places internally, whatever the outward
@@ -359,8 +345,7 @@ their experiences and outlook: if they feel cold, they are very alive to
 the possibility that you may be feeling perfectly warm and so will take
 trouble to ask if you'd mind if they went over and closed the window.
 
-Partnership
------------
+## Partnership
 
 Truth about sex that are usually left unspoken:
 
@@ -406,8 +391,7 @@ perspective.
 We want to be understood for being the mad animals we are, and then
 comforted and reassured that it will all be OK anyway.
 
-Confidence
-----------
+## Confidence
 
 At the heart of our under-confidence is a skewed picture of how
 dignified a normal person can be. We imagine that it might be possible
@@ -426,8 +410,7 @@ narrower and more edited source of information. We are very often left
 to conclude that we must be at the more freakish, revolting end of human
 nature.
 
-Misc
-----
+## Misc
 
 The price of something is principally determined by what it cost to
 make, not how much human value is potentially to be derived from it.
@@ -438,15 +421,13 @@ to hand (thanks to the miracles of the Industrial Revolution). We are,
 astonishingly, already a good deal richer than we're encouraged to think
 we are.
 
-Manhood
--------
+## Manhood
 
 Moving from playing it cool (neglecting one\'s vulnerabilities) to be
 aware and admitting of our vulnerabilities but also being able to handle
 our own psychological deficiencies.
 
-Wisdom
-------
+## Wisdom
 
 We are operating with essentially the same piece of mental hardware as
 was used by Aristotle, the Buddha and Shakespeare. We are better read

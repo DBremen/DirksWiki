@@ -1,7 +1,6 @@
 ### Based on [\"The Science of Happiness\" (GG101x on edX)](https://www.youtube.com/playlist?list=PL1t8gs-WJprDHaTTZozWnC6O56n9jHD0A) and "A Life of Happiness and Fulfillment" course on coursera (https://www.coursera.org/learn/happiness)
 
-Happy
-=====
+# Happy
 
 What can it mean:
 
@@ -21,8 +20,7 @@ taking yourself so seriously that it robs you of the fun of living.
     new, interesting experiences that promote curiosity or transform how
     you think.
 
-Books:
-------
+## Books:
 
 -   Working Identity Herminia Ibarra
 
@@ -32,8 +30,7 @@ Books:
 
 -   Influence practice and science
 
-Devalue happiness
------------------
+## Devalue happiness
 
 \- even though happiness is considered important it is deprioritized
 over other things (salad bar) sacrificing happiness for the sake of
@@ -69,8 +66,7 @@ Define happiness
 >
 > Believing in the good of people
 
-Chasing superiority
--------------------
+## Chasing superiority
 
 Flow happens when the task is not overly demanding but still challenges
 you.
@@ -87,8 +83,7 @@ you.
 
 ### Express gratitude to people that helped me in my life
 
-The need to be loved -- the need to go it alone
------------------------------------------------
+## The need to be loved -- the need to go it alone
 
 ### Develop healthy relationships
 
@@ -110,8 +105,7 @@ Self-compassionate
 
 Gratitude
 
-Four signs a marriage will not work
------------------------------------
+## Four signs a marriage will not work
 
 Based on study of young couple's conversations early in the marriage and
 following them for a decade:
@@ -120,8 +114,7 @@ following them for a decade:
 
 ![](media_Happy/media/image3.png)
 
-Attachment styles
------------------
+## Attachment styles
 
 The attachment style, resulting from early social experiences, affects
 brain responses to positive and negative social input, e.g., a scowl or
@@ -144,8 +137,7 @@ Anxious
 
 ![](media_Happy/media/image7.png)
 
-Being overly control seeking
-----------------------------
+## Being overly control seeking
 
 -   Control is important and to a certain extent healthy and good
 
@@ -204,8 +196,7 @@ to compensate it through external control (clean up\...)
 
 -   sleep well
 
-Distrust in life and others
----------------------------
+## Distrust in life and others
 
 ### Distrusting Others and Why Trust is Important
 
@@ -255,8 +246,7 @@ Distrust in life and others
 
 -   Believe that everything happens for a good reason
 
-MBA
----
+## MBA
 
 Mastery 
 

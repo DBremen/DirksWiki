@@ -1,5 +1,4 @@
-Terms
-=====
+# Terms
 
 **culture**---all of the socially transmitted beliefs and behavior
 patterns in a group or society.
@@ -8,8 +7,7 @@ In psychology, **personality** refers to consistencies in a person's
 behavior across various situations and over time---the ways in which a
 person generally tends to respond.
 
-Emotions
-========
+# Emotions
 
 Virtually all emotions are fundamentally about physical safety and
 well-being or social safety and well-being. Emotions almost always arise
@@ -66,8 +64,7 @@ The next time you have one of those ﬁghts, get everyone to take a deep
 breath and have everyone sit down after it's over, in order to help turn
 off the sympathetic nervous system.
 
-Happiness
----------
+## Happiness
 
 Causes of happiness can be classified into three major categories:
 
@@ -85,8 +82,7 @@ Causes of happiness can be classified into three major categories:
 -   living one's life in a way that focuses on things that are
     intrinsically important for human well-being
 
-Stress
-------
+## Stress
 
 Most of the things that create chronic stress in our everyday lives are
 the recent developments of civilization and culture, including traffic
@@ -155,15 +151,13 @@ difference is when loss of control or predictability is in a setting
 that we view as benevolent, we like it, and we're willing to relinquish
 it in order to be surprised.
 
-Hurt feelings
--------------
+## Hurt feelings
 
 Are caused by rejections and originate from our need to be part of a
 social group. Hurt feelings can sometimes be treated with the same
 medications than physical pain.
 
-Overreaction
-------------
+## Overreaction
 
 When people are overreacting, they often seem to be in an altered state
 of consciousness. They have lost touch with the situation that they're
@@ -197,8 +191,7 @@ thinking process, in which they have an exaggerated view of the
 likelihood that something bad is going to happen or an exaggerated
 belief about how bad the bad thing is.
 
-Self-control
-------------
+## Self-control
 
 Problems with self-control almost always involve a conflict between two
 competing goals or motives.
@@ -214,8 +207,7 @@ in the moment.
 abstract, distant goal more immediate and specific so that it can
 compete successfully with the specific and immediate temptation.**
 
-Subliminal messages
-===================
+# Subliminal messages
 
 Research suggests that subliminal stimuli are processed at a pretty deep
 level; that is, even though participants don't consciously see pictures,
@@ -228,8 +220,7 @@ Subliminal effects are real, but they are probably not strong enough to
 influence people's evaluations of things that they already have strong
 attitudes about---such as real products or politicians.
 
-Dreaming
-========
+# Dreaming
 
 Most of why we dream remains a mystery.
 
@@ -253,8 +244,7 @@ that point because the part of the brain that imposes linear, rational
 regulation of your emotional brain goes ofﬂ ine when you enter the REM
 stage.
 
-Self-esteem
-===========
+# Self-esteem
 
 Self-esteem refers to how positively people feel about themselves. It is
 not the same as self-confidence , which is the belief that you can do
@@ -269,8 +259,7 @@ negative ways leads to changes in self-esteem.
 
 Most people have moderate or high self-esteem.
 
-Self-esteem as socio-meter (gauge)
-----------------------------------
+## Self-esteem as socio-meter (gauge)
 
 State self-esteem is the in the moment level of self-esteem that changes
 throughout the day. Trait self-esteem is our base level self-esteem (in
@@ -281,8 +270,7 @@ us information about our social acceptability (acceptance and
 rejection). This information comes in the form of good or bad feelings
 about ourselves which in turn affects our self-esteem.
 
-Nature vs. nurture (situation, environment)
-===========================================
+# Nature vs. nurture (situation, environment)
 
 Many instances of modern-day behaviours are manifestations of strategies
 that facilitated survival and reproduction during evolutionary history.
@@ -336,8 +324,7 @@ their behaviors than any other personality traits.
 
 ![](media_Understanding_mysteries_of_human_behaviour/media/image1.png)
 
-Prejudice
-=========
+# Prejudice
 
 -   Prejudice usually starts from a feeling of us vs. them.
 
@@ -367,8 +354,7 @@ Prejudice
     another group doesn't share the values, attitudes, and moral
     standards of one's own group.
 
-Reward system
-=============
+# Reward system
 
 **It is better to encourage what is right than to criticize what is
 wrong.**
@@ -426,8 +412,7 @@ the system can habituate and the incredible power the dopamine has to
 generate behavior---to generate goal-directed work when "maybe" is
 introduced.
 
-Metaphors and the brain
-=======================
+# Metaphors and the brain
 
 There is an intermixing between metaphor and the literal in which the
 brain confuses bodily states with moral ones. Remarkably, people are
@@ -435,8 +420,7 @@ beginning to understand what's going on in the brain when this occurs:
 The brain has trouble distinguishing between physical and metaphorical
 versions of things that happen to use some of the same concepts.
 
-Men vs. women
-=============
+# Men vs. women
 
 -   Nine out of 10 prison inmates are men
 
@@ -459,15 +443,15 @@ Men vs. women
 
 -   men die earlier than women---about five years earlier on average.
 
-Why
----
+## Why
 
 -   There may be some evolutionary and biological processes at play.
     > These differences between men and women can be seen around the
     > world, and they don't map easily onto cultural variables.
 
+```{=html}
 <!-- -->
-
+```
 -   Men show greater variability on many characteristics than women
     do---more men score at the extremes of distributions than women do
     (e.g. height and weight)

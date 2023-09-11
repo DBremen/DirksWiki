@@ -1,5 +1,4 @@
-Definitions
-===========
+# Definitions
 
 https://www.coursera.org/learn/game-theory-introduction
 
@@ -36,15 +35,13 @@ traffic/drivers:
 
 ![](media_Game_Theory/media/image2.png)
 
-Rationality
------------
+## Rationality
 
 ![](media_Game_Theory/media/image3.png)
 
 A rational player never chooses a strictly dominated strategy.
 
-Infinite regress with human actors
-==================================
+# Infinite regress with human actors
 
 ![](media_Game_Theory/media/image4.png)
 
@@ -53,14 +50,12 @@ problems.
 
 This is the reason why we need game theory.
 
-Domination
-==========
+# Domination
 
 ![](media_Game_Theory/media/image5.png)
 ![](media_Game_Theory/media/image6.png)
 
-Payoffs
-=======
+# Payoffs
 
 **When there is no uncertainty (no random events and no random
 behaviour):** It's sufficient to assign larger numbers for better
@@ -72,8 +67,7 @@ utilities to the payoffs).
 
 ![](media_Game_Theory/media/image7.png)
 
-Nash equilibrium
-================
+# Nash equilibrium
 
 Surface of a coffee stirred in a cup as an analogy to the set of
 possible human behavior.
@@ -93,8 +87,7 @@ It represents a combination of strategies in which no single player can
 increase their payoff by deviating unilateraly. This is a unified
 solution concept that can be applied in a wide range of games.
 
-Nash equilibrium example1
--------------------------
+## Nash equilibrium example1
 
 ![](media_Game_Theory/media/image10.png)
 
@@ -126,13 +119,11 @@ Nash equilibrium (with Bypass):
 
 Travel time saved by bypass = 150.
 
-Nash equilibrium example 2
---------------------------
+## Nash equilibrium example 2
 
 ![](media_Game_Theory/media/image13.png)
 
-Finding Nash equilibrium
-========================
+# Finding Nash equilibrium
 
 -   Mark the best choice for each player's opponent choice
 
@@ -140,8 +131,7 @@ Finding Nash equilibrium
 
 ![](media_Game_Theory/media/image14.png)
 
-Simultaneous Move Game
-======================
+# Simultaneous Move Game
 
 -   \"Static\" game
 
@@ -150,8 +140,7 @@ Simultaneous Move Game
 
 -   Game theory predicts that the outcome is a Nash equilibrium
 
-Prisoner's dilemma
-------------------
+## Prisoner's dilemma
 
 Two members of a criminal gang are arrested and imprisoned. Each
 prisoner is in solitary confinement with no means of communicating with
@@ -194,8 +183,7 @@ with the other by remaining silent. The possible outcomes are:
         equal to a result based on each of the individual's rationality
         choices.
 
-Group vs. individual payoffs
-----------------------------
+## Group vs. individual payoffs
 
 Best payoff for society = Any point where A's payoff cannot be increased
 without decreasing B's payoff and vice versa.
@@ -216,8 +204,7 @@ Efficient outcomes \<\> nash equilibrium or individuals best choices
 
 -   Cost of cheating might be paid by others
 
-Coordination game
------------------
+## Coordination game
 
 QWERTY Keyboard vs. Dvorak keyboard
 
@@ -237,8 +224,7 @@ QWERTY Keyboard vs. Dvorak keyboard
     -   Society is trapped in the worse Nash equilibrium because if only
         one player moves they will be worse off.
 
-Mixed strategy equilibrium
---------------------------
+## Mixed strategy equilibrium
 
 Rock paper scissors
 
@@ -252,8 +238,7 @@ strategy equilibrium one can assign probabilities to the events.
 
 ![](media_Game_Theory/media/image20.png)
 
-Sports games and game theory
-----------------------------
+## Sports games and game theory
 
 Penalty shots
 
@@ -271,8 +256,7 @@ equations 1 and 2 equal
 
 ![](media_Game_Theory/media/image23.png)
 
-Finding mixed strategy equilibrium
-----------------------------------
+## Finding mixed strategy equilibrium
 
 ![](media_Game_Theory/media/image24.png)
 
@@ -289,8 +273,7 @@ Payoff table
 
 The black player will have the remaining winning rate (1-.4) = .6
 
-Evolutionary game theory
-========================
+# Evolutionary game theory
 
 Assuming zero-intelligent actors with adaption through mutation and
 natural selection (survival of the fittest)
@@ -302,8 +285,7 @@ every one else or one species always being optimal. Because of Nash
 equilibrium like in the prisoners' dilemma there is a benefit for mutant
 genes or species to defect.
 
-Group vs. individual payoffs
-============================
+# Group vs. individual payoffs
 
 Best payoff for society = Any point where A's payoff cannot be increased
 without decreasing B's payoff and vice versa.
@@ -324,8 +306,7 @@ Efficient outcomes \<\> nash equilibrium or individuals best choices
 
 -   Cost of cheating might be paid by others
 
-Coordination game
------------------
+## Coordination game
 
 QWERTY Keyboard vs. Dvorak keyboard
 
@@ -345,8 +326,7 @@ QWERTY Keyboard vs. Dvorak keyboard
     -   Society is trapped in the worse Nash equilibrium because if only
         one player moves they will be worse off.
 
-Economics supply and demand
-===========================
+# Economics supply and demand
 
 ![](media_Game_Theory/media/image30.png)
 
@@ -366,20 +346,18 @@ Game theory: The agreement reached in (3) might not be sustainable
 
 ![](media_Game_Theory/media/image36.png)
 
-Ways to achieve the best outcome for society
---------------------------------------------
+## Ways to achieve the best outcome for society
 
 ![](media_Game_Theory/media/image37.png)
 
-1)
+1\)
 
 Mechanism/Market Design: Since game theory predicts outcomes based on
 the rules of a game one can reverse engineer the rules that will achieve
 a good outcome. In that way a system can be designed in such a way that
 players have an incentive to achieve a good outcome.
 
-Cooperation in long term relationship
--------------------------------------
+## Cooperation in long term relationship
 
 Example with two gas stations that are right next to each other.
 Assumptions:
@@ -426,8 +404,7 @@ other on 1^st^ March?
 
 ![](media_Game_Theory/media/image42.png)
 
-Brand and reputation as substitute for long term relationship
--------------------------------------------------------------
+## Brand and reputation as substitute for long term relationship
 
 In a situation where there is no long term relationship like for a high
 priced restaurant in a tourist area with a low amount of returning

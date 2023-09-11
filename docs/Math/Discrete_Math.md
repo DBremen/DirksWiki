@@ -2,15 +2,15 @@
 
 ![](media_Discrete_Math/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image3.png)![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image4.png)![](media_Discrete_Math/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Discrete_Math/media/image3.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Discrete_Math/media/image4.png)![](media_Discrete_Math/media/image5.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image6.png)![](media_Discrete_Math/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Discrete_Math/media/image6.png)![](media_Discrete_Math/media/image7.png)
 
 ![](media_Discrete_Math/media/image8.png)
 
 ![](media_Discrete_Math/media/image9.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image10.png)![](media_Discrete_Math/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Discrete_Math/media/image10.png)![](media_Discrete_Math/media/image11.png)
 
 ![](media_Discrete_Math/media/image12.png)
 
@@ -18,7 +18,7 @@
 
 ![](media_Discrete_Math/media/image14.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Discrete_Math/media/image15.png)![](media_Discrete_Math/media/image16.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Discrete_Math/media/image15.png)![](media_Discrete_Math/media/image16.png)
 
 ![](media_Discrete_Math/media/image17.png)
 

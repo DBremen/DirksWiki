@@ -1,5 +1,4 @@
-Language
-========
+# Language
 
 The apple is red.
 
@@ -23,8 +22,7 @@ The apples are red.
 
 ![](media_4-hour-chef/media/image1.png)
 
-Fire
-====
+# Fire
 
 -   Put the largest logs at the bottom, ensuring there is no space
     between them whatsoever.
@@ -51,15 +49,13 @@ Fire
     fire and get frustrated. This is the only place where a little space
     is good.
 
-    ![](C:\scripts\dirkswiki\docs\General\media_4-hour-chef/media/image2.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_4-hour-chef/media/image2.png)
 
-Swimming
-========
+# Swimming
 
 ![](media_4-hour-chef/media/image3.png)
 
-Unusual food combos
-===================
+# Unusual food combos
 
 -   Cinnamon and chile powder on vanilla ice cream.
 
@@ -77,8 +73,7 @@ Unusual food combos
 -   Cinnamon on grilled pineapple (a favorite in churrascaria, grilled
     meat restaurants in Brazil).
 
-Best herbs
-==========
+# Best herbs
 
 -   Rosemary
 
@@ -102,8 +97,7 @@ Best herbs
 -   Chervil (Odd fact: can be smoked like marijuana for similar effects,
     or so I've been told.)
 
-Herb pairings
--------------
+## Herb pairings
 
 -   Fish → fennel or dill
 
@@ -118,8 +112,7 @@ Herb pairings
 
 -   Non-protein bonus: tomatoes → basil
 
-Condiments
-==========
+# Condiments
 
 -   Montreal steak rub
 
@@ -137,8 +130,7 @@ Condiments
 
 -   SHERRY VINEGAR
 
-Preparation procedures
-======================
+# Preparation procedures
 
 -   Braising
 
@@ -154,8 +146,7 @@ Preparation procedures
 
 -   Grilling
 
-Misc cooking
-============
+# Misc cooking
 
 LEFT has four letters; RIGHT has five letters---The FORK (four letters)
 goes to the LEFT (four letters) of the plate. The KNIFE and SPOON (each

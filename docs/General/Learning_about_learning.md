@@ -1,8 +1,6 @@
-Pragmatic Thinking and Learning:
-================================
+# Pragmatic Thinking and Learning:
 
-Dreyfus model from novice to expert
------------------------------------
+## Dreyfus model from novice to expert
 
 **Always consider the context.**
 
@@ -28,35 +26,34 @@ Dreyfus model from novice to expert
     **Avoid formal methods if you need creativity, intuition, or
     inventiveness.**
 
-The brain as a computer
------------------------
+## The brain as a computer
 
 ![](media_Learning_about_learning/media/image2.png)
 
-if CPU \#1 is hogging the bus, CPU \#2 can't get at memory to perform
-searches. Similarly, if CPU \#2 is cranking away on a high-priority
-search, CPU \#1 cannot get at memory either. They interfere with each
+if CPU #1 is hogging the bus, CPU #2 can't get at memory to perform
+searches. Similarly, if CPU #2 is cranking away on a high-priority
+search, CPU #1 cannot get at memory either. They interfere with each
 other.
 
 **R -mode Sees Forest; L-mode Sees Trees**
 
 ### L-Mode
 
-CPU \#1 is probably the most familiar to you: it is chieﬂy responsible
-for linear, logical thought, and language processing. CPU \#1 is
+CPU #1 is probably the most familiar to you: it is chieﬂy responsible
+for linear, logical thought, and language processing. CPU #1 is
 relatively slow and uses a relatively small amount of overall brain real
-estate. It's programmed with an "idle loop" routine as well. If CPU \#1
+estate. It's programmed with an "idle loop" routine as well. If CPU #1
 is not processing anything else, it will simply generate an internal
 stream of verbal chatter. It's that little voice in your head.
 
 ### R-Mode
 
-CPU \#2 is more like a magic digital signal processor. It's your brain's
+CPU #2 is more like a magic digital signal processor. It's your brain's
 answer to Google: think of it like a super regular-expression search
 engine, responsible for searching and pattern matching. **As such, it
 might grab matching patterns that aren't obviously related. It can go
 off searching while you are "thinking" of something else and return a
-result set asynchronously---and possibly days later. Since CPU \#2
+result set asynchronously---and possibly days later. Since CPU #2
 doesn't do any verbal processing, that means its results aren't verbal,
 either.**
 
@@ -99,8 +96,7 @@ components in just the right presentation to create the work. And
 selection---knowing what to select and in what context---comes from
 pattern matching.
 
-R -mode to L-mode ﬂow
----------------------
+## R -mode to L-mode ﬂow
 
 **Add sensory experience to engage more of your brain.**
 
@@ -144,8 +140,7 @@ drifting too far from reality.
 
 ![](media_Learning_about_learning/media/image4.png)
 
-Coursera learning to learn
-==========================
+# Coursera learning to learn
 
 -   The better you get at something the more you can enjoy it
 
@@ -167,8 +162,9 @@ Coursera learning to learn
 
 -   Practicing the hard stuff (don't overdo the easy things)
 
+```{=html}
 <!-- -->
-
+```
 -   Mini tests (coding challenges)
 
 -   Interleaving with different kinds of information or practicing in
@@ -200,8 +196,7 @@ Coursera learning to learn
     solving technique. Context means learning when to use that technique
     instead of some other technique
 
-Luck 
------
+## Luck 
 
 lucky people generate good fortune via four basic principles.
 
@@ -220,8 +215,9 @@ lucky people generate good fortune via four basic principles.
     situation. I think this helps them because gut feelings act as an
     alarm bell - a reason to consider a decision carefully.
 
+```{=html}
 <!-- -->
-
+```
 -   Unlucky people tend to be creatures of routine. They tend to take
     the same route to and from work and talk to the same types of people
     at parties. In contrast, many lucky people try to introduce variety
@@ -230,8 +226,9 @@ lucky people generate good fortune via four basic principles.
     to people wearing that colour. This kind of behaviour boosts the
     likelihood of chance opportunities by introducing variety.
 
+```{=html}
 <!-- -->
-
+```
 -   Lucky people tend to see the positive side of their ill fortune.
     They imagine how things could have been worse. In one interview, a
     lucky volunteer arrived with his leg in a plaster cast and described
@@ -239,8 +236,7 @@ lucky people generate good fortune via four basic principles.
     still felt lucky and he cheerfully explained that he felt luckier
     than before. As he pointed out, he could have broken his neck.
 
-Habits
-------
+## Habits
 
 1.  Cue (that triggers the habit)
 
@@ -257,7 +253,7 @@ Habits
 
 2.  Routine (the habitual response to the cue you are falling into)
 
-    Counter measure: have a plan in place
+Counter measure: have a plan in place
 
 -   Sit in a place where you are comfortable
 
@@ -291,8 +287,7 @@ In order to change the habit, we need to change the belief.
     will decline as the brain regions that changed as you developed the
     skill are co-opted for other purposes.
 
-Ways to counter procrastination
--------------------------------
+## Ways to counter procrastination
 
 -   Focus on the process rather than the product
 

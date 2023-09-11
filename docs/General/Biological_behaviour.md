@@ -1,10 +1,8 @@
 <https://www.youtube.com/playlist?list=PL848F2368C90DDC3D>
 
-Behavioural evolution
-=====================
+# Behavioural evolution
 
-Natural selection as an explanation for evolution
--------------------------------------------------
+## Natural selection as an explanation for evolution
 
 -   There are traits that are heritable
 
@@ -18,8 +16,7 @@ Natural selection as an explanation for evolution
 The same as above applies to behaviour (just replace traits with
 behaviour).
 
-Sexual selection
-----------------
+## Sexual selection
 
 **Sexual selection** is a mode of [natural
 selection](https://en.wikipedia.org/wiki/Natural_selection) in which
@@ -46,8 +43,7 @@ predators.
 
 **Animals don't behave for the good of their species.**
 
-Three main factors driving behaviour
-------------------------------------
+## Three main factors driving behaviour
 
 Based on three main factors:
 
@@ -64,20 +60,20 @@ Based on three main factors:
     increased. Cooperative behaviour increases the likelihood of
     survival.
 
-    **Tit-for-tat strategy** (cooperate if the other cooperates, stop if
-    they do and start again if they start again). Tit-for-tat is
-    vulnerable to signal errors, if one party cooperates but due to a
-    signal error it is received as cheating.
+**Tit-for-tat strategy** (cooperate if the other cooperates, stop if
+they do and start again if they start again). Tit-for-tat is vulnerable
+to signal errors, if one party cooperates but due to a signal error it
+is received as cheating.
 
-    Forgiving tit-for-tat adds cooperation after a chain of cheating
-    (giving it another try) but this is again open to exploitation.
+Forgiving tit-for-tat adds cooperation after a chain of cheating (giving
+it another try) but this is again open to exploitation.
 
-    The best strategy is starting off with T-F-T and then, after some
-    trust has been established you switch to forgiving T-F-T
+The best strategy is starting off with T-F-T and then, after some trust
+has been established you switch to forgiving T-F-T
 
-    Detection and applying cheating is an important factor.
+Detection and applying cheating is an important factor.
 
-    In practice there are multiple games playing out in parallel.
+In practice there are multiple games playing out in parallel.
 
 Humans are in-between tournament (difference between male and female
 body-size is big) and pair-bonding (monogamous) species
@@ -86,8 +82,7 @@ body-size is big) and pair-bonding (monogamous) species
 
 ![](media_Biological_behaviour/media/image1.png)
 
-Examples of behaviour
----------------------
+## Examples of behaviour
 
 Infanticide is found within groups of langur monkeys, lions, vervet
 monkeys, mountain gorillas and other species as well. Initial attempts
@@ -117,8 +112,7 @@ cooperate with each other, though it can have divisive effects as well,
 such as was seen in the Vietnam War, because the group may agree to
 disagree with orders and commands from above, the hierarchical other.
 
-Examples where reciprocal altruism out competes individual selection
---------------------------------------------------------------------
+## Examples where reciprocal altruism out competes individual selection
 
 A bio-geographic (or other) event occurs that separates out a subset
 from a larger group. This smaller subset soon becomes more inbred than
@@ -147,8 +141,7 @@ group the BB's out compete the AA's)
 Not all traits are based on natural section but just a side effect of
 other traits (e.g. the chin of a human).
 
-Molecular Genetics
-==================
+# Molecular Genetics
 
 Proteins hold the shapes of cells together, they form messengers and
 hormones, they are the enzymes that do all kinds of important stuff;
@@ -168,9 +161,9 @@ influence the ultimate shape) which clues you in on the function of the
 protein. That is the critical link from the DNA to the function and the
 notion of a behavior being genetically controlled.
 
-Francis Crick is credited with establishing a central dogma of genetics
-- DNA codes for RNA which codes for proteins. Sapolsky focuses the
-listener on a subtle element of this dogma, which is that DNA is
+Francis Crick is credited with establishing a central dogma of
+genetics - DNA codes for RNA which codes for proteins. Sapolsky focuses
+the listener on a subtle element of this dogma, which is that DNA is
 ultimately in charge, sitting around and deciding what will happen and
 when, and then releasing the instructions that become the RNA to protein
 chain. Surprisingly, DNA isn\'t always in charge. Viruses are mentioned
@@ -205,13 +198,11 @@ These might turn on single genes or whole networks in the DNA. On the
 flipside, any given gene can have a whole bunch of different promoters
 that it\'s waiting to hear from before it does its thing.
 
-Behavioural Genetics
-====================
+# Behavioural Genetics
 
 <https://www.youtube.com/watch?v=GRYcSuyLiJk>
 
-Why do we do what we do?
-========================
+# Why do we do what we do?
 
 Understanding the context!
 
@@ -219,8 +210,7 @@ Understanding the context!
 
 ![](media_Biological_behaviour/media/image4.png)
 
-Based on different parts of the brain
--------------------------------------
+## Based on different parts of the brain
 
 ![](media_Biological_behaviour/media/image5.png)
 
@@ -244,8 +234,7 @@ Reward system. Triggered by anticipation.
 
 ![](media_Biological_behaviour/media/image11.png)
 
-Environment
------------
+## Environment
 
 ![](media_Biological_behaviour/media/image12.png)
 
@@ -253,8 +242,7 @@ Sports team loyalties (and individuation, according to 69:00 Susan
 Fiske\'s studies) can override racial bias. Racial bias is not innate
 but acquired.
 
-Hormones
---------
+## Hormones
 
 ### Testosterone and Oxytocin
 
@@ -268,8 +256,7 @@ Humans with higher testosterone levels were more generous.
 
 ![](media_Biological_behaviour/media/image13.png)
 
-Adolescence
------------
+## Adolescence
 
 ![](media_Biological_behaviour/media/image14.png)
 
@@ -279,27 +266,23 @@ Adolescence
 
 ![](media_Biological_behaviour/media/image17.png)
 
-Childhood
----------
+## Childhood
 
 ![](media_Biological_behaviour/media/image18.png)
 
-Genes
------
+## Genes
 
 Not DNA determines what genes do (producing proteins) but environment
 does
 
-![](C:\scripts\dirkswiki\docs\General\media_Biological_behaviour/media/image19.png)![](C:\scripts\dirkswiki\docs\General\media_Biological_behaviour/media/image20.png)![](media_Biological_behaviour/media/image21.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image20.png)![](media_Biological_behaviour/media/image21.png)
 
-Ancestors and culture
----------------------
+## Ancestors and culture
 
-![](C:\scripts\dirkswiki\docs\General\media_Biological_behaviour/media/image22.png)![](C:\scripts\dirkswiki\docs\General\media_Biological_behaviour/media/image23.png)![](media_Biological_behaviour/media/image24.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image22.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image23.png)![](media_Biological_behaviour/media/image24.png)
 
-Evolution
----------
+## Evolution
 
 ![](media_Biological_behaviour/media/image25.png)
 
-![](C:\scripts\dirkswiki\docs\General\media_Biological_behaviour/media/image26.png)![](media_Biological_behaviour/media/image27.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image26.png)![](media_Biological_behaviour/media/image27.png)

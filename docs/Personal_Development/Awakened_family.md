@@ -1,5 +1,4 @@
-Conscious, mindful, awakened
-============================
+# Conscious, mindful, awakened
 
 This book holds the vision that every child will stay planted in their
 true self, for this is their birthright.
@@ -26,8 +25,7 @@ We act too often through our ego (inner voice, unconsciousness). A child
 has the ability to bring to our attention just how unconscious much of
 our parenting is.
 
-Fear and anxiety as a source of many problems
-=============================================
+# Fear and anxiety as a source of many problems
 
 As parents who are trying our best to do a good job, we don't realize
 that it's precisely our fears for our children, which we think of as
@@ -61,8 +59,7 @@ It's a game in which both parent and child are always trying to stay one
 step ahead of the other. Needless to say, the game results in anger,
 anxiety, and frequently disappointment and even sadness.
 
-Pushing buttons
----------------
+## Pushing buttons
 
 We are triggered not by their behavior, but by our own unresolved
 emotional issues. The problem isn't the child's behavior, but why it
@@ -70,8 +67,7 @@ sets us off. Unless we examine why the behavior causes us to react
 negatively, we will never change the patterns of interaction between our
 children and us---and this is true of any close relationship.
 
-Example of conscious reacting
------------------------------
+## Example of conscious reacting
 
 **"Is my child in some way reflecting the way I tend to operate? Are
 there ways I need to restructure my life so I can be more organized?"**
@@ -88,8 +84,7 @@ children, by making use of the "power" we have over them, which they
 consistently reflect back to us, we turn down one of the most profound
 opportunities to grow ourselves up.**
 
-Creating the right environment instead of controlling
-=====================================================
+# Creating the right environment instead of controlling
 
 Parenting needs to shift from controlling our children, which is rooted
 in our fears and serves to impede their progress, to supporting the
@@ -97,8 +92,7 @@ development of their physical, emotional, and mental capacities. Help
 your kids to listen to their own desires rather than allowing others to
 influence their decisions.
 
-Clash of time zones
--------------------
+## Clash of time zones
 
 Don't focus on planning, doing and keeping them busy for the sake of it.
 Parents are oriented to the future, to getting to wherever they imagine
@@ -120,8 +114,7 @@ empowerment.**
 >
 > to wake me up to my true self.
 
-Putting too much pressure on your kids
---------------------------------------
+## Putting too much pressure on your kids
 
 Many of the expectations we have of our children are unspoken. Despite
 what we don't put into words, children intuitively sense when we wish
@@ -134,8 +127,7 @@ else just let them be themselves. Many children suffer from guilt, and
 in many cases live in a state of shame, because they are unable to
 perform to their parents' satisfaction.
 
-Parenting is not only about the child
--------------------------------------
+## Parenting is not only about the child
 
 When we buy into the myth that parenting is about the child, we readily
 take credit for our wonderful parenting when our children match up to
@@ -170,8 +162,7 @@ Instead of seeing her as defiant, they now realized that she was
 defending herself. Just this small shift in perspective allowed them to
 work with her in a whole new way.
 
-Unconditional love
-------------------
+## Unconditional love
 
 They need us to switch from a focus on molding them in the name of love
 to one of creating space for them to show up as they need to, even when
@@ -181,8 +172,7 @@ given moment. No, I'm not talking about mindlessly indulging them, but
 rather about creating the conditions for them to express their whole
 self.
 
-Holy grail of happiness
------------------------
+## Holy grail of happiness
 
 In the search for eternal happiness, we don't realize that this means we
 are conditioned to depend on life working out in a particular way, we
@@ -201,15 +191,13 @@ To understand true happiness, we need only to observe young children.
 hey don't wait to be happy until they are rich, thin, pretty, or in the
 "right" social circle.
 
-Engaging in life "as is" rather than doing -- avoidance of unhappiness
-----------------------------------------------------------------------
+## Engaging in life "as is" rather than doing -- avoidance of unhappiness
 
 Children inherently know how to engage life as it is. They cry and throw
 tantrums, but they don't attach their sense of worth to what may be
 happening. Unless taught otherwise, they are ready to pick
 
-Control over children
----------------------
+## Control over children
 
 The only control we have, as parents, involves our own feelings and
 reactions, together with the conditions we set in our home. Our problem
@@ -217,8 +205,7 @@ is that we don't really know how to control ourselves or the conditions
 we create in our home, which steers us in the direction of controlling
 our children instead.
 
-Acting out of fear vs. out of love
-----------------------------------
+## Acting out of fear vs. out of love
 
 We have all experienced moments of sheer panic, when our reactions are
 all about fear-laden control, as opposed to understanding and
@@ -274,8 +261,7 @@ isolated and friendless.
 >
 > And all about you.
 
-Pushing and bad intentions
---------------------------
+## Pushing and bad intentions
 
 We push our children much more than they ever push us. For instance,
 when does a child ever start each day with lists and schedules as we do?
@@ -303,8 +289,7 @@ agitated right now? Can I communicate my needs in a respectful manner
 knowing that the other is not coming from a place of evil intention? Can
 I remove myself from this situation if it feels unbearable?
 
-Being you, balance energy rather than mirror (throwing tantrums yourself)
--------------------------------------------------------------------------
+## Being you, balance energy rather than mirror (throwing tantrums yourself)
 
 Drawing on the abundant nature of reality begins with accepting
 ourselves exactly as we are. This is fundamentally different from seeing
@@ -327,8 +312,7 @@ will pass and they will return to center. But how can they learn this if
 they have to watch us constantly being pushed and pulled by our own
 transient moods?**
 
-Curious rather than furious
----------------------------
+## Curious rather than furious
 
 **"I'm curious about your thoughts about this. Can you share?"**
 
@@ -343,8 +327,7 @@ more."**
 **"You sound like you are really experiencing strong feelings. Would you
 share them with me?"**
 
-Feelings vs emotions
---------------------
+## Feelings vs emotions
 
 People often confuse emotions with feelings, as if the two were the
 same. I look at them as vastly different. Simply put, we react with an
@@ -399,8 +382,7 @@ asking:
 -   Can I allow the feeling to pass through me and tap into a deeper
     trust?
 
-From judgement to empathy
--------------------------
+## From judgement to empathy
 
 When we truly feel empathy for another, there is no agenda. A genuinely
 empathic response immediately recognizes that the other is in a state
@@ -420,8 +402,9 @@ the other's feelings, even as we want our own feelings to be recognized.
 
 -   Do" sit close to your child in complete silence.
 
+```{=html}
 <!-- -->
-
+```
 -   "Do" look into their eyes and keep your gaze on them.
 
 -   "Do" softly echo back their feelings to them.
@@ -460,8 +443,7 @@ the other's feelings, even as we want our own feelings to be recognized.
 >
 > That I ultimately can forgive myself.
 
-Affirmations
-============
+# Affirmations
 
 I fully accept that parenting is about raising myself, not my child.
 

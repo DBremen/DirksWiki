@@ -49,8 +49,7 @@ addiction, ulcers, and self-mutilation, anger is definitely not good.
 **You want to have emotions but you want to be in control of those
 emotions.**
 
-Quantifying your anger
-======================
+# Quantifying your anger
 
 Anger, is not the same as:
 
@@ -73,8 +72,7 @@ your anger on a scale from 1-10 (mild -- extreme)?**
 to you that make you angry as much as it is the way you respond to those
 things.**
 
-Views that emphasize anger:
-===========================
+# Views that emphasize anger:
 
 -   **Cynicism**
 
@@ -101,11 +99,9 @@ ask yourself why. Why are you angry and they're not?**
 **All that anger that you're spewing out over the years can rob your
 family of energy, make them ill, and ruin their careers as well.**
 
-Managing your anger today 
-==========================
+# Managing your anger today 
 
-Take immediate action
----------------------
+## Take immediate action
 
 Anger, by its very nature, is meant to be short lived. It comes and it
 goes like a wave hitting the beach. For most people, anger is over
@@ -130,8 +126,7 @@ How do you settle for just being annoyed?
 -   Take some type of action to adjust to or correct the annoying
     situation.
 
-Walking away but coming back
-============================
+# Walking away but coming back
 
 This is an alternative for flight or fight. The problem is that neither
 of these extreme options helps you manage anger. If you decide to stand
@@ -148,8 +143,7 @@ resolve the conflict. This is the most mature way to handle
 anger-provoking problems, but also the one most people are least likely
 to choose.
 
-Stopping the rage
-=================
+# Stopping the rage
 
 -   Focus on your anger and the reactions to your anger rather than the
     source of your anger
@@ -214,10 +208,9 @@ Stopping the rage
 -   Imagine yourself in the same (or different) situation, but feeling a
     negative emotion other than anger (for example, sadness).
 
-Speaking out in anger
-=====================
+# Speaking out in anger
 
-Screaming at someone that he's a "@\#\$%head!" communicates nothing but
+Screaming at someone that he's a "@#\$%head!" communicates nothing but
 raw anger. It doesn't tell the person why you're angry.
 
 **You need to use your anger to educate, inform, and share that part of
@@ -226,19 +219,18 @@ with the person who tapped into these feelings.**
 
 1.  **Come up with a label to identify the intensity of your anger.**
 
-    For example, are you annoyed, irritated, mad, irate, or in a rage?
-    Start by saying, "I feel. . . ." Don't say, "I think. . . ." What
-    you're going for here is your feeling, not your thoughts about how
-    unpleasant the other person was.
+For example, are you annoyed, irritated, mad, irate, or in a rage? Start
+by saying, "I feel. . . ." Don't say, "I think. . . ." What you're going
+for here is your feeling, not your thoughts about how unpleasant the
+other person was.
 
 2.  **Identify what really triggered your anger in the first place**
 
 3.  **Ask yourself what it would take to help you return to a non-angry
     state.**
 
-    For example, "I would appreciate it if he would ask his friends to
-    leave when I get home from work so we can have some one-on-one
-    time."
+For example, "I would appreciate it if he would ask his friends to leave
+when I get home from work so we can have some one-on-one time."
 
 When you're able to go through these three steps inside your head, see
 if you can actually have that conversation with the person you're angry
@@ -250,8 +242,7 @@ It is not what you say; it is how you say it:
 
 -   Keep pace slow and volume low
 
-Preventing anger
-================
+# Preventing anger
 
 **Anger is the emotion of intolerance. Intolerance means you don't
 accept another person's viewpoint or behavior. Anger says that you think
@@ -272,8 +263,7 @@ to educate me."**
 
 **Keep your eyes open and your mouth shut.**
 
-A Zen approach to overcoming anger
-==================================
+# A Zen approach to overcoming anger
 
 Anger is often an immediate but irrational reaction based on a notion we
 have in our heads.
@@ -313,14 +303,14 @@ When confronted with someone else's anger, use these steps.
 5.  Respect and empathize with both your own boundaries, values, and
     limitations and those of the other person.
 
-    A conflict may be the result of differing values, for instance, two
-    family members disagreeing about whether to take care of a parent in
-    a nursing facility or at home. One wants safety for her, the other
-    wants her happiness. The safety-minded person might come clean and
-    admit, "I can't be here all the time; I'm afraid she might hurt
-    herself." The other might say, "I would always be upset with myself
-    if I didn't support Mother's wishes." Then it becomes an argument
-    about concerns instead of positions.
+A conflict may be the result of differing values, for instance, two
+family members disagreeing about whether to take care of a parent in a
+nursing facility or at home. One wants safety for her, the other wants
+her happiness. The safety-minded person might come clean and admit, "I
+can't be here all the time; I'm afraid she might hurt herself." The
+other might say, "I would always be upset with myself if I didn't
+support Mother's wishes." Then it becomes an argument about concerns
+instead of positions.
 
 6.  Speak from right attitude. Ask yourself, "What do I really need to
     communicate to this person?" and refrain from venting your feelings
@@ -335,8 +325,7 @@ ways. Human intelligence gives you the power to react other than by
 instinct or habit. Intelligence is the power of choice. Anger cripples
 rational thought and therefore limits your choices.
 
-Why we get mad?
-===============
+# Why we get mad?
 
 Anger is good for you as long as you understand, manage, and use it in
 healthy ways. Like all emotions, anger exists in us because it offered
@@ -385,29 +374,27 @@ injustice. Emotions are fundamentally separate from behaviors.
 
 3.  Appraisal (interpretation of the provocation)
 
-    d.  Anger increases if the precipitating source is perceived as
+    a.  Anger increases if the precipitating source is perceived as
         intentional, preventable, unjustified, and/or blameworthy and
         punishable (i.e., judged as culpable and deserving to suffer).
 
-    e.  primary appraisal -\> judge the precipitant to determine if
+    b.  primary appraisal -\> judge the precipitant to determine if
         anyone did anything wrong.
 
-    f.  Secondary appraisal -\> decide how bad the situation is and
+    c.  Secondary appraisal -\> decide how bad the situation is and
         whether we can cope with it
 
-        **Was I treated poorly, unfairly, or otherwise wronged?**
+**Was I treated poorly, unfairly, or otherwise wronged?**
 
-        **Is someone or something blocking my goals?**
+**Is someone or something blocking my goals?**
 
-        **What might I have done to contribute to this?**
+**What might I have done to contribute to this?**
 
-> ![](C:\scripts\dirkswiki\docs\Personal_Development\media_Anger_management/media/image1.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Anger_management/media/image1.png)
 
-Impulse control
----------------
+## Impulse control
 
-Angry thoughts
---------------
+## Angry thoughts
 
 -   Overgeneralizing (he/she always does this, why always me?)
 
@@ -420,8 +407,7 @@ Angry thoughts
 
 -   **inflammatory labeling** (calling names)
 
-Self-control
-============
+# Self-control
 
 Emotional freedom doesn't mean doing whatever we feel like doing;
 rather, it is doing what we truly want to do, despite our desires at the
@@ -442,8 +428,7 @@ alcoholism, gambling and drug addiction;[11](javascript:void(0)) and
 increased eating by chronic dieters[12](javascript:void(0)) and greater
 smoking intensity by smokers.[13](javascript:void(0))
 
-Self-esteem
-===========
+# Self-esteem
 
 When we lack self-esteem, we push away the very people we so desperately
 want in our lives because we can't fathom why anyone would love someone
@@ -531,8 +516,7 @@ even if it kills us.
 
 ![](media_Anger_management/media/image2.png)
 
-Ego and fear
-============
+# Ego and fear
 
 The ego is on the lookout for any situation that calls into question our
 worth, fearful that we are not lovable and may be rejected. Hence, the
@@ -567,15 +551,13 @@ Those whose egos reign lack self-esteem and can't afford to question
 their own judgment, worth, or intelligence. Justification then binds
 them to the past and drags their mistakes into the future.
 
-ANGRY PEOPLE BEHAVE STUPIDLY
-============================
+# ANGRY PEOPLE BEHAVE STUPIDLY
 
 Research finds self-regulation failure is central to nearly all the
 personal and social problems that currently plague the modern, developed
 world.
 
-Control
-=======
+# Control
 
 The path to living anger free is paved not by circumstances, but by
 choice. An individual who controls himself recognizes that he doesn't

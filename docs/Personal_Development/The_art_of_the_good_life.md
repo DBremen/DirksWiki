@@ -1,8 +1,7 @@
 **Einstein put it this way: "A clever person solves a problem. A wise
 person avoids it."**
 
-The Fine Art of correction
-==========================
+# The Fine Art of correction
 
 Don't overdo planning but adjust as you go.
 
@@ -19,8 +18,7 @@ set-up---at work or in your personal life. Instead, practice the art of
 correction by revising the things that aren't quite working---swiftly
 and without feeling guilty.
 
-The Pledge
-==========
+# The Pledge
 
 When it comes to important issues, flexibility isn't an advantage---it's
 a trap.
@@ -35,22 +33,19 @@ reputation. By being consistent on certain topics, you signal where you
 stand and establish the areas where there's no room for negotiation. You
 communicate self-mastery, making yourself less vulnerable to attack.
 
-Black Box Thinking
-==================
+# Black Box Thinking
 
 Learn from errors through reflection (record previous sequence of events
 like a black-box). Radical acceptance of the objective truth + rectify
 mistakes.
 
-Counterproductivity
-===================
+# Counterproductivity
 
 Considering a holistic view lots of productivity tools are actually
 counterproductive since we spend in the end more money time on
 maintaining/setting up the gadgets.
 
-Do Nothing Wrong and the Right Thing Will Happen 
-=================================================
+# Do Nothing Wrong and the Right Thing Will Happen 
 
 Focus on avoiding mistakes/negative things rather than doing everything
 right.
@@ -67,8 +62,7 @@ chronic sleep deprivation, depression, anxiety, rage and envy.
 "All I want to know is where I'm going to die, so I'll never go there."
 -- Munger
 
-The ovarian lottery
-===================
+# The ovarian lottery
 
 Most of the things achieved are mainly a matter of luck (your genes,
 your family, where you were born)
@@ -79,8 +73,7 @@ please.**
 
 **Focus on what you are good at (circle of competence)**
 
-Why our sample sizes are too small
-==================================
+# Why our sample sizes are too small
 
 Let's say you want to hire a secretary (sorry: a PA). A hundred women
 have applied for the role, and you're interviewing them one by one in

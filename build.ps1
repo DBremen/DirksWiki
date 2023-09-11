@@ -4,14 +4,24 @@ $repoFolder = $PSScriptRoot
 function build () {
     dir $sourceDocsFolder -rec -file | ren -NewName {$_.Name.Replace(' ','_')}
     if (Test-Path "$repoFolder\docs"){
-        dir "$repoFolder\docs" -Exclude 'README.md' | del -Recurse -Force
+        try {
+            dir "$repoFolder\docs" -Exclude 'README.md' | del -Recurse -Force 
+        }
+        catch{}
     }
     if (Test-Path "$repofolder\site"){
         dir "$repofolder\site" | del -Recurse -Force
     }
     $folders = (dir $sourceDocsFolder -Directory)
     foreach ($folder in $folders) {
-        $currParentFolder = mkdir ($repoFolder + '\docs\' + $folder.Name)
+        $folder.name
+        $currPath = $repoFolder + '\docs\' + $folder.Name
+        if (Test-Path $currPath){
+            $currParentFolder = $currPath
+        }
+        else{
+            $currParentFolder = mkdir ($repoFolder + '\docs\' + $folder.Name)
+        }
         $files = dir $folder.FullName 
         $files = ($files.where{!($_.Name.StartsWith('~'))})
         foreach ($file in $files) {

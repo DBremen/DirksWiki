@@ -1,7 +1,6 @@
 https://www.youtube.com/watch?v=WEDIj9JBTC8
 
-Start a business a lemonade stand
-=================================
+# Start a business a lemonade stand
 
 -   Put in 1000 shares of your own money (1000 \$)
 
@@ -10,14 +9,13 @@ Start a business a lemonade stand
 -   Borrow 250 \$ from a friend at 10% interest p.a. (money earned
     through this does not need to be redistributed to shareholders)
 
-![](C:\scripts\dirkswiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image1.png)![](media_BalanceSheet_IncomeStatement/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image1.png)![](media_BalanceSheet_IncomeStatement/media/image2.png)
 
 Buy a lemonade stand (fixed assets) and supplies (inventory)
 
 ![](media_BalanceSheet_IncomeStatement/media/image3.png)
 
-First year of operation income statement
-========================================
+# First year of operation income statement
 
 Income statement:
 
@@ -39,8 +37,7 @@ Income statement:
 
 ![](media_BalanceSheet_IncomeStatement/media/image4.png)
 
-Growing the business
-====================
+# Growing the business
 
 Operating assumptions:
 
@@ -52,16 +49,14 @@ Operating assumptions:
 
 -   We can sell 5% more cups / stand / year
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image5.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image5.png)
 
-Cashflow statement
-==================
+# Cashflow statement
 
 ![](media_BalanceSheet_IncomeStatement/media/image6.png)
 
 ![](media_BalanceSheet_IncomeStatement/media/image7.png)
 
-Evaluating value
-================
+# Evaluating value
 
 ![](media_BalanceSheet_IncomeStatement/media/image8.png)

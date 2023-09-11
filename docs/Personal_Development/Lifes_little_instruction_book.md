@@ -1,5 +1,4 @@
-Self
-====
+# Self
 
 -   Learn to play an instrument
 
@@ -46,8 +45,7 @@ Self
 -   Be bold and courageous. When you look back on your life, you\'ll
     regret the things you didn\'t do more than the ones you did.
 
-Social
-======
+# Social
 
 -   Remember people's names and birthdays (write them down)
 
@@ -80,8 +78,7 @@ Social
     them, don\'t try to top them with a story of your own. Let them have
     the stage.
 
-Kids
-====
+# Kids
 
 -   Hug children after you discipline them.
 
@@ -94,8 +91,7 @@ Kids
 
 -   Allow your children to face the consequences of their actions.
 
-Generous
-========
+# Generous
 
 -   Donate blood
 
@@ -114,8 +110,7 @@ Generous
 -   Choose a charity in your community and support it generously with
     your time and money.
 
-Integrity
-=========
+# Integrity
 
 -   Keep secrets
 

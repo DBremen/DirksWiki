@@ -17,8 +17,7 @@ bet on a strong horse).
 **Always consider quality and price when buying stocks. Aim for getting
 more quality per price.**
 
-Anti-Fragile
-============
+# Anti-Fragile
 
 E.g. youtuber winning with negative and positive comments
 
@@ -36,15 +35,15 @@ Fragile - robust - anti-fragile
     Something that is fragile (a car hitting a wall at increasing
     speeds). Exponential decrease
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image1.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image1.png)
 
     Something that is anti-fragile. Exponential growth:
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image2.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image2.png)
 
     Investing in bio-tech
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image3.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image3.png)
 
 **When dealing with random events (or black-swan events) focus on
 prevention rather than trying to predict**
@@ -63,8 +62,7 @@ font manager with a longer track record.
 
 ![](media_Investing/media/image4.png)
 
-Focus on pay-off rather than probability
-========================================
+# Focus on pay-off rather than probability
 
 ![](media_Investing/media/image5.png)
 
@@ -76,8 +74,7 @@ Focus on pay-off rather than probability
 
 4.  Investing 100\$ = 100 \* .2 + 100 \* -.09 = 20 - 9 = 11%
 
-Better multiple favorable bets with less pay-off but lower risk
-===============================================================
+# Better multiple favorable bets with less pay-off but lower risk
 
 **Should you invest 100\$ in a start-up that has 40% probability of
 succeeding if a succeeding you win 500\$. Or put 25\$ in 4 (independent)
@@ -99,8 +96,7 @@ start-ups with 40% probability of succeeding?**
     is 0.01 % (0.4^10^) but the probability that at least one succeeds
     is 99.4% (1 - 0.6^10^).
 
-Economy
-=======
+# Economy
 
 https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
 
@@ -162,10 +158,11 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
     usually follows a quite constant growth while debts swing up and
     down)
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image6.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image6.png)
 
+```{=html}
 <!-- -->
-
+```
 -   Borrowing is a way of spending more money in the present rather than
     in the future (the settlement of the transaction based on debt is
     deferred)
@@ -178,15 +175,15 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
 -   To pay the debt back at one point you need to spend less than you
     make.
 
+```{=html}
 <!-- -->
-
+```
 -   More debt allows people to purchase more than we produce and less
     debt prevents people from buying as much as we produce
 
 ![](media_Investing/media/image7.png)
 
-Dividend discount model
------------------------
+## Dividend discount model
 
 -   The cash ﬂows that investors receive from stock are the dividends,
     so fundamentals-based models of stock price note that the current
@@ -205,7 +202,7 @@ Dividend discount model
         -   To use the CAPM to estimate the expected return, or discount
             rate, on a stock, we use the following formula:
 
-        -   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image8.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image9.png)
+        -   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image8.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image9.png)
 
         -   E(r~i~) = expected return
 
@@ -222,8 +219,7 @@ Dividend discount model
 -   average growth rate of the dividend: g (average dividend growth rate
     over the past 5 years.)
 
-Dividends
----------
+## Dividends
 
 Companies usually don't reduce the relative amount of dividends
 (dividend yield) the pay but rather try to keep them stable or even
@@ -240,8 +236,7 @@ of its outstanding shares. This is a **substitute for a dividend**
 because the company has to pay cash for these repurchased shares, which
 returns cash to the company's shareholders.
 
-Advantage of long term investment over short term![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image10.png)
-=========================================================================================================================
+# Advantage of long term investment over short term![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png)
 
 ![](media_Investing/media/image11.png)
 
@@ -258,11 +253,9 @@ Earnings yield = opposite of P/E shows % earning per stock price
 
 ![](media_Investing/media/image12.png)
 
-Three pillars of trading
-========================
+# Three pillars of trading
 
-Psychology
-----------
+## Psychology
 
 -   Keep track of your trades including your assumptions and reasoning
     (plan to sell)
@@ -277,8 +270,7 @@ Psychology
 
 -   
 
-Trading system
---------------
+## Trading system
 
 Man = trend
 
@@ -297,10 +289,11 @@ up in a different direction=
 
     Entry criteria:
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image14.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image14.png)
 
+```{=html}
 <!-- -->
-
+```
 -   Market tide: weekly MACD histogram (trend) - buy in that direction
 
 -   Market wave: 2-day EMA (oscillator) - opposite of that direction
@@ -308,8 +301,7 @@ up in a different direction=
 -   Intraday breakout: buy order 1 tick above the high of the previous
     day.
 
-Money management
-----------------
+## Money management
 
 Cut losses short and let winners run
 
@@ -368,7 +360,7 @@ Determine position size based on:
 
 -   Expectancy = average R over time
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image16.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image16.png)
 
 -   **Look of the distribution of R multiples not only the average (e.g.
     volatility and drawdowns)**
@@ -383,11 +375,11 @@ Determine position size based on:
 
 -   Opportunity (how often does the system generate signals)
 
--   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image17.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image17.png)
 
 -   Position sizing
 
--   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image18.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image18.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image18.png)![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image19.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)
 
 1.  Survival (never risk \> 2% of equity in one trade including fees)
 
@@ -398,14 +390,13 @@ Determine position size based on:
 
     c.  Only move stop-loss in direction of the trade (higher)
 
-> ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image20.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image20.png)
 
 2.  Steady returns
 
 3.  High returns
 
-Valuation of stock prices
-=========================
+# Valuation of stock prices
 
 ![](media_Investing/media/image21.png)
 
@@ -413,8 +404,7 @@ Valuation of stock prices
 
 Compare this in conjunction with P/E
 
-Relative evaluation
--------------------
+## Relative evaluation
 
 Compare stocks to a similar competitor and take the cheaper one.
 
@@ -428,10 +418,9 @@ Competitive advantage
 
 -   Adjust for differences (e.g. take earning growths)
 
-> ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image24.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image24.png)
 
-Intrinsic valuation (follow-up of above)
-----------------------------------------
+## Intrinsic valuation (follow-up of above)
 
 -   Discount rate = yearly return of the stock
 
@@ -441,8 +430,7 @@ Intrinsic valuation (follow-up of above)
 
 ![](media_Investing/media/image26.png)
 
-Interpretation of financial statements
-======================================
+# Interpretation of financial statements
 
 -   Watch out for overstated values in the balance sheet (e.g.
     intangible assets)
@@ -453,8 +441,7 @@ Interpretation of financial statements
 
 ![](media_Investing/media/image27.png)
 
-Intrinsic value (liquidation value)
------------------------------------
+## Intrinsic value (liquidation value)
 
 Use book value = Sell all assets and repay all liabilities
 
@@ -462,8 +449,7 @@ Use book value = Sell all assets and repay all liabilities
 
 ![](media_Investing/media/image29.png)
 
-Income statement (over a period)
---------------------------------
+## Income statement (over a period)
 
 Best is to express everything as a % of the of total revenue (top line)
 and compare with average of top 5 competitors
@@ -474,8 +460,7 @@ and compare with average of top 5 competitors
 
 ![](media_Investing/media/image32.png)
 
-Balance sheet (snapshot in time)
---------------------------------
+## Balance sheet (snapshot in time)
 
 Look at a percentage of total assets and compare with top competitors
 
@@ -487,13 +472,11 @@ Bad signs
 
 ![](media_Investing/media/image35.png)
 
-Cash flow statement
--------------------
+## Cash flow statement
 
 Statement of actual ins and outs of money
 
-Indicators
-----------
+## Indicators
 
 ### ROE return on equity
 
@@ -532,8 +515,7 @@ Net income (income statement) / Total equity (Balance sheet)
 
 -   P/B = market cap (number of stocks \* price of stock) / total assets
 
-Inflation
-=========
+# Inflation
 
 -   During inflation it's good to invest in companies that have low
     capital requirements (low debt ratio) and high return on assets
@@ -544,8 +526,7 @@ Inflation
 -   Companies that have pricing power (e.g. they can increase the price
     according to inflation or higher)
 
-Cycles
-======
+# Cycles
 
 A market cycle oscillates around a secular trend.
 
@@ -561,22 +542,20 @@ Cycles are influenced by other cycles:
 -   Cycle of profits of businesses (P/E price to earnings ratio)
     (multpl.com)
 
--   ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image40.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image40.png)
 
 -   Credit cycle
 
 -   Psychology (attitudes towards risk)
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image41.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image41.png)
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image42.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image42.png)
 
-Ideas
-=====
+# Ideas
 
 Look for most valuable brand with the lowest P/E
 
-Conservative base investment
-----------------------------
+## Conservative base investment
 
 -   Dividend stocks (paying dividends for 10+ years)
 
@@ -589,8 +568,7 @@ Conservative base investment
     Don't bet on companies that do a lot of acquisitions rather focus on
     organic grows
 
-Acquirer\'s multiple
---------------------
+## Acquirer\'s multiple
 
 -   P/E = market cap / net earnings
 
@@ -603,13 +581,11 @@ Acquirer\'s multiple
 
 -   <https://acquirersmultiple.com/largecapsuccess/>
 
-Diversify
-=========
+# Diversify
 
 10-20 stocks
 
-Focus on avoiding mistakes instead of trying to be right all the time 
-======================================================================
+# Focus on avoiding mistakes instead of trying to be right all the time 
 
 -   Try to be consistently not stupid.
 
@@ -617,8 +593,7 @@ Focus on avoiding mistakes instead of trying to be right all the time
 
 -   Avoid disaster (e.g. running out of money)
 
-Stay in circle of competence with humility (but think independently)
---------------------------------------------------------------------
+## Stay in circle of competence with humility (but think independently)
 
 -   Know what you don't know
 
@@ -628,10 +603,9 @@ Stay in circle of competence with humility (but think independently)
 
 -   Don't follow analysts or irrelevant news.
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image44.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image44.png)
 
-Evaluate risk
--------------
+## Evaluate risk
 
 -   Use a margin of safety (e.g. buy under valued stocks)
 
@@ -639,15 +613,13 @@ Evaluate risk
 
 -   What could go wrong?
 
-Resist the urge to act (FOMO)
-=============================
+# Resist the urge to act (FOMO)
 
 -   Avoid transaction fees
 
 -   But not when it comes to cutting losss
 
-Focus on macro rather than micro decisions
-==========================================
+# Focus on macro rather than micro decisions
 
 -   Don't save on small expenses or try to win on small bets
 
@@ -657,10 +629,9 @@ Focus on macro rather than micro decisions
 
 -   Compare based on total cost of ownership rather than purchase price
 
-    ![](C:\scripts\dirkswiki\docs\Finance\media_Investing/media/image45.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image45.png)
 
-Don't fall in love with your investment/position
-================================================
+# Don't fall in love with your investment/position
 
 -   Always set a value at which you will sell before investing and
     follow it

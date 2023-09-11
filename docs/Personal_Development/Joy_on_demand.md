@@ -19,8 +19,7 @@ cycle forms. Once you put it into motion, the meditation practice that
 perhaps you thought you'd never have can be sustained, and joy becomes a
 dominant factor in daily life.
 
-Habit
-=====
+# Habit
 
 A habit is a loop that consists of three parts: a cue, a routine, and a
 reward.[^7^](9780062378941_Notes.xhtml#ch2en7) The cue is something that
@@ -45,8 +44,7 @@ your breath.
 If taking that mindful breath makes you feel any better, simply notice
 that. It will be the reward that reinforces the habit.
 
-Meditation is not about not thinking
-====================================
+# Meditation is not about not thinking
 
 One of the biggest misconceptions about meditation is that it involves
 "emptying your mind of all thoughts." This one misconception is more
@@ -66,8 +64,7 @@ energy in meditation boils down to balancing three mental
 factors: **mental relaxation, mental energy,** and **equanimous
 watching.**
 
-Easing into joy
-===============
+# Easing into joy
 
 Resting the mind to put it into a state of ease. Being joyful at rest,
 no ego stroking or sensual pleasure required. Cultivating this form of
@@ -85,8 +82,7 @@ take one deep breath mindfully. If any hint of joy arises anytime during
 the exercise, **simply notice it,** that is all. If no hint of joy
 arises, no problem either; we simply **notice the absence** of joy.
 
-Inclining the mind toward joy
-=============================
+# Inclining the mind toward joy
 
 Next, we learn to notice joy and give it our full attention. We learn
 where to look in order to see and appreciate joy that is already
@@ -106,8 +102,7 @@ or a half smile, whatever the words *half smile* mean to you. If any joy
 arises, bring full attention to it. If you like, repeat this
 three-breaths practice a few more times.
 
-Uplifting the mind
-==================
+# Uplifting the mind
 
 Here, we learn to uplift the mind with wholesome joy, especially joy
 arising from goodness, generosity, loving-kindness, and compassion. The

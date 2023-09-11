@@ -1,5 +1,4 @@
-Synergy
-=======
+# Synergy
 
 ![](media_The_third_alternative/media/image1.png)
 
@@ -23,8 +22,7 @@ greater than we are alone.**
 consequences of our actions. We GET results based on what we DO, and
 what we DO depends on how we SEE the world around us.**
 
-4 step process of 3rd alternative thinking
-------------------------------------------
+## 4 step process of 3rd alternative thinking
 
 ![](media_The_third_alternative/media/image3.png)
 
@@ -223,8 +221,7 @@ either one of us has in mind?"
 
 ##### Step 4: Arrive at Synergy
 
-Values
-======
+# Values
 
 1.  Beware of pride. Let go of needing always to be "right." Your grasp
     on reality is always partial anyway. Allow yourself to achieve the

@@ -4,8 +4,9 @@ choices in the face of tradeoffs. Choices are shaped by the costs and
 benefits of the various alternatives---and those costs and benefits can
 change over time.
 
-Principles
-==========
+# 
+
+# Principles
 
 1.  People respond to incentives (stick and carrot)
 
@@ -17,8 +18,7 @@ Principles
 4.  There are usually unanticipated and unintentional consequences
     therefore no one is in complete control
 
-Concepts
-========
+# Concepts
 
 Thinking like an economist means being aware of the incentives you face
 and, perhaps more importantly, the incentives those around you face. It
@@ -72,8 +72,7 @@ to. That failing is most likely to take place:
 
 We may end up rationally choosing paths that harm us both.
 
-Economic efficiency
-===================
+# Economic efficiency
 
 Rationality refers to the process by which individuals reach choices;
 efficiency is a measure that we use to judge the social consequences of
@@ -81,8 +80,7 @@ those many choices. Economists define efficiency as people being made
 better off. What determines whether you're better off? You do; it's a
 measure of how you feel.
 
-How to measure efficiency?
---------------------------
+## How to measure efficiency?
 
 At the beginning of the 20^th^ century, economists gave up to find a way
 to objectively measure when society is better off. They figured they
@@ -138,8 +136,7 @@ Thinking like an economist has its greatest value in these
 instances---by understanding the harms that these imperfections cause
 and formulating strategies to overcome them.
 
-Incentives and Optimal Choice
-=============================
+# Incentives and Optimal Choice
 
 The rules and rights surrounding any interaction define the incentives
 that relevant individuals face. Altering, clarifying, or redesigning
@@ -167,8 +164,7 @@ following questions:
 -   Are there free rider problems here that are preventing our
     cooperation that would make many of us better off?
 
-Externalities
--------------
+## Externalities
 
 One kind of inaccuracy that is important to economists is
 **externalities**, which occur any time we take an action that creates a
@@ -183,8 +179,7 @@ inefficient outcomes in 2 distinct ways:
 
 -   we may fail to consider choices that would cause benefit.
 
-Commons
--------
+## Commons
 
 A commons is something that we all use collectively and no one is
 directly responsible for.
@@ -204,8 +199,7 @@ atmosphere as a free-for-all dump for greenhouse gases.**
 -   and linking the public good to a desirable private good (e.g.,
     getting people to pay voluntarily).
 
-Expected value
---------------
+## Expected value
 
 It is the average outcome that would result from repeating the same
 decision multiple times.
@@ -235,8 +229,7 @@ decision multiple times.
 
     Knowing the expected value helps you make a rational decision.
 
-Time value/preference of money
-==============================
+# Time value/preference of money
 
 People almost always prefer to have good things happen sooner and bad
 things happen later. Economists refer to this as pure time preference.
@@ -248,8 +241,7 @@ At 5% p.a interest 105 is the one year future-value of 100 today.
 At 5% p.a. interest 100 is the present value equivalent of 105 in a
 year.
 
-Behavioral Economics
-====================
+# Behavioral Economics
 
 Not considering people as 100% rational but taking into account our
 personal preferences and biases.
@@ -291,8 +283,7 @@ size.
 **reference point**: When people make decisions based on how the outcome
 relates to their internal sense of what is appropriate or fair.
 
-Herd behaviour
---------------
+## Herd behaviour
 
 **Information cascade:** Part of the information that people use in
 making decisions is to look at the decisions made by others, and as a

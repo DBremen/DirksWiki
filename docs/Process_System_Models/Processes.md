@@ -33,8 +33,7 @@ ITIL = for it services
 
 BPMCBOK = for project management
 
-BPM advantages
-==============
+# BPM advantages
 
 ![](media_Processes/media/image5.png)
 
@@ -75,8 +74,7 @@ to do so is most welcome.
 
 ![](media_Processes/media/image6.png)
 
-BPM lifecycle
-=============
+# BPM lifecycle
 
 ![](media_Processes/media/image7.png)
 
@@ -92,8 +90,7 @@ BPM lifecycle
 
 ![](media_Processes/media/image13.png)
 
-Process Architecture
-====================
+# Process Architecture
 
 ![](media_Processes/media/image14.png)
 
@@ -101,15 +98,13 @@ Process Architecture
 
 ![](media_Processes/media/image16.png)
 
-Business Process Modelling notation
-===================================
+# Business Process Modelling notation
 
 ![](media_Processes/media/image17.png)
 
 ![](media_Processes/media/image18.png)
 
-Process Analysis
-================
+# Process Analysis
 
 ![](media_Processes/media/image19.png)
 
@@ -117,13 +112,11 @@ Process Analysis
 
 ![](media_Processes/media/image21.png)
 
-Qualitative Analysis
---------------------
+## Qualitative Analysis
 
 ![](media_Processes/media/image22.png)
 
-CMMI for services
-=================
+# CMMI for services
 
 CMMI ® (Capability Maturity Model ® Integration) models are collections
 of best practices that help organizations to improve their processes.
@@ -208,8 +201,7 @@ infrastructure and stability necessary to deal with an ever-changing
 world and to maximize the productivity of people and the use of
 technology to be competitive.
 
-Problem solving
-===============
+# Problem solving
 
 Y= f(x~1~,x~2~,x~3~\...x~n~) = Builds an strategic alignment
 
@@ -221,8 +213,7 @@ x=causes
 CCR = Critical customer requirements = translated from VOC into concrete
 requirements
 
-Kano Model
-----------
+## Kano Model
 
 **Must be** attributes are the expected attributes or "musts" of a
 product, and do not provide an opportunity for product differentiation.
@@ -297,7 +288,7 @@ Delighter = Receiving extra present ( discount for next purchase)
 
 ![](media_Processes/media/image24.png)
 
-![http://www.emeraldinsight.com/content\_images/fig/0400210703007.png](media_Processes/media/image25.png)
+![http://www.emeraldinsight.com/content_images/fig/0400210703007.png](media_Processes/media/image25.png)
 
 ![](media_Processes/media/image26.png)
 
@@ -314,8 +305,7 @@ Determine process capability
 
 ![](media_Processes/media/image28.png)
 
-Data
-----
+## Data
 
 -   Look at the distribution rather than only averages
 
@@ -330,12 +320,11 @@ Data
     the mean of the process output. If a process runs at 6 six sigma
     there are only 3.4 defects out of 1 million.
 
-    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image29.jpg)
+![](media_Processes/media/image29.jpg)
 
 -   Measure performance against process capability
 
-Process Improvement handbook
-============================
+# Process Improvement handbook
 
 ![](media_Processes/media/image30.png)
 
@@ -343,7 +332,7 @@ In simple terms, the primary difference between a process and a
 procedure is that a process is what you do and a procedure is how you do
 it.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image35.png)![](media_Processes/media/image36.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image31.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image32.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image33.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image34.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image35.png)![](media_Processes/media/image36.png)
 
 *Process Management* is the ensemble of planning, engineering,
 improving, and monitoring an organization's processes in order to
@@ -369,8 +358,7 @@ Process Improvement methods.
 
 ![](media_Processes/media/image40.png)
 
-DFSS
-====
+# DFSS
 
 ![](media_Processes/media/image41.png)
 
@@ -395,12 +383,11 @@ DFSS
     first positive contribution to margin or until Break Even is
     achieved)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image47.png)![](media_Processes/media/image48.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image44.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image45.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image46.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image47.png)![](media_Processes/media/image48.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image49.png)![](media_Processes/media/image50.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image49.png)![](media_Processes/media/image50.png)
 
-Service Management
-==================
+# Service Management
 
 ![](media_Processes/media/image51.png)
 
@@ -438,8 +425,7 @@ aspects such as cost, duration, human effort, and quality. You also need
 to measure progress toward the outcomes that both the customer and the
 stakeholders had in mind when the service was established.
 
-Process capability
-==================
+# Process capability
 
 ![](media_Processes/media/image53.png)
 
@@ -523,7 +509,7 @@ accept, not desirable but acceptable.**
 >
 > **Capability Index (Cpk) versus Capability Ratio (CR)**
 >
-> ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image55.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image55.png)
 >
 > The Cpk is the same concept as the CR. The only difference is that we
 > use Cpk when the product average is not the same as the customer
@@ -610,28 +596,27 @@ is because an unstable measurement process will make a perfectly stable
 manufacturing process appear to be unstable. Unfortunately, unstable
 measurement processes in manufacturing are common.
 
-Six Sigma
-=========
+# Six Sigma
 
 <http://lean-six-sigma.pro/Documents/Explaining%20sigma%20shift%20v2.pdf>
 
 <http://www.isixsigma.com/new-to-six-sigma/dmaic/scientific-problem-solving-dmaic-terms-y-fx/>
 
 ![Figure 1: A Scientific Model of
-DMAIC](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image58.gif)
+DMAIC](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image58.gif)
 
 A Six Sigma project is successful when the team is able to solve Y =
 f(x).That is, relate all the key inputs to each expected output within a
 small magnitude of error
 
 ![Figure 2: Six Sigma Project
-Model](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image59.gif)
+Model](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image59.gif)
 
 ![Figure 3: DMAIC
-Roadmap](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image60.gif)
+Roadmap](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image60.gif)
 
 ![Figure 5: Example Application of Six Sigma Scientific
-Thinking](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image61.gif)
+Thinking](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image61.gif)
 
 ![Figure 4: Type I and Type II
-Errors](C:\scripts\dirkswiki\docs\Process_System_Models\media_Processes/media/image62.gif)
+Errors](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image62.gif)

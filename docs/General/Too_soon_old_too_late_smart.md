@@ -1,12 +1,10 @@
-If the map doesn't agree with the ground, the map is wrong
-==========================================================
+# If the map doesn't agree with the ground, the map is wrong
 
 Evaluate and adjust your behaviour, don't stick to wrong models/beliefs.
 
 Evaluate people based on traits that like kindness
 
-We are what we do
-=================
+# We are what we do
 
 Past behavior is the most reliable predictor of future behaviour. In
 general, we get, not what we deserve, but what we expect The three
@@ -15,8 +13,7 @@ something to look forward to. We love someone when the importance of his
 or her needs and desires rises to the level of our own. The point is
 that love is demonstrated behaviorally.
 
-It is difficult to remove by logic an idea not placed there by logic in the first place
-=======================================================================================
+# It is difficult to remove by logic an idea not placed there by logic in the first place
 
 If most of our behavior is driven by our feelings, however unclear they
 may be, it follows that to change ourselves we must be able to identify
@@ -25,11 +22,9 @@ those upon whom our happiness depends. If we wish, as most of us do, to
 be treated with kindness and forbearance, we need to cultivate those
 qualities in ourselves.
 
-Any relationship is under the control of the person who cares the least
-=======================================================================
+# Any relationship is under the control of the person who cares the least
 
-The perfect is the enemy of the good.
-=====================================
+# The perfect is the enemy of the good.
 
 The problem with perfectionists and their preoccupation with control is
 that the qualities that make them effective in their work can render
@@ -40,15 +35,13 @@ to introduce them to the paradox of perfection: in some settings,
 notably in our intimate relationships, we gain control only by
 relinquishing it.
 
-Life's two most important questions are "Why?" and "Why not?" The trick is knowing which one to ask.
-====================================================================================================
+# Life's two most important questions are "Why?" and "Why not?" The trick is knowing which one to ask.
 
 To take the risks necessary to achieve this goal (find love) is an act
 of courage. To refuse to take them, to protect our hearts against all
 loss, is an act of despair.
 
-Our greatest strengths are our greatest weaknesses.
-===================================================
+# Our greatest strengths are our greatest weaknesses.
 
 One theme that is played out in many marriages is the coming together of
 someone with strong obsessive characteristics (usually a man) with
@@ -79,8 +72,7 @@ results. Perhaps this is just another argument for moderation in all
 things. But we need to acknowledge that those qualities of which we are
 most proud can prove our undoing.
 
-Happiness is the ultimate risk
-==============================
+# Happiness is the ultimate risk
 
 There might be advantages to their being depressed.
 
@@ -103,8 +95,7 @@ determines how we feel. The thing that characterizes those who struggle
 emotionally is that they have lost, or believe they have lost, their
 ability to choose those behaviors that will make them happy.
 
-True love is the apple of Eden
-==============================
+# True love is the apple of Eden
 
 It seems ironic that when people fall in love, no justification for
 their attachment is necessary. It is accepted that the process by which
@@ -117,8 +108,7 @@ for an explanation are insistent: What happened? Who's at fault? Why
 couldn't you work it out? "We didn't love each other anymore" is not, in
 most cases, a sufficient response.
 
-Only bad things happen quickly
-==============================
+# Only bad things happen quickly
 
 One of the common fantasies entertained by those seeking change in their
 lives is that it can be rapidly achieved. Once we "know" what to do it
@@ -134,8 +124,7 @@ live, better to be than to be seen, then we might have a chance, slowly,
 to find a satisfying way through life, this flicker of consciousness
 between two great silences.
 
-Don't do the same thing and expect different results
-====================================================
+# Don't do the same thing and expect different results
 
 Because going to the dentist is for most of us an unpleasant experience.
 It is common, therefore, for people to "forget" their appointments. When
@@ -146,8 +135,7 @@ acknowledge openly.
 So, it is with our choice of people to be with. Nearly every human
 action is in some way an expression of how we think about ourselves.
 
-The major advantage of illness is that it provides relief from responsibility 
-==============================================================================
+# The major advantage of illness is that it provides relief from responsibility 
 
 One of the basic rules of animal psychology is that any behavior that is
 reinforced will continue; behavior that is not will extinguish. A monkey
@@ -158,3 +146,5 @@ those things repetitively that produce some reward. It is just hard
 sometimes to discern what that reinforcement might be.
 
  
+
+# 

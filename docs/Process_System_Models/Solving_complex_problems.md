@@ -1,5 +1,4 @@
-Conceptualizing the problem
-===========================
+# Conceptualizing the problem
 
 In order to solve it analytically, ideally, it first has to become clear
 exactly what the problem is. When that has been clarified, one can
@@ -24,8 +23,7 @@ you have not defined the problem properly. When you gather alternatives,
 you may notice that your model of the problem area isn't complete yet.
 The process of conceptualizing the problem is iterative in nature.
 
-Steps to conceptualize the problem:
------------------------------------
+## Steps to conceptualize the problem:
 
 ### Problem statement
 
@@ -114,14 +112,14 @@ Common mistakes when formulating problem statements:
     less information, less co-operation, and, in the end, your analysis
     will fail.
 
-    Problem statements without dilemmas are for example: 'We want to
-    reduce the emission of harmful substances', 'How can we reduce the
-    traffic jams?' or 'How can we increase our profit?'
+Problem statements without dilemmas are for example: 'We want to reduce
+the emission of harmful substances', 'How can we reduce the traffic
+jams?' or 'How can we increase our profit?'
 
-    A characteristic of such formulations, without dilemmas, is that
-    they can be solved with simple and 'strange' alternatives. In the
-    examples named above, for example, close off the chimney, prohibit
-    driving or rob a bank.
+A characteristic of such formulations, without dilemmas, is that they
+can be solved with simple and 'strange' alternatives. In the examples
+named above, for example, close off the chimney, prohibit driving or rob
+a bank.
 
 2.  **No wish or 'gap'** -- At first it is hard to see what a problem
     statement is without a wish. Nevertheless these statements occur
@@ -130,17 +128,16 @@ Common mistakes when formulating problem statements:
     only mention reasons why something can't be accomplished. You could
     call these people 'complainers'.
 
-    Because you do not know what to accomplish with such a problem
-    statement, it is impossible to know what system to focus on, or how
-    you can measure whether a system's condition is improving, and you
-    do not know what kind of alternatives are actually possible.
+Because you do not know what to accomplish with such a problem
+statement, it is impossible to know what system to focus on, or how you
+can measure whether a system's condition is improving, and you do not
+know what kind of alternatives are actually possible.
 
-    Problem statements without a wish or a 'gap' are, for example: ' i t
-    is clear that we need a highway here, but they don't want to
-    cooperate', 'We cannot reduce residential waste without the
-    commitment of the citizens' or 'We would like to give the harbor a
-    'facelift', but the municipality won't make a budget available for
-    us.
+Problem statements without a wish or a 'gap' are, for example: ' i t is
+clear that we need a highway here, but they don't want to cooperate',
+'We cannot reduce residential waste without the commitment of the
+citizens' or 'We would like to give the harbor a 'facelift', but the
+municipality won't make a budget available for us.
 
 3.  **An apparent dilemma** -- 'We want to generate environmental
     friendly electricity without increasing C o 2 emissions', 'How can
@@ -150,17 +147,16 @@ Common mistakes when formulating problem statements:
     wish and a dilemma, but when you look closer you will actually find
     that there isn't a real dilemma present.
 
-    Fulfilling the wish is, in these examples, the same as solving the
-    dilemma or the other way around: if you take care of the dilemma
-    there is no wish anymore. Both wish and dilemma focus on the same
-    thing. In fact there is no tension at all between the wish that a
-    client has and the reason why that wish cannot simply be fulfilled.
-    In his urgency to make clear what the problem is, the client or the
-    analyst has made a mistake and has introduced the same thing twice.
-    The same difficulties arise as in the situation of a problem
-    statement without a dilemma: you have no idea what to focus on (and
-    when you continue your analysis, your credibility will be questioned
-    too).
+Fulfilling the wish is, in these examples, the same as solving the
+dilemma or the other way around: if you take care of the dilemma there
+is no wish anymore. Both wish and dilemma focus on the same thing. In
+fact there is no tension at all between the wish that a client has and
+the reason why that wish cannot simply be fulfilled. In his urgency to
+make clear what the problem is, the client or the analyst has made a
+mistake and has introduced the same thing twice. The same difficulties
+arise as in the situation of a problem statement without a dilemma: you
+have no idea what to focus on (and when you continue your analysis, your
+credibility will be questioned too).
 
 4.  Double wishes and/or dilemmas -- it is also possible that people
     write a problem statement that seems to be well written and
@@ -169,28 +165,27 @@ Common mistakes when formulating problem statements:
     to the neighborhood, without creating nuisance for the inhabitants
     through heavy traffic and an 'empty' neighborhood off-season?'
 
-    Look at it closely: what is the wish here? Actually, there are two:
-    creating more recreational facilities (of which we can think: is
-    there a wish behind this? perhaps attracting more tourists?) and
-    improving accessibility (by car or public transport, for example).
-    Having two wishes in the problem statement means that you will have
-    great difficulty finding alternatives. What if we remove the
-    recreational facilities from the problem statement? Now the problem
-    statement becomes 'How can the municipality create better access to
-    the neighborhood, without creating nuisance for the inhabitants
-    through heavy traffic and an 'empty' neighborhood off-season?' now,
-    suddenly, there is no dilemma anymore! Of course, that should not be
-    the case, since the municipality does experience a problem. I you
-    encounter this type of problem statement, ask your client if there
-    is a wish behind the description he gave. 'Better access to the
-    neighborhood' can also relate to the wish of attracting more
-    tourists (who are stuck in traffic right now, and choose other
-    destinations because of this), so the problem statement might
-    become: 'How can the municipality attract more tourists to the
-    neighborhood, without creating traffic nuisance for the
-    inhabitants?' This way, you have a clear view of the wish the
-    municipality has, and the 'solution space' is wide open: a large
-    number of different alternatives can be considered.
+Look at it closely: what is the wish here? Actually, there are two:
+creating more recreational facilities (of which we can think: is there a
+wish behind this? perhaps attracting more tourists?) and improving
+accessibility (by car or public transport, for example). Having two
+wishes in the problem statement means that you will have great
+difficulty finding alternatives. What if we remove the recreational
+facilities from the problem statement? Now the problem statement becomes
+'How can the municipality create better access to the neighborhood,
+without creating nuisance for the inhabitants through heavy traffic and
+an 'empty' neighborhood off-season?' now, suddenly, there is no dilemma
+anymore! Of course, that should not be the case, since the municipality
+does experience a problem. I you encounter this type of problem
+statement, ask your client if there is a wish behind the description he
+gave. 'Better access to the neighborhood' can also relate to the wish of
+attracting more tourists (who are stuck in traffic right now, and choose
+other destinations because of this), so the problem statement might
+become: 'How can the municipality attract more tourists to the
+neighborhood, without creating traffic nuisance for the inhabitants?'
+This way, you have a clear view of the wish the municipality has, and
+the 'solution space' is wide open: a large number of different
+alternatives can be considered.
 
 5.  **Mentioning a specific alternative** -- The most common mistake is
     not so much the problem mentioned, but the alternative that someone
@@ -208,19 +203,18 @@ Common mistakes when formulating problem statements:
     eventually be implemented, but the question remains whether the
     right problem was solved.
 
-    Examples of problem statements with alternatives named in them are;
-    'How can we build that nuclear plant without exceeding the budget?',
-    'We have to get the trucks off the motorway but we also have to
-    maintain the flexibility of the transport system' or 'That tunnel
-    has to be built there without damaging nature too much.' in these
-    problem statements, one will probably not think of different
-    alternatives than different types of power plants, reducing road
-    freight or different forms of tunnels. This is a shame because
-    alternatives like solar energy, reducing energy usage, other
-    logistics, rewarding chauffeurs for desirable behaviour on the road,
-    or reducing sound nuisance by placing sound walls could possibly be
-    good alternatives too, depending on the real gap and dilemma of this
-    actor
+Examples of problem statements with alternatives named in them are; 'How
+can we build that nuclear plant without exceeding the budget?', 'We have
+to get the trucks off the motorway but we also have to maintain the
+flexibility of the transport system' or 'That tunnel has to be built
+there without damaging nature too much.' in these problem statements,
+one will probably not think of different alternatives than different
+types of power plants, reducing road freight or different forms of
+tunnels. This is a shame because alternatives like solar energy,
+reducing energy usage, other logistics, rewarding chauffeurs for
+desirable behaviour on the road, or reducing sound nuisance by placing
+sound walls could possibly be good alternatives too, depending on the
+real gap and dilemma of this actor
 
 6.  **Using words like 'optimal', 'minimal', best, etc.** -- People
     generally tend to look for the solution to the problem. If they
@@ -238,17 +232,16 @@ Common mistakes when formulating problem statements:
     the situation they face is the same, they might end up with a
     different alternative.
 
-    Using words like 'minimal', 'best' and 'optimal' focuses on one
-    particular alternative, the one that scores minimally on a certain
-    criterion, or best, or optimally. Even if it were possible to agree
-    with the group on how to translate the value of one criterion
-    against another (so optimization would, at least mathematically, be
-    possible), problem statements would still focus on finding one
-    alternative. The idea is that a rational comparison of many
-    alternatives on a set of well-balanced criteria facilitates
-    decision-making in such a way that the actors involved can have a
-    clear view of different alternatives and their effects, without
-    looking for the optimal one.
+Using words like 'minimal', 'best' and 'optimal' focuses on one
+particular alternative, the one that scores minimally on a certain
+criterion, or best, or optimally. Even if it were possible to agree with
+the group on how to translate the value of one criterion against another
+(so optimization would, at least mathematically, be possible), problem
+statements would still focus on finding one alternative. The idea is
+that a rational comparison of many alternatives on a set of
+well-balanced criteria facilitates decision-making in such a way that
+the actors involved can have a clear view of different alternatives and
+their effects, without looking for the optimal one.
 
 ### Actor objectives analysis, Criteria for decision making (goal tree)
 
@@ -325,17 +318,16 @@ trees?**
     not criteria to find out whether a certain alternative A results in
     cheaper energy than another alternative
 
-    As soon as you see verbs in a goal tree, be alert. Verbs represent
-    actions and, thus, cannot define goals. 'Increasing the number of
-    thermal power plants' is an action, something that is done. It is
-    done to reach a goal, like more environmentally friendly energy. It
-    is, however, not defining what environmentally friendly energy is:
-    it is a way to get it! In essence, all actions like these are
-    alternatives that might (partly) solve the problem. Of course, we
-    have to find out whether they really have potential but, in
-    principle, they may have. Thus, when you use verbs in a goal tree
-    you are basically introducing alternatives and, with this, creating
-    substantial bias in your analysis.
+As soon as you see verbs in a goal tree, be alert. Verbs represent
+actions and, thus, cannot define goals. 'Increasing the number of
+thermal power plants' is an action, something that is done. It is done
+to reach a goal, like more environmentally friendly energy. It is,
+however, not defining what environmentally friendly energy is: it is a
+way to get it! In essence, all actions like these are alternatives that
+might (partly) solve the problem. Of course, we have to find out whether
+they really have potential but, in principle, they may have. Thus, when
+you use verbs in a goal tree you are basically introducing alternatives
+and, with this, creating substantial bias in your analysis.
 
 2.  **Goal tree contains alternatives** -- often, people
     'Operationalize' objectives like 'environmentally friendly energy'
@@ -356,12 +348,11 @@ trees?**
     involves building wind mills will never score well on 'more
     photovoltaic cells'.
 
-    If you do not recognize alternatives immediately, for all sub-goals
-    ask yourself the question 'does this sub-goal lead to the higher
-    goal, or, does it define the higher goal?' Alternatives will never
-    have definition relations with higher goals, only causal relations.
-    Useful goal trees only obtain definition relations and no causal
-    relations
+If you do not recognize alternatives immediately, for all sub-goals ask
+yourself the question 'does this sub-goal lead to the higher goal, or,
+does it define the higher goal?' Alternatives will never have definition
+relations with higher goals, only causal relations. Useful goal trees
+only obtain definition relations and no causal relations
 
 3.  **Main goal too** **generic** -- if you keep on asking the 'why do
     you want this?' question, you end up with the general interest of
@@ -376,22 +367,22 @@ trees?**
     moment it becomes practical to translate the general interest into a
     concrete goal for that particular perceived problem.
 
-    That concrete main goal is not the same as the general interest, but
-    represents the general interest for this particular problem. The
-    president of an electricity producing company might consider his
-    interest 'continuity of his company', independent of a problem. When
-    society wants to be more environmentally friendly, and people are no
-    longer buying his coal-generated electricity, he might translate his
-    general interest to 'sustainable energy supply'. In his case, part
-    of the definition of sustainable energy supply could be that there
-    needs to be a market for
+That concrete main goal is not the same as the general interest, but
+represents the general interest for this particular problem. The
+president of an electricity producing company might consider his
+interest 'continuity of his company', independent of a problem. When
+society wants to be more environmentally friendly, and people are no
+longer buying his coal-generated electricity, he might translate his
+general interest to 'sustainable energy supply'. In his case, part of
+the definition of sustainable energy supply could be that there needs to
+be a market for
 
-    His production. Should 'continuity' be the main goal, no practical
-    well- balanced set of criteria could be found. In this case,
-    continuity would be measured in, for instance, \[year\], but other
-    too generic main goals might lead to a lot of criteria of which the
-    majority have nothing to do with the perceived problem. Both ways,
-    the criteria are not supporting the decision-making process.
+His production. Should 'continuity' be the main goal, no practical well-
+balanced set of criteria could be found. In this case, continuity would
+be measured in, for instance, \[year\], but other too generic main goals
+might lead to a lot of criteria of which the majority have nothing to do
+with the perceived problem. Both ways, the criteria are not supporting
+the decision-making process.
 
 4.  **Goal tree too large** -- if you do not limit yourself while making
     the goal tree, you may end up with a goal tree that is too large to
@@ -456,4 +447,4 @@ factors are not yet explicit, operational factors, but mere concepts.
 
 ![](media_Solving_complex_problems/media/image6.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png)![](media_Solving_complex_problems/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png)![](media_Solving_complex_problems/media/image8.png)

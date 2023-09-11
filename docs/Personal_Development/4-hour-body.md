@@ -12,8 +12,7 @@ breakfast: spinach, 2-3 eggs, lentils
 
 no chickpeas
 
-Binge day
-=========
+# Binge day
 
 -   Eat beans + eggs for breakfast
 
@@ -70,8 +69,7 @@ smaller and thus consumed more quickly.
 • Experiment with cinnamon and lemon juice just prior to or during
 meals.
 
-Exercise
-========
+# Exercise
 
 n 2005, my interest in kettlebells reinvigorated, I returned to the
 United States from Argentina and purchased one 53-pound kettlebell. I
@@ -124,7 +122,7 @@ side
 Based on several months of testing myself and other laptop hunchers, I
 can recommend six 80/20 exercises for desk-dwellers' postural
 imbalances. For the minimalists who work at home (or who have
-understanding coworkers), I suggest performing \#1, \#2, and \#3 after
+understanding coworkers), I suggest performing #1, #2, and #3 after
 every two or three hours at a desk or in a sitting position and
 performing all five movements at least once per week.
 
@@ -213,9 +211,9 @@ your sides at 45 degrees, with palms facing up.
 
 2\. Place the other foot in the boot used with the tower.
 
-3\. Place your booted foot on the tower, starting at the lowest level and
-moving it up until an arch begins to form in your lower back. This is
-the level where you will complete your first 5 minutes.
+3\. Place your booted foot on the tower, starting at the lowest level
+and moving it up until an arch begins to form in your lower back. This
+is the level where you will complete your first 5 minutes.
 
 4\. Hold until your back is flat on the floor. Pay more attention to the
 flattening of your back than the specified time.
@@ -235,11 +233,11 @@ level.
 1\. Stand with your back against a wall with feet and knees hip width
 apart. Feet point straight ahead.
 
-2\. Walk your feet away from the wall while sliding your body down at the
-same time until your knees are bent at 90 degrees. Ensure your ankles
-are slightly ahead of your knees. Your lower back should be completely
-flat against the wall. Your arms can hang down to your sides, or you can
-rest your hands gently on your lap. Keep the weight in your heels and do
-not press forward on your toes.
+2\. Walk your feet away from the wall while sliding your body down at
+the same time until your knees are bent at 90 degrees. Ensure your
+ankles are slightly ahead of your knees. Your lower back should be
+completely flat against the wall. Your arms can hang down to your sides,
+or you can rest your hands gently on your lap. Keep the weight in your
+heels and do not press forward on your toes.
 
 3\. Hold for two minutes.

@@ -1,16 +1,12 @@
-<https://www.youtube.com/playlist?list=PLybg94GvOJ9HjfcQeJcNzLUFxa4m3i7FW>
-==========================================================================
+# <https://www.youtube.com/playlist?list=PLybg94GvOJ9HjfcQeJcNzLUFxa4m3i7FW>
 
 https://www.youtube.com/watch?v=liVg8LCU6i4&list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX&index=3
 
-Scalars
-=======
+# Scalars
 
-![](media_Physics/media/image1.png)
-=====================================================================
+# ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image1.png)
 
-Vectors
-=======
+# Vectors
 
 ![](media_Physics/media/image2.png)
 
@@ -25,13 +21,11 @@ length of the arrow indicates the magnitude of the force.
 If multiple forces act on an object operation on the vectors need to be
 carried out in order to calculate the forces.
 
-Vector addition:
-----------------
+## Vector addition:
 
-![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image5.png)![](media_Physics/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image5.png)![](media_Physics/media/image6.png)
 
-Trigonometry
-------------
+## Trigonometry
 
 Adjacent and opposite = relative to theta (the angel to be found)
 
@@ -45,21 +39,18 @@ e.g. Sin.
 
 Theta = inverse sin(3/5) = 36.9 degrees
 
-Vector subtraction
-------------------
+## Vector subtraction
 
 When subtracting vectors they are also lined up as for addition but the
 2^nd^ vector's direction is inverted.
 
 ![](media_Physics/media/image8.png)
 
-Break up a vector into X and Y components
------------------------------------------
+## Break up a vector into X and Y components
 
 ![](media_Physics/media/image9.png)
 
-Example calculations
---------------------
+## Example calculations
 
 ![](media_Physics/media/image10.png)
 
@@ -69,10 +60,9 @@ Hypotenuse = SQRT(16 + 1)
 
 Angle = Inverse tan (1/4) = 14.04 degrees
 
-![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image12.png)![](media_Physics/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image12.png)![](media_Physics/media/image13.png)
 
-Position Velocity Acceleration
-==============================
+# Position Velocity Acceleration
 
 ### Position
 
@@ -105,13 +95,12 @@ Change in velocity over time:
 
 -   5m/s per 5s
 
--   $\frac{5m}{5ss}$=$\frac{1m}{\text{ss}}$ = 1m/s^2^
+-   $\frac{5m}{5ss}$=$\frac{1m}{ss}$ = 1m/s^2^
 
 Acceleration is a vector and can be positive or negative (negative
 acceleration will point backwards)
 
-Graphical analysis
-==================
+# Graphical analysis
 
 ![](media_Physics/media/image15.png)
 
@@ -119,12 +108,11 @@ Graphical analysis
 
 ![](media_Physics/media/image17.png)
 
-![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image18.png)![](media_Physics/media/image19.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image18.png)![](media_Physics/media/image19.png)
 
 ![](media_Physics/media/image20.png)
 
-Kinematics
-==========
+# Kinematics
 
 ![](media_Physics/media/image21.png)
 
@@ -148,7 +136,7 @@ after one second, an object will have fallen a distance of 1/2 × 9.8 ×
 1^2^ = 4.9 m. After two seconds it will have fallen 1/2 × 9.8 × 2^2^ =
 19.6 m. 4.6 \* 4 = 19.6m
 
-### Fundamental kinematic equations: ![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image25.png)
+### Fundamental kinematic equations: ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image25.png)
 
 Additional derived equations
 
@@ -164,8 +152,7 @@ t = time
 
 ![](media_Physics/media/image27.png)
 
-Horizontal motion
------------------
+## Horizontal motion
 
 A car accelerates from standing with 2.5 m/s^2^s. What is the velocity
 and the distance after 10 seconds?
@@ -184,7 +171,7 @@ Average velocity = start velocity + end velocity / 2
 
 If start velocity = 0 then average velocity = at/2
 
-**Distance =** $\frac{\mathbf{\text{at}}^{\mathbf{2}}}{\mathbf{2}}$
+**Distance =** $\frac{\mathbf{at}^{\mathbf{2}}}{\mathbf{2}}$
 
 ![](media_Physics/media/image28.png)
 
@@ -226,8 +213,7 @@ a = -225 m^2^/s^2^/100m
 
 a = -2.25 m/s^2^
 
-Vertical motion
----------------
+## Vertical motion
 
 Positive = upwards, negative = downwards
 
@@ -259,8 +245,7 @@ v~f~ = -9.8m/s^2^ \* 4.52s
 
 v~f~ = -**44.1 m/s**
 
-Projectile motion
------------------
+## Projectile motion
 
 An object moves along a curved path, which can be described as a
 parabola under the influence of gravity. The horizontal and vertical
@@ -330,8 +315,7 @@ x = v~i~ \* t
 
 **36.6 m**
 
-Inertial reference frame
-========================
+# Inertial reference frame
 
 When we measure movements we just measure them relative to the earth.
 Assuming as if the earth would stand still and not fly through the
@@ -352,8 +336,7 @@ the perspective of the train the ball has no horizontal velocity.**
 will move in a curve since from their inertial reference frame there is
 a horizontal velocity which is the speed of the train.**
 
-Forces
-======
+# Forces
 
 ![](media_Physics/media/image21.png)
 
@@ -376,8 +359,7 @@ One Newton is force it takes to accelerate a mass of 1kg by 1 m/s^2^
 
 1 N = 1 kg \* 1 m/s^2^
 
-Newton's 1^st^ law of motion (law of inertia)
----------------------------------------------
+## Newton's 1^st^ law of motion (law of inertia)
 
 An object at rest will remain at rest and an object in motion will
 remain in motion unless acted upon by some external net force.
@@ -389,8 +371,7 @@ In space there is almost no friction or wind therefore objects move with
 a constant velocity in space unless they are accelerated or decelerated
 or affected by other forces (e.g. gravitation pull of a planet)
 
-Newton's 2^nd^ law of motion
-----------------------------
+## Newton's 2^nd^ law of motion
 
 Describes what will happen if there is indeed a net force (sum of
 vectors of forces will be positive).
@@ -412,8 +393,7 @@ Bigger mass requires more force to achieve the same acceleration:
 
 ![](media_Physics/media/image37.png)
 
-Newton's 3^rd^ law of motion
-----------------------------
+## Newton's 3^rd^ law of motion
 
 For every action there is an equal and opposite reaction
 
@@ -429,8 +409,7 @@ the rock also pushes you in the opposite direction ( usually this is not
 noticeable because of friction between your shoes and the ground). (The
 horse is pulling the wagon and the wagon pulls the horse.)
 
-Mass vs. Weight vs normal force
--------------------------------
+## Mass vs. Weight vs normal force
 
 Mass is a scalar in kg = the amount of matter an object contains
 
@@ -460,8 +439,7 @@ remain still.
 
 ![](media_Physics/media/image38.png)
 
-Friction
---------
+## Friction
 
 A surface exerts two forces on a moving object. Normal force (see above)
 and the frictional force which acts perpendicular to movement of the
@@ -488,8 +466,7 @@ Air and water also have friction
 
 ![](media_Physics/media/image42.png)
 
-Work and Energy
----------------
+## Work and Energy
 
 ### Work
 
@@ -512,8 +489,7 @@ Energy -\> The capacity to do work
 
 ![](media_Physics/media/image44.png)
 
-Conversation of energy (kinetic)
-================================
+# Conversation of energy (kinetic)
 
 Momentum = mass \* velocity (mv) (kg\*m/s)
 
@@ -563,8 +539,7 @@ Gravitational potential energy:
 
 PE = mgh kg \* 9.81 m/s^2^ \* height in meters
 
-Newton's law of universal gravitation
-=====================================
+# Newton's law of universal gravitation
 
 When a canon is fired with greater force it hits the ground later. If a
 canon could be fired with a great force it would never hit the ground
@@ -614,8 +589,7 @@ centre due to centrifugal forces (as if you squash a soft ball)
 Therefore, the gravitational force is stronger at the poles than (9.82)
 than at the equator (9.79)
 
-Fluid buoyancy Archimedes
-=========================
+# Fluid buoyancy Archimedes
 
 Liquids and gases are both fluids
 
@@ -636,8 +610,9 @@ level/buoyancy based on mass)
 A sinking object displaces fluid based on its volume. (Water level rises
 based on volume)
 
-Misc
-====
+# 
+
+# Misc
 
 Age of the universe 13.7 billions years.
 
@@ -649,10 +624,9 @@ also influences time, time almost stands still at this point.
 Time runs slower and objects gets shorter if watching an object that
 moves near speed of light from outside the object.
 
-Light
-=====
+# Light
 
-http://thehappyneuron.com/2020/12/there-are-no-green-stars/?utm\_source=rss&utm\_medium=rss&utm\_campaign=there-are-no-green-stars
+http://thehappyneuron.com/2020/12/there-are-no-green-stars/?utm_source=rss&utm_medium=rss&utm_campaign=there-are-no-green-stars
 
 But what is this light? Light is simply perpendicular waves in the
 electrical and magnetic fields. When one goes up and down, the other
@@ -682,8 +656,7 @@ Ultra violet = very violet = short wave length (x-ray even shorter)
 Color is seen by different objects absorbing certain parts of the light
 and reflecting the remainder of the spectrum.
 
-Temperature and heat
-====================
+# Temperature and heat
 
 Temperature -\> the amount of heat energy available for work in a system
 this relates to the average kinetic energy of the molecules in the
@@ -698,8 +671,7 @@ transfer of internal energy
 To make an engine more efficient one needs to increase the heat
 difference between the engine (heat source) and the cooler surroundings
 
-Entropy
--------
+## Entropy
 
 Based on observations of steam engines Work = Heat energy input -- heat
 energy lost (friction, sound). No such flow exists.
@@ -743,7 +715,7 @@ atoms and 3 boundaries.**
 ![](media_Physics/media/image55.png)
 
 | **\# sheep 1st farm** | **Count multiplier 1** | **\# sheep 2nd farm** | **Count multiplier 2** | **Total** | **% of 462** |
-|-----------------------|------------------------|-----------------------|------------------------|-----------|--------------|
+|--------------|----------------|---------------|----------------|-------|------|
 | 0                     | 1                      | 6                     | 28                     | 28        | 6%           |
 | 1                     | 3                      | 5                     | 21                     | 63        | 14%          |
 | 2                     | 6                      | 4                     | 15                     | 90        | 19%          |
@@ -752,8 +724,6 @@ atoms and 3 boundaries.**
 | 5                     | 21                     | 1                     | 3                      | 63        | 14%          |
 | 6                     | 28                     | 0                     | 1                      | 28        | 6%           |
 
-[\[CHART\]]{.chart}
-
 ![](media_Physics/media/image56.png)
 
 Since atoms have much higher numbers of "moving parts" the likelihood of
@@ -761,8 +731,6 @@ a low entropy state (skewed distribution of sheep) is very low. This is
 why systems tend to move towards equilibrium over time.
 
 Example with 200 sheep and 300 plots
-
-[\[CHART\]]{.chart}
 
 We learned that the entropy of our universe keeps rising, and this is
 because **higher entropy states are more probable than lower entropy
@@ -780,8 +748,7 @@ so.
 
 ![](media_Physics/media/image57.png)
 
-Calculus
-========
+# Calculus
 
 ![](media_Physics/media/image58.png)
 
@@ -798,7 +765,7 @@ Limit = infinitely zooming in
 
 Can also be imagined by using discrete time steps:
 
-![](C:\scripts\dirkswiki\docs\General\media_Physics/media/image60.png)![](media_Physics/media/image61.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Physics/media/image60.png)![](media_Physics/media/image61.png)
 ![](media_Physics/media/image62.png)
 
 Integral = opposite e.g. measure position based on velocity per time:
@@ -807,8 +774,7 @@ Measure the area under the curve
 
 ![](media_Physics/media/image63.png)
 
-Relativity
-==========
+# Relativity
 
 <https://www.youtube.com/watch?v=>
 
@@ -921,7 +887,7 @@ c t~B~= L/2 + V t~B\ =~ L/2 (C-V)
 
 c t~F~ = L/2 (C+V)
 
-Time difference = $\frac{\text{VL}}{C^{2 -}V^{2}}$
+Time difference = $\frac{VL}{C^{2 -}V^{2}}$
 
 ![](media_Physics/media/image71.png)
 
@@ -930,8 +896,7 @@ Time difference = $\frac{\text{VL}}{C^{2 -}V^{2}}$
 
 ![](media_Physics/media/image74.png)
 
-Information theory
-==================
+# Information theory
 
 Shannon: information content is biggest for inprobable outcomes. The
 basic intuition behind information theory is that learning that an

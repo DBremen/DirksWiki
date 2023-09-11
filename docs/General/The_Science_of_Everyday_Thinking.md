@@ -2,13 +2,11 @@
 
 **Think Twice (harnessing the power of counterintuition)**
 
-Wisdom of the crowd and the algorithm
-=====================================
+# Wisdom of the crowd and the algorithm
 
 ![](media_The_Science_of_Everyday_Thinking/media/image1.png)
 
-Wisdom of the crowd
--------------------
+## Wisdom of the crowd
 
 ![](media_The_Science_of_Everyday_Thinking/media/image2.png)
 
@@ -33,8 +31,7 @@ Loss of diversity usually stems from a dominant leader, an absence of
 facts, or cognitive homogeneity in the group. Without diversity,
 collectives large or small can be wildly off the mark.
 
-Causation vs. correlation
-=========================
+# Causation vs. correlation
 
 Three conditions must hold to make a claim that X causes Y.
 
@@ -48,8 +45,7 @@ Three conditions must hold to make a claim that X causes Y.
 
 -   there cannot be a factor Z that causes both X and Y.
 
-Regression to the mean:
-=======================
+# Regression to the mean:
 
 -   Notice that a beginner would be more likely to regress towards the
     > mean than an expert, because regression towards the mean is most
@@ -97,8 +93,7 @@ Regression to the mean:
 
 -   *Watch for change within the system or of the system*.
 
-Halo effect
------------
+## Halo effect
 
 The **halo effect** (sometimes called the **halo error**) is the
 tendency for positive impressions of a person, company, brand or product
@@ -122,8 +117,7 @@ same people are running the same business with the same strategy. Mean
 reversion shapes company performance, which in turn manipulates
 perception.
 
-Inside vs. outside view
-=======================
+# Inside vs. outside view
 
 Whereas the inside view attempts to make predictions based on an
 understanding of the details of a problem, the outside view---also
@@ -151,8 +145,7 @@ do fine, on average). In fact, researchers estimate that when one
 company buys another, the acquiring company's stock goes down roughly
 two-thirds of the time.[^1^](dummy_split_065.html#filepos394769)
 
-The Plural of Anecdote Is Not Evidence
---------------------------------------
+## The Plural of Anecdote Is Not Evidence
 
 If you want to know how something is going to turn out for you, look at
 how it turned out for others in the situation. The reason most people
@@ -187,8 +180,7 @@ How to use the outside view:
     should adjust your prediction toward the mean** (or other relevant
     statistical measure).
 
-Insufficient consideration of alternatives
-==========================================
+# Insufficient consideration of alternatives
 
 You can call it tunnel vision. Failure to entertain options or
 possibilities can lead to dire consequences, from a missed medical
@@ -230,8 +222,7 @@ How do you avoid the tunnel vision trap? Here's a five-point checklist:
 -   ***Understand incentives***. Consider carefully what incentives
     exist, and what behaviors the incentives might motivate.
 
-Intuition
-=========
+# Intuition
 
 People become experts by using deliberate practice to train their
 experiential systems. Deliberate practice has a very specific meaning:
@@ -245,8 +236,7 @@ Intuition fails when you are dealing with a changing system, especially
 one that has phase transitions. Despite its near-magical connotation,
 intuition is losing relevance in an increasingly complex world.
 
-Situation trumps disposition
-============================
+# Situation trumps disposition
 
 Also see [Fundamental attribution
 error](#_Fundamental_attribution_error)
@@ -298,8 +288,7 @@ Here are some ideas to help you cope with the power of the situation
 4.  ***Avoid inertia (resistance to change)*.** Periodically revisit
     your processes and ask whether they are serving their purpose.
 
-Complex Adaptive Systems---The Whole Is Smarter Than Its Parts
-==============================================================
+# Complex Adaptive Systems---The Whole Is Smarter Than Its Parts
 
 In complex adaptive systems, there is no simple method for understanding
 the whole by studying the parts, so searching for simple agent-level
@@ -321,8 +310,7 @@ biases may cancel out. In dealing with systems, the collective behavior
 matters more. You must carefully consider the unit of analysis to make a
 proper decision.
 
-Misc
-====
+# Misc
 
 People usually get more drunk if they usually drink in the evening and
 drink once during lunch. People usually don't die of an overdose of a
@@ -342,8 +330,7 @@ rapid feedback they can perform the processing through System 1.
 
 <http://whatstheharm.net/>
 
-Skill vs luck
-=============
+# Skill vs luck
 
 ![](media_The_Science_of_Everyday_Thinking/media/image3.png)
 
@@ -364,8 +351,7 @@ of skill in a field. Luck alone can't carry a streak. My analysis of
 various sports streaks in basketball and baseball clearly suggests
 streak holders are among the most skilled in their fields.
 
-Experiment and find things out
-==============================
+# Experiment and find things out
 
 -   Question assumptions
 
@@ -405,8 +391,7 @@ Experiment and find things out
     E.g. a teacher grading exams can better grade when he doesn't know
     the student he's grading.
 
-How to learn
-============
+# How to learn
 
 -   **Interleaving**: Mixing up learning and quizzes from across
     different topics/chapters.
@@ -434,11 +419,9 @@ How to learn
     unconscious. (think what is the best I want to get out of this
     meeting or conversation)**
 
-Illusions and Biases
-====================
+# Illusions and Biases
 
-Overly relying on past successes
---------------------------------
+## Overly relying on past successes
 
 After a success, we become overly optimistic risk-takers. After a
 failure, we become overly pessimistic and risk-averse even in cases
@@ -449,8 +432,7 @@ consequences don\'t necessarily mean we made a bad decision.
 what worked in the past causes people to under-react to new conditions
 and circumstances.
 
-Comparing relatives or gradual changes instead of absolutes
------------------------------------------------------------
+## Comparing relatives or gradual changes instead of absolutes
 
 In one experiment, a group of people was asked to choose between \$6 and
 an elegant pen. Most choose the cash. Another group of people was asked
@@ -460,8 +442,7 @@ more attractive.
 
 **Evaluate people and objects by themselves and not by their contrast.**
 
-Representativeness bias "Don't judge a book by its cover"
----------------------------------------------------------
+## Representativeness bias "Don't judge a book by its cover"
 
 Encouraging us to remain open to options even as our mind seeks to shut
 them down. In this case, the doctor's error was to rule out a heart
@@ -476,8 +457,7 @@ after hearing of a plane crash? If the answer is yes, you are a normal
 human. But you also risk misunderstanding, or missing altogether,
 plausible outcomes.
 
-Is the Trend Your Friend?
--------------------------
+## Is the Trend Your Friend?
 
 This mistake is tough because our minds have a deep-seated desire to
 make out patterns and our prediction process is very rapid (the
@@ -494,14 +474,13 @@ performance into the future without giving proper weight to the role of
 chance. Models based on past results forecast in the belief that the
 future will be characteristically similar to history.
 
-Fundamental attribution error
------------------------------
+## Fundamental attribution error
 
-**Underestimate the impact of the situation. (**Personality is not a
-good predictor for future behaviour since it's usually more dependent on
-the circumstances or the situation. E.g. people are more likely to help
-if they are not in a hurry. We tend to focus too much on the actor
-rather than the situation.
+**[Underestimate the impact of the situation.]{.mark} (**Personality is
+not a good predictor for future behaviour since it's usually more
+dependent on the circumstances or the situation. E.g. people are more
+likely to help if they are not in a hurry. We tend to focus too much on
+the actor rather than the situation.
 
 **[We way overestimate our own individuality (e.g. if the movie has a
 95% rating you are most likely going to like it too).]{.underline}**
@@ -513,23 +492,21 @@ simply disagree.]{.underline}**
 
 ![Fundamental Attribution Error: Interesting Facts About The Brain \|
 Fundamental attribution error, Brain facts, Mind
-tricks](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image4.jpeg)
+tricks](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image4.jpeg)
 
 We judge others by their actions and ourselves by our intentions.
 
 ![](media_The_Science_of_Everyday_Thinking/media/image5.png)
 
- Fundamental cognitive error
----------------------------
+##  Fundamental cognitive error
 
 Failure to recognize the extent to which our interpretations are shaped
 by our prior knowledge and experiences.
 
-Cognitive dissonance
---------------------
+## Cognitive dissonance
 
 ![Cognitive
-Dissonance](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image6.png)
+Dissonance](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image6.png)
 
 Cognitive dissonance is one facet of our next mistake, the rigidity that
 comes with the innate human desire to be internally and externally
@@ -540,14 +517,12 @@ psychologically inconsistent."15 The dissonance causes mental discomfort
 that our minds seek to reduce. Many times we resolve the discomfort by
 figuring out how to justify our actions (self justification).
 
-Penny-wise and dollar foolish
------------------------------
+## Penny-wise and dollar foolish
 
 Describes focusing on short-term goals rather than long term benefits
 due to stress responses.
 
-Must be in the middle heuristic 
---------------------------------
+## Must be in the middle heuristic 
 
 I.e. there is a bit of truth in both sides. Many times this is not the
 case. For example if 99% of scientists support the idea that climate
@@ -555,14 +530,12 @@ change is mainly caused by humans and someone with the opposite opinion
 discusses the topic the climate change denier is very much over
 represented.
 
-Post hoc ergo propter hoc 
---------------------------
+## Post hoc ergo propter hoc 
 
 .. is an informal fallacy that states: \"Since event Y followed event X,
 event Y must have been caused by event X.\" Correlation vs. causation.
 
-Multiple-endpoints fallacy
---------------------------
+## Multiple-endpoints fallacy
 
 Ray and his brother, Robert, are having a little competition over who
 can be the first to toss a kernel of popcorn into a bowl. They alternate
@@ -587,18 +560,16 @@ If you\'re observing 500 such counties, then every year that will happen
 to some one of them. You just never notice the 499 data points where it
 didn\'t.
 
-Gambler's fallacy
------------------
+## Gambler's fallacy
 
 **..** is the incorrect belief that, if a particular event occurs more
 frequently than normal during the past, it is less likely to happen in
 the future (or vice versa), when it has otherwise been established that
 the probability of such events does not depend on what has happened in
 the
-past.![](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image7.jpeg)
+past.![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image7.jpeg)
 
-Availability bias
------------------
+## Availability bias
 
 A distortion that arises from the use of information, which is most
 readily available, rather than that which is necessarily most
@@ -670,8 +641,7 @@ that are actually not there.
 Randomness doesn't mean that events don't occur in runs. It's normal
 that random events cluster (e.g. 6 heads in a row).
 
-Health Claims
-=============
+# Health Claims
 
 There is not much evidence of physiological effects of the placebo, but
 it is mainly based on reported feeling of people (pain and depression).
@@ -690,25 +660,29 @@ treatments/outcomes:
 ![](media_The_Science_of_Everyday_Thinking/media/image9.png)
 
 <table>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 43%" />
+<col style="width: 42%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Outcome</th>
-<th><strong>Yes</strong></th>
-<th><strong>No</strong></th>
+<th rowspan="2"><strong>Yes</strong></th>
+<th rowspan="2"><strong>No</strong></th>
+</tr>
+<tr class="odd">
+<th>Prediction</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Prediction</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><strong>Yes</strong></td>
 <td>Predicted yes and it yes</td>
-<td>Predicted yes and it was no (false positive very common to avoid big negative consequences like not diagnosing appendix conditions)</td>
+<td>Predicted yes and it was no (false positive very common to avoid big
+negative consequences like not diagnosing appendix conditions)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>No</strong></td>
 <td><p>Predicted no and it was yes</p>
 <p>(not common since it is avoided by false positives</p></td>
@@ -718,4 +692,4 @@ treatments/outcomes:
 </table>
 
 ![What are Type 1 and Type 2
-Errors?](C:\scripts\dirkswiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image10.png)
+Errors?](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image10.png)

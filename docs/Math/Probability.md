@@ -1,5 +1,4 @@
-<https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/>
-=================================================================
+# <https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/>
 
 <https://harvard.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2255a37adc-eaae-4aa6-8a06-ab25015a4ee8%22>
 (Steven Pinker)
@@ -14,8 +13,7 @@ a committee)
 
 ![](media_Probability/media/image1.png)
 
-Counting sequences (ordered) or permutations
-============================================
+# Counting sequences (ordered) or permutations
 
 How many numbers are in 1..10?
 
@@ -39,8 +37,7 @@ How many numbers between 23 and 283 are divisible by 5?
 
 2,000,000000 \* 7.3
 
-Multiplication principle
-------------------------
+## Multiplication principle
 
 ![](media_Probability/media/image2.png)
 
@@ -127,9 +124,7 @@ Sequence must start with a boy and alternate between sexes:
 
 3.  7
 
-    ...
-
-<!-- -->
+...
 
 14. 1
 
@@ -137,8 +132,7 @@ Sequence must start with a boy and alternate between sexes:
 
 > Or 8! \* 7!
 
-Subtraction principle
----------------------
+## Subtraction principle
 
 ![](media_Probability/media/image11.png)
 
@@ -178,7 +172,7 @@ adjacent
 ![](media_Probability/media/image15.png)
 
 \# ways we can line up the class so that Donald and Marco ARE adjacent =
-\#ways we can put them adjacent \* 8!
+#ways we can put them adjacent \* 8!
 
 \# adjacent ways =
 
@@ -203,11 +197,9 @@ adjacent
 
 81 -- (40 + 27 - 14) = 28
 
-Counting (order does not matter) collections or combinations
-============================================================
+# Counting (order does not matter) collections or combinations
 
-w/o repetition
---------------
+## w/o repetition
 
 The number of ways of choosing a collection of k objects without
 repetition from a set of n objects
@@ -271,11 +263,12 @@ set of n minus k objects.
 Divide into hands that contain ace of spades and don't
 
 52 choose 5 = hands in poker game = 52! / (47! \* 5!) =
-52\*51\*50\*49\*48 / 1\*2\*3\*4\*5
+52\*[51\*50\*49\*48]{.mark} / 1\*2\*3\*4\*5
 
-51! / (46! \* 5!) = 51\*50\*49\*48\*47 / 1\*2\*3\*4\*5
+51! / (46! \* 5!) = [51\*50\*49\*48]{.mark}\*47 / 1\*2\*3\*4\*5
 
-51! / (47! \*4!) = 51\*50\*49\*48 / 1\*2\*3\*4~~\*5 (~~47-52= 5)
+51! / (47! \*4!) = [51\*50\*49\*48]{.mark} / 1\*2\*3\*4~~[\*5]{.mark}
+(~~47-52= 5)
 
 Divide into hands that contain ace of spades and don't
 
@@ -347,8 +340,7 @@ We want to divide up the pool of 7 slots into 4 collections:
 
 7!/(3!\*2!\*1!\*1!) = 4\*5\*6\*7/2 = 420
 
-With repetition
----------------
+## With repetition
 
 The dining hall offers eight varieties of fruit, conveniently labelled
 A, B, and so on, up to H. You\'re feeling hungry so you\'ve decided to
@@ -378,8 +370,7 @@ Answer: 12 choose 7
 
 ![](media_Probability/media/image39.png)
 
-Probability
-===========
+# Probability
 
 ![](media_Probability/media/image40.png)
 
@@ -403,8 +394,7 @@ Conditional
 
 ![](media_Probability/media/image49.png)
 
-Flipping coins
---------------
+## Flipping coins
 
 ![](media_Probability/media/image50.png)
 
@@ -416,8 +406,7 @@ Answer = 20/64 or 5/16
 
 ![](media_Probability/media/image51.png)
 
-Rolling dice
-------------
+## Rolling dice
 
 When rolling two die there are 6^2^ = 36 possible outcomes (order does
 matter, 1-2 is different to 2-1)
@@ -487,8 +476,7 @@ individual events.
 
 ![](media_Probability/media/image66.png)
 
-Poker
------
+## Poker
 
 \# of possible poker hands = 52 choose 5 = around 2.6 million
 
@@ -498,7 +486,7 @@ Choose 5 cards from one suit = \# of possible flushes per suit = 13
 choose 5
 
 4 \* 13 choose 5 / 52 choose 5 = about
-.2%![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image67.png)
+.2%![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image67.png)
 
 Correct answer = next day
 
@@ -508,10 +496,7 @@ Probability of strike on Friday = .03 (\~ 1/30)
 
 Exponentially less likely explaining clustering of random events
 
-[\[CHART\]]{.chart}
-
-Conditional probabilities
-=========================
+# Conditional probabilities
 
 ![](media_Probability/media/image47.png)
 
@@ -519,7 +504,7 @@ Conditional probabilities
 
 ![](media_Probability/media/image69.png)
 
-![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image70.png)![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image71.png)![](media_Probability/media/image72.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image70.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image71.png)![](media_Probability/media/image72.png)
 
 ![](media_Probability/media/image73.png)
 
@@ -631,13 +616,15 @@ rather than Green knowing that this witness identified it as Blue?
     the cab was actually Green and the witness is incorrect. Thus,
     following the law of total probability:
 
--   P(D) = P(D\|H) \* P(H) + P(D\|not H) \* P(not H)
+-   
 
-    P(D) = .8 \* .15 + (1-.8) \* (1-.15) = .29
+P(D) = P(D\|H) \* P(H) + P(D\|not H) \* P(not H)
 
--   ![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image89.png)
+P(D) = .8 \* .15 + (1-.8) \* (1-.15) = .29
 
--   ![](C:\scripts\dirkswiki\docs\Math\media_Probability/media/image90.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image89.png)
+
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image90.png)
 
 -   = .8 \* .15 / .29 = .41
 
@@ -649,6 +636,13 @@ P(G\|W) = 17/29
 See bayes.xlsx
 
 <table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 18%" />
+<col style="width: 30%" />
+<col style="width: 21%" />
+<col style="width: 13%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Hypothesis</strong></th>
@@ -726,7 +720,7 @@ p( bowl 1 \| vanilla) = p(bowl 1) \* p(vanilla \| bowl 1) / p(vanilla)
 
 -   p(vanilla \| bowl 1) = 30 : 10 = 30/40 or ¾
 
--   p(vanilla) = 50 : 30 = 50/80 = 5/8
+-   p(vanilla) = 50 : 30 = 50/80 = [5/8]{.mark}
 
     p( bowl 1 \| vanilla) = .5 \* ¾ / 5/8 = 3/5
 
@@ -735,7 +729,7 @@ p( bowl 1 \| vanilla) = p(bowl 1) \* p(vanilla \| bowl 1) / p(vanilla)
     p(vanilla) = p(bowl 1) \* p(vanilla \| bowl 1) + p(bowl 2) \*
     p(vanilla \| bowl 2)
 
-    = .5 \* ¾ + .5 \* ½ = 5/8
+    = .5 \* ¾ + .5 \* ½ = [5/8]{.mark}
 
 ### M&M Problem
 
@@ -754,6 +748,13 @@ Now we construct a table with a row for each hypothesis and a column for
 each term in Bayes's theorem:
 
 <table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 16%" />
+<col style="width: 27%" />
+<col style="width: 23%" />
+<col style="width: 19%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Hypothesis</th>
@@ -798,6 +799,13 @@ Hypothesis:
     Brown.
 
 <table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 21%" />
+<col style="width: 18%" />
+<col style="width: 20%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Hypothesis</th>
@@ -863,6 +871,13 @@ p(E) = Door B opened (and there is no car behind B)
 p(car is behind Door A or C \| Monty opened Door B)
 
 <table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 22%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+<col style="width: 20%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Car is behind door x</th>
@@ -913,8 +928,7 @@ Remaining chance = 2/3
 Of that 2/3 chance one door will be eliminated therefore it's better to
 switch
 
-Binomial probability
-====================
+# Binomial probability
 
 -   An event that is repeatable or the experiment consists of n number
     of identical and independent trials.
@@ -928,8 +942,8 @@ Binomial probability
 The probability distribution for a binomial experiment is:
 
 Number of possible ways of selecting k things from n things= ( \# of
-ways observing k successes in n trials) x (probability of success)^k^ (1
-- probability of success)^n-k^
+ways observing k successes in n trials) x (probability of success)^k^
+(1 - probability of success)^n-k^
 
 Example:\
 We toss a single die 5 times. How likely is it that you will roll
@@ -949,8 +963,7 @@ exactly 3 sixes?
 
 Probability = 10 x (1/6)^3^ \* (5/6)^2^ = 3.2%
 
-Odds
-====
+# Odds
 
 To **convert** from a **probability to odds**, divide the
 **probability** by one minus that **probability**. So if the
@@ -994,8 +1007,7 @@ select a cookie at random. The cookie is vanilla.
 
 -   Posterior odds = 3 : 2 = 3/5 in probability (60%)
 
-Pigeon hole principle
-=====================
+# Pigeon hole principle
 
 The pigeonhole principle states that If n + 1 objects are placed into n
 boxes, then some box contains at least 2 objects. For example, if there
@@ -1011,8 +1023,7 @@ even if there were 150,000 people, each with a different number of hairs
 on their head, the rest of the population must fit into one of the
 categories between 0 and 150,000 hairs.
 
-Birthday paradox
-================
+# Birthday paradox
 
 What is the chance in a room with 23 people that two people share a
 birthday?

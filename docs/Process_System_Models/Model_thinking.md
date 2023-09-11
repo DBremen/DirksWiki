@@ -1,5 +1,4 @@
-Micro motives ≠ Macro behaviour
-===============================
+# Micro motives ≠ Macro behaviour {#micro-motives-macro-behaviour .unnumbered}
 
 That is: observed macrobehavior does not automatically imply biased
 micromotives!
@@ -38,8 +37,7 @@ politicians or even what X believes they would like in diveristy.
     reality this suggests people move continuously. Moving continuously,
     churning
 
-How to make people follow examples (standing ovation model)
-===========================================================
+# How to make people follow examples (standing ovation model) {#how-to-make-people-follow-examples-standing-ovation-model .unnumbered}
 
 **Sorting** -- People that hang out together tend to act and look alike.
 People that act and look alike tend to live and hang out together. (as a
@@ -49,39 +47,62 @@ result, people would move)
 acting like peers) (as a result people would switch)
 
 <table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><ul>
-<li><p><strong><span class="underline">Other Considerations:</span></strong> (a) layout of the auditorium, (b) group you are with (e.g., date)</p></li>
-<li><p><strong><span class="underline">Layout:</span></strong> (a) Celebrity Effect – people in front see far fewer ‘standing’ signals from the audience behind them.<br />
-They ‘don’t care’ what the others are doing, BUT others see them and are thus, ‘influenced’ by whether they stand or not: hence, the Celebrity Effect.<br />
-(b) Those in the back see a large portion of the audience and are thus more prone to stand, triggered by their X% threshold. But whether the back-row folks stand or not, has significantly less effect than front rowers. Note “they see what’s going on, but nobody pays any attention to them [academics].”</p></li>
-<li><p><strong><span class="underline">Group (dates, pairs, groups):</span></strong> More likely to do what your ‘group’ does.</p></li>
-<li><p><strong><span class="underline">Ways to foster standing ovation</span>: 1) Higher Quality, 2) Lower Threshold, 3) Larger Peer Effects, 4) More Variation (</strong>More Variation in perceived quality<strong>), 5) Use Celebrities, 6) Many Big Groups</strong></p></li>
+<li><p><strong><u>Other Considerations:</u></strong> (a) layout of the
+auditorium, (b) group you are with (e.g., date)</p></li>
+<li><p><strong><u>Layout:</u></strong> (a) Celebrity Effect – people in
+front see far fewer ‘standing’ signals from the audience behind
+them.<br />
+They ‘don’t care’ what the others are doing, BUT others see them and are
+thus, ‘influenced’ by whether they stand or not: hence, the Celebrity
+Effect.<br />
+(b) Those in the back see a large portion of the audience and are thus
+more prone to stand, triggered by their X% threshold. But whether the
+back-row folks stand or not, has significantly less effect than front
+rowers. Note “they see what’s going on, but nobody pays any attention to
+them [academics].”</p></li>
+<li><p><strong><u>Group (dates, pairs, groups):</u></strong> More likely
+to do what your ‘group’ does.</p></li>
+<li><p><strong><u>Ways to foster standing ovation</u>: 1) Higher
+Quality, 2) Lower Threshold, 3) Larger Peer Effects, 4) More Variation
+(</strong>More Variation in perceived quality<strong>), 5) Use
+Celebrities, 6) Many Big Groups</strong></p></li>
 </ul></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p><strong><span class="underline">Fertility:</span></strong> the Standing Ovation model is a useful template for other problems, e.g.,<br />
-(a) <em><strong>Collective Action</strong></em>: (consider the value of celebrities),<br />
-(b) <em><strong>Academic Performance</strong></em>: (celebrities, groups, raise quality, lower thresholds),<br />
-(c) <strong>Urban Renewal:</strong> (‘fixing up your house’, small amounts of $ for everyone may not trigger T, but large $ for a few homeowners (E) may trigger a cascade as others try to match their neighbor’s improved home),<br />
-(d) <em><strong>Fitness / Health</strong></em>: (peer effects, information by seeing other’s results, ..)<br />
-(e) <em><strong>Online Course</strong></em> (celebrities, etc.<strong><span class="underline">)</span></strong></p></li>
+<li><p><strong><u>Fertility:</u></strong> the Standing Ovation model is
+a useful template for other problems, e.g.,<br />
+(a) <em><strong>Collective Action</strong></em>: (consider the value of
+celebrities),<br />
+(b) <em><strong>Academic Performance</strong></em>: (celebrities,
+groups, raise quality, lower thresholds),<br />
+(c) <strong>Urban Renewal:</strong> (‘fixing up your house’, small
+amounts of $ for everyone may not trigger T, but large $ for a few
+homeowners (E) may trigger a cascade as others try to match their
+neighbor’s improved home),<br />
+(d) <em><strong>Fitness / Health</strong></em>: (peer effects,
+information by seeing other’s results, ..)<br />
+(e) <em><strong>Online Course</strong></em> (celebrities,
+etc.<strong><u>)</u></strong></p></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-Collective actions 
--------------------
+## Collective actions  {#collective-actions .unnumbered}
 
 Threshold to buy a purple hat (if x amount has the hat, I buy it too):
 
 | **Person**  | **Threshold** | **Will the buy?** |     | **Person**  | **Threshold** | **Will the buy?** |
-|-------------|---------------|-------------------|-----|-------------|---------------|-------------------|
+|---------|----------|-----------|------|-----------|-------------|---------------|
 | 1           | 1             | No                |     | 1           | 0             | **Yes**           |
 | 2           | 1             | No                |     | 2           | 1             | **Yes**           |
 | 3           | 1             | No                |     | 3           | 2             | **Yes**           |
@@ -96,8 +117,7 @@ thresholds in the population to trigger and epidemic of behavior change.
 Not just average thresholds but distribution of thresholds determines
 cascades.
 
-Decision Trees
-==============
+# Decision Trees {#decision-trees .unnumbered}
 
 <http://silverdecisions.pl/SilverDecisions.html?lang=en>
 
@@ -120,10 +140,9 @@ going to have to buy two tickets. I\'m going to basically throw away the
 
 .6\*200+.4\*600 = 360 vs. 400 better go for the buy option.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](media_Model_thinking/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](media_Model_thinking/media/image5.png)
 
-Inferring probability
----------------------
+## Inferring probability {#inferring-probability .unnumbered}
 
 Investment opportunity to win 50,000 \$ while investing 2,000\$ what
 probability of winning do we need to pay off?
@@ -140,8 +159,7 @@ p \> 52,000/2 = 4%
 
 ![](media_Model_thinking/media/image6.png)
 
-Infer payouts
--------------
+## Infer payouts {#infer-payouts .unnumbered}
 
 ![](media_Model_thinking/media/image7.png)
 
@@ -160,8 +178,7 @@ Assuming that there is a cost to go to the Airport
 VisitPayOff \< 3 \* CostPayOff (if you didn't go it means the visit
 PayOff was less than 3 times greater than the cost payoff
 
-Value of information
---------------------
+## Value of information {#value-of-information .unnumbered}
 
 ![](media_Model_thinking/media/image9.png)
 
@@ -180,31 +197,24 @@ program?
 
 3.  \$200 -- 0\$ = **\$200**
 
-Modeling people
-===============
+# Modeling people {#modeling-people .unnumbered}
 
 When we construct a model, we want to think about how the agents will be
 acting: rationally, behaviorally, or according to simple rules. We
 gather data about how agents will act and use this information to
 construct the model.
 
-Rational
---------
+## Rational {#rational .unnumbered}
 
--   When to expect rational thinking:
-    ---------------------------------
+## When to expect rational thinking:
 
-    -   Large stakes involved
-        ---------------------
+## Large stakes involved
 
-    -   Repeated decisions offer learning
-        ---------------------------------
+## Repeated decisions offer learning
 
-    -   Group Decisions
-        ---------------
+## Group Decisions
 
-    -   Easy decisions.
-        ---------------
+## Easy decisions.
 
 -   "As if": Intelligent rule-based behavior may be indistinguishable
     from optimal or near-optimal behavior.
@@ -228,7 +238,7 @@ Rational
 
 -   Rational does not imply selfish
 
-### Optimize revenue
+### Optimize revenue {#optimize-revenue .unnumbered}
 
 Revenue = price \* quantity
 
@@ -240,10 +250,7 @@ Optimize q for maximum revenue
 
 Revenue = (50-q) \* q
 
-[\[CHART\]]{.chart}
-
-Behavioral
-----------
+## Behavioral {#behavioral .unnumbered}
 
 -   Observe people are not rational.
 
@@ -256,26 +263,23 @@ Behavioral
 
 -   Base Rate Bias -- influenced by what we are currently thinking
 
-Rule based
-----------
+## Rule based {#rule-based .unnumbered}
 
 e.g., Schelling, simple rule that is close to what people do.
 
-Tipping points
-==============
+# Tipping points {#tipping-points .unnumbered}
 
 Basic Idea: A small change in input makes a very large change in output
 as seen in the graph. Note: Time charts can be misleading.
 
-http://www.netlogoweb.org/launch\#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Fire.nlogo
+http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Fire.nlogo
 
 Tipping point = 59% in terms of tree density in a forest and the spread
 of fires
 
 ![](media_Model_thinking/media/image13.png)
 
-Rule of 72
-==========
+# Rule of 72 {#rule-of-72 .unnumbered}
 
 he **Rule of 72** is a simple way to determine how long an investment
 will take to double given a fixed annual rate of interest. By
@@ -286,8 +290,7 @@ duplicate itself.
 Exponential growth: If you start with 1 penny and double it every day
 you have more than 10 Million after 31 days
 
-Why do some countries not grow?
-===============================
+# Why do some countries not grow? {#why-do-some-countries-not-grow .unnumbered}
 
 -   Growth requires a strong central government to protect capital and
     investment
@@ -302,8 +305,7 @@ Why do some countries not grow?
 
     -   Growth rates are supported by innovation in the long run.
 
-Innovation
-==========
+# Innovation {#innovation .unnumbered}
 
 **Teams:**
 
@@ -318,8 +320,7 @@ are combined to make a better solution.
 Recombining solutions from a number of subproblems yields better
 solutions.
 
-Culture
-=======
+# Culture {#culture .unnumbered}
 
 Summary: Basic Cultural properties: there\'s a lot of difference between
 cultures, and those difference may arise because the fact that people
@@ -337,8 +338,7 @@ consistency. They have what you might call a cultural signature. These
 very simple models combined with our tools of Lyapunov functions and
 Markov processes have helped us understand why that happens.
 
-Condorcet\'s Jury Theorem
-=========================
+# Condorcet\'s Jury Theorem {#condorcets-jury-theorem .unnumbered}
 
 Condorcet\'s jury theorem states that given a group of voters (a
 \"jury\") independently choosing by majority vote between a correct
@@ -361,8 +361,7 @@ adding more voters decreases the probability that the majority chooses
 correctly and the probability of a correct decision is maximized for a
 jury of size one.
 
-Terminal velocity
-=================
+# Terminal velocity {#terminal-velocity .unnumbered}
 
 **Terminal velocity** is the maximum velocity attainable by an object as
 it falls through a [fluid](https://en.wikipedia.org/wiki/Fluid)
@@ -378,14 +377,13 @@ velocity of the stuffed cheetah will equal 200 mph divided by 20, or 10
 mph.
 
 | Object         | Mass             | Terminal velocity                        |
-|----------------|------------------|------------------------------------------|
+|------------------------|------------------------|------------------------|
 | Sky diver      | 100 kg           | 200 kph                                  |
 | Stuffed animal | 100/400 = .25 kg | 200 kph / Sqrt(100 kg / .25 kg) = 10 kph |
 
 <https://hypertextbook.com/facts/1998/JianHuang.shtml>
 
-Entropy
-=======
+# Entropy {#entropy .unnumbered}
 
 ![](media_Model_thinking/media/image18.png)
 
@@ -419,8 +417,7 @@ extreme numerical values.
 -   The entropy is lower if the proportions of the type are unequal
     (more of one type as compared to the others)
 
-Classes of outcomes
-===================
+# Classes of outcomes {#classes-of-outcomes .unnumbered}
 
 -   Equilibrium
 
@@ -437,8 +434,7 @@ learn in the next chapter. Finally, the neuronal firings in a person's
 brain are complex; they do not fire randomly, nor do they fire in a
 fixed pattern.
 
-Bernoulli 
-==========
+# Bernoulli  {#bernoulli .unnumbered}
 
 ![](media_Model_thinking/media/image19.png)
 
@@ -450,11 +446,9 @@ keeps taking three-pointers, then in a ten-year NBA career (about 800
 games), the odds of *not* making nine in a row at least once
 (0.999^800^) are about 47%.
 
-Networks
-========
+# Networks {#networks .unnumbered}
 
-Degree 
--------
+## Degree  {#degree .unnumbered}
 
 Measure of connectedness of a network. For one node it is the number of
 nodes it is connected to. For a network it is the average degree of all
@@ -469,7 +463,7 @@ Node = Dots
 
 Edges = Connections
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image21.png)![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image22.png)![](media_Model_thinking/media/image23.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image21.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image22.png)![](media_Model_thinking/media/image23.png)
 
 | Node        | \# friends |
 |-------------|------------|
@@ -480,6 +474,12 @@ Edges = Connections
 | **Average** | 2          |
 
 <table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 32%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Node</th>
@@ -530,7 +530,7 @@ Edges = Connections
 </tbody>
 </table>
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image24.png)![](media_Model_thinking/media/image25.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image24.png)![](media_Model_thinking/media/image25.png)
 
 ![](media_Model_thinking/media/image26.png)
 
@@ -550,10 +550,9 @@ Preferential attachment model
 
 ![](media_Model_thinking/media/image28.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](media_Model_thinking/media/image30.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](media_Model_thinking/media/image30.png)
 
-Randomness
-==========
+# Randomness {#randomness .unnumbered}
 
 ![](media_Model_thinking/media/image31.png)
 
@@ -568,14 +567,15 @@ Outcome **= a (luck) + (1-a) (skill) -- with a 0 \<= a \<= 1**
 
 **Reasons to use this model**
 
-\(a) the model helps to assess outcomes
+\(a\) the model helps to assess outcomes
 
-\(b) anticipate reversion to the mean (if luck is involved people will
+\(b\) anticipate reversion to the mean (if luck is involved people will
 not win or lose consistently)
 
-\(c) give good discerning feedback (in case the outcome is due to skill)
+\(c\) give good discerning feedback (in case the outcome is due to
+skill)
 
-\(d) fair allocation of resources (skill or luck(fairness).
+\(d\) fair allocation of resources (skill or luck(fairness).
 
 **The Paradox of Skill (Maubossin): When you have the very best
 competing, the differences in their skill levels may be close. So the
@@ -606,8 +606,7 @@ This is like a sliding window of randomness affects the overall outcome
 (e.g. employees leaving and new employees getting hired; new and old
 products, team's of players)
 
-Strategy
-========
+# Strategy {#strategy .unnumbered}
 
 Colonel Blotto: A way to analyze competition, along multiple fronts
 trying to find advantages through strategic mismatch your opponents
@@ -620,15 +619,13 @@ some fronts at least. Example:
 
 differentiation in products, terrorists attack in unexpected places.
 
-~Prisoners'\ dilemma~
-=====================
+# ~Prisoners'\ dilemma~ {#prisoners-dilemma .unnumbered}
 
 Two players who can either cooperate or defect. Collectively they are
 better off if both cooperate but individually, they are better off if
 they defect (avoiding 0 pay-off)
 
-Examples
---------
+## Examples {#examples .unnumbered}
 
 ![](media_Model_thinking/media/image37.png)
 
@@ -676,8 +673,7 @@ competition) prices they will end up with lower prices.
 When player 1 gets the expensive hand made match he gets all the
 attention.
 
-Ways to achieve cooperation
----------------------------
+## Ways to achieve cooperation {#ways-to-achieve-cooperation .unnumbered}
 
 -   Repeated Interactions (direct reciprocity),
 
@@ -693,8 +689,7 @@ Ways to achieve cooperation
 
 -   Incentives (fines, fees, and subsidies).
 
-Collective action problems
-==========================
+# Collective action problems {#collective-action-problems .unnumbered}
 
 There is a cost to the individual if they take action but, yet a benefit
 to all if they do so. (free rider problem)
@@ -714,8 +709,7 @@ action; 10 = including x~1.~
 
 ![](media_Model_thinking/media/image44.png)
 
-Common pool resource problems
-=============================
+# Common pool resource problems {#common-pool-resource-problems .unnumbered}
 
 Limited resource available to be used by many
 
@@ -725,8 +719,7 @@ Limited resource available to be used by many
 
 ![](media_Model_thinking/media/image47.png)
 
-Mechanism design
-================
+# Mechanism design {#mechanism-design .unnumbered}
 
 Designing incentive structures so that we get the sort of outcomes we
 want.
@@ -738,23 +731,20 @@ if the amount of money received minus the cost of effort must be greater
 than or equal to the probability that if they slack off, the outcome
 will be good anyways.
 
-Fisher's theorem
-================
+# Fisher's theorem {#fishers-theorem .unnumbered}
 
 More variation = faster adaptation
 
 Fisher's theorem vs. six sigma
 ![](media_Model_thinking/media/image48.png)
 
-Diversity Prediction Theorem
-============================
+# Diversity Prediction Theorem {#diversity-prediction-theorem .unnumbered}
 
-\(a) more accurate individuals imply more accurate predictions
+\(a\) more accurate individuals imply more accurate predictions
 
-\(b) more diversity in crowd implies more accurate predictions.
+\(b\) more diversity in crowd implies more accurate predictions.
 
-Mechanism Design
-================
+# Mechanism Design {#mechanism-design-1 .unnumbered}
 
 An institution consists of a means through which people communicate
 information as well as a procedure for making decisions, reallocating
@@ -780,8 +770,7 @@ Mechanism Design highlight four aspects of institutions:
 4.  ***computational costs**,* the cognitive demand placed on
     participants.
 
-Mount-Reiter diagram
---------------------
+## Mount-Reiter diagram {#mount-reiter-diagram .unnumbered}
 
 A mechanism consists of six parts:
 

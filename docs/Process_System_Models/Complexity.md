@@ -1,5 +1,4 @@
-Complexity
-==========
+# Complexity
 
 An actor in a complex system controls almost nothing but influences
 everything.
@@ -36,8 +35,7 @@ structures and functionalities.
 Social systems are usually complex because their attributes (diversity,
 connectedness, interdependence, adaptation) at a moderate level.
 
-Classification of systems/models
-================================
+# Classification of systems/models
 
 based on:
 
@@ -69,8 +67,7 @@ Classifications:
 
     -   structure not easily discernible
 
-Diversity
----------
+## Diversity
 
 Diversity measures
 
@@ -122,8 +119,7 @@ Diversity measures
     -   Identify the attributes of each type in a set and count up the
         total number of unique attributes
 
-How diversity gets produced in complex systems
-----------------------------------------------
+## How diversity gets produced in complex systems
 
 -   Positive feedbacks
 
@@ -138,23 +134,25 @@ How diversity gets produced in complex systems
 
 -   Different landscapes
 
-    Thinking of possible actions actors can take as moves along
-    geographic coordinates. The fitness/success of the moves can be
-    thought of as elevation in the landscape. The actors objective is to
-    climb and search for elevations on the landscape with the ambition
-    to find the highest point.
+Thinking of possible actions actors can take as moves along geographic
+coordinates. The fitness/success of the moves can be thought of as
+elevation in the landscape. The actors objective is to climb and search
+for elevations on the landscape with the ambition to find the highest
+point.
 
-    -   Mount Fuyi (only one peak)
+-   Mount Fuyi (only one peak)
 
-    -   Rugged (multiple peaks)
+-   Rugged (multiple peaks)
 
+```{=html}
+<!-- -->
+```
 -   Dancing landscapes
 
     -   Changing/shifting height landscapes e.g. through competition or
         innovation
 
-Diversity produces innovation
------------------------------
+## Diversity produces innovation
 
 Combinations:
 
@@ -174,8 +172,7 @@ Numbers of combinations to pick 2 out of 100 = 100 \* 99 /1\* 2 = 4950
 Also diversity of thought/ideas i.e. different ways of seeing or
 representing things can lead to reaching another peak.
 
-Diversity produces robustness
------------------------------
+## Diversity produces robustness
 
 Robustness = Ability to maintain functionality despite disturbance
 
@@ -195,8 +192,7 @@ Diversity produces robustness
 -   The more species there are, the more likely it is that at least one
     of them will survive any kind of change.
 
-Explore vs. Exploit
--------------------
+## Explore vs. Exploit
 
 Complex systems consist of agents/parts that have interdependent rules
 and payoffs, which create robustness and emergent phenomena.
@@ -288,8 +284,7 @@ more sense to exploit instead.
 Applied to job search or other searches it might mean that it makes
 sense to explore more, if you have the resources to do so.
 
-Emergence
-=========
+# Emergence
 
 Spontaneous creation of order and functionality from the bottom up (not
 controlled from top-down). E.g. specific fire-flies that blink at the
@@ -320,8 +315,7 @@ Types of emergence
         from the interactions at the micro level, but can be explained
         once it is observed. (e.g. slime moles)
 
-Culture
--------
+## Culture
 
 Definition: Shared set of beliefs, behaviours, and routines.
 
@@ -336,23 +330,19 @@ we pick the same) in conjunction with consistent choices (doing similar
 things across different domains), builds characteristics of a specific
 culture (e.g. Americans are more risk-taking than French).
 
-Networks
-========
+# Networks
 
 Functions of networks
 
-How quickly does information diffuse across a network?
-------------------------------------------------------
+## How quickly does information diffuse across a network?
 
-Are the networks that emerge robust to failures?
-------------------------------------------------
+## Are the networks that emerge robust to failures?
 
 -   Random failures (internet is robust to random failure)
 
 -   Strategic attacks
 
-Feedbacks and externalities
-===========================
+# Feedbacks and externalities
 
 Feedback -\> dependencies between the same actions
 
@@ -394,8 +384,7 @@ externalities.
     -   There won't be a tipping that moves the system back into the
         other direction.
 
-Self organized criticality
-==========================
+# Self organized criticality
 
 Systems self organize if the aggregation of individual actions produced
 an organized pattern at the macro level (e.g. bird flocks, fish shoals).
@@ -403,8 +392,7 @@ A system is set to be critical if small events trigger large cascades.
 If a system self organizes into a critical state it is called
 self-organized criticality.
 
-Central limit theorem
----------------------
+## Central limit theorem
 
 if we add or average samples of individual independent events, they will
 be normally distributed (e.g. weight of loaf of bread).
@@ -417,8 +405,7 @@ This contributes to the stability of society since it makes events
 predictable (there are usually not many events that deviate by large
 from the mean).
 
-Power law distributions
------------------------
+## Power law distributions
 
 Some events are not normally distributed but power laws(e.g. cost
 overrun of projects, war size, floods, earth quake).
@@ -436,8 +423,7 @@ If you measure how long it takes to return to 0 in a game where I get
 a power law distribution. Most of the time it will only take few steps
 to go back to 0\$ but some times it will take a long time.
 
-Per Bak's sand pile model of self-organized criticality
--------------------------------------------------------
+## Per Bak's sand pile model of self-organized criticality
 
 In reality (if not simulated on a computer) the sand box model better
 works with rice.
@@ -468,8 +454,7 @@ dropping additional people will lead to huge cascades of movements
 (similar to the avalanches within the sand pile model) because of the
 **connectedness and interdependence within the system**.
 
-Avoiding critical events from happening
----------------------------------------
+## Avoiding critical events from happening
 
 **As connectedness and interdependence increases within the world these
 distributions become more likely to emerge. This can be prevented by**
@@ -483,8 +468,7 @@ distributions become more likely to emerge. This can be prevented by**
 -   Monitoring systems in order to recognize and release the build up of
     tension (e.g. monitoring political alliances).
 
-How do traffic jams happen?
----------------------------
+## How do traffic jams happen?
 
 If a car slows down when there are many other cars driving behind it,
 the others cars will have to slow down too. Even if the car in front
@@ -502,8 +486,7 @@ cars also having to queue behind the same lane.
 
 This can then cascade down to more cars causing a traffic jam.
 
-First world war
----------------
+## First world war
 
 -   The arch duke of Austria-Hungary is assassinated by supposedly some
     group (black hand) from Serbia in Sarajevo.
@@ -525,8 +508,7 @@ First world war
 
 ![](media_Complexity/media/image7.png)
 
-Where does randomness come from?
-================================
+# Where does randomness come from?
 
 -   Engineered (e.g. Rand() in Excel) or lottery system.
 
@@ -537,5 +519,4 @@ Where does randomness come from?
 
 -   Interdependent rules
 
-Decision theory
-===============
+# Decision theory

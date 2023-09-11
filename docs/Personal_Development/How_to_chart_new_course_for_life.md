@@ -1,7 +1,6 @@
 https://betterhumans.coach.me/how-to-chart-a-new-course-for-your-life-with-3-simple-diagrams-e9cc6b59c49d
 
-Time management matrix
-======================
+# Time management matrix
 
 Incorporate as a weekly exercise to schedule time
 
@@ -28,8 +27,7 @@ scenario, with no sense of responsibility or control.
 at the core of the effective personal management. While the activities
 are not urgent, they are important**
 
-Pie Chart of time
-=================
+# Pie Chart of time
 
 Identifying the most optimal ways to spend your time.
 
@@ -45,8 +43,7 @@ alive. The remaining 60% represents the time available to you.
 
 ![](media_How_to_chart_new_course_for_life/media/image2.png)
 
-Process
--------
+## Process
 
 By using this tool, you will have no chance but to prioritize. How can
 you use your time more efficiently? Is there anything you could remove
@@ -80,8 +77,7 @@ some are very specific (sailing and cycling).
     drop or reduce? How could you free up more time? What needs to
     change?
 
-Ikigai diagram 
-===============
+# Ikigai diagram 
 
 For finding your purpose in life
 
@@ -96,8 +92,7 @@ conflicting elements to harness potential synergies between them.
 
 ![](media_How_to_chart_new_course_for_life/media/image3.png)
 
-Process
--------
+## Process
 
 1.  Use the diagram template above
 
@@ -132,7 +127,7 @@ Process
     needs are not fulfilled? What is causing you stress? Which part of
     the *ikigai* diagram do you currently spend most of your time in?
 
-    ![](C:\scripts\dirkswiki\docs\Personal_Development\media_How_to_chart_new_course_for_life/media/image7.png)
+![](media_How_to_chart_new_course_for_life/media/image7.png)
 
 7.  Plan a transition --- how could you move from your current situation
     towards the center of the diagram? Which areas require the most

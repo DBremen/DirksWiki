@@ -1,8 +1,6 @@
-Thinking Concepts
-=================
+# Thinking Concepts
 
-Thinking flaws
---------------
+## Thinking flaws
 
 ### Perspective
 
@@ -19,8 +17,7 @@ Investment into a specific opinion prevent us from seeing reality.
 The further we are from the results of our decisions, the easier it is
 to keep our current views rather than update them.
 
-Circle of Competence
---------------------
+## Circle of Competence
 
 Try to stay mainly within the circle for when we stray too far, we get
 into areas where we don't even know what we don't know. We may not even
@@ -29,8 +26,7 @@ know the questions we need to ask.
 Try to learn the basics about areas outside your circle of competence
 and try to learn from experts.
 
-First Principle Thinking
-------------------------
+## First Principle Thinking
 
 Clarify complicated problems by separating the underlying ideas or facts
 from any assumptions based on them. What remain are the essentials. If
@@ -45,31 +41,28 @@ To improve something, we need to understand why it is successful or not.
 Otherwise, we are just copying thoughts or behaviors without
 understanding why they worked.
 
-Inversion
----------
+## Inversion
 
 There are two approaches to applying inversion in your life.
 
 1.  Start by assuming that what you're trying to prove is either true or
     false, then show what else would have to be true.
 
+```{=html}
 <!-- -->
-
+```
 2.  Instead of aiming directly for your goal, think deeply about what
     you want to *avoid* and then see what options are left over.
 
-The map is not the territory
-----------------------------
+## The map is not the territory
 
 A model is by definition a simplification of the real world, never
 assume that it fully reflects the real world and update the model/map if
 necessary.
 
-Physics
-=======
+# Physics
 
-Relativity
-----------
+## Relativity
 
 Different perspectives of whether lightning struck at the same time
 (Bob) or first in front (Alice because of the train movement the light
@@ -93,8 +86,7 @@ situation look like in the weeks, months, and years ahead? Assuming
 different perspectives allows you to gain a more complete understanding
 of what's really going on.
 
-Reciprocity
------------
+## Reciprocity
 
 In physics, reciprocity is Newton's third law, which states that for
 every force exerted by object A on object B, there is an equal but
@@ -110,8 +102,7 @@ or nothing at all, you are likely to receive the same. But if you give
 people opportunity and the benefit of the doubt, you will, more often
 than not, be on the receiving end of the same behavior.
 
-Thermodynamics
---------------
+## Thermodynamics
 
 1.  The first law of thermodynamics states that energy cannot be created
     or destroyed; it can only be transferred or changed from one form to
@@ -150,8 +141,7 @@ Thermodynamics
     objects are in thermal equilibrium with a third object, then those
     two objects are also in thermal equilibrium with each other.
 
-Inertia
--------
+## Inertia
 
 Starting something is hard, but so is stopping something. In physics,
 inertia refers to the resistance a physical object has to a change in
@@ -169,8 +159,7 @@ direction, it's much easier to keep it in motion.
 To achieve our aims, reducing resistance is often easier than using more
 force.
 
-Friction and Viscosity
-----------------------
+## Friction and Viscosity
 
 While we can never eliminate the forces that impede our progress, we can
 work to minimize them. Like a smooth surface provides less challenge to
@@ -183,8 +172,7 @@ of how hard it is for one layer of fluid to slide over another layer."
 If a liquid is hard to move it is more viscous. If it is more viscous
 there is more resistance.
 
-Velocity
---------
+## Velocity
 
 Velocity is often confused with speed, but the two concepts are very
 different. Speed is just movement; even if you are running in place, you
@@ -192,11 +180,9 @@ have speed. Velocity has direction. You must go somewhere in order to
 have velocity. This model teaches us that it's much more important to
 pay attention to where you are going and not how fast you are moving
 
-Chemistry
-=========
+# Chemistry
 
-Activation Energy
------------------
+## Activation Energy
 
 In chemistry, activation energy is the energy that must be delivered to
 a chemical system in order to initiate a reaction, breaking bonds so
@@ -217,11 +203,9 @@ When trying to change something it's not enough to put up the energy to
 remove the unwanted thing or behaviour you also must anticipate what's
 required to form a new structure once you break the old one apart.
 
-Biology
-=======
+# Biology
 
-Adaption and Read Queen effect
-------------------------------
+## Adaption and Read Queen effect
 
 We have to deal with the environment we are in, not the one we wish we
 were in. Adaptations are successful relative to their performance in a
@@ -235,8 +219,7 @@ Staying the same as we are often means falling behind.
 The Red Queen tells Alice, "Now, *here*, you see, it takes all the
 running you can do, to keep in the same place."
 
-Replication
------------
+## Replication
 
 Balancing control with flexibility
 

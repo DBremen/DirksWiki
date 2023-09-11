@@ -1,5 +1,4 @@
-Definition of life
-==================
+# Definition of life
 
 Chemists classify matter into two kinds: organic and inorganic. All
 living things are made up of organic compounds, combinations of
@@ -34,8 +33,7 @@ Extrinsic properties
 **Water** is the molecule that supports all life, and **carbon** is an
 element that every molecule of life contains.
 
-Water
------
+## Water
 
 -   All of the living organisms that we're familiar with are mostly
     water.
@@ -66,8 +64,7 @@ Water
 
 -   
 
-Carbon
-------
+## Carbon
 
 -   uniquely capable of forming large, complex, and diverse molecules.
 
@@ -83,8 +80,7 @@ Carbon
     with many other elements and because it can form complex chains with
     other carbon atoms.
 
-Organic compounds
------------------
+## Organic compounds
 
 -   amino acids, which make up proteins
 
@@ -103,8 +99,7 @@ Organic compounds
 
 -   cellulose; and lipids, which are fats and hormones.
 
-Genetics
-========
+# Genetics
 
 -   A gene is a distinct chain of DNA---that's a chemical compound
     called deoxyribose nucleic acid---that contains the biochemical
@@ -140,8 +135,7 @@ Genetics
     carbon, oxygen, and hydrogen. Their different combinations of
     elements give them different shapes.
 
-Mendel's laws
--------------
+## Mendel's laws
 
 -   Gregor Mendel studied inheritance of traits in pea plants. He
     proposed a model where pairs of \"heritable elements,\" or
@@ -178,8 +172,7 @@ cases, though this did not have an impact on Mendel\'s work.
 
 .
 
- Electricity
-===========
+#  Electricity
 
 -   Every atom with an electron has the potential to create an electric
     charge; electrons have an inherent negative charge. Most atoms found
@@ -199,11 +192,9 @@ cases, though this did not have an impact on Mendel\'s work.
 
     -   radioactive decay are just
 
-        Electrons get transferred, but no new electrons or other
-        particles are created---so, whereas one substance becomes more
-        negative, the other becomes more positive.
-
-<!-- -->
+Electrons get transferred, but no new electrons or other particles are
+created---so, whereas one substance becomes more negative, the other
+becomes more positive.
 
 -   Because like charges repel each other and opposite charges attract,
     electric forces can alter the motion of an object. For example, if
@@ -236,8 +227,7 @@ cases, though this did not have an impact on Mendel\'s work.
     **resistance** in units of **ohms**, which is the voltage divided by
     the current.
 
-Thermodynamics
-==============
+# Thermodynamics
 
 Thermodynamics, from the Greek words for "heat" and "movement," is the
 study of heat's relationship to work, and to energy in other forms.

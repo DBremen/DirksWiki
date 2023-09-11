@@ -19,13 +19,12 @@ criticality of the problem as well as frequency, cost, and risk.
 
 ![](media_Root_Cause_Analysis/media/image2.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image3.png)![](media_Root_Cause_Analysis/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Root_Cause_Analysis/media/image3.png)![](media_Root_Cause_Analysis/media/image4.png)
 to 5-Why)
 
 ![](media_Root_Cause_Analysis/media/image5.png)
 
-Root cause analysis
-===================
+# Root cause analysis
 
 Key Points
 
@@ -40,11 +39,9 @@ Key Points
 
 -   Flexibility is needed in the selection of tools.
 
-Hypothesis testing
-==================
+# Hypothesis testing
 
-Key Points
-----------
+## Key Points
 
 -   A hypothesis should not make too many assumptions and should be
     simple and general. It must make a testable prediction to be of any
@@ -66,8 +63,7 @@ Key Points
     uses observation to form a hypothesis. It uses facts and the
     observation of phenomena to form a hypothesis.
 
-Procedure
----------
+## Procedure
 
 1.  Observe or collect the relevant data.
 
@@ -82,15 +78,13 @@ Procedure
     support the hypothesis. Perform confirmation testing if the results
     support the hypothesis.
 
-Scientific method
-=================
+# Scientific method
 
 ![](media_Root_Cause_Analysis/media/image6.png)
 
 ![](media_Root_Cause_Analysis/media/image7.png)
 
-Key Points
-----------
+## Key Points
 
 -   The scientific method is empirical/ evidence based.
 
@@ -107,8 +101,7 @@ Key Points
     disproved. Evaluating an incorrect hypothesis is not bad; defending
     one is.
 
-Procedure
----------
+## Procedure
 
 1.  Plan: Use deductive reasoning to form a tentative hypothesis based
     on observation.
@@ -139,11 +132,9 @@ Procedure
 9.  Repeat the iterations of the PDCA cycle until a hypothesis is
     sup-ported, at which time confirmation testing should be performed.
 
-Experiment
-==========
+# Experiment
 
-Key Points
-----------
+## Key Points
 
 -   A treatment, also known as an experimental run, is the set of
     conditions during an experiment.
@@ -192,8 +183,7 @@ Key Points
 
 -   Blind tests may be needed to increase objectivity.
 
-Procedure
----------
+## Procedure
 
 1.  Create a test plan based on a hypothesis. The predicted result of
     the hypothesis is the response variable.
@@ -215,11 +205,9 @@ Procedure
     is an indicator that variation is present and more replicates are
     needed.
 
-8D report
-=========
+# 8D report
 
-Key Points
-----------
+## Key Points
 
 -   The 8D report provides a brief, but detailed, report on root cause
     analysis activities as well as the root cause.
@@ -235,8 +223,7 @@ Key Points
 -   The fields on top of an 8D report should be customized to fit the
     needs of the company using the 8D report.
 
-Procedure
----------
+## Procedure
 
 1.  Start the 8D report by filling in the fields at the top of the
     document and forming an interdisciplinary team.

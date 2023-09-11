@@ -27,33 +27,38 @@ Daily:
     That trains your brain to search your circumstances and hunt for the
     positive.
 
+```{=html}
 <!-- -->
-
+```
 -   **Journal for two minutes a day about one positive experience you've
     had over the past twenty-four hours.** Write down every detail you
     can remember; this causes your brain to literally reexperience the
     experience, which doubles its positive impact.
 
+```{=html}
 <!-- -->
-
+```
 -   **Meditate daily.** Nothing fancy; just stop all activity, relax,
     and watch your breath go in and out for two minutes. This trains
     your brain to focus where you want it to, and not get distracted by
     negativity in your environment.
 
+```{=html}
 <!-- -->
-
+```
 -   **Do a random act of kindness over the course of each day.** To make
     this simple, Shawn often recommends a specific act of kindness: at
     the start of each day, take two minutes to
 
+```{=html}
 <!-- -->
-
+```
 -   write an email to someone you know praising them or thanking them
     for something they did.
 
+```{=html}
 <!-- -->
-
+```
 -   **Exercise for fifteen minutes daily.** Simple cardio, even a brisk
     walk, has a powerful antidepressant impact, in many cases stronger
     (and more long-lasting) than an actual antidepressant!

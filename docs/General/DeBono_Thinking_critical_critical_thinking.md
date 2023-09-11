@@ -9,8 +9,7 @@ critical thinking (and of personal integrity, for that matter).
 -   We must be pragmatic (and thus adopt effective measures for moving
     toward our ideals).
 
-Thinking, feeling and wanting
-=============================
+# Thinking, feeling and wanting
 
 **It is important to recognize that the mind is composed of three
 functions:**
@@ -37,8 +36,7 @@ rethinking our thinking, we may change our thinking. When our thinking
 changes, our feelings and desires will shift in accordance with our
 thinking.**
 
-Changing negative feelings caused by irrational thinking
---------------------------------------------------------
+## Changing negative feelings caused by irrational thinking
 
 1.  Identify a feeling you have experienced that you suspect might be
     irrational (a feeling such as irritability, resentment, arrogance,
@@ -62,8 +60,9 @@ Changing negative feelings caused by irrational thinking
     that is rational. Actively rehearse the thinking that represents a
     rational response.
 
-Changing irrational behavior grounded in irrational desires or motivations
---------------------------------------------------------------------------
+## 
+
+## Changing irrational behavior grounded in irrational desires or motivations
 
 1.  Identify the questionable behavior (behavior that is getting you in
     trouble, causing problems for you, or causing problems for someone
@@ -80,24 +79,23 @@ Changing irrational behavior grounded in irrational desires or motivations
 
 5.  Actively attack the unreasonable thinking with reasonable thinking.
 
-A well-cultivated critical thinker...
-=====================================
+# A well-cultivated critical thinker...
 
 -   raises vital questions and problems, formulating them clearly and
-    precisely;
+    > precisely;
 
 -   gathers and assesses relevant information, and effectively
-    interprets it;
+    > interprets it;
 
 -   comes to well-reasoned conclusions and solutions, testing them
-    against relevant criteria and standards
+    > against relevant criteria and standards
 
 -   thinks open mindedly within alternative systems of thought,
-    recognizing and assessing, as need be, their assumptions,
-    implications, and practical consequences; and
+    > recognizing and assessing, as need be, their assumptions,
+    > implications, and practical consequences; and
 
 -   Communicates effectively with others in figuring out solutions to
-    complex problems.
+    > complex problems.
 
 > **Critical thinking is, in short, self-directed, self-disciplined,
 > self-monitored, and self-corrective thinking. It presupposes assent to
@@ -119,13 +117,13 @@ A well-cultivated critical thinker...
 > (analyzed, addressed, and reconstructed)
 
 -   **We can develop in such a way that we learn to see mistakes in our
-    own thinking, as well as the thinking of others**
+    > own thinking, as well as the thinking of others**
 
 -   **Or we can merely develop some proficiency in making our
-    opponent\'s thinking look bad.**
+    > opponent\'s thinking look bad.**
 
 -   **Typically, people see mistakes in other\'s thinking without being
-    able to credit the strengths in those opposing views.**
+    > able to credit the strengths in those opposing views.**
 
 > This kind of thinking fails to consider, in good faith, viewpoints
 > that contradict its own viewpoint. It lacks **fair-mindedness**.
@@ -138,12 +136,12 @@ A well-cultivated critical thinker...
 -   **Change your views when faced with better reasoning.**
 
 -   **Question your own purposes, evidence, conclusions, implications,
-    and points of view with the same vigor that we question those of
-    others.**
+    > and points of view with the same vigor that we question those of
+    > others.**
 
-> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image1.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image1.png)
 >
-> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image2.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image2.png)
 >
 > **Fair-mindedness** entails a consciousness of the need to treat all
 > viewpoints alike, without reference to one\'s own feelings or selfish
@@ -179,10 +177,9 @@ A well-cultivated critical thinker...
 > fair-minded thinkers in these circumstances. The penalties for
 > nonconformity can be severe.
 
-The Elements of Thought in Relationship
----------------------------------------
+## The Elements of Thought in Relationship
 
-![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
 
 ### Our purpose affects the manner in which we ask questions (What is our purpose?)
 
@@ -283,7 +280,7 @@ conclusions and give meaning to data.
 
 -   Make sure your inferences logically follow from the information.
 
-    All reasoning leads somewhere or has implications and consequences.
+All reasoning leads somewhere or has implications and consequences.
 
 -   Trace the logical implications and consequences that follow from
     your reasoning.
@@ -292,13 +289,11 @@ conclusions and give meaning to data.
 
 -   Consider all possible significant consequences.
 
-Assumptions vs. Inferences
---------------------------
+## Assumptions vs. Inferences
 
 ![](media_DeBono_Thinking_critical_critical_thinking/media/image5.png)
 
-Behavior of critical thinkers
------------------------------
+## Behavior of critical thinkers
 
 When they read, they see the text as a verbal representation of the
 thinking of the author. They strive to enter the writer\'s point of
@@ -321,8 +316,7 @@ view as a threat to their own beliefs. They see **all beliefs as subject
 to change in the face of new evidence or better reasoning**. They see
 themselves as lifelong learners.
 
-The Psychology of Intelligence Analysis:
-========================================
+# The Psychology of Intelligence Analysis:
 
 What people in general perceive, and how readily they perceive it, are
 strongly influenced by their past experience, education, cultural
@@ -361,8 +355,7 @@ also facilitates assimilation.**
 
 *Wife and mother in-law*
 
-3 distinct memory processes:
-----------------------------
+## 3 distinct memory processes:
 
 ### Sensory information storage
 
@@ -432,8 +425,7 @@ there in sensory information storage or short-term memory. They can only
 retrieve their interpretation of what they thought was there as stored
 in LTM.**
 
-Organization of Information in memory
--------------------------------------
+## Organization of Information in memory
 
 The three memory processes comprise the storehouse of information or
 database that we call memory, but the total memory system must include
@@ -498,8 +490,7 @@ links between them in the spider web of memory that hang together so
 strongly that they can be retrieved and used more or less as a single
 unit.**
 
-Getting Information Into and Out of Long-Term Memory
-----------------------------------------------------
+## Getting Information Into and Out of Long-Term Memory
 
 **The key factor in transferring information from short-term to
 long-term memory is the development of associations between the new
@@ -531,12 +522,11 @@ expectations does not become more memorable even if the analyst changes
 his or her thinking to the point where the same information, received
 today, would be recognized as very significant.
 
-Multiattribute Utility Analysis (WeightingFactors\_WeightedAverage.xlsx)
+Multiattribute Utility Analysis (WeightingFactors_WeightedAverage.xlsx)
 
-Pairwise Comparison (PairedComparison\_Analysis.xlsx)
+Pairwise Comparison (PairedComparison_Analysis.xlsx)
 
-Step-by-Step Outline of Analysis of Competing Hypotheses
---------------------------------------------------------
+## Step-by-Step Outline of Analysis of Competing Hypotheses
 
 1.  Identify the possible hypotheses to be considered. Use a group of
     analysts with different perspectives to brainstorm the
@@ -568,13 +558,11 @@ Step-by-Step Outline of Analysis of Competing Hypotheses
 8.  Identify milestones for future observation that may indicate events
     are taking a different course than expected.
 
-> ![](C:\scripts\dirkswiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
 
-De Bono\`s thinking course
-==========================
+# De Bono\`s thinking course
 
-PMI (Plus Minus Interesting)
-----------------------------
+## PMI (Plus Minus Interesting)
 
 -   The PMI is an attention directing tool. Direct your attention to
     plus, minus and interesting points about a subject in order one
@@ -639,14 +627,12 @@ I:
 
 4.  Interesting to see whether the idea would be enforceable
 
-APC (alternatives, choices, possibilities)
-------------------------------------------
+## APC (alternatives, choices, possibilities)
 
 Encourage to find additional alternative ways even once a seemingly good
 solution has been found.
 
-The brain is a pattern matching machine
----------------------------------------
+## The brain is a pattern matching machine
 
 The mind works to make sense of confusion and uncertainty. It works to
 recognize familiar patterns, once such a pattern is recognized the mind
@@ -664,8 +650,7 @@ same way as a driver follows a familiar road.
 Unless there are competing patterns then anything remotely similar to
 the established pattern will be treated as if it were that pattern.
 
-How the mind works as an information processing system
-------------------------------------------------------
+## How the mind works as an information processing system
 
 Perception is the way we look at things. Processing is what we do with
 that perception.
@@ -699,8 +684,7 @@ Sequence in which the information arrives determines the pattern:
 
 ![](media_DeBono_Thinking_critical_critical_thinking/media/image10.png)
 
-Lateral thinking
-----------------
+## Lateral thinking
 
 *"The vertical thinker says: 'I know what lam looking for.' The lateral
 thinker says: 'I am looking but I won't know what I am looking for until
@@ -1158,8 +1142,7 @@ considering alternatives, both the obvious ones and new ones. It means
 generating possibilities. It means modifying and changing a suggested
 idea, possibly through the deliberate use of lateral thinking tools.
 
-De Bono: The Six Value Medals
-=============================
+# De Bono: The Six Value Medals
 
 In a way, a perception is an unconscious about how we see the world
 around us. Because they are unconscious we have no control over our

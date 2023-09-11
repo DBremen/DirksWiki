@@ -30,7 +30,7 @@ Invented in 2009
 
     <https://bitcoincharts.com/charts/volumepie/>
 
-    ![](C:\scripts\dirkswiki\docs\General\media_Bitcoin/media/image1.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image1.png)
 
     Bitcoin days destroyed = metric of velocity (how fast money moves)
     since it can't be determined whether money is moved between the same
@@ -39,7 +39,7 @@ Invented in 2009
     It's based on the duration and amount of BC held (between received
     and send).
 
-    ![](C:\scripts\dirkswiki\docs\General\media_Bitcoin/media/image2.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image2.png)
 
     Predicted price levels (min.) per level (as of 2013):
 
@@ -49,10 +49,9 @@ Invented in 2009
 
 3.  30,000 \$
 
-    ![](C:\scripts\dirkswiki\docs\General\media_Bitcoin/media/image3.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image3.png)
 
-Blockchain
-==========
+# Blockchain
 
 https://www.blockchain.com/explorer
 
@@ -60,8 +59,7 @@ https://www.blockchain.com/explorer
 
 Block = blob of transactions during approx. 10 minutes
 
-Bitcoin wallet
-==============
+# Bitcoin wallet
 
 ![](media_Bitcoin/media/image4.png)
 
@@ -76,8 +74,7 @@ Bitcoin wallet
 
 > Bitcoin.org / choose your wallet
 
-Bitcoin mining
-==============
+# Bitcoin mining
 
 Ledger = transaction history based on blockchain technology
 

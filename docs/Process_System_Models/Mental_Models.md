@@ -1,17 +1,313 @@
-Survivor ship bias
-==================
+# Exponential backoff
+
+Originally used for TCP connections but can also be used in other
+circumstances.
+
+network to accommodate potentially any number of competing signals.
+Since the maximum delay length (2, 4, 8, 16...) forms an exponential
+progression, it's become known as Exponential Backoff.
+
+# TCP connections
+
+communication lapses are rarely so dire, and the need for certainty
+rarely so absolute. In TCP, a failure generally leads to retransmission
+rather than death, so it's considered enough for a session to begin with
+what's called a "triple handshake." The visitor says hello, the server
+acknowledges the hello and says hello back, the visitor acknowledges
+that, and if the server receives this third message, then no further
+confirmation is needed and they're off to the races. Even after this
+initial connection is made, however, there's still a risk that some
+later packets may be damaged or lost in transit, or arrive out of order.
+In the postal mail, package delivery can be confirmed via return
+receipts; online, packet delivery is confirmed by what are called
+acknowledgment packets, or ACKs. These are critical to the functioning
+of the network.
+
+The way that ACKs work is both simple and clever. Behind the scenes of
+the triple handshake, each machine provides the other with a kind of
+serial number---and it's understood that every packet sent after that
+will increment those serial numbers by one each time, like checks in a
+checkbook. For instance, if your computer initiates contact with a web
+server, it might send that server, say, the number 100. The ACK sent by
+the server will in turn specify the serial number at which the server's
+own packets will be
+
+gin (call it 5,000), and also will say "Ready for 101." Your machine's
+ACK will carry the number 101 and will convey in turn "Ready for 5,001."
+(Note that these two numbering schemes are totally independent, and the
+number that begins each sequence is typically chosen at random.)
+
+This mechanism offers a ready way to pinpoint when packets have gone
+astray. If the server is expecting 101 but instead gets 102, it will
+send an ACK to packet 102 that still says "Ready for 101." If it next
+gets packet 103, it will say, again, "Ready for 101." Three such
+redundant ACKs in a row would signal to your machine that 101 isn't just
+delayed but hopelessly gone, so it will resend that packet. At that
+point, the server (which has kept packets 102 and 103) will send an ACK
+saying "Ready for 104" to signal that the sequence has been restored.
+
+## TCP congestion handling
+
+At the heart of TCP congestion control is an algorithm called Additive
+Increase, Multiplicative Decrease, or AIMD. Before AIMD kicks in, a new
+connection will ramp up its transmission rate aggressively: if the first
+packet is received successfully it sends out two more, if both of those
+get through it sends out a batch of four, and so on. But as soon as any
+packet's ACK does not come back to the sender, the AIMD algorithm takes
+over. Under AIMD, any fully received batch of packets causes the number
+of packets in flight not to double but merely to increase by 1, and
+dropped packets cause the transmission rate to cut back by half (hence
+the name Additive Increase, Multiplicative Decrease). Essentially, AIMD
+takes the form of someone saying, "A little more, a little more, a
+little more, whoa, too much, cut way back, okay a little more, a little
+more..." Thus it leads to a characteristic bandwidth shape known as the
+"TCP sawtooth"---steady upward climbs punctuated by steep drops.
+
+# 
+
+# Scheduling
+
+In fact, the weighted version of Shortest Processing Time is a pretty
+good candidate for best general-purpose scheduling strategy in the face
+of uncertainty. It offers a simple prescription for time management:
+each time a new piece of work comes in, divide its importance by the
+amount of time it will take to complete. If that figure is higher than
+for the task you're currently doing, switch to the new one; otherwise
+stick with the current task. This algorithm is the closest thing that
+scheduling theory has to a skeleton key or Swiss Army knife, the optimal
+strategy not just for one flavor of problem but for many.
+
+Only that you need to consider the task switching time too. Too much
+context switching might lead to less optimal execution following this
+algorithm.
+
+|     |     |     |
+|-----|-----|-----|
+|     |     |     |
+
+# Optimal stopping
+
+When to stop searching. When there is no chance of rejection "secretary
+problem":
 
 ![](media_Mental_Models/media/image1.png)
 
+With rejection working your way backwards from the last candidate:
+
 ![](media_Mental_Models/media/image2.png)
 
-Deductive reasoning (from general to specific)
-==============================================
+Last candidate only hire if better than 50^th^ percentile
+
+Penultimate better than around 70^th^ percentile
+
+Of course, there's no reason that net worth---or, for that matter,
+typing speed---needs to be the thing that you're measuring. Any
+yardstick that provides full information on where an applicant stands
+relative to the population at large will change the solution from the
+Look-Then-Leap Rule to the Threshold Rule and will dramatically boost
+your chances of finding the single best applicant in the group.
+
+# Mergesort
+
+Mergesort also has real applications in small-scale domestic sorting
+problems. Part of the reason why it's so widely used is that it can
+easily be parallelized. If you're still strategizing about that
+bookshelf, the Mergesort solution would be to order a pizza and invite
+over a few friends. Divide the books evenly, and have each person sort
+their own stack. Then pair people up and have them merge their stacks.
+Repeat this process until there are just two stacks left, and merge them
+one last time onto the shelf. Just try to avoid getting pizza stains on
+the books.
 
 ![](media_Mental_Models/media/image3.png)
 
-Focus on avoiding mistakes instead of trying to be right all the time 
-======================================================================
+# Probability distributions
+
+![](media_Mental_Models/media/image4.png)
+
+In a power-law distribution, the longer something has gone on, the
+longer we expect it to continue going on. So a power-law event is more
+surprising the longer we've been waiting for it---and maximally
+surprising right before it happens. A nation, corporation, or
+institution only grows more venerable with each passing year, so it's
+always stunning when it collapses.
+
+In a normal distribution, events are surprising when they're
+early---since we expected them to reach the average---but not when
+they're late. Indeed, by that point they seem overdue to happen, so the
+longer we wait, the more we expect them.
+
+And in an Erlang distribution, events by definition are never any more
+or less surprising no matter when they occur. Any state of affairs is
+always equally likely to end gardless of how long it's lasted. No wonder
+politicians are always thinking about their next election.
+
+![](media_Mental_Models/media/image5.png)
+
+Gambling is characterized by a similar kind of steady-state expectancy.
+If your wait for, say, a win at the roulette wheel were characterized by
+a normal distribution, then the Average Rule would apply: after a run of
+bad luck, it'd tell you that your number should be coming any second,
+probably followed by more losing spins. (In that case, it'd make sense
+to press on to the next win and then quit.) If, instead, the wait for a
+win obeyed a power-law distribution, then the Multiplicative Rule would
+tell you that winning spins follow quickly after one another, but the
+longer a drought had gone on the longer it would probably continue. (In
+that scenario, you'd be right to keep playing for a while after any win,
+but give up after a losing streak.) Up against a memoryless
+distribution, however, you're stuck. The Additive Rule tells you the
+chance of a win now is the same as it was an hour ago, and the same as
+it will be an hour from now. Nothing ever changes. You're not rewarded
+for sticking it out and ending on a high note; neither is there a
+tipping point when you should just cut your losses. In "The Gambler,"
+Kenny Rogers famously advised that you've got to "Know when to walk away
+/ Know when to run"---but for a memoryless distribution, there is no
+right time to quit. This may in part explain these games' addictiveness.
+
+# Central limit theorem
+
+We called this section "The Bell Curve," however, because the normal
+distribution is especially useful due to one of the handiest results in
+all of statistics, called the central limit theorem. This theorem states
+that when numbers are drawn from the same distribution and then are
+averaged, this resulting average approximately follows a normal
+distribution. This is the case even if the numbers originally came from
+a completely different distribution.
+
+![undefined](media_Mental_Models/media/image6.png)
+
+# Decision matrices
+
+Contrarian mindset (e.g. for start-up investors)
+
+![](media_Mental_Models/media/image7.png)
+
+![](media_Mental_Models/media/image8.png)
+
+2x2 matrix with scatterplot to avoid dichotomy
+
+![](media_Mental_Models/media/image9.png)
+
+Reversible vs irreversible decisions
+
+# Adverse selection
+
+When parties select transactions that they think will benefit them,
+based at least partially on their own private information, that's called
+adverse selection. People who know they are going to need dental work
+are more likely to seek out dental insurance. This unfortunately drives
+up the price for everyone. Two ways to mitigate adverse selection in the
+insurance market are to mandate participation, as many localities do for
+car insurance, and to distinguish subpopulations based on their risk
+profiles, as life insurers do for smokers.
+
+![](media_Mental_Models/media/image10.png)
+
+# Moral hazard
+
+This phenomenon, known as moral hazard, is where you take on more risk,
+or hazard, once you have information that encourages you to believe you
+are more protected. It has been a concern of the insurance industry
+since the seventeenth century! Sometimes moral hazard may involve only
+one person: wearing a bike helmet may give you a false sense of
+security, leading you to bike more recklessly, but you are the one who
+bears all the costs of a bike crash.
+
+Moral hazards can also occur when a person or company serves as an agent
+for another person or company, making decisions on behalf of this
+entity, known as the principal. The problem arises when the agent takes
+on more risk than the principal would if the principal were acting
+alone, since the agent is more protected when things go wrong. For
+instance, when financial advisers manage your money, they try to stick
+to your risk profile, but they are more likely to take greater risks
+than you would on your own, simply because it isn't their money, and so
+losses do not impact their net worth as much.
+
+# Coase theorem
+
+There are many ways to internalize negative externalities, including
+taxes, fines, regulation, and lawsuits. Smoking externalities are
+internalized via cigarette taxes and higher health insurance premiums
+for smokers. Traffic congestion externalities are internalized through
+tolls. On a personal level, your neighbor might file a noise complaint
+against you if you consistently play music too loud.
+
+Another way to internalize externalities is through a marketplace.
+Ronald Coase won the Nobel Prize in economics in 1991 in part for what
+has become known as the Coase theorem, essentially a description of how
+a natural marketplace can internalize a negative externality. Coase
+showed that an externality can be internalized efficiently without
+further need for intervention (that is, without a government or other
+authority regulating the externality) if the following conditions are
+met:
+
+-   Well-defined property rights
+
+-   Rational actors
+
+-   Low transaction costs
+
+When these conditions are met, entities surrounding the externality will
+transact among themselves until the extra costs are internalized.
+
+**Cap and trade systems**
+
+The way these systems work is that the government requires emitters to
+hold permits for the amount of pollutants they emit. The government also
+sets a fixed number of total permits, which serves as the emission cap
+in the market. Such a system satisfies the conditions of the Coase
+theorem because property rights are well defined through the permitting
+process, companies act rationally to maximize their profits, and the
+open market provides low transaction costs.
+
+![](media_Mental_Models/media/image11.png)
+
+# Emphasis
+
+**Learnt helplessness** tendency to stop trying to escape difficult
+situations because we have gotten used to difficult conditions over time
+story of dogs that were put in a box and repeatedly choked at random
+intervals when they were put in a similar box where they could easily
+escape the shocks they did not actually try to escape
+
+imagine a third story field forged between your story and someone
+else\'s most respectful interpretation
+
+**Birth lottery **(luck based on where you were born)
+
+![](media_Mental_Models/media/image12.png)
+
+## Veil of ignorance 
+
+Two primary principles supplement Rawls' veil of ignorance: the liberty
+principle and the difference principle.
+
+According to the liberty principle, the social contract should try to
+ensure that everyone enjoys the maximum liberty possible without
+intruding upon the freedom of others.
+
+According to the difference principle, the social contract should
+guarantee that everyone has an equal opportunity to prosper. In other
+words, if there are any social or economic differences in the social
+contract, they should help those who are the worst off. And, any
+advantages in the contract should be available to everyone.
+
+So, according to Rawls, approaching tough issues through a veil of
+ignorance and applying these principles can help us decide more fairly
+how the rules of society should be structured. And fairness, as Rawls
+and many others believe, is the essence of justice.
+
+# Survivor ship bias
+
+![](media_Mental_Models/media/image13.png)
+
+![](media_Mental_Models/media/image14.png)
+
+# Deductive reasoning (from general to specific)
+
+![](media_Mental_Models/media/image15.png)
+
+# Focus on avoiding mistakes instead of trying to be right all the time 
 
 -   Try to be consistently not stupid.
 
@@ -19,23 +315,20 @@ Focus on avoiding mistakes instead of trying to be right all the time
 
 -   Avoid disaster (e.g. running out of money)
 
-Stay in circle of competence
-----------------------------
+## Stay in circle of competence
 
 -   Know what you don't know
 
 -   Look for evidence that goes against your conclusion/view
 
-Don't forget about randomness as a cause
-========================================
+# Don't forget about randomness as a cause
 
 When bad things happen, we try to find causal explanations or something
 to blame. The more unexpected or negative we find an event, the more
 likely we are to look for explanations. We underestimate the influence
 of randomness.
 
-Don't mistake cause and effect consider that a cause can have multiple effects and vice versa 
-==============================================================================================
+# Don't mistake cause and effect consider that a cause can have multiple effects and vice versa 
 
 *We have tons of problems. We are losing customers, we can\'t deliver on
 time, our inventory system doesn\'t work.*
@@ -47,37 +340,32 @@ that we address the underlying cause and not act on symptoms that may
 look like causes. Maybe the symptoms were due to wrong policies or
 measuring instruments or goals, etc.
 
-Think about opportunity cost
-============================
+# Think about opportunity cost
 
 -   If you say yes to one thing you say no to a million others.
 
 -   Don't compare investments that are below your baseline interest
 
-Look for positive feedback loops
-================================
+# Look for positive feedback loops
 
 E.g. more creates more
 
 Could be also combining multiple reinforcing positive factors
 (coca-cola)
 
-Learn from the masters in your field their mistakes and experiences
-===================================================================
+# Learn from the masters in your field their mistakes and experiences
 
 When adopting from someone else make sure to understand the context they
 were living in / using when choosing their mindset/processes.
 
-Use multi-disciplinary approaches to solve problems
-===================================================
+# Use multi-disciplinary approaches to solve problems
 
 Don't be the man with the hammer but chose the mental model(s)
 appropriate for the situation.
 
-Kelly formula for optimal betting size
-======================================
+# Kelly formula for optimal betting size
 
-![](media_Mental_Models/media/image4.png)
+![](media_Mental_Models/media/image16.png)
 
 Coin flip:
 
@@ -92,10 +380,23 @@ Coin flip:
     -- W)/B**, where W is the win probability, B is the profit in the
     event of a win (20%), and A is the potential loss (also 20%).
 
-Statistical decision theory
-===========================
+# Pareto = power law distro
 
-![](media_Mental_Models/media/image5.png)
+![](media_Mental_Models/media/image17.png)
+
+![](media_Mental_Models/media/image18.png)
+
+# Statistical decision theory
+
+![](media_Mental_Models/media/image19.png)
+
+![](media_Mental_Models/media/image20.png)
+
+![](media_Mental_Models/media/image21.png)
+
+![](media_Mental_Models/media/image22.png)
+
+![](media_Mental_Models/media/image23.png)
 
 -   Hits and misses trade off by definition
 
@@ -105,9 +406,9 @@ Statistical decision theory
 
 -   Misses and correct rejections
 
-![](media_Mental_Models/media/image6.png)
+![](media_Mental_Models/media/image24.png)
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image7.png)![](media_Mental_Models/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image25.png)![](media_Mental_Models/media/image26.png)
 
 -   Performance in a signal detection task depends on two parameters:
 
@@ -118,7 +419,7 @@ Statistical decision theory
 -   How separated the signal and noise distributions are (in standard
     > deviations)
 
-![](media_Mental_Models/media/image9.png)
+![](media_Mental_Models/media/image27.png)
 
 -   Improving Sensitivity (Better than twiddling with response bias (ß))
 
@@ -132,31 +433,30 @@ Statistical decision theory
 
 -   Combinations of evidence
 
-![](media_Mental_Models/media/image10.png)
+![](media_Mental_Models/media/image28.png)
 
 Applied to hypothesis testing
 
-![](media_Mental_Models/media/image11.png)
+![](media_Mental_Models/media/image29.png)
 
-![](media_Mental_Models/media/image12.png)
+![](media_Mental_Models/media/image30.png)
 
-![](media_Mental_Models/media/image13.png)
+![](media_Mental_Models/media/image31.png)
 
-![](media_Mental_Models/media/image14.png)
+![](media_Mental_Models/media/image32.png)
 
-![](media_Mental_Models/media/image15.png)
+![](media_Mental_Models/media/image33.png)
 
-Correlation and causation
-=========================
+# Correlation and causation
 
 The correlation co-efficient measures the closeness of the data to the
 best fitting **straight-line.**
 
 **All r = .82**
 
-![](media_Mental_Models/media/image16.png)
+![](media_Mental_Models/media/image34.png)
 
-![](media_Mental_Models/media/image17.png)
+![](media_Mental_Models/media/image35.png)
 
 Simpsons paradox example note: The overall correlation was negative
 because more women applied to departments where the general acceptance
@@ -168,21 +468,21 @@ rate was lower (hard to get into).
     cause is removed it was not (the only) cause. - There could be
     multiple causes that only work together to cause the effect though.
 
-    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image18.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image36.png)
 
 -   Effects might have multiple causes
 
-    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image19.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image37.png)
 
 -   Bayesian network
 
--   ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image20.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image38.png)
 
--   ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image21.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image39.png)
 
--   2\. Exclude reverse causation by checking whether the correlation between
-    > the B and A is greater at a later time as compared to an earlier time.
-    > Compared to the same for A and B
+-   2\. Exclude reverse causation by checking whether the correlation
+    > between the B and A is greater at a later time as compared to an
+    > earlier time. Compared to the same for A and B
 
 -   E.g. does democracy lead to peace, or are countries at peace more
     > likely to become democratic?
@@ -200,43 +500,66 @@ rate was lower (hard to get into).
 -   If the intervention leads to a different outcome in one group only
     > it\'s likely caused by it.
 
-Bayes Theorem
-=============
+# Bayes Theorem
 
 Refine probability of an event occurring based on prior (base)
-probability. You can home after a weekend and find someone else\'s
+probability. You come home after a weekend and find someone else\'s
 underpants on your bed. How likely is it that your girlfriend has been
 cheating on you?
 
-![](media_Mental_Models/media/image22.png)
+![](media_Mental_Models/media/image40.png)
+
+### LaPlace
+
+How can we estimate the likelihood of winning in a raffle based on just
+a few tickets.
+
+After drawing a winning ticket on our first try we should expect that
+the proportion of winning tickets in the whole pool is exactly 2/3. If
+we buy three tickets and all of them are winners, the expected
+proportion of winning tickets is exactly 4/5. In fact, for any possible
+drawing of w winning tickets in n attempts, the expectation is simply
+the number of wins plus one, divided by the number of attempts plus two:
+(w+1)⁄(n+2).
+
+This incredibly simple scheme for estimating probabilities is known as
+Laplace's Law, and it is easy to apply in any situation where you need
+to assess the chances of an event based on its history. If you make ten
+attempts at something and five of them succeed, Laplace's Law estimates
+your overall chances to be 6/12 or 50%, consistent with our intuitions.
+If you try only once and it works out, Laplace's estimate of 2/3 is both
+more reasonable than assuming you'll win every time, and more actionable
+than Price's guidance (which would tell us that there is a 75%
+metaprobability of a 50% or greater chance of success).
+
+Count the number of times it has happened in the past plus one, then
+divide by the number of opportunities plus two.
 
 ### Quasi Bayes approach to forecasting
 
-![](media_Mental_Models/media/image23.png)
+![](media_Mental_Models/media/image41.png)
 
-Prospect theory
-===============
+# Prospect theory
 
 As opposed to utility theory takes into consideration human
 preferences/biases (loss and risk aversion)
 
-![](media_Mental_Models/media/image24.png)
+![](media_Mental_Models/media/image42.png)
 
 Prospect = Psychologically conceivable possibility
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image25.png)![](media_Mental_Models/media/image26.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image43.png)![](media_Mental_Models/media/image44.png)
 
-Common sources of mistakes and misjudgements
-============================================
+# Common sources of mistakes and misjudgements
 
 -   **Base rate neglect**
 
     Not considering the prior/base rate probability when looking at test
     results
 
-    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image27.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image45.png)
 
-    ![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Mental_Models/media/image28.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image46.png)
 
 -   **Bias from mere association** - We automatically feel pleasure or
     pain when we connect a stimulus - a thing, situation or individual-
@@ -400,8 +723,7 @@ associated the supplier with pleasant feelings.*
 -   **Over-influence by the combined effect** of many psychological
     tendencies operating together.
 
-Misjudgements based on principles from physics and mathematics
---------------------------------------------------------------
+## Misjudgements based on principles from physics and mathematics
 
 ### Systems thinking 
 
@@ -413,7 +735,7 @@ Misjudgements based on principles from physics and mathematics
     take place, the important factors that make up the system, their
     relationships and effects of changes on system outcome.
 
-    **Think about positive and negative feedback loops**
+**Think about positive and negative feedback loops**
 
 -   Failing to consider the likely reactions of others - what is best to
     do may depend on what others do.
@@ -494,25 +816,29 @@ the relative frequency of this condition or disease in the population?
 ### Two way contingency table
 
 <table>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 43%" />
+<col style="width: 42%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Outcome</th>
-<th><strong>Yes</strong></th>
-<th><strong>No</strong></th>
+<th rowspan="2"><strong>Yes</strong></th>
+<th rowspan="2"><strong>No</strong></th>
+</tr>
+<tr class="odd">
+<th>Prediction</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Prediction</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><strong>Yes</strong></td>
 <td>Predicted yes and it yes</td>
-<td>Predicted yes and it was no (false positive very common to avoid big negative consequences like not diagnosing appendix conditions)</td>
+<td>Predicted yes and it was no (false positive very common to avoid big
+negative consequences like not diagnosing appendix conditions)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>No</strong></td>
 <td><p>Predicted no and it was yes</p>
 <p>(not common since it is avoided by false positives</p></td>
@@ -644,8 +970,9 @@ start-ups with 40% of succeeding?
 
 -   Chance of 40% event happening at least once = 100%-12.96% = 87.04%
 
+```{=html}
 <!-- -->
-
+```
 -   Underestimating the probability of systems failure - scenarios
     composed of many parts where system failure can happen one way or
     another. Includes failing to consider that time horizon changes
@@ -708,7 +1035,7 @@ involved was green. \"*
 
 -   Prior probability (before John is witnessing) = 10%
 
-![](media_Mental_Models/media/image29.png)
+![](media_Mental_Models/media/image47.png)
 
 Posterior % = (10\*.8) / (90\*.2) + (10\*.8) = 8 / 26
 

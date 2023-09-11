@@ -1,5 +1,4 @@
-Philosophy
-==========
+# Philosophy
 
 -   Pursuit of wisdom
 
@@ -64,18 +63,15 @@ Aim of philosophy:
 
 -   Answer the question, "What is it all about?"
 
-Branches of philosophy
-----------------------
+## Branches of philosophy
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image1.png)
 
-Critical thinking process
--------------------------
+## Critical thinking process
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image2.png)
 
-Arguments:
-----------
+## Arguments:
 
 ### Deductive:
 
@@ -96,8 +92,7 @@ is supported by the premises but does not follow necessarily from them.
 When you reason inductively, your premises provide evidence that makes
 it more or less probable (but not certain) that the conclusion is true.
 
-Socrates
-========
+# Socrates
 
 **"The unexamined life is not worth living."**
 
@@ -151,25 +146,21 @@ virtuous person, they are the same.** There is an intimate connection
 between knowledge and virtue, and as we gain intellectual understanding,
 we should naturally live more enlightened lives.
 
-CONSCIOUSNESS, IDENTITY, AND THE SELF
-=====================================
+# CONSCIOUSNESS, IDENTITY, AND THE SELF
 
-Rationalism 
-------------
+## Rationalism 
 
 The view that reason is the primary source of all knowledge and that
 only our reasoning abilities can enable us to understand sense
 experience and reach accurate conclusions.
 
-Empiricism 
------------
+## Empiricism 
 
 The view that sense experience is the primary source of all knowledge
 and that only a careful attention to sense experience can enable us to
 understand the world and achieve accurate conclusions.
 
-Materialism 
-------------
+## Materialism 
 
 The philosophical view that all aspects of the universe are composed of
 matter and energy and can be explained by physical laws. Many
@@ -181,8 +172,7 @@ states.
 Mark Twain: **"How come the mind gets drunk when the body does the
 drinking?"**
 
-Socrates 
----------
+## Socrates 
 
 The soul is immortal
 
@@ -206,8 +196,7 @@ perfect, eternal realm with which the soul seeks communion and eternal
 bliss: All of the basic elements of Western (and some Eastern) religions
 are present.
 
-Plato
------
+## Plato
 
 Three-part soul/
 
@@ -235,8 +224,7 @@ true wisdom and banquet with the gods. However, those charioteers who
 are unable to control their horses and keep their chariot on track are
 destined to experience personal, intellectual, and spiritual failure.
 
-Buddhism
---------
+## Buddhism
 
 **Milindapanha, The Simile of the Chariot
 (http://www.usna.edu/Users/history/abels/hh205/milinda.html)**
@@ -265,8 +253,7 @@ Each self is comprised of the continual interplay of these five
 elements, but there is no substance or identity beyond the dynamic
 interaction of these five elements.
 
-Descartes
----------
+## Descartes
 
 **Cogito, ergo sum = I think, therefore I am.**
 
@@ -291,8 +278,7 @@ operations, consistently unaware of your thinking, reasoning, and
 perceiving processes, then it would not be possible for you to have a
 self-identity, a unique essence, a you.**
 
-Locke
------
+## Locke
 
 1.  To discover the nature of personal identity, we're going to have to
     find out what it means to be a person.
@@ -309,8 +295,7 @@ Locke
 5.  Consciousness is what makes possible our belief that we are the same
     identity in different times and different places.
 
-Kant
-----
+## Kant
 
 Our minds actively sort, organize, relate, and synthesize the
 fragmented, fluctuating collection of sense data that our sense organs
@@ -345,8 +330,7 @@ of these sensations.** We didn't have to learn these a priori ways of
 organizing and relating the world they came as software already
 installed in our intellectual operating systems.
 
-FREEDOM AND DETERMINISM
-=======================
+# FREEDOM AND DETERMINISM
 
 **External vs. internal forces**
 
@@ -363,8 +347,7 @@ to increase your possibilities.
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image4.png)
 
-Existentialism, 
-----------------
+## Existentialism, 
 
 A philosophical movement that emphasizes the challenge and
 responsibility of all people to create a meaningful existence through
@@ -374,8 +357,7 @@ universe: We must look inward, to our own resources and possibilities,
 as we struggle to create meaning in a world that often seems chaotic and
 absurd.
 
-Determinism
------------
+## Determinism
 
 The view that every event, including human actions, is brought about by
 previous events in accordance with universal causal laws that govern the
@@ -383,40 +365,34 @@ world. Human freedom is an illusion.
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image5.png)
 
-Indeterminism 
---------------
+## Indeterminism 
 
 The view that some events, including human actions, are not necessarily
 determined by previous events in accordance with universal causal laws.
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image6.png)
 
-Libertarianism
---------------
+## Libertarianism
 
 The view that humans are able to make authentically free choices that
 are not determined by previous events in accordance with universal
 causal laws, that there is a meaningful sense that though we made one
 choice, we could have done otherwise.
 
-Compatibilism 
---------------
+## Compatibilism 
 
 The view that all events, including human actions, are caused. However,
 we can consider human actions free if they are the result of internal
 motivations, not the product of external influences or constraints.
 
-How can we know the nature of reality?
-======================================
+# How can we know the nature of reality?
 
-Metaphysics -- What is real?
-----------------------------
+## Metaphysics -- What is real?
 
 Most generally, the philosophical investigation of the nature,
 constitution, and structure of reality.
 
-Epistemology -- What is true?
------------------------------
+## Epistemology -- What is true?
 
 The study of the nature of knowledge and justification.
 
@@ -429,8 +405,7 @@ eternal Forms is tied to:
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image8.png)
 
-Kant:
------
+## Kant:
 
 Sensations would be nothing to us, and would not concern us in the
 least, if they were not received into our (orderly) consciousness.
@@ -440,7 +415,7 @@ be connected together into (my) one conscious- ness. This principle
 stands firm a priori, and may be called "the transcendental principle of
 unity" for all the multiplicity of our perceptions and sensations.
 
-![](C:\scripts\dirkswiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image9.png)![](media_Thinking_critcal_about_profound_ideas/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image9.png)![](media_Thinking_critcal_about_profound_ideas/media/image10.png)
 
 **The entire reality, which we assume to be completely independent of
 ourselves, is in fact, as Kant maintained, constituted by the active
@@ -461,8 +436,7 @@ same basic qualities and relations.**
 -   possibility-impossibility, existence-nonexistence, and necessity and
     contingency for the *concept of modality.*
 
-Emotions
---------
+## Emotions
 
 Emotions vs. feelings:
 
@@ -513,8 +487,7 @@ distinctive to that culture. The net result is that these social
 influences are integral elements in the construction of human emotions:
 hence the notion of emotions as social constructs.**
 
-Is there a spiritual reality - Religion
-=======================================
+# Is there a spiritual reality - Religion
 
 -   A means to achieve ultimate spiritual transformation. And such a
     spiritual quest necessarily involves what we think, feel, and do.
@@ -534,8 +507,7 @@ Is there a spiritual reality - Religion
     endorses these principles. That removes moral values from the level
     of human-to-human debate and raises it to a spiritual level.
 
-A Brief Survey of World Religions
----------------------------------
+## A Brief Survey of World Religions
 
 ### Hinduism
 
@@ -821,8 +793,7 @@ The Five Pillars spell out the way of Muslim life and its purposes:
     again, similar to fasting during Ramadan, the purpose is to heighten
     the pilgrim s devotion to God and to His revealed will.
 
-"Leap of faith" Soren Kierkegaard
----------------------------------
+## "Leap of faith" Soren Kierkegaard
 
 > Then how do we achieve a confidence in God s existence? Kierkegaard
 > says we must let go of our efforts to prove God s existence with
@@ -838,8 +809,7 @@ The Five Pillars spell out the way of Muslim life and its purposes:
 > of the relationship for the authentic emotions to be released and
 > suffuse our shared experiences.
 
-ETHICS
-======
+# ETHICS
 
 The study of ethics is derived from the ancient Greek word ethos, which
 refers to moral purpose or character as in a person of upstanding
@@ -917,8 +887,7 @@ standard of evaluation and justification than other types **The point is
 that our moral beliefs, whether openly acknowledged or implicit, have
 real-world consequences.**
 
-Ethical egoism
---------------
+## Ethical egoism
 
 Ayn Rand
 
@@ -946,8 +915,7 @@ Again ethical egoism
 > independently of God s commands (though it is presumably consistent
 > with divine moral values)?
 
-Character: Virtue Ethics
-------------------------
+## Character: Virtue Ethics
 
 For Aristotle and other believers in virtue ethics, it is the
 cultivation of a virtuous character that is the goal of ethics, to
@@ -972,8 +940,7 @@ as a prudent man would determine it.
 
 ![](media_Thinking_critcal_about_profound_ideas/media/image12.png)
 
-Existentialism
---------------
+## Existentialism
 
 For existentialism the questions are more along the lines of: How do I
 live my life authentically? How can I create myself to be a uniquely

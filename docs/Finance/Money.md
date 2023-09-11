@@ -1,7 +1,8 @@
 ![](media_Money/media/image1.png)
 
-What is money?
-==============
+# 
+
+# What is money?
 
 A dollar, whether under a Gold Standard or not, is something that would
 be intimately familiar to the faceless bureaucrats of the International
@@ -87,8 +88,7 @@ of two things.**
 Both these factors are determined not technologically or physically but
 by the general levels of trust and confidence.
 
-History commodity vs system
----------------------------
+## History commodity vs system
 
 Looking at the bartering example from Adam Smith's book. In every case,
 these were examples of trade that was accounted for in pounds,
@@ -137,8 +137,7 @@ an integral part of our economies. When we try to understand money, we
 are like the fish of the Chinese proverb, trying to know the very water
 in which it moves.
 
-Bank closure Ireland
---------------------
+## Bank closure Ireland
 
 On 4 May 1970, a prominent notice appeared in Ireland's leading daily
 newspaper, the *Irish Independent*, with a simple but alarming title:
@@ -162,8 +161,7 @@ and clearing need not be the officially sanctioned one. The official
 system---the banks---was suspended for the best part of seven months.
 But money did not disappear.
 
-History of numbers, accounting and language
--------------------------------------------
+## History of numbers, accounting and language
 
 In Mesopotamia, Schmandt-Besserat realised, a complex system of clay
 tokens had enabled this ancient method to attain a previously unknown
@@ -199,8 +197,7 @@ individual\] frequently promotes that of the society more effectually
 than when he really intends to promote it"---is so famous that it has
 long ago taken on a life of its own
 
-Banks and intermediators
-------------------------
+## Banks and intermediators
 
 During the 14-16 a hierarchical organisation of credit was established
 as a predecessor to banking and an alternative to state/monarchy
@@ -286,8 +283,7 @@ the way that money organises the distribution of economic risk in
 society---by making a simultaneous promise of stability and
 freedom---has made it epidemically successful throughout history.
 
-Creation of the bank of England (around 1650)
----------------------------------------------
+## Creation of the bank of England (around 1650)
 
 To be granted the privilege of note issue by the crown (to merchants or
 others), which would anoint the liabilities of a private bank with the
@@ -307,16 +303,14 @@ England. Money depends on social trust, and "\[c\]redit in business is
 like loyalty in government," wrote Bagehot in a famous comparison,
 "\[it\] is a power which may grow, but cannot be constructed."
 
-Supply and demand
-=================
+# Supply and demand
 
 ![](media_Money/media/image2.png)
 
 ![Supply versus demand: how to set your pricing \| New Frontiers
-programme](C:\scripts\dirkswiki\docs\Finance\media_Money/media/image3.jpeg)
+programme](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image3.jpeg)
 
-Central bank 
--------------
+## Central bank 
 
 Usually, the central bank will try to maintain its target interest rate
 by pumping reserve money into or out of the banks. This affects demand
@@ -346,22 +340,19 @@ rates are higher, the opposite is true.
 
 ![](media_Money/media/image4.png)
 
-Increase money supply
----------------------
+## Increase money supply
 
 ![](media_Money/media/image5.png)
 
 ![](media_Money/media/image6.png)
 
-Government
-==========
+# Government
 
 ![](media_Money/media/image7.png)
 
 ![](media_Money/media/image8.png)
 
-Money
-=====
+# Money
 
 Money must have (people must be confident and trust that if they accept
 money, they can use it to pay for good) ...
