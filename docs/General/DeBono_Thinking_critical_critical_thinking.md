@@ -9,7 +9,7 @@ critical thinking (and of personal integrity, for that matter).
 -   We must be pragmatic (and thus adopt effective measures for moving
     toward our ideals).
 
-# Thinking, feeling and wanting
+## Thinking, feeling and wanting
 
 **It is important to recognize that the mind is composed of three
 functions:**
@@ -36,7 +36,7 @@ rethinking our thinking, we may change our thinking. When our thinking
 changes, our feelings and desires will shift in accordance with our
 thinking.**
 
-## Changing negative feelings caused by irrational thinking
+### Changing negative feelings caused by irrational thinking
 
 1.  Identify a feeling you have experienced that you suspect might be
     irrational (a feeling such as irritability, resentment, arrogance,
@@ -60,9 +60,9 @@ thinking.**
     that is rational. Actively rehearse the thinking that represents a
     rational response.
 
-## 
+### 
 
-## Changing irrational behavior grounded in irrational desires or motivations
+### Changing irrational behavior grounded in irrational desires or motivations
 
 1.  Identify the questionable behavior (behavior that is getting you in
     trouble, causing problems for you, or causing problems for someone
@@ -79,7 +79,7 @@ thinking.**
 
 5.  Actively attack the unreasonable thinking with reasonable thinking.
 
-# A well-cultivated critical thinker...
+## A well-cultivated critical thinker...
 
 -   raises vital questions and problems, formulating them clearly and
     > precisely;
@@ -177,11 +177,11 @@ thinking.**
 > fair-minded thinkers in these circumstances. The penalties for
 > nonconformity can be severe.
 
-## The Elements of Thought in Relationship
+### The Elements of Thought in Relationship
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image3.png)![](media_DeBono_Thinking_critical_critical_thinking/media/image4.png)
 
-### Our purpose affects the manner in which we ask questions (What is our purpose?)
+#### Our purpose affects the manner in which we ask questions (What is our purpose?)
 
 All reasoning has a purpose.
 
@@ -197,7 +197,7 @@ All reasoning has a purpose.
 -   Check periodically to be sure you are still focused on your purpose
     and haven\'t wandered from your target.
 
-### The manner in which we ask questions affects the information we gather (What is the key question here?)
+#### The manner in which we ask questions affects the information we gather (What is the key question here?)
 
 All reasoning is an attempt to figure out something, to settle some
 question, solve some problem.
@@ -217,7 +217,7 @@ question, solve some problem.
 -   Think through the complexities of the question (think deeply through
     the question).
 
-### The information we gather affects the way we interpret it (What data do we need to make this decision?):
+#### The information we gather affects the way we interpret it (What data do we need to make this decision?):
 
 All reasoning is based on data, information, and evidence.
 
@@ -233,7 +233,7 @@ All reasoning is based on data, information, and evidence.
 -   Make sure, especially, that you have considered all significant
     information relevant to the issue.
 
-### The way we interpret information affects the way we conceptualize it (Is there another way to interpret these data?):
+#### The way we interpret information affects the way we conceptualize it (Is there another way to interpret these data?):
 
 All reasoning is expressed through, and shaped by, concepts and ideas.
 
@@ -247,7 +247,7 @@ All reasoning is expressed through, and shaped by, concepts and ideas.
 -   Use concepts justifiably (not distorting their established
     meanings).
 
-### The way we conceptualize information affects the assumptions we make (Do we need to question that? What other points of view do we need to consider?):
+#### The way we conceptualize information affects the assumptions we make (Do we need to question that? What other points of view do we need to consider?):
 
 All reasoning is done from some point of view.
 
@@ -258,7 +258,7 @@ All reasoning is done from some point of view.
 
 -   Strive to be fair-minded in evaluating all points of view.
 
-### The assumptions we make affect the implications that follow from our thinking (What are we taking for granted here?):
+#### The assumptions we make affect the implications that follow from our thinking (What are we taking for granted here?):
 
 All reasoning is based on assumptions.
 
@@ -267,7 +267,7 @@ All reasoning is based on assumptions.
 
 -   Consider how your assumptions are shaping your point of view.
 
-### The implications that follow from our thinking affect the way we see things, our point of view:
+#### The implications that follow from our thinking affect the way we see things, our point of view:
 
 All reasoning contains inferences or interpretations by which we draw
 conclusions and give meaning to data.
@@ -289,11 +289,11 @@ All reasoning leads somewhere or has implications and consequences.
 
 -   Consider all possible significant consequences.
 
-## Assumptions vs. Inferences
+### Assumptions vs. Inferences
 
 ![](media_DeBono_Thinking_critical_critical_thinking/media/image5.png)
 
-## Behavior of critical thinkers
+### Behavior of critical thinkers
 
 When they read, they see the text as a verbal representation of the
 thinking of the author. They strive to enter the writer\'s point of
@@ -316,7 +316,7 @@ view as a threat to their own beliefs. They see **all beliefs as subject
 to change in the face of new evidence or better reasoning**. They see
 themselves as lifelong learners.
 
-# The Psychology of Intelligence Analysis:
+## The Psychology of Intelligence Analysis:
 
 What people in general perceive, and how readily they perceive it, are
 strongly influenced by their past experience, education, cultural
@@ -355,9 +355,9 @@ also facilitates assimilation.**
 
 *Wife and mother in-law*
 
-## 3 distinct memory processes:
+### 3 distinct memory processes:
 
-### Sensory information storage
+#### Sensory information storage
 
 > SIS holds sensory images for several tenths of a second after they are
 > received by the sensory organs. The functioning of SIS may be observed
@@ -369,7 +369,7 @@ also facilitates assimilation.**
 > to work on processing a sensory event for longer than the duration of
 > the event itself.
 
-### Short-term memory
+#### Short-term memory
 
 Information passes from SIS into short-term memory, where it is held for
 only a few seconds or minutes. Whereas SIS holds the complete image, STM
@@ -408,7 +408,7 @@ in STM, people cannot simultaneously add new items. The severe
 limitation on the amount of information retainable in STM at any one
 time is physiological, and there is no way to overcome it.
 
-### Long-term memory
+#### Long-term memory
 
 Some information retained in STM is processed into long-term memory.
 This information on past experiences is filed away in the recesses of
@@ -425,7 +425,7 @@ there in sensory information storage or short-term memory. They can only
 retrieve their interpretation of what they thought was there as stored
 in LTM.**
 
-## Organization of Information in memory
+### Organization of Information in memory
 
 The three memory processes comprise the storehouse of information or
 database that we call memory, but the total memory system must include
@@ -490,7 +490,7 @@ links between them in the spider web of memory that hang together so
 strongly that they can be retrieved and used more or less as a single
 unit.**
 
-## Getting Information Into and Out of Long-Term Memory
+### Getting Information Into and Out of Long-Term Memory
 
 **The key factor in transferring information from short-term to
 long-term memory is the development of associations between the new
@@ -526,7 +526,7 @@ Multiattribute Utility Analysis (WeightingFactors_WeightedAverage.xlsx)
 
 Pairwise Comparison (PairedComparison_Analysis.xlsx)
 
-## Step-by-Step Outline of Analysis of Competing Hypotheses
+### Step-by-Step Outline of Analysis of Competing Hypotheses
 
 1.  Identify the possible hypotheses to be considered. Use a group of
     analysts with different perspectives to brainstorm the
@@ -560,9 +560,9 @@ Pairwise Comparison (PairedComparison_Analysis.xlsx)
 
 > ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_DeBono_Thinking_critical_critical_thinking/media/image8.png)
 
-# De Bono\`s thinking course
+## De Bono\`s thinking course
 
-## PMI (Plus Minus Interesting)
+### PMI (Plus Minus Interesting)
 
 -   The PMI is an attention directing tool. Direct your attention to
     plus, minus and interesting points about a subject in order one
@@ -627,12 +627,12 @@ I:
 
 4.  Interesting to see whether the idea would be enforceable
 
-## APC (alternatives, choices, possibilities)
+### APC (alternatives, choices, possibilities)
 
 Encourage to find additional alternative ways even once a seemingly good
 solution has been found.
 
-## The brain is a pattern matching machine
+### The brain is a pattern matching machine
 
 The mind works to make sense of confusion and uncertainty. It works to
 recognize familiar patterns, once such a pattern is recognized the mind
@@ -650,14 +650,14 @@ same way as a driver follows a familiar road.
 Unless there are competing patterns then anything remotely similar to
 the established pattern will be treated as if it were that pattern.
 
-## How the mind works as an information processing system
+### How the mind works as an information processing system
 
 Perception is the way we look at things. Processing is what we do with
 that perception.
 
 ![](media_DeBono_Thinking_critical_critical_thinking/media/image9.png)
 
-### The mind is an active Information system
+#### The mind is an active Information system
 
 The first arriving ball (information) alters the surface. The altered
 surface then affects the way in which further balls (information) is
@@ -684,7 +684,7 @@ Sequence in which the information arrives determines the pattern:
 
 ![](media_DeBono_Thinking_critical_critical_thinking/media/image10.png)
 
-## Lateral thinking
+### Lateral thinking
 
 *"The vertical thinker says: 'I know what lam looking for.' The lateral
 thinker says: 'I am looking but I won't know what I am looking for until
@@ -718,7 +718,7 @@ then the better exercise of logic could have got us there in the first
 place. Lateral thinking seeks to achieve the pattern-switching that
 occurs in insight.
 
-### Creative hit list
+#### Creative hit list
 
 This is a formal target list of focuses that need creative thinking. The
 list would be available on bulletin boards or a website.
@@ -733,7 +733,7 @@ The list may be changed but some items may be more permanent. There
 should be about 10 items on the list. The List provides a permanent
 background demand that emphasizes that creativity is always needed.
 
-### Concepts
+#### Concepts
 
 You can identify the concept that seems to be in use and then seek to
 find other ways of delivering the same concept.
@@ -791,7 +791,7 @@ into action with specific ideas.
 > charges for entering the city (as in London); no provision for
 > parking; poor-quality
 
-### Stepping stone
+#### Stepping stone
 
 Movement is for moving across channels. We use judgment for staying
 within existing channels but are also able to use movement when we want
@@ -808,7 +808,7 @@ obviously cannot depend on the soundness of the path by which it was
 reached. Nevertheless the solution may still make sense in its own right
 without having to depend on the pathway by which it was reached. 
 
-### Po provocation operation
+#### Po provocation operation
 
 Self-organizing systems tend to settle down in a stable equilibrium,
 which is called a local equilibrium. They remain in that state until
@@ -840,7 +840,7 @@ Movement is obtained in a variety of ways:
 -   You can imagine the provocation put into action and see what
     happens.
 
-##### Escape
+###### Escape
 
 Focus on things we take for granted and wonder whether they are indeed
 the only or best way of doing things. E.g. A restaurant without chairs
@@ -854,13 +854,13 @@ those we can try:
 
 -   Finding an alternative way of achieving the same end
 
-##### Reversal
+###### Reversal
 
 Here we take a normal relationship and reverse it. Filters are there to
 remove some of the tar in cigarettes. \'Po, we add something instead of
 removing it.\'
 
-##### Distortion
+###### Distortion
 
 Here there is a change in a sequence or a change in relationships.
 Normally, you pick up the phone, dial the number and speak. \'Po, you
@@ -868,7 +868,7 @@ speak before you dial.\' This can lead to two ideas. The first is
 voice-activated dialing -- which exists. The second idea is to build a
 simple tape recorder into the phone.
 
-##### Exaggeration
+###### Exaggeration
 
 This is an exaggeration, upwards or downwards of any dimension. Po,
 telephone calls can only last two minutes.\' This suggests a compression
@@ -877,14 +877,14 @@ message is compressed so as to occupy less of the line time. The
 exaggeration must be unreasonable otherwise it has little provocative
 effect.
 
-##### Wishful thinking
+###### Wishful thinking
 
 The provocation is in the form of \'wouldn\'t it be nice if . . .\'. The
 provocation must be more than just a desire. It would not be very
 provocative to say \'Po, the trains were always on time\'. But it would
 be provocative to say \'Po, you got paid for waiting for a train\'.
 
-### Random stimulation method:
+#### Random stimulation method:
 
 A random input (word, picture. We may also extract a function from the
 word (e.g. elephant very large) serves to tap into lines of thought that
@@ -893,7 +893,7 @@ certain area along the traditional route. If we toss in a random word it
 has its own associations. Sooner or later these link up with the
 associations of the problem we are trying to solve.
 
-###  Information and thinking
+####  Information and thinking
 
 It is only our lack of complete information that makes it necessary for
 us to think. The more information we have the better will our thinking
@@ -902,12 +902,12 @@ we can never have complete information one of those is the future.
 
 Information is no substitute for thinking and vice versa.
 
-#### CAF Consider All Factors
+##### CAF Consider All Factors
 
 Think about all factors related to the problem. The emphasis is on "What
 has been left out?" and "What else should be consider?"
 
-#### C & S
+##### C & S
 
 Consider the consequences of an action or decision. Timeframes below can
 be adjusted to suit the problem at hand. The different time zones are
@@ -921,7 +921,7 @@ focused upon on turn (like for PMI)
 
 4.  Long-term \>20 years
 
-#### Dense reading and dense listening
+##### Dense reading and dense listening
 
 Good listener:
 
@@ -937,7 +937,7 @@ Good listener:
 Good reading is like good listening, reading between the lines and
 wondering why something has been expressed in a particular way.
 
-#### Questions
+##### Questions
 
 Ask the right questions. Shooting questions (focused questions where we
 know what we are aiming at and Fishing questions (more open questions))
@@ -945,7 +945,7 @@ know what we are aiming at and Fishing questions (more open questions))
 Negative information is important. In some cases negative information
 can help to exclude a whole range of possibilities.
 
-#### Fi-Fo
+##### Fi-Fo
 
 Survey of info that is already available and that which is still
 required.
@@ -956,9 +956,9 @@ All the implications and logical inferences are extracted from it.
 **Information Out:** The gaps in the information are examined, defined
 and spelled out.
 
-### Thinking methodology
+#### Thinking methodology
 
-#### Clash system
+##### Clash system
 
 Western civilization has developed the clash system in which two
 opposing views fight it out. This covers argument, debate. The method is
@@ -978,7 +978,7 @@ Disadvantages of the clash system:
 -   In order to change something an existing idea must be attacked and
     shown to be inadequate
 
-#### Eclectics
+##### Eclectics
 
 Seeks to pull out of the situation what is of value -- no matter on
 which side it is to be found. There are no opposing ideas to begin with.
@@ -986,7 +986,7 @@ There is joint listening and joint exploration. It is only later that
 ideas start to emerge. We accept possibilities lay them out in parallel
 and then seek to design forwards.
 
-##### EBS Examine both sides
+###### EBS Examine both sides
 
 What is really the other point of view? The exploration is neutral.
 Participants are encouraged to explore both sides in such a way that
@@ -996,7 +996,7 @@ view they actually favor.
 Doing an EBS does not exclude the holding of a point of view, but this
 comes after the exploration not before it.
 
-##### ADI Agreement, Disagreement Irrelevance
+###### ADI Agreement, Disagreement Irrelevance
 
 The two sides are compared (from EBS) and the areas of agreement are
 noted. Next the areas of disagreement are noted and finally the areas of
@@ -1009,14 +1009,14 @@ the argument situation. Isolation the area of disagreement means that it
 can be further examined in order to find out how basic the disagreement
 might be.
 
-##### Logic bubble
+###### Logic bubble
 
 A logic bubble is that bubble of perception within which a person is
 acting. The bubble includes perception of circumstances, structure,
 context and relationship. In any situation it is useful to map out the
 logic bubbles of the other people involved.
 
-##### OPV other people\`s view
+###### OPV other people\`s view
 
 In using the tool the thinker tries to put himself in the other
 person\`s shoes in order to look at the world from that position. This
@@ -1028,7 +1028,7 @@ mean putting into their mouths complaints and irrationality in order to
 condemn their point of view. It means trying to look objectively at the
 world from the other points of view.
 
-##### Thinking and/vs. emotions/gut feeling
+###### Thinking and/vs. emotions/gut feeling
 
 Three possible ways in which thinking/perception can interact with
 emotions.
@@ -1047,7 +1047,7 @@ emotions.
 Values are the links between events and our emotions they convert events
 into matters about which we feel strongly.
 
-### HV and LV High values and low values
+#### HV and LV High values and low values
 
 Divide the values occurring in a situation into high and low values.
 High values are the one that determine action and the low values are the
@@ -1057,7 +1057,7 @@ that are inherent in a situation the conflict of values as they are
 perceived by the people involved and the source of these values. Pull
 out the value laden words from a written or verbal conversation.
 
-### Six thinking hats
+#### Six thinking hats
 
 **Parallel thinking**
 
@@ -1081,7 +1081,7 @@ Method:
 There is no fixed order of use. You can choose the sequence you want. In
 training, some of the more useful sequences will be suggested.
 
-#### Blue Hat
+##### Blue Hat
 
 This is the organizing or control hat. It is rather like the conductor
 of an orchestra. It is used right at the beginning of a discussion to
@@ -1091,7 +1091,7 @@ disciplinary way. People are reminded of the hat in use if they stray
 from that mode. The Blue Hat is used at the end for the outcome, summary
 and next steps.
 
-#### White Hat
+##### White Hat
 
 Think of white and paper and printout. The White Hat is concerned with
 information. What information do we have? What information is missing?
@@ -1100,7 +1100,7 @@ can be asked under the White Hat. If conflicting information is put
 forward, there is no argument. Both versions are put down in parallel
 and then discussed when that information needs to be used.
 
-#### Red Hat
+##### Red Hat
 
 Think of red and fire and warmth. The Red Hat is to do with feelings,
 emotions, intuition. Under the Red Hat all participants are invited to
@@ -1110,7 +1110,7 @@ need to justify or explain them. They exist and can therefore be put
 forward. The Red Hat period is very brief and simply allows these things
 to be put forward.
 
-#### Black Hat
+##### Black Hat
 
 Think of the black of a judge\'s robes. The Black Hat is for critical
 thinking. What is wrong with the idea? What are its weaknesses? The
@@ -1120,7 +1120,7 @@ meeting are concentrated under the Black Hat. The Black Hat is very
 useful, possibly the most useful of all the hats, but it has its defined
 place.
 
-#### Yellow Hat
+##### Yellow Hat
 
 Think of sunshine and optimism, dawn and a new day. This focuses on the
 positive. What are the benefits? The values? How could it be done?
@@ -1132,7 +1132,7 @@ sensitivity, creativity can be a waste of time. I have sat in on
 meetings where good ideas have been generated but no one has been able
 to see the value of the ideas.
 
-#### Green Hat
+##### Green Hat
 
 Think of vegetation, growth and branches. This is directly concerned
 with creativity. When the Green Hat is in use, participants are expected
@@ -1142,7 +1142,7 @@ considering alternatives, both the obvious ones and new ones. It means
 generating possibilities. It means modifying and changing a suggested
 idea, possibly through the deliberate use of lateral thinking tools.
 
-# De Bono: The Six Value Medals
+## De Bono: The Six Value Medals
 
 In a way, a perception is an unconscious about how we see the world
 around us. Because they are unconscious we have no control over our

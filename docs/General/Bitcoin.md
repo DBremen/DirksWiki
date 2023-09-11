@@ -51,7 +51,7 @@ Invented in 2009
 
     ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image3.png)
 
-# Blockchain
+## Blockchain
 
 https://www.blockchain.com/explorer
 
@@ -59,7 +59,7 @@ https://www.blockchain.com/explorer
 
 Block = blob of transactions during approx. 10 minutes
 
-# Bitcoin wallet
+## Bitcoin wallet
 
 ![](media_Bitcoin/media/image4.png)
 
@@ -74,7 +74,7 @@ Block = blob of transactions during approx. 10 minutes
 
 > Bitcoin.org / choose your wallet
 
-# Bitcoin mining
+## Bitcoin mining
 
 Ledger = transaction history based on blockchain technology
 

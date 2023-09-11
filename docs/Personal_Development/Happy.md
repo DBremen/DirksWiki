@@ -1,6 +1,6 @@
-### Based on [\"The Science of Happiness\" (GG101x on edX)](https://www.youtube.com/playlist?list=PL1t8gs-WJprDHaTTZozWnC6O56n9jHD0A) and "A Life of Happiness and Fulfillment" course on coursera (https://www.coursera.org/learn/happiness)
+#### Based on [\"The Science of Happiness\" (GG101x on edX)](https://www.youtube.com/playlist?list=PL1t8gs-WJprDHaTTZozWnC6O56n9jHD0A) and "A Life of Happiness and Fulfillment" course on coursera (https://www.coursera.org/learn/happiness)
 
-# Happy
+## Happy
 
 What can it mean:
 
@@ -20,7 +20,7 @@ taking yourself so seriously that it robs you of the fun of living.
     new, interesting experiences that promote curiosity or transform how
     you think.
 
-## Books:
+### Books:
 
 -   Working Identity Herminia Ibarra
 
@@ -30,7 +30,7 @@ taking yourself so seriously that it robs you of the fun of living.
 
 -   Influence practice and science
 
-## Devalue happiness
+### Devalue happiness
 
 \- even though happiness is considered important it is deprioritized
 over other things (salad bar) sacrificing happiness for the sake of
@@ -47,7 +47,7 @@ other goals
 \- focus on the means rather than the end goal (e.g. money vs.
 happiness)
 
-### Habit
+#### Habit
 
 Prioritize but do not pursue happiness
 
@@ -66,12 +66,12 @@ Define happiness
 >
 > Believing in the good of people
 
-## Chasing superiority
+### Chasing superiority
 
 Flow happens when the task is not overly demanding but still challenges
 you.
 
-### Get a hobby that challenges me and do it 2-3 hours a week
+#### Get a hobby that challenges me and do it 2-3 hours a week
 
 -   Writing
 
@@ -79,13 +79,13 @@ you.
 
 -   Instrument
 
-### Get more flow in your job
+#### Get more flow in your job
 
-### Express gratitude to people that helped me in my life
+#### Express gratitude to people that helped me in my life
 
-## The need to be loved -- the need to go it alone
+### The need to be loved -- the need to go it alone
 
-### Develop healthy relationships
+#### Develop healthy relationships
 
 Be neither needy nor avoidant
 
@@ -105,7 +105,7 @@ Self-compassionate
 
 Gratitude
 
-## Four signs a marriage will not work
+### Four signs a marriage will not work
 
 Based on study of young couple's conversations early in the marriage and
 following them for a decade:
@@ -114,7 +114,7 @@ following them for a decade:
 
 ![](media_Happy/media/image3.png)
 
-## Attachment styles
+### Attachment styles
 
 The attachment style, resulting from early social experiences, affects
 brain responses to positive and negative social input, e.g., a scowl or
@@ -137,7 +137,7 @@ Anxious
 
 ![](media_Happy/media/image7.png)
 
-## Being overly control seeking
+### Being overly control seeking
 
 -   Control is important and to a certain extent healthy and good
 
@@ -167,7 +167,7 @@ Anxious
 
 -   Surround yourself with people of diverse background and skills
 
-### Take control of your thoughts in order to control your emotions
+#### Take control of your thoughts in order to control your emotions
 
 The desire for external control usually comes from a lack of ability for
 internal control (through controlling your feelings through controlling
@@ -176,7 +176,7 @@ your thoughts)
 when people are stressed, they have a lack of internal control and try
 to compensate it through external control (clean up\...)
 
-### Tactics for taking control of your thoughts
+#### Tactics for taking control of your thoughts
 
 -   avoid situations that evoke unwanted feelings
 
@@ -186,7 +186,7 @@ to compensate it through external control (clean up\...)
 
 -   reinterpret the situation
 
-### Leading a healthy lifestyle
+#### Leading a healthy lifestyle
 
 -   appreciate uncertainty and lack of control
 
@@ -196,9 +196,9 @@ to compensate it through external control (clean up\...)
 
 -   sleep well
 
-## Distrust in life and others
+### Distrust in life and others
 
-### Distrusting Others and Why Trust is Important
+#### Distrusting Others and Why Trust is Important
 
 -   Generally, people are more trustworthy than expected
 
@@ -217,7 +217,7 @@ to compensate it through external control (clean up\...)
 -   Make people who violate your trust accountable (no revenge, no
     feeling of superiority)
 
-### Distrusting life
+#### Distrusting life
 
 -   Don't rely on outcomes for happiness. A good outcome may lead to
     negative things and a negative outcome may lead to good things
@@ -246,7 +246,7 @@ to compensate it through external control (clean up\...)
 
 -   Believe that everything happens for a good reason
 
-## MBA
+### MBA
 
 Mastery 
 

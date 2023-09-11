@@ -1,4 +1,4 @@
-# THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE
+## THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE
 
 This new level of thinking is what Seven Habits of Highly Effective
 People is about. It\'s a principle-centered, character-based,
@@ -91,7 +91,7 @@ That\'s why Habits 1, 2, and 3 move a person from dependence to
 independence. They are the \"Private Victories,\" the essence of
 character growth.
 
-# The habits
+## The habits
 
 They are also habits of effectiveness because they are based on a
 paradigm of effectiveness that is in harmony with a natural law, a
@@ -118,9 +118,9 @@ To maintain the P/PC Balance, the balance between the golden egg
 Capability) is often a difficult judgment call. But I suggest it is the
 very essence of effectiveness. It balances short term with long term.
 
-# Private Victory 
+## Private Victory 
 
-## Habit 1: Be Proactive \-- Principles of Personal Vision
+### Habit 1: Be Proactive \-- Principles of Personal Vision
 
 Between stimulus and response is our greatest power \-- the freedom to
 choose.
@@ -133,7 +133,7 @@ the degree to which our thoughts and actions are in harmony with them.
 And we have independent will \-- the ability to act based on our
 self-awareness, free of all other influences.
 
-### Proactivity defined
+#### Proactivity defined
 
 It means that as human beings, we are responsible for our own lives. Our
 behavior is a function of our decisions, not our conditions. We can
@@ -181,7 +181,7 @@ responsibility for our own lives. By making and keeping promises to
 ourselves and others, little by little, our honor becomes greater than
 our moods.
 
-## Habit 2: Begin with the End in Mind
+### Habit 2: Begin with the End in Mind
 
 The application of \"Begin with the End in Mind\" is to begin today with
 the image, picture, or paradigm of the end of your life as your frame of
@@ -200,7 +200,7 @@ success only to discover it\'s leaning against the wrong wall. If the
 ladder is not leaning against the right wall, every step we take just
 gets us to the wrong place faster.**
 
-### Personal mission statement
+#### Personal mission statement
 
 People can\'t live with change if there\'s not a changeless core inside
 them. The key to the ability to change is a changeless sense of who you
@@ -251,7 +251,7 @@ circumstances. But fundamentally, your mission statement becomes your
 constitution, the solid expression of your vision and values. It becomes
 the criterion by which you measure everything else in your life.
 
-## Habit 3: Put First Things First
+### Habit 3: Put First Things First
 
 Habit 3, then, is the second creation \-- the physical creation. It\'s
 the fulfillment, the actualization, the natural emergence of Habits 1
@@ -353,7 +353,7 @@ Quadrant II organizing involves four key activities.
 > such \"efficiency\" creates new problems and seldom resolves the
 > deepest concern.
 
-### Delegation
+#### Delegation
 
 Stewardship delegation involves clear, up-front mutual understanding and
 commitment regarding expectations in five areas.
@@ -387,7 +387,7 @@ commitment regarding expectations in five areas.
     natural consequences tied into the overall mission of an
     organization.
 
-# Public Victory
+## Public Victory
 
 Integrity includes but goes beyond honesty. Honesty is telling the truth
 \-- in other words, conforming our words to reality. Integrity is
@@ -398,7 +398,7 @@ important ways to manifest integrity is to be loyal to those who are not
 present. In doing so, we build the trust of those who are present. When
 you defend those who are absent, you retain the trust of those present.
 
-## Habit 4: Think Win-Win \-- Principles of Interpersonal Leadership
+### Habit 4: Think Win-Win \-- Principles of Interpersonal Leadership
 
 Win-win is not a technique; it\'s a total philosophy of human
 interaction. In fact, it is one of six paradigms of interaction. The
@@ -442,7 +442,7 @@ four-step process:
 
 4.  Identify possible new options to achieve those results.
 
-## Habit 5: Seek First to Understand, Then to Be Understood
+### Habit 5: Seek First to Understand, Then to Be Understood
 
 Most people do not listen with the intent to understand; they listen
 with the intent to reply. They\'re either speaking or preparing to
@@ -453,7 +453,7 @@ tell you about my experience.\" They\'re constantly projecting their own
 home movies onto other people\'s behavior. They prescribe their own
 glasses for everyone with whom they interact.
 
-### Emphatic listening
+#### Emphatic listening
 
 When I say empathic listening, I am not referring to the techniques of
 \"active\" listening or \"reflective\" listening, which basically
@@ -492,7 +492,7 @@ world as he sees it, until you develop the pure desire, the strength of
 personal character, and the positive Emotional Bank Account, as well as
 the empathic listening skills to do it.
 
-## Habit 6: Synergize
+### Habit 6: Synergize
 
 When properly understood, synergy is the highest activity in all life
 \-- the true test and manifestation of all the other habits put
@@ -502,7 +502,7 @@ communication on the toughest challenges we face in life. What results
 is almost miraculous. We create new alternatives \-- something that
 wasn\'t there before.
 
-## Habit 7: Sharpen the Saw - Principles of Balanced Self-Renewal
+### Habit 7: Sharpen the Saw - Principles of Balanced Self-Renewal
 
 Habit 7 is personal PC. It\'s preserving and enhancing the greatest
 asset you have \-- you. It\'s renewing the four dimensions of your

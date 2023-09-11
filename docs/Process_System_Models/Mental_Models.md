@@ -1,4 +1,4 @@
-# Exponential backoff
+## Exponential backoff
 
 Originally used for TCP connections but can also be used in other
 circumstances.
@@ -7,7 +7,7 @@ network to accommodate potentially any number of competing signals.
 Since the maximum delay length (2, 4, 8, 16...) forms an exponential
 progression, it's become known as Exponential Backoff.
 
-# TCP connections
+## TCP connections
 
 communication lapses are rarely so dire, and the need for certainty
 rarely so absolute. In TCP, a failure generally leads to retransmission
@@ -46,7 +46,7 @@ delayed but hopelessly gone, so it will resend that packet. At that
 point, the server (which has kept packets 102 and 103) will send an ACK
 saying "Ready for 104" to signal that the sequence has been restored.
 
-## TCP congestion handling
+### TCP congestion handling
 
 At the heart of TCP congestion control is an algorithm called Additive
 Increase, Multiplicative Decrease, or AIMD. Before AIMD kicks in, a new
@@ -63,9 +63,9 @@ little more, whoa, too much, cut way back, okay a little more, a little
 more..." Thus it leads to a characteristic bandwidth shape known as the
 "TCP sawtooth"---steady upward climbs punctuated by steep drops.
 
-# 
+## 
 
-# Scheduling
+## Scheduling
 
 In fact, the weighted version of Shortest Processing Time is a pretty
 good candidate for best general-purpose scheduling strategy in the face
@@ -85,7 +85,7 @@ algorithm.
 |-----|-----|-----|
 |     |     |     |
 
-# Optimal stopping
+## Optimal stopping
 
 When to stop searching. When there is no chance of rejection "secretary
 problem":
@@ -107,7 +107,7 @@ relative to the population at large will change the solution from the
 Look-Then-Leap Rule to the Threshold Rule and will dramatically boost
 your chances of finding the single best applicant in the group.
 
-# Mergesort
+## Mergesort
 
 Mergesort also has real applications in small-scale domestic sorting
 problems. Part of the reason why it's so widely used is that it can
@@ -121,7 +121,7 @@ the books.
 
 ![](media_Mental_Models/media/image3.png)
 
-# Probability distributions
+## Probability distributions
 
 ![](media_Mental_Models/media/image4.png)
 
@@ -164,7 +164,7 @@ Kenny Rogers famously advised that you've got to "Know when to walk away
 / Know when to run"---but for a memoryless distribution, there is no
 right time to quit. This may in part explain these games' addictiveness.
 
-# Central limit theorem
+## Central limit theorem
 
 We called this section "The Bell Curve," however, because the normal
 distribution is especially useful due to one of the handiest results in
@@ -176,7 +176,7 @@ a completely different distribution.
 
 ![undefined](media_Mental_Models/media/image6.png)
 
-# Decision matrices
+## Decision matrices
 
 Contrarian mindset (e.g. for start-up investors)
 
@@ -190,7 +190,7 @@ Contrarian mindset (e.g. for start-up investors)
 
 Reversible vs irreversible decisions
 
-# Adverse selection
+## Adverse selection
 
 When parties select transactions that they think will benefit them,
 based at least partially on their own private information, that's called
@@ -203,7 +203,7 @@ profiles, as life insurers do for smokers.
 
 ![](media_Mental_Models/media/image10.png)
 
-# Moral hazard
+## Moral hazard
 
 This phenomenon, known as moral hazard, is where you take on more risk,
 or hazard, once you have information that encourages you to believe you
@@ -223,7 +223,7 @@ to your risk profile, but they are more likely to take greater risks
 than you would on your own, simply because it isn't their money, and so
 losses do not impact their net worth as much.
 
-# Coase theorem
+## Coase theorem
 
 There are many ways to internalize negative externalities, including
 taxes, fines, regulation, and lawsuits. Smoking externalities are
@@ -262,7 +262,7 @@ open market provides low transaction costs.
 
 ![](media_Mental_Models/media/image11.png)
 
-# Emphasis
+## Emphasis
 
 **Learnt helplessness** tendency to stop trying to escape difficult
 situations because we have gotten used to difficult conditions over time
@@ -277,7 +277,7 @@ else\'s most respectful interpretation
 
 ![](media_Mental_Models/media/image12.png)
 
-## Veil of ignorance 
+### Veil of ignorance 
 
 Two primary principles supplement Rawls' veil of ignorance: the liberty
 principle and the difference principle.
@@ -297,17 +297,17 @@ ignorance and applying these principles can help us decide more fairly
 how the rules of society should be structured. And fairness, as Rawls
 and many others believe, is the essence of justice.
 
-# Survivor ship bias
+## Survivor ship bias
 
 ![](media_Mental_Models/media/image13.png)
 
 ![](media_Mental_Models/media/image14.png)
 
-# Deductive reasoning (from general to specific)
+## Deductive reasoning (from general to specific)
 
 ![](media_Mental_Models/media/image15.png)
 
-# Focus on avoiding mistakes instead of trying to be right all the time 
+## Focus on avoiding mistakes instead of trying to be right all the time 
 
 -   Try to be consistently not stupid.
 
@@ -315,20 +315,20 @@ and many others believe, is the essence of justice.
 
 -   Avoid disaster (e.g. running out of money)
 
-## Stay in circle of competence
+### Stay in circle of competence
 
 -   Know what you don't know
 
 -   Look for evidence that goes against your conclusion/view
 
-# Don't forget about randomness as a cause
+## Don't forget about randomness as a cause
 
 When bad things happen, we try to find causal explanations or something
 to blame. The more unexpected or negative we find an event, the more
 likely we are to look for explanations. We underestimate the influence
 of randomness.
 
-# Don't mistake cause and effect consider that a cause can have multiple effects and vice versa 
+## Don't mistake cause and effect consider that a cause can have multiple effects and vice versa 
 
 *We have tons of problems. We are losing customers, we can\'t deliver on
 time, our inventory system doesn\'t work.*
@@ -340,30 +340,30 @@ that we address the underlying cause and not act on symptoms that may
 look like causes. Maybe the symptoms were due to wrong policies or
 measuring instruments or goals, etc.
 
-# Think about opportunity cost
+## Think about opportunity cost
 
 -   If you say yes to one thing you say no to a million others.
 
 -   Don't compare investments that are below your baseline interest
 
-# Look for positive feedback loops
+## Look for positive feedback loops
 
 E.g. more creates more
 
 Could be also combining multiple reinforcing positive factors
 (coca-cola)
 
-# Learn from the masters in your field their mistakes and experiences
+## Learn from the masters in your field their mistakes and experiences
 
 When adopting from someone else make sure to understand the context they
 were living in / using when choosing their mindset/processes.
 
-# Use multi-disciplinary approaches to solve problems
+## Use multi-disciplinary approaches to solve problems
 
 Don't be the man with the hammer but chose the mental model(s)
 appropriate for the situation.
 
-# Kelly formula for optimal betting size
+## Kelly formula for optimal betting size
 
 ![](media_Mental_Models/media/image16.png)
 
@@ -380,13 +380,13 @@ Coin flip:
     -- W)/B**, where W is the win probability, B is the profit in the
     event of a win (20%), and A is the potential loss (also 20%).
 
-# Pareto = power law distro
+## Pareto = power law distro
 
 ![](media_Mental_Models/media/image17.png)
 
 ![](media_Mental_Models/media/image18.png)
 
-# Statistical decision theory
+## Statistical decision theory
 
 ![](media_Mental_Models/media/image19.png)
 
@@ -447,7 +447,7 @@ Applied to hypothesis testing
 
 ![](media_Mental_Models/media/image33.png)
 
-# Correlation and causation
+## Correlation and causation
 
 The correlation co-efficient measures the closeness of the data to the
 best fitting **straight-line.**
@@ -500,7 +500,7 @@ rate was lower (hard to get into).
 -   If the intervention leads to a different outcome in one group only
     > it\'s likely caused by it.
 
-# Bayes Theorem
+## Bayes Theorem
 
 Refine probability of an event occurring based on prior (base)
 probability. You come home after a weekend and find someone else\'s
@@ -509,7 +509,7 @@ cheating on you?
 
 ![](media_Mental_Models/media/image40.png)
 
-### LaPlace
+#### LaPlace
 
 How can we estimate the likelihood of winning in a raffle based on just
 a few tickets.
@@ -535,11 +535,11 @@ metaprobability of a 50% or greater chance of success).
 Count the number of times it has happened in the past plus one, then
 divide by the number of opportunities plus two.
 
-### Quasi Bayes approach to forecasting
+#### Quasi Bayes approach to forecasting
 
 ![](media_Mental_Models/media/image41.png)
 
-# Prospect theory
+## Prospect theory
 
 As opposed to utility theory takes into consideration human
 preferences/biases (loss and risk aversion)
@@ -550,7 +550,7 @@ Prospect = Psychologically conceivable possibility
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image43.png)![](media_Mental_Models/media/image44.png)
 
-# Common sources of mistakes and misjudgements
+## Common sources of mistakes and misjudgements
 
 -   **Base rate neglect**
 
@@ -723,9 +723,9 @@ associated the supplier with pleasant feelings.*
 -   **Over-influence by the combined effect** of many psychological
     tendencies operating together.
 
-## Misjudgements based on principles from physics and mathematics
+### Misjudgements based on principles from physics and mathematics
 
-### Systems thinking 
+#### Systems thinking 
 
 -   Failing to consider that actions have both intended and unintended
     consequences. Includes failing to consider secondary and higher
@@ -747,7 +747,7 @@ associated the supplier with pleasant feelings.*
 -   Overestimating predictive ability or using unknowable factors m
     making predictions.
 
-### Scale and limits 
+#### Scale and limits 
 
 -   Failing to consider that changes in size or time influence form,
     function and behavior.
@@ -769,7 +769,7 @@ example, there are a few large earthquakes, fires, avalanches, or
 cities, but many small ones. There are a few billionaires but many
 millionaires.
 
-### Causes 
+#### Causes 
 
 -   Not understanding what causes desired results.
 
@@ -813,7 +813,7 @@ consider both confirming and disconfirming evidence. Ask: What is the
 frequency of supporting cases compared to disconfirming cases? What is
 the relative frequency of this condition or disease in the population?
 
-### Two way contingency table
+#### Two way contingency table
 
 <table>
 <colgroup>
@@ -847,7 +847,7 @@ negative consequences like not diagnosing appendix conditions)</td>
 </tbody>
 </table>
 
-### Numbers and their meaning 
+#### Numbers and their meaning 
 
 -   Looking at isolated numbers - failing to consider relationships and
     magnitudes. Includes not using basic math to count and quantify.
@@ -880,7 +880,7 @@ disease by 25%.\"
 -   Underestimating the effect of exponential growth. Underestimating
     the time value of money.
 
-### Probabilities and number of possible outcomes 
+#### Probabilities and number of possible outcomes 
 
 -   Underestimating risk exposure in situations where relative frequency
     (or comparable data) and/or magnitude of consequences is unknown or
@@ -912,7 +912,7 @@ disease by 25%.\"
 **We should never risk something we have and need for something we
 don\'t need.**
 
-#### Expectation
+##### Expectation
 
 *A lottery has 100 tickets. Each ticket costs \$10. The cash price is
 \$500. Is it worthwhile for Mary to buy a lottery ticket?*
@@ -931,7 +931,7 @@ Expected value = p(win) \* pay-off - p(losing) \* pay-off(losing)
 
 -   99% chance of losing 10% and 1% chance of winning 490\$
 
-### Scenarios 
+#### Scenarios 
 
 -   Overestimating the probability of scenarios where all of a series of
     steps must be achieved for a wanted outcome. Also underestimating
@@ -999,7 +999,7 @@ of a percent (0.01 \* .1). Navigation system reliability is therefore
     factor depends on the consequences of failure, how well the risks
     are understood, systems characteristics and degree of control.
 
-### Coincidences and miracles 
+#### Coincidences and miracles 
 
 -   Underestimating that surprises and improbable events happen,
     somewhere, sometime, to someone, if they have enough opportunities
@@ -1014,7 +1014,7 @@ of a percent (0.01 \* .1). Navigation system reliability is therefore
 -   Failing to consider cases involving the absence of a cause or
     effect.
 
-### Reliability of case evidence 
+#### Reliability of case evidence 
 
 -   Overweighing individual case evidence and under-weighing the prior
     probability (probability estimate of an event before considering new
@@ -1044,7 +1044,7 @@ one\'s a green and 18 blue one\'s as green. The likelihood that the cab
 was actually green when he is saying it was is 31% (8/26). It seems the
 cab involved is more likely to have been blue.
 
-### Misrepresentative evidence 
+#### Misrepresentative evidence 
 
 -   Failing to consider changes in factors, context or conditions when
     using past evidence to predict likely future outcomes. Includes not
@@ -1067,4 +1067,4 @@ cab involved is more likely to have been blue.
     chance is involved unique outcomes tends to regress back to the
     average outcome.
 
-### 
+#### 

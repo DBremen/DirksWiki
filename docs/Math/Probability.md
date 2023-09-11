@@ -1,4 +1,4 @@
-# <https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/>
+## <https://learning.edx.org/course/course-v1:HarvardX+FC1x+1T2020/>
 
 <https://harvard.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2255a37adc-eaae-4aa6-8a06-ab25015a4ee8%22>
 (Steven Pinker)
@@ -13,7 +13,7 @@ a committee)
 
 ![](media_Probability/media/image1.png)
 
-# Counting sequences (ordered) or permutations
+## Counting sequences (ordered) or permutations
 
 How many numbers are in 1..10?
 
@@ -37,11 +37,11 @@ How many numbers between 23 and 283 are divisible by 5?
 
 2,000,000000 \* 7.3
 
-## Multiplication principle
+### Multiplication principle
 
 ![](media_Probability/media/image2.png)
 
-### With repitition
+#### With repitition
 
 How many combos can you make out of 3 pairs of shoes 7 tops and 2 pants
 =
@@ -58,7 +58,7 @@ First letter = 26; second letter = 26 possibilities...
 
 26^5^
 
-### w/o repetition (unique, permutations)
+#### w/o repetition (unique, permutations)
 
 w/o repetition means that once an object is chosen it can't be chosen
 again (e.g. a ball is not returned to its urn)
@@ -132,7 +132,7 @@ Sequence must start with a boy and alternate between sexes:
 
 > Or 8! \* 7!
 
-## Subtraction principle
+### Subtraction principle
 
 ![](media_Probability/media/image11.png)
 
@@ -197,9 +197,9 @@ adjacent
 
 81 -- (40 + 27 - 14) = 28
 
-# Counting (order does not matter) collections or combinations
+## Counting (order does not matter) collections or combinations
 
-## w/o repetition
+### w/o repetition
 
 The number of ways of choosing a collection of k objects without
 repetition from a set of n objects
@@ -290,7 +290,7 @@ Overall = 21\*15 = 315
 
 Overall options = 13 choose 4 = 715 (315 is a subset of that)
 
-### Multinomials
+#### Multinomials
 
 Let\'s say you\'re one of a group of 9 students, and you decided as a
 group that you want to live together in a dorm on campus. You\'re in
@@ -319,7 +319,7 @@ this to make sense, the numbers a1 through ak have to add up to n.**
 
 ®®![](media_Probability/media/image32.png)
 
-### Anagrams
+#### Anagrams
 
 ![](media_Probability/media/image33.png)
 
@@ -340,7 +340,7 @@ We want to divide up the pool of 7 slots into 4 collections:
 
 7!/(3!\*2!\*1!\*1!) = 4\*5\*6\*7/2 = 420
 
-## With repetition
+### With repetition
 
 The dining hall offers eight varieties of fruit, conveniently labelled
 A, B, and so on, up to H. You\'re feeling hungry so you\'ve decided to
@@ -370,7 +370,7 @@ Answer: 12 choose 7
 
 ![](media_Probability/media/image39.png)
 
-# Probability
+## Probability
 
 ![](media_Probability/media/image40.png)
 
@@ -394,7 +394,7 @@ Conditional
 
 ![](media_Probability/media/image49.png)
 
-## Flipping coins
+### Flipping coins
 
 ![](media_Probability/media/image50.png)
 
@@ -406,7 +406,7 @@ Answer = 20/64 or 5/16
 
 ![](media_Probability/media/image51.png)
 
-## Rolling dice
+### Rolling dice
 
 When rolling two die there are 6^2^ = 36 possible outcomes (order does
 matter, 1-2 is different to 2-1)
@@ -476,7 +476,7 @@ individual events.
 
 ![](media_Probability/media/image66.png)
 
-## Poker
+### Poker
 
 \# of possible poker hands = 52 choose 5 = around 2.6 million
 
@@ -496,7 +496,7 @@ Probability of strike on Friday = .03 (\~ 1/30)
 
 Exponentially less likely explaining clustering of random events
 
-# Conditional probabilities
+## Conditional probabilities
 
 ![](media_Probability/media/image47.png)
 
@@ -512,7 +512,7 @@ Exponentially less likely explaining clustering of random events
 
 ![](media_Probability/media/image75.png)
 
-### Bayes Theorem
+#### Bayes Theorem
 
 -   Always remember multiplication in the context of probability, equals
     to **AND**.
@@ -582,13 +582,13 @@ P(cancer\|test positive) = 8/(8+95)
 
 ![](media_Probability/media/image86.png)
 
-#### Odds bayes
+##### Odds bayes
 
 ![](media_Probability/media/image87.png)
 
 ![](media_Probability/media/image88.png)
 
-#### Taxi problem
+##### Taxi problem
 
 A cab was involved in a hit and run accident at night. Two cab
 companies, the Green and the Blue, operate in the city. 85% of the cabs
@@ -601,7 +601,7 @@ the time and failed 20% of the time.
 What is the probability that the cab involved in the accident was Blue
 rather than Green knowing that this witness identified it as Blue?
 
-##### Conventional solution:
+###### Conventional solution:
 
 -   H = Accident caused by Blue cab.
 
@@ -679,7 +679,7 @@ p(Evidence | Hypothesis)</strong></th>
 </tbody>
 </table>
 
-##### Graphical solution
+###### Graphical solution
 
 ![](media_Probability/media/image92.png)
 
@@ -699,7 +699,7 @@ Step 3: Convert the odds in Step 2 back to probability:\
 (13.98) / (1 + 13.98) = 0.93.\
 There is a 93% chance the patient has Zika.
 
-### Cookie problem
+#### Cookie problem
 
 There are two bowls of cookies:
 
@@ -731,7 +731,7 @@ p( bowl 1 \| vanilla) = p(bowl 1) \* p(vanilla \| bowl 1) / p(vanilla)
 
     = .5 \* ¾ + .5 \* ½ = [5/8]{.mark}
 
-### M&M Problem
+#### M&M Problem
 
 -   Mix 1994: 30% Brown, 20% Yellow, 20% Red, 10% Green, 10% Orange, 10%
     Tan.
@@ -840,7 +840,7 @@ Hypothesis:
 </tbody>
 </table>
 
-### Monty hall problem
+#### Monty hall problem
 
 -   Monty shows you three closed doors and tells you that there is a
     prize behind each door: one prize is a car, the other two are less
@@ -928,7 +928,7 @@ Remaining chance = 2/3
 Of that 2/3 chance one door will be eliminated therefore it's better to
 switch
 
-# Binomial probability
+## Binomial probability
 
 -   An event that is repeatable or the experiment consists of n number
     of identical and independent trials.
@@ -963,7 +963,7 @@ exactly 3 sixes?
 
 Probability = 10 x (1/6)^3^ \* (5/6)^2^ = 3.2%
 
-# Odds
+## Odds
 
 To **convert** from a **probability to odds**, divide the
 **probability** by one minus that **probability**. So if the
@@ -983,7 +983,7 @@ Odds form of Bayes:
 
 ![](media_Probability/media/image88.png)
 
-### Cookie Problem using odds
+#### Cookie Problem using odds
 
 There are two bowls of cookies:
 
@@ -1007,7 +1007,7 @@ select a cookie at random. The cookie is vanilla.
 
 -   Posterior odds = 3 : 2 = 3/5 in probability (60%)
 
-# Pigeon hole principle
+## Pigeon hole principle
 
 The pigeonhole principle states that If n + 1 objects are placed into n
 boxes, then some box contains at least 2 objects. For example, if there
@@ -1023,7 +1023,7 @@ even if there were 150,000 people, each with a different number of hairs
 on their head, the rest of the population must fit into one of the
 categories between 0 and 150,000 hairs.
 
-# Birthday paradox
+## Birthday paradox
 
 What is the chance in a room with 23 people that two people share a
 birthday?

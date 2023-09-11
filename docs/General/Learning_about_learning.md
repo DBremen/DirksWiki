@@ -1,6 +1,6 @@
-# Pragmatic Thinking and Learning:
+## Pragmatic Thinking and Learning:
 
-## Dreyfus model from novice to expert
+### Dreyfus model from novice to expert
 
 **Always consider the context.**
 
@@ -26,7 +26,7 @@
     **Avoid formal methods if you need creativity, intuition, or
     inventiveness.**
 
-## The brain as a computer
+### The brain as a computer
 
 ![](media_Learning_about_learning/media/image2.png)
 
@@ -37,7 +37,7 @@ other.
 
 **R -mode Sees Forest; L-mode Sees Trees**
 
-### L-Mode
+#### L-Mode
 
 CPU #1 is probably the most familiar to you: it is chieﬂy responsible
 for linear, logical thought, and language processing. CPU #1 is
@@ -46,7 +46,7 @@ estate. It's programmed with an "idle loop" routine as well. If CPU #1
 is not processing anything else, it will simply generate an internal
 stream of verbal chatter. It's that little voice in your head.
 
-### R-Mode
+#### R-Mode
 
 CPU #2 is more like a magic digital signal processor. It's your brain's
 answer to Google: think of it like a super regular-expression search
@@ -96,7 +96,7 @@ components in just the right presentation to create the work. And
 selection---knowing what to select and in what context---comes from
 pattern matching.
 
-## R -mode to L-mode ﬂow
+### R -mode to L-mode ﬂow
 
 **Add sensory experience to engage more of your brain.**
 
@@ -140,7 +140,7 @@ drifting too far from reality.
 
 ![](media_Learning_about_learning/media/image4.png)
 
-# Coursera learning to learn
+## Coursera learning to learn
 
 -   The better you get at something the more you can enjoy it
 
@@ -196,7 +196,7 @@ drifting too far from reality.
     solving technique. Context means learning when to use that technique
     instead of some other technique
 
-## Luck 
+### Luck 
 
 lucky people generate good fortune via four basic principles.
 
@@ -236,7 +236,7 @@ lucky people generate good fortune via four basic principles.
     still felt lucky and he cheerfully explained that he felt luckier
     than before. As he pointed out, he could have broken his neck.
 
-## Habits
+### Habits
 
 1.  Cue (that triggers the habit)
 
@@ -287,7 +287,7 @@ In order to change the habit, we need to change the belief.
     will decline as the brain regions that changed as you developed the
     skill are co-opted for other purposes.
 
-## Ways to counter procrastination
+### Ways to counter procrastination
 
 -   Focus on the process rather than the product
 

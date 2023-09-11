@@ -1,6 +1,6 @@
-# Physics
+## Physics
 
-## Equilibrium
+### Equilibrium
 
 **Equilibrium** is defined as a state of balance between opposing
 forces, powers, or influences. An equilibrium model typically identifies
@@ -57,15 +57,15 @@ efficient. It assumes the individual agents are, in fact, irrational and
 hence will misprice securities, creating the possibility for profitable
 strategies.**
 
-# Biology
+## Biology
 
-## Evolution
+### Evolution
 
 Whereas in nature the process of evolution is one of natural selection,
 seeing the market within an evolutionary framework allows us to observe
 the law of economic selection.
 
-## Complex adaptive systems
+### Complex adaptive systems
 
 El Farol, a bar in Santa Fe, New Mexico, used to feature Irish music on
 Thursday nights. Arthur, the Irishman, loved to go there. On most
@@ -149,9 +149,9 @@ the need to focus on companies with high "owner-earnings" or cash flows.
 5.  Today we can see that cash return on invested capital is emerging as
 the fifth new strategy.
 
-# Sociology
+## Sociology
 
-## Diversity and independence
+### Diversity and independence
 
 Johnson's research suggests that the stock market, theoretically, is
 more robust when it is composed of a diverse group of agents---some of
@@ -197,7 +197,7 @@ theorists, who view social relationships in terms of nodes and ties,
 whereby nodes are the individual actors and ties are the relationships
 between the actors
 
-## Self-organizing criticality
+### Self-organizing criticality
 
 Most of the time, the interplay between trend followers and
 fundamentalists is somewhat balanced. Buying and selling continue with
@@ -243,9 +243,9 @@ properties and that, once organized, they generate emergent behavior.
 Finally, we realize that complex adaptive systems are constantly
 unstable and periodically reach a state of self-organized criticality.
 
-# Psychology
+## Psychology
 
-## Loss aversion
+### Loss aversion
 
 *Equity risk premium* is a term many investors have heard but few
 actually understand. It refers to the potential for higher returns
@@ -300,7 +300,7 @@ time horizons. "Loss aversion is a fact of life," explain Thaler and
 Benartzi. "In contrast, the frequency of evaluations is a policy choice
 that presumably could be altered, at least in principle."
 
-## Noise and signal
+### Noise and signal
 
 We are, through a long process of evolution, acutely uncomfortable and
 anxious in the face of uncertainty, so much so that we are willing to
@@ -333,7 +333,7 @@ ways that emotion-based errors and errors of thinking can interfere with
 good investing decisions, as described in this chapter, and we must
 constantly be on guard against our own psychological missteps.
 
-# Philosophy
+## Philosophy
 
 If things remain a mystery, our job then is to shuffle our descriptions
 and offer redescriptions. Think of it this way: redescriptions are very
@@ -382,9 +382,9 @@ again accelerates. In such a world, successful performance demands
 flexible thinking. In an environment of rapid change, the flexible mind
 will always prevail over the rigid and absolute.
 
-# Mathematics
+## Mathematics
 
-## Variation within and variation of the system
+### Variation within and variation of the system
 
 The most important lesson investors can learn from Gould's experience is
 to appreciate the differences between the trend *of* the system and
@@ -399,7 +399,7 @@ wrong conclusion. They wrongly assumed that the direction of the market
 was sideways, when in fact the variation *within* the market was
 dramatic and led to plenty of opportunities to earn high excess returns.
 
-## Regression to the mean
+### Regression to the mean
 
 J. P. Morgan was once asked what the stock market would do next. His
 response: "It will fluctuate." No one at the time thought this was a
@@ -436,7 +436,7 @@ continue to decline. It is important to remain flexible in your
 thinking. Although reversion to the mean is the most likely outcome in
 markets, its presence is not sacrosanct.
 
-# Decision Making
+## Decision Making
 
 As investors, we too must strike a balance between exploiting what is
 most obvious while allocating some mental energy to exploring new

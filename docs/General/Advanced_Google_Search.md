@@ -1,4 +1,4 @@
-# Misc.
+## Misc.
 
 -   9 am in dublin in berlin
 
@@ -9,9 +9,9 @@
 
     -   goes from concept to term
 
-# Search operators
+## Search operators
 
-## site
+### site
 
 -   site:standford.edu
 
@@ -25,13 +25,13 @@
 
 -   -site:dontwant
 
-## range(..)
+### range(..)
 
 -   \"10..50 V\" battery
 
 -   \"75.. mpg\" hybrid car
 
-## filetype
+### filetype
 
 -   filetype:kml OR kmz (go to google mymaps google.com/mymaps and
     import map)
@@ -40,17 +40,17 @@
 
 -   filetype:pdf intitle:word
 
-## OR
+### OR
 
 -   OR (default is and must be caps)
 
-## Wildcard (\*)
+### Wildcard (\*)
 
 -   Works also when in quotes
 
 -   In combination with others and multiple times
 
-## Other
+### Other
 
 -   intitle:
 
@@ -63,7 +63,7 @@
 -   apple AROUND(4) iphone: proximity search (find words within
     proximity no further than)
 
-# Specific search engines
+## Specific search engines
 
 -   [google.com/advanced_search](google.com/advanced_search) (also
     google settings advanced search)
@@ -93,7 +93,7 @@
 
 -   <https://books.google.com/ngrams>
 
-# URL parameters
+## URL parameters
 
 -   https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
 

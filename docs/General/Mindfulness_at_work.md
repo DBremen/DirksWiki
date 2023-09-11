@@ -1,4 +1,4 @@
-# Mindfulness
+## Mindfulness
 
 Mindfulness means trained attention. Based on thousands of years of
 practice, mindfulness techniques enable people to manage their
@@ -37,13 +37,13 @@ mind and make wise choices about where to focus your attention. You gain
 clarity. As you become more insightful, even the most difficult problems
 appear less complex and become easier to handle.
 
-## Rule #1: Focus on What You Choose
+### Rule #1: Focus on What You Choose
 
 Staying focused on the object of your choice is the first rule of mental
 effectiveness. **A focused mind does not multitask: instead, it's fully
 present on the person or task at hand.**
 
-## Rule #2: Choose Your Distractions Mindfully
+### Rule #2: Choose Your Distractions Mindfully
 
 Rule #2 ensures you work in a focused way while remaining open to your
 surroundings and recognizing when you should change focus.
@@ -81,9 +81,9 @@ at this point.
     ideas in this quadrant. Good ideas only become innovative solutions
     when you have the focus to retain and execute them.
 
-# Techniques
+## Techniques
 
-## Emails
+### Emails
 
 Avoid email addiction
 
@@ -124,16 +124,16 @@ Before sending:
 
 -   Think about alternative communications channels.
 
-## Meetings
+### Meetings
 
-### Before
+#### Before
 
 Preparing: Before you introduce an agenda, simply invite meeting
 participants to take a brief mental break, to relax, settle their mind,
 and become present in the room. Sitting in a room silently for a few
 moments can create a strong feeling of togetherness and unity.
 
-### During
+#### During
 
 Be present: In meetings, presence forms the foundation for
 effectiveness. When we're present with other people, we get the most out
@@ -143,7 +143,7 @@ of our time together.
 you're with the anchor of your attention. To do so, focus your attention
 on the person who is speaking.**
 
-### After
+#### After
 
 Taking just a few minutes can help further clear the mind and increase
 relaxation, focus, and clarity for upcoming activities.
@@ -154,7 +154,7 @@ thank them for their time and attention. When a meeting is concluded
 with gratitude and appreciation, people are more willing to meet again
 and a positive pat- tern for meetings develops.
 
-## Goals
+### Goals
 
 When you have clear goals, it's far easier to stay focused and aware.
 
@@ -164,7 +164,7 @@ primarily driven by two simple motivations: grasping for things we like
 and avoiding things we don't like. While our subconscious often craves
 short-term
 
-### Mindful Goal Orientation 
+#### Mindful Goal Orientation 
 
 -   When you find yourself behaving counter to your goals, take a
     mindful pause (---focus on your breath as you calm down, gaining
@@ -179,7 +179,7 @@ short-term
 
 -   Adjust your behavior and move on.
 
-### Mindful Goal Setting 
+#### Mindful Goal Setting 
 
 -   Clearly defined and specific goals are easier for your subconscious
     to understand.
@@ -191,9 +191,9 @@ short-term
 -   Learning to hold our goals lightly, and let go of them if they won't
     bring us long-term happiness, is an important skill.
 
-## Priorities
+### Priorities
 
-### Action Addiction
+#### Action Addiction
 
 Addiction to action is one of the biggest threats to mental
 effectiveness and productivity. A well-trained mind is the only way to
@@ -205,7 +205,7 @@ goals
 
 Focus your effort on the 20% that produce 80% of your output.
 
-### Choice points -- when priorities conflict
+#### Choice points -- when priorities conflict
 
 We often react to choice points by jumping into action. There it is
 again, that action addiction. But, as you now know, not all action is
@@ -214,14 +214,14 @@ you jump into action. Endure the discomfort of conflicting priorities.
 
 ![](media_Mindfulness_at_work/media/image4.png)
 
-### Speed Up by Slowing Down
+#### Speed Up by Slowing Down
 
 By taking a brief pause, you're able to maintain your focus and
 awareness. This allows you to respond to situations with the most
 appropriate action---to concentrate on your priorities and
 goals---rather than simply acting on autopilot.
 
-## Planning
+### Planning
 
 Real planning requires slowing down, so that you can speed up. It's an
 investment in time up front that has significant payback down the road.
@@ -234,7 +234,7 @@ progress. The morning is the most important choice point of the day. As
 it sets the tone for the rest of the day, it's critical to begin the
 morning with a period of clear planning.
 
-### Clear Planning on a Daily Basis 
+#### Clear Planning on a Daily Basis 
 
 When you get to work, make a habit of reserving the first ten minutes to
 do the following:
@@ -274,7 +274,7 @@ do the following:
     activities, such as follow-up communication after meetings and
     travel.**
 
-## Communication
+### Communication
 
 The foundation of mindful communication is, as in many other aspects of
 life, being fully present in your interactions with other people.
@@ -290,7 +290,7 @@ natural tendency to wander. The second tendency is our mind's
 orientation to see things as we expect to see them, commonly known as
 habitual perception.
 
-### Listen with Mindfulness 
+#### Listen with Mindfulness 
 
 Simply put, listening with mindfulness involves giving your full
 attention to whoever is speaking. There are four guidelines for
@@ -298,11 +298,11 @@ listening with this type of focus.
 
 ![](media_Mindfulness_at_work/media/image7.png)
 
-###  Speaking with Mindfulness
+####  Speaking with Mindfulness
 
 ![](media_Mindfulness_at_work/media/image8.png)
 
-## Creativity
+### Creativity
 
 Take more intentional pauses throughout these meetings to give people
 the opportunity to relax and release any of the attachment they had to
@@ -320,7 +320,7 @@ You've now identified a problem, let it go, and given your subconscious
 time to work. The final task is to help your subconscious communicate
 with your conscious.
 
-## Change
+### Change
 
 We are habitual beings. In fact, scientists estimate that 95 percent of
 our behaviors are based on habit. In other words, only 5 percent of what
@@ -342,7 +342,7 @@ natural preference for familiarity? Or are you resisting because
 something legitimately doesn't make sense? Seeking to understand the
 underlying driver of your resistance can be insightful.
 
-## Mental energy
+### Mental energy
 
 ![](media_Mindfulness_at_work/media/image9.png)
 
@@ -368,14 +368,14 @@ during the day, with a low point after lunch, before increasing again
 later in the afternoon. Being mindful of our how our energy levels
 fluctuate enables us to be strategic about what we do and when.
 
-### Waking Mindfully
+#### Waking Mindfully
 
 As you wake, be determined not to start thinking. Just be. Notice your
 body. Notice your mind. But do not engage in the thoughts trying to
 arise. Sit up, at the edge of your bed, and do two minutes of
 mindfulness training. Focus on your breath and let go of any thoughts.
 
-## Eating and Energy
+### Eating and Energy
 
 To get the most out of mindful eating, there are three basic guidelines:
 
@@ -401,7 +401,7 @@ To get the most out of mindful eating, there are three basic guidelines:
 had enough. You tend to eat less. You also tend to enjoy food more,
 because you actually pay attention to it.**
 
-## Performance breaks
+### Performance breaks
 
 A mindful performance break is basically a very brief mindfulness
 training session. And by brief, I mean about 45 seconds. To take mind-
@@ -425,7 +425,7 @@ ful performance breaks, try this, once every hour during work.
 -   Let go of the exercise. Return to your work with renewed relaxation,
     focus, and clarity.
 
-## Emotional balance
+### Emotional balance
 
 ![](media_Mindfulness_at_work/media/image10.png)
 
@@ -433,7 +433,7 @@ In mindfulness training, we work to develop the mental capacity, the
 patience, and the courage to endure discomfort. At the same time, we
 learn to observe our emotions with some neutrality.
 
-# Mental strategies
+## Mental strategies
 
 **When we're present for others, we embody all three definitions of
 present : we're here and in this moment as a gift for other people.
@@ -444,7 +444,7 @@ require a change in what you do . It requires a change in how you pay
 attention to what you do. It's a conscious decision to be present in the
 moment.**
 
-## Patience
+### Patience
 
 **"A moment of patience in a moment of anger saves you a thousand
 moments of regret."**
@@ -459,20 +459,20 @@ solutions.
 Patience is the direct path to living a more effective life that's
 focused on the roots of problems instead of the symptoms.
 
-## Kindness
+### Kindness
 
 What do we need from other people to be happy? Often the answer is
 simple: things like presence, attention, respect, understanding, and
 acceptance. What do other people need from us to be happy? The exact
 same things. In this way, we're all experts in making each other happy.
 
-## Beginners mind
+### Beginners mind
 
 Challenge yourself to be more curious in your day-to-day activities. Be
 open to what is happening to you moment to moment. The less you presume
 to know, the more your mind will open.
 
-## Training sharp focus
+### Training sharp focus
 
 Sharp focus is the ability to concentrate on thoughts and tasks of your
 choice, without feeling the need to indulge each and every distraction
@@ -480,11 +480,11 @@ that passes through your mind. Having this sort of mental clarity can
 help the busiest of us thrive, even in high-pressure environments filled
 with distractions.
 
-## The ABCD Method
+### The ABCD Method
 
 ![](media_Mindfulness_at_work/media/image11.png)
 
-## From Sharp Focus to Open Awareness
+### From Sharp Focus to Open Awareness
 
 **Training open awareness provides you with the opportunity to
 experience, with a depth of understanding, that your thoughts are the
@@ -501,7 +501,7 @@ deliberately rather than react automatically, you can move to the next
 level of open awareness training that includes the three insights
 outlined below.**
 
-### Insight #1: Everything Changes
+#### Insight #1: Everything Changes
 
 -   Is there anything you experience that is unchanging?
 
@@ -509,7 +509,7 @@ outlined below.**
 
 -   Is there anything solid and static, or is it all a process?
 
-### Insight #2: Happiness Is a Choice
+#### Insight #2: Happiness Is a Choice
 
 **"We all have two wolves inside us. One is bad and feels anger,
 jealousy, envy, falsehoods, and arrogance. The other is good and feels
@@ -517,7 +517,7 @@ love, empathy, honesty, generosity, and humility. The two wolves
 constantly fight each other." One of the grandchildren asks, "But which
 one wins?" "The one you feed," the old man answers.**
 
-### Insight #3: Everything Is Potential
+#### Insight #3: Everything Is Potential
 
 The insight that everything is potential and that there is no solid,
 isolated self means we can redefine ourselves. We can break free of our

@@ -1,5 +1,3 @@
-Chapter 17 414
-
 The "power and grace between nasty or nice" refers to the challenge
 facing each of us to find the balanced area that rests between being too
 nasty or too nice.
@@ -57,7 +55,7 @@ forgive those wrongs done to us by others.
 
 Self-esteem = competence and acceptance + belonging
 
-# Power and control
+## Power and control
 
 Power is the capacity to influence.
 
@@ -82,7 +80,7 @@ experience of mutuality, each individual can retain a sense of
 self-identity and worth while simultaneously feeling connected and even
 intimate with others as part of a larger relationship system.**
 
-# Feelings
+## Feelings
 
 1.  Primary feeling
 
@@ -91,25 +89,25 @@ intimate with others as part of a larger relationship system.**
 3.  Evolutionary survival function of each feeling. (what are we feel to
     avoid/experience the feeling)
 
-## Safety, warmth, comfort, and dependency
+### Safety, warmth, comfort, and dependency
 
 -   /okay/good/peaceful/relaxed/calm/fine/trusting/free from anxiety
 
 -   Trust and hope
 
-## Pain
+### Pain
 
 -   /hurt/damaged/wounded
 
 -   Avoid or recognize damage
 
-## Sadness
+### Sadness
 
 -   /sad/melancholy/depressed/down/blue
 
 -   Heal loss, grieve
 
-## Anger
+### Anger
 
 -   /mad/angry/irritated/annoyed
     "frustrated"/ticked-off/pissed/furious/enraged
@@ -141,13 +139,13 @@ this ability to soothe one's feelings is implicated in a wide range of
 mental health problems, but nowhere is its presence as obvious as in
 addictions and disorders of impulse control, especially rage problems.
 
-## Pleasure and joy
+### Pleasure and joy
 
 -   /happy/ecstatic/enthralled/delighted/joyful/pleased
 
 -   "Wants" and identity
 
-## Shame
+### Shame
 
 -   /shameful/embarrassed/ashamed/broken/dirty/bad/unlovable/defective/no
     good/worth less than others/better than
@@ -155,13 +153,13 @@ addictions and disorders of impulse control, especially rage problems.
 
 -   Accounability and spirituality
 
-## Guilt
+### Guilt
 
 -   /guilty/conscience hurts/remorseful/did something wrong
 
 -   Conscience drives us to correct our mistakes
 
-## Fear
+### Fear
 
 -   /scared/afraid/terrified/petrified/worried/anxious/tense/nervous
 
@@ -171,7 +169,7 @@ addictions and disorders of impulse control, especially rage problems.
     Being courageous means doing scary things because they must be done,
     but knowing how scared we are when we do them.
 
-## Loneliness
+### Loneliness
 
 -   /lonely/disconnected/alienated/separated/longing for relationship
 

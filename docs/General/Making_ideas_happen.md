@@ -1,9 +1,9 @@
 MAKING IDEAS HAPPEN = (THE IDEA) + ORGANIZATION AND EXECUTION + FORCES
 OF COMMUNITY + LEADERSHIP CAPABILITY
 
-# Organization and execution
+## Organization and execution
 
-## Action Method
+### Action Method
 
 Everything in life is a project, and every project must be broken down
 into Action Steps, References, and Backburner Items. Prioritization
@@ -71,7 +71,7 @@ for our long-term objectives.
 
 -   Keep general parking lot or per project
 
-### Seek constraints
+#### Seek constraints
 
 Brilliant creative minds become more focused and actionable when the
 realm of possibilities is defined and, to some extent, restricted. Of
@@ -81,27 +81,27 @@ outcome. The goal is to find the right balance, so that you can feed off
 the project's parameters rather than feel frustrated or unduly
 constrained.
 
-# Make us of the community
+## Make us of the community
 
-## Partner with people that complement your skills
+### Partner with people that complement your skills
 
 Dreamer vs. Doer.
 
-## Share your ideas
+### Share your ideas
 
 Sharing ideas significantly increases the odds of ideas gaining momentum
 and ultimately happening. Creative professionals and entrepreneurs alike
 claim that they become more committed to their ideas after telling
 people about them.
 
-## Capitalize on feedback
+### Capitalize on feedback
 
 While the value of feedback is high, the incentive to give feedback to
 others is low---and the actual desire to hear it is often nonexistent.
 After all, the work you do to pursue your ideas is a labor of love. The
 last thing anyone wants is to hear harsh truths about a loved one.
 
-### Start/Stop/Continue
+#### Start/Stop/Continue
 
 -   Send an e-mail to each team member/stakeholder requesting a few
     feedback points for each participant under the headings START, STOP,
@@ -128,9 +128,9 @@ collaborators and clients. The message suggests that you are open to
 feedback, that you are constantly improving, and that you are actively
 learning.
 
-## Transparency Boosts Communal Forces
+### Transparency Boosts Communal Forces
 
-## Self-marketing in a good way
+### Self-marketing in a good way
 
 A good self-marketing strategy should start with intrinsic interests
 that can become personal projects---projects that demonstrate your
@@ -152,7 +152,7 @@ While at work, you might **consider volunteering for internal or side
 projects that will best showcase your strengths and take full advantage
 of your differentiating attributes.**
 
-# Leadership
+## Leadership
 
 **Leadership is about instilling a genuine desire in the hearts and
 minds of others to take ownership of their work on a project. Only then
@@ -177,7 +177,7 @@ their alternate approach make a material difference? As long as the
 desired outcome is achieved, controlling how it is achieved shouldn't be
 that important to you.**
 
-## Self-Leadership
+### Self-Leadership
 
 As you lead others in creative pursuits, you are your greatest
 liability. Self-leadership is about awareness, tolerance, and not
@@ -202,7 +202,7 @@ time-tested. Today never feels like it will be history, but it will. And
 more likely than not, you will look back and realize that you should
 have known.**
 
-## The creative process is also a process of engagement
+### The creative process is also a process of engagement
 
 Enabling new or less- experienced members of your team to share their
 ideas is how you can develop their reasoning and bring them onboard.
@@ -220,9 +220,9 @@ others and convince themselves that they have seen it all before. As a
 result, these leaders are liable to talk first, act quickly, and fail to
 engage others.
 
-## Unplug from the traditional rewards system. 
+### Unplug from the traditional rewards system. 
 
-## Stay engaged by setting up a system of incremental rewards. 
+### Stay engaged by setting up a system of incremental rewards. 
 
 Happiness is its own reward. At Zappos, happiness serves as a form of
 compensation without limits or tangible costs. Not only is it a core
@@ -237,7 +237,7 @@ in the early stages of making ideas happen. Putting an emphasis on
 happiness changes the types of goals you pursue as well as how you hire
 and manage people along the way.
 
-## Recognize contribution of the team
+### Recognize contribution of the team
 
 Success is more than a personal reward for leaders; it is a valuable
 currency that can be distributed to the team. The only bank account that
@@ -245,7 +245,7 @@ the shared credit depletes is the leader's ego. Recognition is a
 powerful reward that, whether or not money is tight, can help further
 engage those who play a role in making your ideas happen.
 
-## Hire people who exemplify initiation skills and intrinsic motivation
+### Hire people who exemplify initiation skills and intrinsic motivation
 
 As you assemble teams around creative projects, probe candidates for
 their true interests---whatever they may be---and then measure the
@@ -256,7 +256,7 @@ has passion, generates ideas, and tends to take action---recognize your
 good fortune. Nothing will assist your ideas more than a team of people
 who possess real initiative.
 
-## Provide an environment with flexibility for productivity
+### Provide an environment with flexibility for productivity
 
 Rather than focusing on face time, creative teams should embrace
 transparency and strive to build a fundamental trust between colleagues.
@@ -278,7 +278,7 @@ and tightly managed. Many managers struggle to establish and repeatedly
 review goals with their teams. And, when a team falls short on goals,
 managers must confront it.
 
-## Focus and staying on track vs. new ideas/innovation
+### Focus and staying on track vs. new ideas/innovation
 
 The great challenge is to balance idea generation and relentless focus.
 While you don't want to behave like a large company that locks down all
@@ -295,7 +295,7 @@ they do your bias should be to stay focused on the project at hand. With
 this approach, only the mightiest of ideas---those worthy of deep
 consideration---will risk getting you off track.
 
-## Welcome friction and disagreement
+### Welcome friction and disagreement
 
 Conflict is a common occurrence in any creative process. It is a good
 sign, a powerful opportunity to refine your ideas and processes. Despite
@@ -327,7 +327,7 @@ Your team is more likely to conceive breakthroughs if its chemistry is
 strong enough to capitalize on conflict. Thoughtful leaders use conflict
 as an opportunity to align and strengthen their teams.**
 
-## Feedback via appreciations
+### Feedback via appreciations
 
 Appreciations is a technique that is used to improve students' skills
 without any demoralizing consequences. It's a unique form of feedback
@@ -345,7 +345,7 @@ skills of your colleagues---will be refined more organically by doing
 so. This change in the process of feedback exchange will not only
 improve output but also enrich the team's chemistry.**
 
-## Think win-win without requiring 100% consensus
+### Think win-win without requiring 100% consensus
 
 While most people might feel that incorporating two extremely different
 viewpoints (or features) into a project would call for an "either/or"

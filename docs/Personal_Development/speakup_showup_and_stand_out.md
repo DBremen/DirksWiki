@@ -1,4 +1,4 @@
-# Be 100% Accountable---Rise Above Circumstances
+## Be 100% Accountable---Rise Above Circumstances
 
 The three holes that we become trapped in are these:
 
@@ -46,7 +46,7 @@ can't change anyone who doesn't want to change. So put your attention on
 what you can do: changing your behavior in a way that will decisively
 influence others.
 
-## Step 1. Raise your personal standards.
+### Step 1. Raise your personal standards.
 
 You may have a clear set of personal standards that you know and
 understand. But for effective communication, you must communicate your
@@ -60,7 +60,7 @@ Understand what's most important to you and decide that you are going to
 make a conscious effort to behave consistently with your personal
 standards, and put this into action.
 
-## Step 2. Commit to everyone's success.
+### Step 2. Commit to everyone's success.
 
 The place to start is by identifying the standards or values you both
 share. It's not always obvious because people don't often talk about
@@ -85,7 +85,7 @@ negative issues.
 > The point is for you to find the strongest and highest ground that you
 > both can stand on to solve the problem together.
 
-## Step 3. Take a bold stand for what you believe in.
+### Step 3. Take a bold stand for what you believe in.
 
 A stand is a public declaration about how you will live your life and
 what you will and will not tolerate in yourself.
@@ -94,7 +94,7 @@ what you will and will not tolerate in yourself.
 
 ![](media_speakup_showup_and_stand_out/media/image2.png)
 
-# Check Your Interpretation---Confront Your Assumptions
+## Check Your Interpretation---Confront Your Assumptions
 
 Assumption 1: An instant response is the best response. We expect others
 to respond immediately, and we feel pressured to do the same.
@@ -107,7 +107,7 @@ Assumption 3: My communication preference works for everyone. We use the
 communication method that is most comfortable for us, and we disregard
 both what is most effective and what is most comfortable for others.
 
-# Make Expectations Clear---Don't Expect Others to Read Your Mind
+## Make Expectations Clear---Don't Expect Others to Read Your Mind
 
 If you want to dramatically boost your communication effectiveness, you
 must accept accountability for not only what you communicate but also
@@ -126,9 +126,9 @@ happen and what actually happened.
 -   We expect others to read our minds and know exactly what we expect
     from them.
 
-## First Things First: Get Clear About What You Want
+### First Things First: Get Clear About What You Want
 
-## Identify Your Nonnegotiables Before You Agree to Anything
+### Identify Your Nonnegotiables Before You Agree to Anything
 
 > **Brandy:** I'm happy to loan you my car, but I need three things from
 > you. They may sound obvious, but they're important to me. First, I
@@ -141,7 +141,7 @@ must be met before she agrees to loan her car. She runs through how she
 will articulate her criteria and adds a clear and direct request at the
 end of her communication.
 
-## Put the Onus on You: Make Sure Others Understand What You Want
+### Put the Onus on You: Make Sure Others Understand What You Want
 
 I am responsible for communicating clear expectations and making sure
 others understand what I need and want. I recognize that I have hidden
@@ -169,7 +169,7 @@ I will let go of expectations about what I think others "should" or
 "should not" do. Instead, I will take accountability for how I
 communicate and the impact it has on others.
 
-# Create Positive Partnerships---Stop Negative Talk
+## Create Positive Partnerships---Stop Negative Talk
 
 Stop the spread of negativity and make sustainable and great
 relationships your goal. To do this you must set a high standard for
@@ -210,9 +210,9 @@ precisely what you want. I'd also like to share with you some of the
 frustrations I've had. Would this be okay?" You come across as someone
 who cares about progress and getting the job done.
 
-# Speak Up---Stop Holding Yourself Back
+## Speak Up---Stop Holding Yourself Back
 
-# Commit or Do Not Commit---Don't Hedge
+## Commit or Do Not Commit---Don't Hedge
 
 -   Get a Clear "Yes," "No, Not Until," or "No. Never." Response
 
@@ -238,7 +238,7 @@ can give an unconditional "Yes."**
 **Say "No. Never." when I have made the decision to end a conversation
 on a specific topic.**
 
-# Own the Problem---Don't Blame or Make Excuses
+## Own the Problem---Don't Blame or Make Excuses
 
 Why do we blame others and make excuses? There are two primary reasons:
 
@@ -250,7 +250,7 @@ protect ourselves accordingly.
 
 **Resist the Overwhelming Desire to Engage in Counterblame**
 
-# Recover Quickly and Come Back Stronger---Stop Defeating Yourself
+## Recover Quickly and Come Back Stronger---Stop Defeating Yourself
 
 -   Forgive yourself unconditionally.
 
@@ -277,4 +277,4 @@ others, and express your sincere regret.
 
 -   Make a promise for the future.
 
-# Be Precise---Avoid Word Traps That Derail You
+## Be Precise---Avoid Word Traps That Derail You

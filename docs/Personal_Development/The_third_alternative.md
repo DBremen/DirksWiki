@@ -1,4 +1,4 @@
-# Synergy
+## Synergy
 
 ![](media_The_third_alternative/media/image1.png)
 
@@ -22,7 +22,7 @@ greater than we are alone.**
 consequences of our actions. We GET results based on what we DO, and
 what we DO depends on how we SEE the world around us.**
 
-## 4 step process of 3rd alternative thinking
+### 4 step process of 3rd alternative thinking
 
 ![](media_The_third_alternative/media/image3.png)
 
@@ -33,7 +33,7 @@ synergy.**
 
 ![](media_The_third_alternative/media/image4.png)
 
-### I see myself
+#### I see myself
 
 Seeing myself as a unique human being capable of independent judgment
 and action. I am not merely "my side" of a controversy. I am more than
@@ -63,7 +63,7 @@ certain groups, but these do not define me. I choose my own "story."
 -   Am I contributing to an outcome---an end to the story---that I
     really want?
 
-### I see you
+#### I see you
 
 This is about seeing others as people instead of things. When we look at
 others, what do we see? Do we see an individual, or do we see age,
@@ -79,7 +79,7 @@ dignity and my respect.**
 
 ![](media_The_third_alternative/media/image6.png)
 
-### I seek you out
+#### I seek you out
 
 This paradigm is about deliberately seeking out conflicting views
 instead of avoiding or defending yourself against them.
@@ -107,7 +107,7 @@ they see things as they really are. So these thinkers deliberately seek
 out different slices of truth. If you have truth that I don't have, why
 wouldn't I come and find you so you can teach me?
 
-#### Talking stick
+##### Talking stick
 
 ![](media_The_third_alternative/media/image8.png)
 
@@ -147,7 +147,7 @@ to impose them. I use argument as a vehicle for learning, not as a
 weapon. My purpose is not to score points on you in the weary old game
 of one-upmanship but to change the game.
 
-#### Steps
+##### Steps
 
 -   Go to the other side and say, "You see things differently. I need to
     listen to you."
@@ -194,7 +194,7 @@ of one-upmanship but to change the game.
     to you because you've grasped a slice of truth you didn't understand
     before.**
 
-### I Synergize With You
+#### I Synergize With You
 
 This last paradigm is about going for a solution that's better than
 anyone has thought of before, rather than getting caught up in the cycle
@@ -205,23 +205,23 @@ collaborative problem solving.
 
 ![](media_The_third_alternative/media/image9.png)
 
-#### Steps to synergy
+##### Steps to synergy
 
 ![](media_The_third_alternative/media/image10.png)
 
-#####  Step 1: Ask the 3rd Alternative Question
+######  Step 1: Ask the 3rd Alternative Question
 
 The first step in the synergy process is to ask the 3rd Alternative
 Question: "Are you willing to go for a solution that is better than
 either one of us has in mind?"
 
-##### Step 2: Define Criteria of Success
+###### Step 2: Define Criteria of Success
 
-##### Step 3. Create 3rd Alternatives
+###### Step 3. Create 3rd Alternatives
 
-##### Step 4: Arrive at Synergy
+###### Step 4: Arrive at Synergy
 
-# Values
+## Values
 
 1.  Beware of pride. Let go of needing always to be "right." Your grasp
     on reality is always partial anyway. Allow yourself to achieve the

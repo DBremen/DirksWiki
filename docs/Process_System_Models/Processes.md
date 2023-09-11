@@ -33,7 +33,7 @@ ITIL = for it services
 
 BPMCBOK = for project management
 
-# BPM advantages
+## BPM advantages
 
 ![](media_Processes/media/image5.png)
 
@@ -74,7 +74,7 @@ to do so is most welcome.
 
 ![](media_Processes/media/image6.png)
 
-# BPM lifecycle
+## BPM lifecycle
 
 ![](media_Processes/media/image7.png)
 
@@ -90,7 +90,7 @@ to do so is most welcome.
 
 ![](media_Processes/media/image13.png)
 
-# Process Architecture
+## Process Architecture
 
 ![](media_Processes/media/image14.png)
 
@@ -98,13 +98,13 @@ to do so is most welcome.
 
 ![](media_Processes/media/image16.png)
 
-# Business Process Modelling notation
+## Business Process Modelling notation
 
 ![](media_Processes/media/image17.png)
 
 ![](media_Processes/media/image18.png)
 
-# Process Analysis
+## Process Analysis
 
 ![](media_Processes/media/image19.png)
 
@@ -112,11 +112,11 @@ to do so is most welcome.
 
 ![](media_Processes/media/image21.png)
 
-## Qualitative Analysis
+### Qualitative Analysis
 
 ![](media_Processes/media/image22.png)
 
-# CMMI for services
+## CMMI for services
 
 CMMI ® (Capability Maturity Model ® Integration) models are collections
 of best practices that help organizations to improve their processes.
@@ -201,7 +201,7 @@ infrastructure and stability necessary to deal with an ever-changing
 world and to maximize the productivity of people and the use of
 technology to be competitive.
 
-# Problem solving
+## Problem solving
 
 Y= f(x~1~,x~2~,x~3~\...x~n~) = Builds an strategic alignment
 
@@ -213,7 +213,7 @@ x=causes
 CCR = Critical customer requirements = translated from VOC into concrete
 requirements
 
-## Kano Model
+### Kano Model
 
 **Must be** attributes are the expected attributes or "musts" of a
 product, and do not provide an opportunity for product differentiation.
@@ -305,7 +305,7 @@ Determine process capability
 
 ![](media_Processes/media/image28.png)
 
-## Data
+### Data
 
 -   Look at the distribution rather than only averages
 
@@ -324,7 +324,7 @@ Determine process capability
 
 -   Measure performance against process capability
 
-# Process Improvement handbook
+## Process Improvement handbook
 
 ![](media_Processes/media/image30.png)
 
@@ -358,7 +358,7 @@ Process Improvement methods.
 
 ![](media_Processes/media/image40.png)
 
-# DFSS
+## DFSS
 
 ![](media_Processes/media/image41.png)
 
@@ -387,7 +387,7 @@ Process Improvement methods.
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Processes/media/image49.png)![](media_Processes/media/image50.png)
 
-# Service Management
+## Service Management
 
 ![](media_Processes/media/image51.png)
 
@@ -425,7 +425,7 @@ aspects such as cost, duration, human effort, and quality. You also need
 to measure progress toward the outcomes that both the customer and the
 stakeholders had in mind when the service was established.
 
-# Process capability
+## Process capability
 
 ![](media_Processes/media/image53.png)
 
@@ -596,7 +596,7 @@ is because an unstable measurement process will make a perfectly stable
 manufacturing process appear to be unstable. Unfortunately, unstable
 measurement processes in manufacturing are common.
 
-# Six Sigma
+## Six Sigma
 
 <http://lean-six-sigma.pro/Documents/Explaining%20sigma%20shift%20v2.pdf>
 

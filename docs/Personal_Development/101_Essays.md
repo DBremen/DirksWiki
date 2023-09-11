@@ -1,4 +1,4 @@
-# Subconscious behaviors that are keeping you from having the life you want
+## Subconscious behaviors that are keeping you from having the life you want
 
 -   You extrapolate the present moment because you believe that success
     is somewhere you "arrive," so you are constantly trying to take a
@@ -21,7 +21,7 @@
     choose to recall...and what you choose is indicative of your present
     state of mind.
 
-# The psychology of Daily Routine
+## The psychology of Daily Routine
 
 The most successful people in history---the ones many refer to as
 "geniuses" in their fields, masters of their crafts---had one thing in
@@ -43,7 +43,7 @@ makes it seem valid.
 **You must learn to let your conscious decisions dictate your day---not
 your fears or impulses.**
 
-# Things emotionally intelligent people do not do
+## Things emotionally intelligent people do not do
 
 -   **They don't assume that the way they think and feel about a
     situation is the way it is in reality, nor how it will turn out in
@@ -73,7 +73,7 @@ your fears or impulses.**
     origins, and decide whether or not that frame of reference truly
     serves them.
 
-# Signs of a socially intelligent person
+## Signs of a socially intelligent person
 
 -   They **do not confuse their opinion of someone for being a fact
     about them.**
@@ -100,7 +100,7 @@ your fears or impulses.**
 -   Whatever you are angered by is what you aren't willing to see in
     yourself.
 
-# What the feelings you most suppress are trying to tell you
+## What the feelings you most suppress are trying to tell you
 
 -   Real emotional maturity is how thoroughly you let yourself feel
     anything. Everything. Whatever comes. It is simply the knowing that
@@ -123,7 +123,7 @@ your fears or impulses.**
     without ever being told that "loving yourself" is giving yourself
     what you want someone else to.
 
-# The parts of you that aren\'t \"I\"
+## The parts of you that aren\'t \"I\"
 
 There is a concentration of energy, of heavy presentness, in your chest
 and throat and maybe a little in your head. It is centered. You don't
@@ -137,7 +137,7 @@ and realized the parts are not "I?" Have you ever felt the presentness
 that is somehow livened when attached? Have you ever identified the
 difference between what you call yours and what you call yourself?
 
-# Breaking your upper limit and how people hold themselves back
+## Breaking your upper limit and how people hold themselves back
 
 Most people don't want to be happy, which is why they aren't. They just
 don't realize this is the case. Everybody has a happiness tolerance an
@@ -164,7 +164,7 @@ a means to that end.**
 **The heart as the map and the mind as the compass. The heart will tell
 you what; the mind will tell you how.**
 
-# Ways to not let irrational thoughts ruin your life
+## Ways to not let irrational thoughts ruin your life
 
 Realize that there are three layers of you: your identity, your shame,
 and your true self. Your identity is your outermost layer, it's the idea
@@ -188,7 +188,7 @@ you are. Your mental health will change significantly.
 -   **Nobody is thinking about you the way you are thinking about you.
     They're all thinking about themselves.**
 
-# Live in the Now and don\'t seek comfort
+## Live in the Now and don\'t seek comfort
 
 -   The only way to be extraordinary depends on what I do with the
     ordinary.
@@ -223,7 +223,7 @@ you are. Your mental health will change significantly.
 
 -   Clarity comes from doing, not thinking about doing.
 
-# Questions that will show you who you are
+## Questions that will show you who you are
 
 -   What, and who, is worth suffering for?
 
@@ -270,7 +270,7 @@ you are. Your mental health will change significantly.
     other people? What bothers you most about yourself? What do you love
     most about yourself? (Dig until you see the correlation.)
 
-# 
+## 
 
 **\
 **

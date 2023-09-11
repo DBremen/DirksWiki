@@ -1,4 +1,4 @@
-# Adding up sequential numbers (Gauss)
+## Adding up sequential numbers (Gauss)
 
 Puzzle: You have a flight of stairs in your house with 10 steps. You can
 take one or two steps at a time. For example, you could do 10 one-steps
@@ -53,7 +53,7 @@ choice of 7 different toppings, then I go to the (3 + 1)th number in the
 different pizzas I can make. In general, to choose *m* things from *n*
 things you go to the (*m* + 1)th number in the (*n* + 1)th row.
 
-## Calculate exponential growth
+### Calculate exponential growth
 
 the king of India agreed to pay the creator of the game of chess the
 price he demanded for his game. The inventor had asked for a single
@@ -120,7 +120,7 @@ the board.
 
 -   2*x* − *x* = x = [2^64^ − 1]{.mark}
 
-# Economies of scale
+## Economies of scale
 
 The mathematics reveals that the growth of each resource in a city can
 be understood by a single magic number particular to that resource. Each
@@ -136,7 +136,7 @@ Infrastructure too is affected by this scaling, but in the opposite
 direction. Instead of needing twice as much stuff when you double the
 size of a city, you find instead that you save on infrastructure.
 
-# Puzzles
+## Puzzles
 
 Puzzle: You are a grocer and want to be able to measure all weights from
 1 kg to 40 kg using a set of balance scales. What is the smallest number
@@ -180,7 +180,7 @@ boxes in a game show, apartments, restaurants, or even your partner for
 life. (Though perhaps it's best not to let your partner know you were so
 calculating when it came to love.)
 
-# Distance travelled
+## Distance travelled
 
 -   Total distance traveled after 1 second = 1 unit
 
@@ -237,7 +237,7 @@ when the time interval becomes zero. This is the snapshot Newton was
 after. Newton's analysis produced a way to make sense of why the
 instantaneous speed at 3 seconds should be 5 m/s.
 
-# Maximize
+## Maximize
 
 A king has promised his trusty advisor a piece of land by the sea for
 his good services. The king has given the advisor 10 km of fencing to
@@ -257,7 +257,7 @@ The variable that is subject to change is x.
 
 ![](media_Thinking_better/media/image5.png)
 
-# Geodesics
+## Geodesics
 
 ![](media_Thinking_better/media/image6.jpeg)
 

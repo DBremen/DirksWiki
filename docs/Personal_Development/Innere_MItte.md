@@ -2,7 +2,7 @@ Aristoteles (mit seiner *Nikomachischen Ethik)* 
 
 Thomas von Aquin *(Summe der Theologie). (Thomas Anquinas)*
 
-# Laster und Tugenden (vices and virtues)
+## Laster und Tugenden (vices and virtues)
 
 **Tugend = Abeleitet von Tauglichkeit/Tüchtigkeit = Gesundheit der
 Seele**
@@ -18,9 +18,9 @@ verringern und zu meiden, kann sich die Tugend zunehmend von einem
 vereinzelten Ereignis zu einer gewohnheitsmäßigen Haltung entwickeln,
 freiwillig das Gute zu tun.**
 
-## Mittelweg
+### Mittelweg
 
-## humanistische Liberalismus 
+### humanistische Liberalismus 
 
 Ohne Geiz, Habgier und Neid gäbe es kein ständig fortschreitendes
 Wirtschaftswachstum, keine Triebfeder zur Anhäufung von Kapital, während
@@ -43,13 +43,13 @@ kollektive Gemütsverfassung, die große Teile der kapitalistischen
 Gesellschaft erfasst, zeichnet sich durch einen Verlust an Sinn,
 Geborgenheit, Lebensfreude und Seelenfrieden aus.**
 
-## autoritäre Fundamentalismus
+### autoritäre Fundamentalismus
 
 dogmatischen Vorschriften bezüglich Sitten und Moral, mit
 gesellschaftlicher Intoleranz und der Verfolgung Andersdenkender
 ersetzen. Doppelmoral -\> moralisches Handeln aus Egoismus.
 
-# Tugend- und Laster
+## Tugend- und Laster
 
 Basierend auf dem Mittelweg (golden rule Aristotetle):
 
@@ -101,7 +101,7 @@ Gelegenheiten in der Außenwelt, die destruktives Verhalten begünstigen
 
 ![](media_Innere_MItte/media/image1.png)
 
-# Leidenschaften
+## Leidenschaften
 
 Die Leidenschaften sind von einer Defizitmotivation bestimmte Triebe,
 die aus einem Gefühl der Sinnlosigkeit, der Leere und der
@@ -110,7 +110,7 @@ Verwirklichung der unbefriedigten Sehnsucht und nach einer
 Wiederherstellung eines Zustandes der Erfüllung und Zufriedenheit,
 verhindern dies jedoch gleichzeitig.
 
-## Emotion vs. Gefühle (Emotion vs. Feeling)
+### Emotion vs. Gefühle (Emotion vs. Feeling)
 
 Leidenschaften sind nicht das Gleiche wie Gefühle. Kant verglich die
 Gefühle mit Wasser, das durch einen Damm bricht, die Leidenschaften aber
@@ -138,7 +138,7 @@ Dagegen ist Stolz als Leidenschaft mit dem Laster des Hochmuts verbunden
 und kann einen Menschen innerlich verzehren, wenn sein Leben
 ausschließlich darum kreist, das eigene Ansehen abzusichern.
 
-### Emotion
+#### Emotion
 
 Emotion hingegen ist eine ex-motion - eine Bewegung von innen nach
 aussen. Manche lesen es auch als e-motion - Energie in Bewegung.**Es
@@ -181,7 +181,7 @@ Emotionen:
 
 ![](media_Innere_MItte/media/image2.png)
 
-### Gefühl
+#### Gefühl
 
 Ein Gefühl ist, was gefühlt wird, was wahrgenommen wird. Gefühl ist das,
 was über die Sinnesorgane an Impulsen und Empfindungen in das
@@ -200,11 +200,11 @@ beschreiben und damit auch versprachlichen lassen, wie u. a. Liebe,
 Angst, Ärger, Komik, Ironie sowie Mitleid, Eifersucht, Furcht, Freude
 und Liebe.**
 
-# Vom Laster zur Tugend
+## Vom Laster zur Tugend
 
 Grundvoraussetzung für alles ist Liebe und guter Wille.
 
-## Von der Unvernunft zur Weisheit (Angemessner Einsatz des Verstandes)
+### Von der Unvernunft zur Weisheit (Angemessner Einsatz des Verstandes)
 
 <table>
 <colgroup>
@@ -300,7 +300,7 @@ reine Sinnestätigkeit hinaus und sehen in das innere Wesen der Dinge
 hinein. Der Verstand befähigt, den eigenen Standpunkt zu verlassen und
 einen anderen einzunehmen (zu verstehen).
 
-### Vernunft:
+#### Vernunft:
 
 **Den Verstand für das zu benutzen was (langfristig) zu meinem (und
 meiner Mitmenschen) besten Wohl führt.**
@@ -312,7 +312,7 @@ Entwicklung ausgerichtet sind. Verstand und Vernunft sind somit nicht
 das Gleiche. Der Verstand als Teilaspekt der psychischen Fähigkeiten
 lässt sich sowohl vernünftig als auch unvernünftig gebrauchen.
 
-## Von der Falschheit zur Wahrhaftigkeit
+### Von der Falschheit zur Wahrhaftigkeit
 
 <table>
 <colgroup>
@@ -387,7 +387,7 @@ anderes sein kann, als er ist.</p>
 </tbody>
 </table>
 
-## Vom Hochmut zur Demut
+### Vom Hochmut zur Demut
 
 <table>
 <colgroup>
@@ -490,7 +490,7 @@ Hochmut, indem wir uns trotzig im Recht wissen wollen.</p></td>
 </tbody>
 </table>
 
-### Demut
+#### Demut
 
 Exkurs: Die zwölf Stufen der Demut
 
@@ -581,7 +581,7 @@ innere Grundhaltung des gesamten Lebens führt mit der Zeit zu einer
 vollkommenen Entspannung im Körper, die zugleich von Energie und
 Lebendigkeit erfüllt ist.**
 
-### Seelengröße
+#### Seelengröße
 
 -   Selbstwert
 
@@ -593,7 +593,7 @@ Lebendigkeit erfüllt ist.**
 
 -   Zielorientierung (Realismus, Energie, Mut)
 
-## Vom Neid zur Dankbarkeit
+### Vom Neid zur Dankbarkeit
 
 <table>
 <colgroup>
@@ -659,7 +659,7 @@ ohne Vorurteile oder Egoismus zu begegnen.</p></td>
 </tbody>
 </table>
 
-## Vom Jähzorn zur Sanftmut
+### Vom Jähzorn zur Sanftmut
 
 <table>
 <colgroup>
@@ -716,7 +716,7 @@ nicht mag.</p></td>
 </tbody>
 </table>
 
-### Zorn in Sanftmut umwandeln
+#### Zorn in Sanftmut umwandeln
 
 Bei der Verwandlung des Zornes ist es ganz besonders wichtig, seine
 eigenen Erlebnisse und Reaktionen ganz genau und möglichst
@@ -771,7 +771,7 @@ sanftmütigere und friedlichere Reaktionen ersetzt werden.**
 **Man darf und soll sich ärgern, aber so, dass man weder sich noch
 andere schädigt und kein neues Unrecht schafft.**
 
-## Vom Trübsinn zum Fleiß
+### Vom Trübsinn zum Fleiß
 
 <table>
 <colgroup>
@@ -829,7 +829,7 @@ Gegenwart</p></li>
 </tbody>
 </table>
 
-## Von der Ängstlichkeit zum Mut
+### Von der Ängstlichkeit zum Mut
 
 <table>
 <colgroup>
@@ -874,7 +874,7 @@ mehr festhalten kann oder will</strong></p></td>
 </tbody>
 </table>
 
-## Vom Geiz zur Großzügigkeit
+### Vom Geiz zur Großzügigkeit
 
 <table>
 <colgroup>
@@ -929,7 +929,7 @@ unermessliche Fülle des Daseins.</strong></p></td>
 </tbody>
 </table>
 
-## Von der Genusssucht zur Ausgeglichenheit
+### Von der Genusssucht zur Ausgeglichenheit
 
 <table>
 <colgroup>

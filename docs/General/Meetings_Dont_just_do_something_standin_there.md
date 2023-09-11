@@ -2,7 +2,7 @@
 
 **Ten principles for meetings that matter**
 
-# DIFFERENTIATION/INTEGRATION THEORY
+## DIFFERENTIATION/INTEGRATION THEORY
 
 -   Help people differentiate their stakes without excluding anybody and
     integrate their goals without our forcing unity.
@@ -11,11 +11,11 @@
     people can accept their differences and integrate their capabilities
     for the good of all.
 
-# Get the whole system in the meeting
+## Get the whole system in the meeting
 
-### Deﬁne a "whole system" as those who have among them authority, resources, expertise, information, and need. Get the right cross section if you want action on problems and decisions without a lot more meetings.
+#### Deﬁne a "whole system" as those who have among them authority, resources, expertise, information, and need. Get the right cross section if you want action on problems and decisions without a lot more meetings.
 
-## Deﬁne your system in relation to each meeting's purpose
+### Deﬁne your system in relation to each meeting's purpose
 
 a.  **A**uthority to act (e.g., decision-making responsibility in an
     organization or community);
@@ -29,13 +29,13 @@ d.  **I**nformation about the topic that no others have; and
 e.  **N**eed to be involved because they will be affected by the outcome
     and can speak to the consequences.
 
-## Give People Time to Express Themselves
+### Give People Time to Express Themselves
 
 > When people have strong feelings about what is happening, they need
 > time to come to grips with their feelings before they will "own" the
 > needed action steps.
 
-## Manage Meetings Using D/I Principles
+### Manage Meetings Using D/I Principles
 
 -   Enable **differentiation** by asking people to speak individually or
     to work in groups where all share a functional similarity, each
@@ -67,14 +67,14 @@ E.g.:
     2.  Talk over, question, or respond to what they hear from other
         groups
 
-# Control what you can let go what you can't
+## Control what you can let go what you can't
 
 Let go of controlling: People's behavior, commitment, motivation, and
 outcomes.
 
 Control: structure and your own behavior
 
-## Know your role
+### Know your role
 
 ![](media_Meetings_Dont_just_do_something_standin_there/media/image1.png)
 
@@ -105,7 +105,7 @@ usually, but not always, you are a member of the group and may have
 formal authority, too. In short, you assume a great deal of
 responsibility for process, content, and, therefore, outcomes.
 
-## Clarify the Purpose---for Yourself
+### Clarify the Purpose---for Yourself
 
 Every meeting has a purpose. Does the purpose make sense to you? What
 will the output be? Is it achievable in the time you have?
@@ -116,7 +116,7 @@ plans---any or all
 At the start of every meeting check your understanding of the purpose
 against that of the participants.
 
-# Explore the whole elephant
+## Explore the whole elephant
 
 Exploring the whole before acting on any part helps to contain anxiety
 about differences. If you tap into what every person knows before
@@ -138,7 +138,7 @@ more likely to accept responsibility for action.
 
 ![](media_Meetings_Dont_just_do_something_standin_there/media/image3.png)
 
-## Apply a go-around
+### Apply a go-around
 
 You can stop a meeting at any point where people bog down in ambiguity,
 conflict, or confusion, and ask to hear from every person, another way
@@ -153,7 +153,7 @@ views, check expectations, and give all a sense of where others stand.
 We begin building a community where every person's presence is
 acknowledged.
 
-## Use Timelines
+### Use Timelines
 
 ![](media_Meetings_Dont_just_do_something_standin_there/media/image4.png)
 
@@ -167,7 +167,7 @@ label each strip with a topic (e.g., Health Care in X; Organization Y;
 Community Z) and add time frames at 5-year intervals. With small groups
 you can use shorter strips of paper.
 
-## Make a mind map
+### Make a mind map
 
 Mind mapping can be used for any purpose, from brainstorming to problem
 solving and decision making. It can be done in as little as 15 or 20
@@ -194,19 +194,19 @@ activity is to develop a view of the world that includes all
 perceptions. All conversations that follow will be in relation to the
 same world---the one that includes every trend on the map.
 
-## Draw a flowchart
+### Draw a flowchart
 
-# Let people be responsible
+## Let people be responsible
 
 Leading meetings in a way that encourages participants to share
 responsibility.
 
-## Accept That Everybody Is Doing the Best They Can
+### Accept That Everybody Is Doing the Best They Can
 
 People only do what they are ready, willing, and able to do. That is all
 you have to work with.
 
-## Let People Hide Their Hidden Agendas
+### Let People Hide Their Hidden Agendas
 
 Let hidden agendas stay buried if that's where people want them. We do
 not ask people what they are not saying. If people wish to conceal their
@@ -214,7 +214,7 @@ not ask people what they are not saying. If people wish to conceal their
 Their choice is, for us, the real data. In our philosophy, people have a
 right to hold back.
 
-## Do Less So That Others Will Do More
+### Do Less So That Others Will Do More
 
 If you want others to take responsibility, we urge you to try doing less
 than you are used to doing. Nature hates a vacuum. When you step back,
@@ -223,7 +223,7 @@ rationalizing, interpreting, justifying---the less room there is for
 other people. They will sit back, watch you work, and evaluate your
 style.
 
-## Encourage Self-Management
+### Encourage Self-Management
 
 ![](media_Meetings_Dont_just_do_something_standin_there/media/image6.png)
 
@@ -240,7 +240,7 @@ Notice what your body wants to do. Then look around and make eye contact
 with as many people as you can. Find a person who wants to talk and nod
 in their direction.
 
-# Find common ground
+## Find common ground
 
 We define "common ground" as those statements every person will agree
 with after all views have been heard and disagreements made public. The
@@ -264,7 +264,7 @@ Advantages:
 -   People are pleasantly surprised when they discover how much
     agreement exists.
 
-## Hold Off Problem Solving
+### Hold Off Problem Solving
 
 Save problem solving until all can talk about the same world. Everyone
 likes to have their problems heard, and one way to find out who shares
@@ -272,9 +272,9 @@ them is to say them out loud. But rushing to solve problems too quickly
 diverts people from discovering what aspirations they hold. People may
 endorse solutions to move the meeting along and not follow through.
 
-## Get Conﬂicts into the Open, and Leave Them There
+### Get Conﬂicts into the Open, and Leave Them There
 
-## Focus on the Future
+### Focus on the Future
 
 When a meeting calls for future scenarios, we ask people to put
 themselves X years in the future and imagine their dreams as if they
@@ -323,7 +323,7 @@ people how they want to handle these items. At the very least document
 them. We are conscious that there are no perfect processes, and you
 can't tie up every loose end.
 
-## Depersonalize Conﬂict
+### Depersonalize Conﬂict
 
 To depersonalize conflict is to reassure the parties that they need
 their unique orientations to do their best. Task conflict is more
@@ -332,7 +332,7 @@ them the strong feelings they have about their work are legitimate. Of
 course different goals lead to divergent expectations. Of course people
 with different deadlines march to different drummers.
 
-# Master the art of sub-grouping
+## Master the art of sub-grouping
 
 Functional subgrouping is the practice of inviting people to ally with
 others based on similar experiences, feelings, or points of view. Groups
@@ -393,7 +393,7 @@ go on high alert. Those are the moments when we must be ready to act.
 Here we de- scribe four key techniques that make up the core of our
 meeting management.
 
-## Technique 1: Ask an "Anyone Else" Question
+### Technique 1: Ask an "Anyone Else" Question
 
 This practice is stunningly simple. Act when you hear people make
 statements so emotionally charged that they put themselves at risk of
@@ -476,7 +476,7 @@ point of view.
 LEADER: *It seems you're the only one at this moment. Are you able to
 move on?*
 
-## Technique 2: Use Subgroup Dialogue to Interrupt Polarization
+### Technique 2: Use Subgroup Dialogue to Interrupt Polarization
 
 Now and then people become deeply polarized over conflicting beliefs,
 problem definitions, solutions, or decisions. In such cases, people may
@@ -510,7 +510,7 @@ suspend for the time being their stereotypes and projections and get on
 with the business at hand. Differentiation leads to integration.
 Both/and replaces either/or as the unspoken group assumption.
 
-## Technique 3: Listen for the Integrating Statement
+### Technique 3: Listen for the Integrating Statement
 
 How do you know when a group is ready to take a next step? One clue is
 when people start recycling earlier statements. This usually indicates
@@ -527,7 +527,7 @@ comes forward? Well, in a pinch, we can always state the obvious. "We
 hear two points of view, A and B. What would you like to do with these?"
 When all else fails, we consult group members on what they want to do.
 
-## Technique 4: Get Everybody to Differentiate Their Positions
+### Technique 4: Get Everybody to Differentiate Their Positions
 
 We never run an interactive meeting without giving everyone a chance to
 comment on what they do, why they came, what they want, and/or what they
@@ -542,7 +542,7 @@ think) about situation \_\_\_\_\_? Then we will decide what to do."
 Nearly a ways this act of differentiation produces information that
 gives all of us choices not obvious a few minutes earlier.
 
-# Make friends with anxiety
+## Make friends with anxiety
 
 Learn to accept anxiety as an inevitable traveling companion when the
 stakes are high, issues complicated, perceptions diverse, and answers
@@ -559,7 +559,7 @@ hanging in despite your queasy feelings. If you wait just a while
 longer, you can help people find greater clarity and move in new
 directions.
 
-## 1. Visit the "Four Rooms of Change"
+### 1. Visit the "Four Rooms of Change"
 
 ![](media_Meetings_Dont_just_do_something_standin_there/media/image7.png)
 
@@ -603,11 +603,11 @@ home for dinner. In short, the Confusion Room has many doors. One leads
 back to Denial. The others welcome you to Renewal. Anxiety represents
 energy looking for a constructive outlet.
 
-## Manage anxiety
+### Manage anxiety
 
-### Use the Four Rooms of Change in Meetings
+#### Use the Four Rooms of Change in Meetings
 
-### Just Stand There and . . . Breathe
+#### Just Stand There and . . . Breathe
 
 -   Just stand there. Contain your feelings.
 
@@ -624,7 +624,7 @@ energy looking for a constructive outlet.
 
 -   Repeat as needed, until somebody says what needs saying.
 
-### Check Your Negative Predictions
+#### Check Your Negative Predictions
 
 > First, check your own thoughts. Are you making a negative prediction?
 > If yes, pull yourself back by thinking, "It hasn't happened yet."
@@ -632,7 +632,7 @@ energy looking for a constructive outlet.
 > of knowing that if you wait, stay engaged, and keep alert, the
 > situation will clarify.
 
-### Track Your Inner Dialogue
+#### Track Your Inner Dialogue
 
 > To follow our own streams of consciousness while leading meetings is
 > to explore an underground river so vast it is a wonder how we navigate
@@ -641,7 +641,7 @@ energy looking for a constructive outlet.
 > room, or just what's in your head? Give yourself a reality check. Stay
 > open to possibilities.
 
-### Experiment with Silence
+#### Experiment with Silence
 
 > We keep the door open by listening without acting. We are mindful that
 > each time we break the silence, we deprive someone of a chance to make
@@ -650,7 +650,7 @@ energy looking for a constructive outlet.
 > often is all a group needs from us to shift toward active dialogue,
 > reality checking, and creative collaboration.
 
-### Get people moving
+#### Get people moving
 
 > Nothing relieves anxiety better than physical movement. When people
 > want to run from the task, that's the perfect time to invite them to
@@ -714,7 +714,7 @@ to do the same.
 
     -   You're really not in control of anything.
 
-# Get used to projections
+## Get used to projections
 
 Projection means experiencing as originating "out there" parts of
 ourselves that we like or reject. We may project our hopes and fears on
@@ -784,7 +784,7 @@ as percept parts-of- them (the them-in-you!).
 3\. Reduce any tendency you may have to blame others for what you do or
 feel.
 
-# Be a dependable authority
+## Be a dependable authority
 
 Anytime you assume authority, people test your depend- ability. The more
 emotional the agenda, the tougher the testing. Being dependable means
@@ -795,7 +795,7 @@ personally. You can respond appropriately to dependency and
 counter-dependency without becoming hooked on your own brilliance or
 undermined by your suspected shortcomings.
 
-# Learn to say no if you want yes to mean something
+## Learn to say no if you want yes to mean something
 
 Saying no is an underused skill in a shorter-faster-cheaper society. If
 you say no to conditions where you are not likely to succeed, you will

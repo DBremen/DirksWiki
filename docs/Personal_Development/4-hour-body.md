@@ -12,7 +12,7 @@ breakfast: spinach, 2-3 eggs, lentils
 
 no chickpeas
 
-# Binge day
+## Binge day
 
 -   Eat beans + eggs for breakfast
 
@@ -69,7 +69,7 @@ smaller and thus consumed more quickly.
 • Experiment with cinnamon and lemon juice just prior to or during
 meals.
 
-# Exercise
+## Exercise
 
 n 2005, my interest in kettlebells reinvigorated, I returned to the
 United States from Argentina and purchased one 53-pound kettlebell. I

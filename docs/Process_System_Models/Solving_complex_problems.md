@@ -1,4 +1,4 @@
-# Conceptualizing the problem
+## Conceptualizing the problem
 
 In order to solve it analytically, ideally, it first has to become clear
 exactly what the problem is. When that has been clarified, one can
@@ -23,9 +23,9 @@ you have not defined the problem properly. When you gather alternatives,
 you may notice that your model of the problem area isn't complete yet.
 The process of conceptualizing the problem is iterative in nature.
 
-## Steps to conceptualize the problem:
+### Steps to conceptualize the problem:
 
-### Problem statement
+#### Problem statement
 
 The proper definition of the problem before one starts working on a
 project can prevent a lot of disappointment at the end. That is why you
@@ -243,7 +243,7 @@ well-balanced criteria facilitates decision-making in such a way that
 the actors involved can have a clear view of different alternatives and
 their effects, without looking for the optimal one.
 
-### Actor objectives analysis, Criteria for decision making (goal tree)
+#### Actor objectives analysis, Criteria for decision making (goal tree)
 
 Actors tend to promote 'their' alternative for 'the' problem. 'Wind
 mills are the only serious option to tackle our energy problem, as they
@@ -354,18 +354,18 @@ does it define the higher goal?' Alternatives will never have definition
 relations with higher goals, only causal relations. Useful goal trees
 only obtain definition relations and no causal relations
 
-3.  **Main goal too** **generic** -- if you keep on asking the 'why do
-    you want this?' question, you end up with the general interest of
-    that particular actor. Car drivers want 'good mobility'. Presidents
-    want to stay in power; entrepreneurs want 'continuity' of their
-    business. These interests look like goals, but it is not practical
-    to use them as the main goal in a goal tree. These interests are
-    always there, also no problem is perceived and, thus, no
-    alternatives to solve it are considered. The interest turns into an
-    objective at the moment this interest is violated: then the actor
-    perceives a problem or a challenge and wants to solve it. At that
-    moment it becomes practical to translate the general interest into a
-    concrete goal for that particular perceived problem.
+3.  **Main goal too generic** -- if you keep on asking the 'why do you
+    want this?' question, you end up with the general interest of that
+    particular actor. Car drivers want 'good mobility'. Presidents want
+    to stay in power; entrepreneurs want 'continuity' of their business.
+    These interests look like goals, but it is not practical to use them
+    as the main goal in a goal tree. These interests are always there,
+    also no problem is perceived and, thus, no alternatives to solve it
+    are considered. The interest turns into an objective at the moment
+    this interest is violated: then the actor perceives a problem or a
+    challenge and wants to solve it. At that moment it becomes practical
+    to translate the general interest into a concrete goal for that
+    particular perceived problem.
 
 That concrete main goal is not the same as the general interest, but
 represents the general interest for this particular problem. The
@@ -391,7 +391,7 @@ the decision-making process.
     Try to use 3 to 4 levels in your goal tree, and not more than 20
     goals.
 
-### System description (causal diagram)
+#### System description (causal diagram)
 
 A certain action will be an interesting alternative for a specific actor
 if it is 'doing something that solves his problem'. Now that the
@@ -443,7 +443,7 @@ factors are not yet explicit, operational factors, but mere concepts.
 
 ![](media_Solving_complex_problems/media/image5.png)
 
-### Problem diagram
+#### Problem diagram
 
 ![](media_Solving_complex_problems/media/image6.png)
 

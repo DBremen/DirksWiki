@@ -1,4 +1,4 @@
-# Micro motives ≠ Macro behaviour {#micro-motives-macro-behaviour .unnumbered}
+## Micro motives ≠ Macro behaviour
 
 That is: observed macrobehavior does not automatically imply biased
 micromotives!
@@ -37,7 +37,7 @@ politicians or even what X believes they would like in diveristy.
     reality this suggests people move continuously. Moving continuously,
     churning
 
-# How to make people follow examples (standing ovation model) {#how-to-make-people-follow-examples-standing-ovation-model .unnumbered}
+## How to make people follow examples (standing ovation model)
 
 **Sorting** -- People that hang out together tend to act and look alike.
 People that act and look alike tend to live and hang out together. (as a
@@ -97,7 +97,7 @@ etc.<strong><u>)</u></strong></p></li>
 </tbody>
 </table>
 
-## Collective actions  {#collective-actions .unnumbered}
+### Collective actions 
 
 Threshold to buy a purple hat (if x amount has the hat, I buy it too):
 
@@ -117,7 +117,7 @@ thresholds in the population to trigger and epidemic of behavior change.
 Not just average thresholds but distribution of thresholds determines
 cascades.
 
-# Decision Trees {#decision-trees .unnumbered}
+## Decision Trees
 
 <http://silverdecisions.pl/SilverDecisions.html?lang=en>
 
@@ -142,7 +142,7 @@ going to have to buy two tickets. I\'m going to basically throw away the
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](media_Model_thinking/media/image5.png)
 
-## Inferring probability {#inferring-probability .unnumbered}
+### Inferring probability
 
 Investment opportunity to win 50,000 \$ while investing 2,000\$ what
 probability of winning do we need to pay off?
@@ -159,7 +159,7 @@ p \> 52,000/2 = 4%
 
 ![](media_Model_thinking/media/image6.png)
 
-## Infer payouts {#infer-payouts .unnumbered}
+### Infer payouts
 
 ![](media_Model_thinking/media/image7.png)
 
@@ -178,7 +178,7 @@ Assuming that there is a cost to go to the Airport
 VisitPayOff \< 3 \* CostPayOff (if you didn't go it means the visit
 PayOff was less than 3 times greater than the cost payoff
 
-## Value of information {#value-of-information .unnumbered}
+### Value of information
 
 ![](media_Model_thinking/media/image9.png)
 
@@ -197,24 +197,24 @@ program?
 
 3.  \$200 -- 0\$ = **\$200**
 
-# Modeling people {#modeling-people .unnumbered}
+## Modeling people
 
 When we construct a model, we want to think about how the agents will be
 acting: rationally, behaviorally, or according to simple rules. We
 gather data about how agents will act and use this information to
 construct the model.
 
-## Rational {#rational .unnumbered}
+### Rational
 
-## When to expect rational thinking:
+### When to expect rational thinking:
 
-## Large stakes involved
+### Large stakes involved
 
-## Repeated decisions offer learning
+### Repeated decisions offer learning
 
-## Group Decisions
+### Group Decisions
 
-## Easy decisions.
+### Easy decisions.
 
 -   "As if": Intelligent rule-based behavior may be indistinguishable
     from optimal or near-optimal behavior.
@@ -238,7 +238,7 @@ construct the model.
 
 -   Rational does not imply selfish
 
-### Optimize revenue {#optimize-revenue .unnumbered}
+#### Optimize revenue
 
 Revenue = price \* quantity
 
@@ -250,7 +250,7 @@ Optimize q for maximum revenue
 
 Revenue = (50-q) \* q
 
-## Behavioral {#behavioral .unnumbered}
+### Behavioral
 
 -   Observe people are not rational.
 
@@ -263,11 +263,11 @@ Revenue = (50-q) \* q
 
 -   Base Rate Bias -- influenced by what we are currently thinking
 
-## Rule based {#rule-based .unnumbered}
+### Rule based
 
 e.g., Schelling, simple rule that is close to what people do.
 
-# Tipping points {#tipping-points .unnumbered}
+## Tipping points
 
 Basic Idea: A small change in input makes a very large change in output
 as seen in the graph. Note: Time charts can be misleading.
@@ -279,7 +279,7 @@ of fires
 
 ![](media_Model_thinking/media/image13.png)
 
-# Rule of 72 {#rule-of-72 .unnumbered}
+## Rule of 72
 
 he **Rule of 72** is a simple way to determine how long an investment
 will take to double given a fixed annual rate of interest. By
@@ -290,7 +290,7 @@ duplicate itself.
 Exponential growth: If you start with 1 penny and double it every day
 you have more than 10 Million after 31 days
 
-# Why do some countries not grow? {#why-do-some-countries-not-grow .unnumbered}
+## Why do some countries not grow?
 
 -   Growth requires a strong central government to protect capital and
     investment
@@ -305,7 +305,7 @@ you have more than 10 Million after 31 days
 
     -   Growth rates are supported by innovation in the long run.
 
-# Innovation {#innovation .unnumbered}
+## Innovation
 
 **Teams:**
 
@@ -320,7 +320,7 @@ are combined to make a better solution.
 Recombining solutions from a number of subproblems yields better
 solutions.
 
-# Culture {#culture .unnumbered}
+## Culture
 
 Summary: Basic Cultural properties: there\'s a lot of difference between
 cultures, and those difference may arise because the fact that people
@@ -338,7 +338,7 @@ consistency. They have what you might call a cultural signature. These
 very simple models combined with our tools of Lyapunov functions and
 Markov processes have helped us understand why that happens.
 
-# Condorcet\'s Jury Theorem {#condorcets-jury-theorem .unnumbered}
+## Condorcet\'s Jury Theorem
 
 Condorcet\'s jury theorem states that given a group of voters (a
 \"jury\") independently choosing by majority vote between a correct
@@ -361,7 +361,7 @@ adding more voters decreases the probability that the majority chooses
 correctly and the probability of a correct decision is maximized for a
 jury of size one.
 
-# Terminal velocity {#terminal-velocity .unnumbered}
+## Terminal velocity
 
 **Terminal velocity** is the maximum velocity attainable by an object as
 it falls through a [fluid](https://en.wikipedia.org/wiki/Fluid)
@@ -383,7 +383,7 @@ mph.
 
 <https://hypertextbook.com/facts/1998/JianHuang.shtml>
 
-# Entropy {#entropy .unnumbered}
+## Entropy
 
 ![](media_Model_thinking/media/image18.png)
 
@@ -417,7 +417,7 @@ extreme numerical values.
 -   The entropy is lower if the proportions of the type are unequal
     (more of one type as compared to the others)
 
-# Classes of outcomes {#classes-of-outcomes .unnumbered}
+## Classes of outcomes
 
 -   Equilibrium
 
@@ -434,7 +434,7 @@ learn in the next chapter. Finally, the neuronal firings in a person's
 brain are complex; they do not fire randomly, nor do they fire in a
 fixed pattern.
 
-# Bernoulli  {#bernoulli .unnumbered}
+## Bernoulli 
 
 ![](media_Model_thinking/media/image19.png)
 
@@ -446,9 +446,9 @@ keeps taking three-pointers, then in a ten-year NBA career (about 800
 games), the odds of *not* making nine in a row at least once
 (0.999^800^) are about 47%.
 
-# Networks {#networks .unnumbered}
+## Networks
 
-## Degree  {#degree .unnumbered}
+### Degree 
 
 Measure of connectedness of a network. For one node it is the number of
 nodes it is connected to. For a network it is the average degree of all
@@ -552,7 +552,7 @@ Preferential attachment model
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](media_Model_thinking/media/image30.png)
 
-# Randomness {#randomness .unnumbered}
+## Randomness
 
 ![](media_Model_thinking/media/image31.png)
 
@@ -606,7 +606,7 @@ This is like a sliding window of randomness affects the overall outcome
 (e.g. employees leaving and new employees getting hired; new and old
 products, team's of players)
 
-# Strategy {#strategy .unnumbered}
+## Strategy
 
 Colonel Blotto: A way to analyze competition, along multiple fronts
 trying to find advantages through strategic mismatch your opponents
@@ -619,13 +619,13 @@ some fronts at least. Example:
 
 differentiation in products, terrorists attack in unexpected places.
 
-# ~Prisoners'\ dilemma~ {#prisoners-dilemma .unnumbered}
+## ~Prisoners'\ dilemma~
 
 Two players who can either cooperate or defect. Collectively they are
 better off if both cooperate but individually, they are better off if
 they defect (avoiding 0 pay-off)
 
-## Examples {#examples .unnumbered}
+### Examples
 
 ![](media_Model_thinking/media/image37.png)
 
@@ -673,7 +673,7 @@ competition) prices they will end up with lower prices.
 When player 1 gets the expensive hand made match he gets all the
 attention.
 
-## Ways to achieve cooperation {#ways-to-achieve-cooperation .unnumbered}
+### Ways to achieve cooperation
 
 -   Repeated Interactions (direct reciprocity),
 
@@ -689,7 +689,7 @@ attention.
 
 -   Incentives (fines, fees, and subsidies).
 
-# Collective action problems {#collective-action-problems .unnumbered}
+## Collective action problems
 
 There is a cost to the individual if they take action but, yet a benefit
 to all if they do so. (free rider problem)
@@ -709,7 +709,7 @@ action; 10 = including x~1.~
 
 ![](media_Model_thinking/media/image44.png)
 
-# Common pool resource problems {#common-pool-resource-problems .unnumbered}
+## Common pool resource problems
 
 Limited resource available to be used by many
 
@@ -719,7 +719,7 @@ Limited resource available to be used by many
 
 ![](media_Model_thinking/media/image47.png)
 
-# Mechanism design {#mechanism-design .unnumbered}
+## Mechanism design
 
 Designing incentive structures so that we get the sort of outcomes we
 want.
@@ -731,20 +731,20 @@ if the amount of money received minus the cost of effort must be greater
 than or equal to the probability that if they slack off, the outcome
 will be good anyways.
 
-# Fisher's theorem {#fishers-theorem .unnumbered}
+## Fisher's theorem
 
 More variation = faster adaptation
 
 Fisher's theorem vs. six sigma
 ![](media_Model_thinking/media/image48.png)
 
-# Diversity Prediction Theorem {#diversity-prediction-theorem .unnumbered}
+## Diversity Prediction Theorem
 
 \(a\) more accurate individuals imply more accurate predictions
 
 \(b\) more diversity in crowd implies more accurate predictions.
 
-# Mechanism Design {#mechanism-design-1 .unnumbered}
+## Mechanism Design
 
 An institution consists of a means through which people communicate
 information as well as a procedure for making decisions, reallocating
@@ -770,7 +770,7 @@ Mechanism Design highlight four aspects of institutions:
 4.  ***computational costs**,* the cognitive demand placed on
     participants.
 
-## Mount-Reiter diagram {#mount-reiter-diagram .unnumbered}
+### Mount-Reiter diagram
 
 A mechanism consists of six parts:
 

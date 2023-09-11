@@ -1,6 +1,6 @@
-# Aristotle
+## Aristotle
 
-# How to make yourself heard:
+## How to make yourself heard:
 
 He makes some timeless points: you have to soothe people's fears, you
 have to see the emotional side of the issue -- is someone's pride on the
@@ -9,9 +9,9 @@ You have to make it funny because attention spans are short, and you
 might have to use illustrations and examples to make your point come
 alive.
 
-# Stoics
+## Stoics
 
-## Luck vs. achievement
+### Luck vs. achievement
 
 The Stoics were fascinated by the Roman goddess Fortuna. She was
 represented holding a cornucopia filled with goodies (money, love, etc.)
@@ -23,13 +23,13 @@ wise person is therefore never to believe in the gifts of fortune: fame,
 money, power, love, health -- these are never our own. Our grip on them
 must at all times be light and deeply wary.
 
-## Perspective
+### Perspective
 
 Look at the night sky to see how insignificant you are. Nothing that
 happens to us, or that we do, is -- blessedly -- of any consequence
 whatsoever from the cosmic perspective.
 
-# Epicurus (focus on happiness)
+## Epicurus (focus on happiness)
 
 An extraordinary number of adverts focus on the three very things that
 Epicurus identified as false lures of happiness: romantic love,
@@ -41,7 +41,7 @@ evoking them, they refuse to quench them properly. Beer ads will show us
 groups of friends hugging -- but only sell us alcohol (that we might end
 up drinking alone).
 
-# Spinoza
+## Spinoza
 
 Learning from what he didn\'t recognize: If we're ever to replace
 traditional beliefs, we must remember just how much religion is helped
@@ -49,15 +49,15 @@ along by ritual, tradition, art and a desire to belong -- all things
 that Spinoza, despite his great wisdom, ignored at his peril in his bold
 attempt to replace the Bible.
 
-# Hegel
+## Hegel
 
 Learn from ideas you disklike.
 
 Progress is not linear but messy
 
-# Satre
+## Satre
 
-## Things are weirder than we think 
+### Things are weirder than we think 
 
 If we start to question the conventions, we take for granted. think of
 your job through Sartrean eyes: you and many others swathe your bodies
@@ -66,7 +66,7 @@ one another; you press many plastic buttons with great rapidity in
 exchange for pieces of paper. Then you stop and go away. The next time
 the sky gets light, you come back.
 
-## We are free
+### We are free
 
 In the course of fully realising our freedom, we will come up against
 what Sartre calls the 'anguish' of existence. Everything is
@@ -81,9 +81,9 @@ This is frightening, hence the term 'anguish', but Sartre sees anguish
 as a mark of maturity, a sign that we are fully alive and properly aware
 of reality, with its freedom, its possibilities and its weighty choices.
 
-# Adam Smith
+## Adam Smith
 
-## Specialisation
+### Specialisation
 
 Modern economies produce unprecedented amounts of wealth (for the
 elite).
@@ -91,7 +91,7 @@ elite).
 Many ordinary people find work rather boring and, a key complaint,
 meaningless.
 
-## Consumer capitalism
+### Consumer capitalism
 
 The capitalism of today still hasn't quite got around to resolving the
 awkward choices Smith and Rousseau circled. But the hope for the future
@@ -112,7 +112,7 @@ it also spends a considerable part of its energies educating people
 about how to exercise this choice in judicious ways. Capitalism needs to
 be saved by elevating the quality of demand.
 
-## How to treat the rich
+### How to treat the rich
 
 The rich accumulate money not because they are materially greedy, but
 because they are emotionally needy. They do so primarily in order to be
@@ -124,16 +124,16 @@ plenty of honour and status -- in return for doing all the good things
 that these narcissists wouldn't normally bother with, like funding
 schools and hospitals and paying their workers well.
 
-# Karl Marx
+## Karl Marx
 
-## Capitalism makes work insecure
+### Capitalism makes work insecure
 
 Capitalism makes the human being utterly expendable; just one factor
 among others in the forces of production and one that can ruthlessly be
 let go the minute that costs rise or savings can be made through
 technology. There simply is no job security in capitalism.
 
-## Workers don\'t control wages
+### Workers don\'t control wages
 
 capitalists shrunk the wages of the labourers as much as possible in
 order to skim off a wide profit margin. It was very difficult for the
@@ -142,7 +142,7 @@ desperate need of employment, but their landlords and employers could
 conspire to keep them desperate by raising the price of living along
 with any rise in wages.
 
-## Capitalism is very unstable
+### Capitalism is very unstable
 
 Going through bust and boom phases is part of the system.
 
@@ -157,7 +157,7 @@ curse and a failure. Yet, logically, the goal of economics should be to
 make more and more of us unemployed and to celebrate this fact as
 progress rather than as failure.
 
-## Marx\'s vision
+### Marx\'s vision
 
 it \[is\] possible for me to do one thing today and another tomorrow, to
 hunt in the morning, fish in the afternoon, rear cattle in the evening,
@@ -167,7 +167,7 @@ different parts of ourselves -- our creativity, our intellect, our
 gentleness, and our ferocity -- and everyone would have a bit of time to
 do philosophy.
 
-# John Ruskin
+## John Ruskin
 
 Why was the contemporary world so dispiritingly, monstrously ugly?
 
@@ -189,7 +189,7 @@ bleak, griminess of an average street; between the ever-changing
 interest of the sky and the monotony and dreariness of so much of our
 lives.
 
-# Thoreau
+## Thoreau
 
 It was not until it was picked up by subsequent reformers that 'Civil
 Disobedience' -- as it was later called -- became one of the most
@@ -201,7 +201,7 @@ He challenges us to be authentic not just by avoiding material life and
 its distractions, but by engaging with the world, and withdrawing our
 support for the government when we believe it is acting unjustly.
 
-# William Morris
+## William Morris
 
 He was acutely aware that there are some key problems which are not
 caused by a shortage of money and which more money won't solve. So he
@@ -221,9 +221,9 @@ way, people could take pride in and really enjoy the things they bought.
 There is some sense of satisfaction and pride in buying something you
 know will last and which can be handed down to future generations.
 
-# John Rawls
+## John Rawls
 
-## Veil of ignorance
+### Veil of ignorance
 
 'the veil of ignorance', and through it Rawls asks us to imagine
 ourselves in a conscious, intelligent state before our own birth, but
@@ -253,7 +253,7 @@ education? Or would the sane gambler not insist that the rules of the
 entire game had to be changed to maximise the overall chances of a
 decent outcome for any single player?
 
-# Buddha
+## Buddha
 
 The first noble truth is the realisation that prompted the Buddha's
 journey -- that there is suffering and constant dissatisfaction in the
@@ -275,7 +275,7 @@ wisdom is a habit, not merely an intellectual realisation. One must
 exercise one's nobler impulses. Understanding is only part of becoming a
 better person.
 
-# Lao Tzu
+## Lao Tzu
 
 'The usefulness of a pot comes from its emptiness,' Lao Tzu said. 'Empty
 yourself of everything. Let your mind become still.'
@@ -305,11 +305,11 @@ Do not resist them.
 
 That only causes sorrow.
 
-# Alexis de Tocqueville (observing democracy in America)
+## Alexis de Tocqueville (observing democracy in America)
 
 Tocqueville went to America: to see what the future would be like.
 
-## Democracy breeds materialism
+### Democracy breeds materialism
 
 in America, observed Tocqueville, a book that does not make money --
 because it does not sell well -- cannot be good, because the test of all
@@ -322,7 +322,7 @@ or rich, but vulgar.
 Democracy and capitalism had created a relatively equitable, but also
 very flat and oppressive way for humans to judge each other.
 
-## Democracy breeds envy and shame
+### Democracy breeds envy and shame
 
 Though this sense of unlimited opportunity could initially encourage a
 surface cheerfulness, especially in young servants, and though it
@@ -336,16 +336,16 @@ freedom: the freedom not to have to take the achievements of quite so
 many people in society as reference points -- and so find themselves
 severely wanting in status and importance as a result.
 
-# Tyranny of the majority
+## Tyranny of the majority
 
 Democratic culture, he thought, could easily end up demonising any
 assertion of difference, and especially of cultural superiority or high
 mindedness, which could be perceived as offensive to the majority --
 even though such attitudes might be connected with real merit.
 
-## Democracy turns us against authority
+### Democracy turns us against authority
 
-# Max Weber
+## Max Weber
 
 But Weber proposed that what made capitalism possible was a set of
 *ideas*, not scientific discoveries -- and in particular religious
@@ -376,7 +376,7 @@ mentality, one far removed from that of Rhineland Germany. They believe
 in clans, they have magical thinking, they don't believe that God would
 Himself command them to be an honest mechanic or hairdresser ...
 
-# Margaret Mead
+## Margaret Mead
 
 Mead also discovered that human behaviour in relation to gender varied
 widely from culture to culture, far more than Americans at the time
@@ -397,13 +397,13 @@ encouraged, or shunned by native culture.
 Mead's striking conclusion was, of course, that culture determined an
 individual's personality far more than people had previously expected.
 
-# Rachel Carson
+## Rachel Carson
 
 It is perhaps her most radical idea of all: that it is love, rather than
 guilt, which is the key to transforming humanity's relationship to
 nature.
 
-# Sigmund Freud
+## Sigmund Freud
 
 His professional life was not an immediate success. As a young medical
 student, he dissected hundreds of male eels in a vain attempt to locate

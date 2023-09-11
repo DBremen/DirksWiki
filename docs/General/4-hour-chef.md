@@ -1,28 +1,4 @@
-# Language
-
-The apple is red.
-
-It is John's apple.
-
-I give John the apple.
-
-We give him the apple.
-
- 
-
-He gives it to John.
-
-She gives it to him.
-
- 
-
-Is the apple red?
-
-The apples are red.
-
-![](media_4-hour-chef/media/image1.png)
-
-# Fire
+## Fire
 
 -   Put the largest logs at the bottom, ensuring there is no space
     between them whatsoever.
@@ -49,13 +25,13 @@ The apples are red.
     fire and get frustrated. This is the only place where a little space
     is good.
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_4-hour-chef/media/image2.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_4-hour-chef/media/image1.png)
 
-# Swimming
+## Swimming
 
-![](media_4-hour-chef/media/image3.png)
+![](media_4-hour-chef/media/image2.png)
 
-# Unusual food combos
+## Unusual food combos
 
 -   Cinnamon and chile powder on vanilla ice cream.
 
@@ -73,7 +49,7 @@ The apples are red.
 -   Cinnamon on grilled pineapple (a favorite in churrascaria, grilled
     meat restaurants in Brazil).
 
-# Best herbs
+## Best herbs
 
 -   Rosemary
 
@@ -97,7 +73,7 @@ The apples are red.
 -   Chervil (Odd fact: can be smoked like marijuana for similar effects,
     or so I've been told.)
 
-## Herb pairings
+### Herb pairings
 
 -   Fish → fennel or dill
 
@@ -112,7 +88,7 @@ The apples are red.
 
 -   Non-protein bonus: tomatoes → basil
 
-# Condiments
+## Condiments
 
 -   Montreal steak rub
 
@@ -130,7 +106,7 @@ The apples are red.
 
 -   SHERRY VINEGAR
 
-# Preparation procedures
+## Preparation procedures
 
 -   Braising
 
@@ -146,7 +122,7 @@ The apples are red.
 
 -   Grilling
 
-# Misc cooking
+## Misc cooking
 
 LEFT has four letters; RIGHT has five letters---The FORK (four letters)
 goes to the LEFT (four letters) of the plate. The KNIFE and SPOON (each

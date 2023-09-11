@@ -1,8 +1,8 @@
 <https://www.youtube.com/playlist?list=PL848F2368C90DDC3D>
 
-# Behavioural evolution
+## Behavioural evolution
 
-## Natural selection as an explanation for evolution
+### Natural selection as an explanation for evolution
 
 -   There are traits that are heritable
 
@@ -16,7 +16,7 @@
 The same as above applies to behaviour (just replace traits with
 behaviour).
 
-## Sexual selection
+### Sexual selection
 
 **Sexual selection** is a mode of [natural
 selection](https://en.wikipedia.org/wiki/Natural_selection) in which
@@ -43,7 +43,7 @@ predators.
 
 **Animals don't behave for the good of their species.**
 
-## Three main factors driving behaviour
+### Three main factors driving behaviour
 
 Based on three main factors:
 
@@ -82,7 +82,7 @@ body-size is big) and pair-bonding (monogamous) species
 
 ![](media_Biological_behaviour/media/image1.png)
 
-## Examples of behaviour
+### Examples of behaviour
 
 Infanticide is found within groups of langur monkeys, lions, vervet
 monkeys, mountain gorillas and other species as well. Initial attempts
@@ -112,7 +112,7 @@ cooperate with each other, though it can have divisive effects as well,
 such as was seen in the Vietnam War, because the group may agree to
 disagree with orders and commands from above, the hierarchical other.
 
-## Examples where reciprocal altruism out competes individual selection
+### Examples where reciprocal altruism out competes individual selection
 
 A bio-geographic (or other) event occurs that separates out a subset
 from a larger group. This smaller subset soon becomes more inbred than
@@ -141,7 +141,7 @@ group the BB's out compete the AA's)
 Not all traits are based on natural section but just a side effect of
 other traits (e.g. the chin of a human).
 
-# Molecular Genetics
+## Molecular Genetics
 
 Proteins hold the shapes of cells together, they form messengers and
 hormones, they are the enzymes that do all kinds of important stuff;
@@ -198,11 +198,11 @@ These might turn on single genes or whole networks in the DNA. On the
 flipside, any given gene can have a whole bunch of different promoters
 that it\'s waiting to hear from before it does its thing.
 
-# Behavioural Genetics
+## Behavioural Genetics
 
 <https://www.youtube.com/watch?v=GRYcSuyLiJk>
 
-# Why do we do what we do?
+## Why do we do what we do?
 
 Understanding the context!
 
@@ -210,7 +210,7 @@ Understanding the context!
 
 ![](media_Biological_behaviour/media/image4.png)
 
-## Based on different parts of the brain
+### Based on different parts of the brain
 
 ![](media_Biological_behaviour/media/image5.png)
 
@@ -218,7 +218,7 @@ Understanding the context!
 
 ![](media_Biological_behaviour/media/image7.png)
 
-### Pre-frontal cortex
+#### Pre-frontal cortex
 
 Responsible for delayed gratification and impulse control
 
@@ -228,13 +228,13 @@ Responsible for delayed gratification and impulse control
 
 ![](media_Biological_behaviour/media/image10.png)
 
-### Dopamine
+#### Dopamine
 
 Reward system. Triggered by anticipation.
 
 ![](media_Biological_behaviour/media/image11.png)
 
-## Environment
+### Environment
 
 ![](media_Biological_behaviour/media/image12.png)
 
@@ -242,9 +242,9 @@ Sports team loyalties (and individuation, according to 69:00 Susan
 Fiske\'s studies) can override racial bias. Racial bias is not innate
 but acquired.
 
-## Hormones
+### Hormones
 
-### Testosterone and Oxytocin
+#### Testosterone and Oxytocin
 
 Testosterone doesn't make you more aggressive it just makes us defending
 our status stronger. E.g. in a hierarchy of monkey where A is stronger
@@ -256,7 +256,7 @@ Humans with higher testosterone levels were more generous.
 
 ![](media_Biological_behaviour/media/image13.png)
 
-## Adolescence
+### Adolescence
 
 ![](media_Biological_behaviour/media/image14.png)
 
@@ -266,22 +266,22 @@ Humans with higher testosterone levels were more generous.
 
 ![](media_Biological_behaviour/media/image17.png)
 
-## Childhood
+### Childhood
 
 ![](media_Biological_behaviour/media/image18.png)
 
-## Genes
+### Genes
 
 Not DNA determines what genes do (producing proteins) but environment
 does
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image20.png)![](media_Biological_behaviour/media/image21.png)
 
-## Ancestors and culture
+### Ancestors and culture
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image22.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image23.png)![](media_Biological_behaviour/media/image24.png)
 
-## Evolution
+### Evolution
 
 ![](media_Biological_behaviour/media/image25.png)
 

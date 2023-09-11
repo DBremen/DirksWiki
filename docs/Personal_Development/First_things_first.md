@@ -1,4 +1,4 @@
-# Compass vs. clock
+## Compass vs. clock
 
 -   The clock represents our commitments, appointments, schedules,
     goals, activities what we do with, and how we manage our time.
@@ -36,7 +36,7 @@ things right?"**
 we're getting. One definition of insanity is "to keep doing the same
 things and expect different results."**
 
-## URGENCY ADDICTION
+### URGENCY ADDICTION
 
 Some of us get so used to the adrenaline rush of handling crises that we
 become dependent on it for a sense of excitement and energy. How does
@@ -54,7 +54,7 @@ admit it. Busyness is where we get our security. It's validating,
 popular, and pleasing. It's also a good excuse for not dealing with the
 more important things.
 
-## Quadrants
+### Quadrants
 
 ![https://lindseygendke.files.wordpress.com/2015/11/four-quadrants.png](media_First_things_first/media/image1.png)
 
@@ -135,7 +135,7 @@ more important things.
 > Quadrant IV is not survival; it's deterioration. It may have an
 > initial cotton candy feel, but we quickly find there's nothing there.
 
-## Why does one not spend more time on Quadrant II activities? 
+### Why does one not spend more time on Quadrant II activities? 
 
 Because they're not urgent. They aren't pressing. They don't act on you.
 You have to act on them.
@@ -148,7 +148,7 @@ of Quadrant I changes. Most of the time, we're there by choice rather
 than default. We may even choose to make something urgent or timely
 because it's important.
 
-# How to determine what is important?
+## How to determine what is important?
 
 At the heart of the fourth generation are three fundamental ideas that
 empower us to answer that question:
@@ -159,7 +159,7 @@ empower us to answer that question:
 
 3.  The potentiality of the four human endowments
 
-## The fulfillment of the four human needs and capacities
+### The fulfillment of the four human needs and capacities
 
 To Live, to Love, to Learn, to Leave a Legacy
 
@@ -190,7 +190,7 @@ transforms other needs into capacities for contribution.
 context that makes peace in all aspects of life possible. It's in
 leaving a legacy that we find meaning in living, loving, and learning.**
 
-## The reality of true north principles
+### The reality of true north principles
 
 As important as the needs are to fulfill, is the way we seek to fulfill
 them. Our ability to create quality of life is a function of the degree
@@ -202,7 +202,7 @@ where we want to go, and how to get there. "True north" in the human
 dimension is an inner compass that empowers us to align our lives with
 it.
 
-### Principles
+#### Principles
 
 Principles are neither practices nor values but they are at higher
 level. If we understand and live our lives based on principles, we can
@@ -214,7 +214,7 @@ challenge of the moment, but to understand the principle is to meet the
 challenge of the moment more effectively and to be empowered to meet a
 thousand challenges of the future as well.
 
-#### Law of the farm
+##### Law of the farm
 
 In agriculture, we can easily see and agree that natural laws and
 principles govern the work and determine the harvest. But in social and
@@ -230,7 +230,7 @@ areas of life. And there's no way to fake the harvest.
 The problems in life come when we're sowing one thing and expecting to
 reap something entirely different.
 
-## The potentiality of the four human endowments
+### The potentiality of the four human endowments
 
 As human beings, we have unique endowments that distinguish us from the
 animal world. These endowments reside in that space between stimulus and
@@ -248,7 +248,7 @@ creative imagination, and independent will create our ultimate human
 freedom: the power to choose, to respond, and to change. They create the
 compass that empowers us to align our lives with true north.
 
-### Self-awareness...
+#### Self-awareness...
 
 Self-awareness is our capacity to stand apart from ourselves and examine
 our thinking, our motives, our history, our scripts, our actions, and
@@ -257,14 +257,14 @@ look at them as well as through them. It makes it possible for us to
 become aware of the social and psychic history of the programs that are
 in us and to enlarge the separation between stimulus and response.
 
-### Conscience
+#### Conscience
 
 Conscience connects us with the wisdom of the ages and the wisdom of the
 heart. It's our internal guidance system, which allows us to sense when
 we act or even contemplate acting in a way that's contrary to principle.
 It also gives us a sense of our unique gifts and mission.
 
-### Independent will
+#### Independent will
 
 Independent will is our capacity to act. It gives us the power to
 transcend our paradigms, to swim upstream, to rewrite our scripts, to
@@ -276,7 +276,7 @@ product of our past. We are the product of our choices. We are
 tendencies. We have will power to act on self-awareness, conscience, and
 vision.
 
-### Creative imagination
+#### Creative imagination
 
 Creative imagination is the power to envision a future state, to create
 something in our mind, and to solve problems synergistically. It's the
@@ -290,7 +290,7 @@ new situations.
 **The development of each of the four endowments and the synergy between
 them is the core of personal leadership.**
 
-### How to develop your endowments
+#### How to develop your endowments
 
 **Our lives are the results of our choices. To blame and accuse other
 people, the environment, or other extrinsic factors is to choose to
@@ -337,7 +337,7 @@ empower those things to control us.**
 
     -   The best way to predict your future is to create it.
 
-# Quadrant II organizing process: the process of putting 1^st^ things 1^st^
+## Quadrant II organizing process: the process of putting 1^st^ things 1^st^
 
 A thirty-minute weekly process and tool that will empower you to create
 quality of life based on needs, principles, and endowments.
@@ -346,7 +346,7 @@ quality of life based on needs, principles, and endowments.
 everything. We can think win-win with all the roles in our lives, to see
 them as parts of a highly interrelated whole.**
 
-## STEP ONE: CONNECT WITH YOUR VISION AND MISSION
+### STEP ONE: CONNECT WITH YOUR VISION AND MISSION
 
 As you begin to organize for the coming week, the first step is to
 connect with what's most important in your life as a whole. Context
@@ -362,7 +362,7 @@ the clarity of your vision around such questions as:
 
 -   What do you want to be and to do in your life?
 
-## STEP TWO: IDENTIFY YOUR ROLES
+### STEP TWO: IDENTIFY YOUR ROLES
 
 We live our lives in terms of roles not in the sense of role playing,
 but in the sense of authentic parts we've chosen to fill. We may have
@@ -399,12 +399,12 @@ variety of perspectives from which to examine your life to ensure
 balance and harmony. The paradigm is always one of importance,
 interdependence, and relatedness.
 
-## STEP THREE: SELECT QUADRANT II GOALS IN EACH ROLE
+### STEP THREE: SELECT QUADRANT II GOALS IN EACH ROLE
 
 What is the most important thing I could do in each role this week to
 have the greatest positive impact?
 
-## STEP FOUR: CREATE A DECISION-MAKING FRAMEWORK FOR THE WEEK
+### STEP FOUR: CREATE A DECISION-MAKING FRAMEWORK FOR THE WEEK
 
 Rocks in a jar metaphor https://www.youtube.com/watch?v=j6m9WnNdpSw
 
@@ -423,13 +423,13 @@ are in first.
 possible) would be to live without opportunity, spontaneity, and the
 rich moments of which life is made.**
 
-## STEP FIVE: EXERCISE INTEGRITY IN THE MOMENT
+### STEP FIVE: EXERCISE INTEGRITY IN THE MOMENT
 
-## STEP SIX: EVALUATE
+### STEP SIX: EVALUATE
 
 ![](media_First_things_first/media/image3.png)
 
-# Planning & goal setting
+## Planning & goal setting
 
 As people work together to accomplish any task, sooner or later they
 have to deal with five elements:
@@ -479,13 +479,13 @@ quality of life.
     logical consequences of accomplishing or not accomplishing the
     desired results?
 
-# Win-win
+## Win-win
 
 Think Win-Win. You genuinely want the other person to win. You also want
 to win. You commit to interact until you can come up with a solution you
 both feel good about.
 
-## Seek First to Understand 
+### Seek First to Understand 
 
 As you seek mutual understanding, you may find it helpful to address the
 following questions:
@@ -509,14 +509,14 @@ Find out what would constitute a win for the other person. Identify what
 would constitute a win for you. Put both criteria on the table as the
 foundation for synergistic interaction.
 
-## Synergize
+### Synergize
 
 Open the door to the discovery of creative third-alternative solutions.
 Brainstorm. Use your MacGyver mentality. Open your mind. Be prepared for
 surprise. Try to create a list of possible options that would meet the
 criteria you've set up.
 
-# Trust
+## Trust
 
 Both character and competence are necessary to inspire trust. And both
 are completely within our Circle of Influence.
@@ -537,7 +537,7 @@ Character includes:
     to the paradigm that life is a zero sum game, that the pie is only
     so large and if anyone else gets a piece, that means less for me)
 
-## Competence:
+### Competence:
 
 -   **Technical competence** - the knowledge and skill to achieve the
     agreed-upon results; the ability to think through problems and look
@@ -552,13 +552,13 @@ Character includes:
     synergistic solutions; the ability to see and operate effectively
     and cooperatively in complete organizations and systems
 
-# Interdependency
+## Interdependency
 
 ![](media_First_things_first/media/image4.png)
 
-# Decision making
+## Decision making
 
-## Ask with intent
+### Ask with intent
 
 -   How did this activity come about?
 
@@ -575,7 +575,7 @@ Character includes:
 
 -   Is it within my circle of influence?
 
-# Frustration = f(Expectations)
+## Frustration = f(Expectations)
 
 Frustration is essentially a function of unmet expectations we expect
 something to be a certain way or to produce certain results, and it

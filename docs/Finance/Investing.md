@@ -17,7 +17,7 @@ bet on a strong horse).
 **Always consider quality and price when buying stocks. Aim for getting
 more quality per price.**
 
-# Anti-Fragile
+## Anti-Fragile
 
 E.g. youtuber winning with negative and positive comments
 
@@ -62,7 +62,7 @@ font manager with a longer track record.
 
 ![](media_Investing/media/image4.png)
 
-# Focus on pay-off rather than probability
+## Focus on pay-off rather than probability
 
 ![](media_Investing/media/image5.png)
 
@@ -74,7 +74,7 @@ font manager with a longer track record.
 
 4.  Investing 100\$ = 100 \* .2 + 100 \* -.09 = 20 - 9 = 11%
 
-# Better multiple favorable bets with less pay-off but lower risk
+## Better multiple favorable bets with less pay-off but lower risk
 
 **Should you invest 100\$ in a start-up that has 40% probability of
 succeeding if a succeeding you win 500\$. Or put 25\$ in 4 (independent)
@@ -96,7 +96,7 @@ start-ups with 40% probability of succeeding?**
     is 0.01 % (0.4^10^) but the probability that at least one succeeds
     is 99.4% (1 - 0.6^10^).
 
-# Economy
+## Economy
 
 https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
 
@@ -183,7 +183,7 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
 
 ![](media_Investing/media/image7.png)
 
-## Dividend discount model
+### Dividend discount model
 
 -   The cash ﬂows that investors receive from stock are the dividends,
     so fundamentals-based models of stock price note that the current
@@ -219,7 +219,7 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
 -   average growth rate of the dividend: g (average dividend growth rate
     over the past 5 years.)
 
-## Dividends
+### Dividends
 
 Companies usually don't reduce the relative amount of dividends
 (dividend yield) the pay but rather try to keep them stable or even
@@ -236,7 +236,7 @@ of its outstanding shares. This is a **substitute for a dividend**
 because the company has to pay cash for these repurchased shares, which
 returns cash to the company's shareholders.
 
-# Advantage of long term investment over short term![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png)
+## Advantage of long term investment over short term![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png)
 
 ![](media_Investing/media/image11.png)
 
@@ -253,9 +253,9 @@ Earnings yield = opposite of P/E shows % earning per stock price
 
 ![](media_Investing/media/image12.png)
 
-# Three pillars of trading
+## Three pillars of trading
 
-## Psychology
+### Psychology
 
 -   Keep track of your trades including your assumptions and reasoning
     (plan to sell)
@@ -270,7 +270,7 @@ Earnings yield = opposite of P/E shows % earning per stock price
 
 -   
 
-## Trading system
+### Trading system
 
 Man = trend
 
@@ -301,7 +301,7 @@ up in a different direction=
 -   Intraday breakout: buy order 1 tick above the high of the previous
     day.
 
-## Money management
+### Money management
 
 Cut losses short and let winners run
 
@@ -318,7 +318,7 @@ Box model for exit strategy
 
 ![](media_Investing/media/image15.png)
 
-### Kelly Criterion
+#### Kelly Criterion
 
 Determine position size based on:
 
@@ -350,7 +350,7 @@ Determine position size based on:
     20000 \* .163% = 3256.77 (actual risk is determined based on stop
     loss e.g. 10% of position size)
 
-### Van Tharp 
+#### Van Tharp 
 
 -   R = Unit of risk
 
@@ -396,7 +396,7 @@ Determine position size based on:
 
 3.  High returns
 
-# Valuation of stock prices
+## Valuation of stock prices
 
 ![](media_Investing/media/image21.png)
 
@@ -404,7 +404,7 @@ Determine position size based on:
 
 Compare this in conjunction with P/E
 
-## Relative evaluation
+### Relative evaluation
 
 Compare stocks to a similar competitor and take the cheaper one.
 
@@ -420,7 +420,7 @@ Competitive advantage
 
 > ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image24.png)
 
-## Intrinsic valuation (follow-up of above)
+### Intrinsic valuation (follow-up of above)
 
 -   Discount rate = yearly return of the stock
 
@@ -430,7 +430,7 @@ Competitive advantage
 
 ![](media_Investing/media/image26.png)
 
-# Interpretation of financial statements
+## Interpretation of financial statements
 
 -   Watch out for overstated values in the balance sheet (e.g.
     intangible assets)
@@ -441,7 +441,7 @@ Competitive advantage
 
 ![](media_Investing/media/image27.png)
 
-## Intrinsic value (liquidation value)
+### Intrinsic value (liquidation value)
 
 Use book value = Sell all assets and repay all liabilities
 
@@ -449,7 +449,7 @@ Use book value = Sell all assets and repay all liabilities
 
 ![](media_Investing/media/image29.png)
 
-## Income statement (over a period)
+### Income statement (over a period)
 
 Best is to express everything as a % of the of total revenue (top line)
 and compare with average of top 5 competitors
@@ -460,7 +460,7 @@ and compare with average of top 5 competitors
 
 ![](media_Investing/media/image32.png)
 
-## Balance sheet (snapshot in time)
+### Balance sheet (snapshot in time)
 
 Look at a percentage of total assets and compare with top competitors
 
@@ -472,21 +472,21 @@ Bad signs
 
 ![](media_Investing/media/image35.png)
 
-## Cash flow statement
+### Cash flow statement
 
 Statement of actual ins and outs of money
 
-## Indicators
+### Indicators
 
-### ROE return on equity
+#### ROE return on equity
 
 Net income (income statement) / Total equity (Balance sheet)
 
-### Return on tangible assets
+#### Return on tangible assets
 
 ![](media_Investing/media/image36.png)
 
-### Net margin
+#### Net margin
 
 -   Highly dependent on industry
 
@@ -498,7 +498,7 @@ Net income (income statement) / Total equity (Balance sheet)
 
 -   Tells you what percentage of how much the company earns on a dollar
 
-### Current Ratio
+#### Current Ratio
 
 -   Current Ratio = Current Assets / Current liabilities
 
@@ -509,13 +509,13 @@ Net income (income statement) / Total equity (Balance sheet)
 
 ![](media_Investing/media/image38.png)
 
-### P/B ratio price to book ratio
+#### P/B ratio price to book ratio
 
 -   Highly dependent on industry
 
 -   P/B = market cap (number of stocks \* price of stock) / total assets
 
-# Inflation
+## Inflation
 
 -   During inflation it's good to invest in companies that have low
     capital requirements (low debt ratio) and high return on assets
@@ -526,7 +526,7 @@ Net income (income statement) / Total equity (Balance sheet)
 -   Companies that have pricing power (e.g. they can increase the price
     according to inflation or higher)
 
-# Cycles
+## Cycles
 
 A market cycle oscillates around a secular trend.
 
@@ -551,11 +551,11 @@ Cycles are influenced by other cycles:
 
     ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image42.png)
 
-# Ideas
+## Ideas
 
 Look for most valuable brand with the lowest P/E
 
-## Conservative base investment
+### Conservative base investment
 
 -   Dividend stocks (paying dividends for 10+ years)
 
@@ -568,7 +568,7 @@ Look for most valuable brand with the lowest P/E
     Don't bet on companies that do a lot of acquisitions rather focus on
     organic grows
 
-## Acquirer\'s multiple
+### Acquirer\'s multiple
 
 -   P/E = market cap / net earnings
 
@@ -581,11 +581,11 @@ Look for most valuable brand with the lowest P/E
 
 -   <https://acquirersmultiple.com/largecapsuccess/>
 
-# Diversify
+## Diversify
 
 10-20 stocks
 
-# Focus on avoiding mistakes instead of trying to be right all the time 
+## Focus on avoiding mistakes instead of trying to be right all the time 
 
 -   Try to be consistently not stupid.
 
@@ -593,7 +593,7 @@ Look for most valuable brand with the lowest P/E
 
 -   Avoid disaster (e.g. running out of money)
 
-## Stay in circle of competence with humility (but think independently)
+### Stay in circle of competence with humility (but think independently)
 
 -   Know what you don't know
 
@@ -605,7 +605,7 @@ Look for most valuable brand with the lowest P/E
 
     ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image44.png)
 
-## Evaluate risk
+### Evaluate risk
 
 -   Use a margin of safety (e.g. buy under valued stocks)
 
@@ -613,13 +613,13 @@ Look for most valuable brand with the lowest P/E
 
 -   What could go wrong?
 
-# Resist the urge to act (FOMO)
+## Resist the urge to act (FOMO)
 
 -   Avoid transaction fees
 
 -   But not when it comes to cutting losss
 
-# Focus on macro rather than micro decisions
+## Focus on macro rather than micro decisions
 
 -   Don't save on small expenses or try to win on small bets
 
@@ -631,7 +631,7 @@ Look for most valuable brand with the lowest P/E
 
     ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image45.png)
 
-# Don't fall in love with your investment/position
+## Don't fall in love with your investment/position
 
 -   Always set a value at which you will sell before investing and
     follow it

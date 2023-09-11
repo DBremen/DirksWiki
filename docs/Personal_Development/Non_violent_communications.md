@@ -15,7 +15,7 @@ that we are each responsible for our own thoughts, feelings, and
 actions. Communicating our desires in the form of demands is yet another
 characteristic of language that blocks compassion.
 
-# Step 1 Observation without evaluation
+## Step 1 Observation without evaluation
 
 The first component of NVC entails the separation of observation from
 evaluation. We need to clearly observe what we are seeing, hearing, or
@@ -27,7 +27,7 @@ saying.
 
 ![](media_Non_violent_communications/media/image4.png)
 
-# Step 2 Feeling without judging
+## Step 2 Feeling without judging
 
 ![](media_Non_violent_communications/media/image5.png)
 
@@ -37,7 +37,7 @@ feeling irritated," or simply, "I'm irritated."**
 
 ![](media_Non_violent_communications/media/image6.png)
 
-# Step 3 Identify own needs and those of others
+## Step 3 Identify own needs and those of others
 
 ![](media_Non_violent_communications/media/image7.png)
 
@@ -47,7 +47,7 @@ feeling irritated," or simply, "I'm irritated."**
 
 ![](media_Non_violent_communications/media/image10.png)
 
-# Step 4 Request what we would like of others
+## Step 4 Request what we would like of others
 
 ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image11.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image12.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Non_violent_communications/media/image13.png)![](media_Non_violent_communications/media/image14.png)
 
