@@ -95,7 +95,7 @@ production. Someone else wants to keep the electricity production up to
 keep up with expected required future capacity, but fears it might come
 at the cost of emitting more Co2
 
-![](media_Solving_complex_problems/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image1.png)
 
 Common mistakes when formulating problem statements:
 
@@ -287,7 +287,7 @@ is another, more abstract goal for our client when it comes to his life:
 we have reached his interest, which is always there, independent of any
 problem, even without the problem being perceived
 
-![](media_Solving_complex_problems/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image2.png)
 
 In other words, goal trees are actor-specific. Only when all actors are
 involved in criteria creation (i.e., all actors have their own goal
@@ -413,9 +413,9 @@ constructing a goal tree were definition questions ('what does it
 mean?'), while these two questions are about causal relations ('what
 influences?').
 
-![](media_Solving_complex_problems/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image3.png)
 
-![](media_Solving_complex_problems/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image4.png)
 
 Of course, many other criteria matter as well, that is why we made the
 effort to create all these goal trees for all actors involved to come to
@@ -441,10 +441,10 @@ about alternative energy sources, you quickly might think about things
 like 'climate', 'electricity usage', or 'environmental awareness'. These
 factors are not yet explicit, operational factors, but mere concepts.
 
-![](media_Solving_complex_problems/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image5.png)
 
 #### Problem diagram
 
-![](media_Solving_complex_problems/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image6.png)
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png)![](media_Solving_complex_problems/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image7.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Solving_complex_problems/media/image8.png)

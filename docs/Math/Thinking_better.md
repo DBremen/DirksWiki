@@ -40,8 +40,8 @@ Formula = 1/2 × *n* × (*n* + 1); n= 100 = 50 \* 101 = 5050
 
 The result of the formula is a triangular number:
 
-![](media_Thinking_better/media/image1.jpeg)
-![](media_Thinking_better/media/image2.jpeg)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image1.jpeg)\
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image2.jpeg)
 
 The triangle has a rule similar to the Fibonacci rule, but you build the
 numbers in the layers below by adding the two numbers that sit above
@@ -197,7 +197,7 @@ We cans find out how by turning numbers into geometry.
 
 **Distance travelled = t^2^**
 
-![](media_Thinking_better/media/image3.jpeg)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image3.jpeg)
 
 To grow bigger and bigger squares, I've got to wrap the next odd number
 in the sequence around the previous square. Suddenly the connection
@@ -247,7 +247,7 @@ the fences?
 
 The variable that is subject to change is x.
 
-![](media_Thinking_better/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image4.png)
 
 | circumference    | y+2x=10    |
 |------------------|------------|
@@ -255,14 +255,14 @@ The variable that is subject to change is x.
 | area to maximize | x\*(10-2x) |
 | area to maximize | 10x-2x^2^  |
 
-![](media_Thinking_better/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image5.png)
 
 ## Geodesics
 
-![](media_Thinking_better/media/image6.jpeg)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image6.jpeg)
 
 The fastest route from Madagascar to Las Vegas is via the United Kingdom
 
-![](media_Thinking_better/media/image7.jpeg)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Thinking_better/media/image7.jpeg)
 
 On a sphere angles in triangles add up to more than 180 degrees

@@ -9,7 +9,7 @@ Q : the set of all rational numbers (fractions)
 
 R : the set of all real numbers
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image1.png)![](media_Math_Thinking/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image1.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image2.png)
 
 ## Implication
 
@@ -19,19 +19,19 @@ The truth part is called the conditional part.
 
 Implication = Conditional + causation
 
-![http://www.mathrec.org/jpeg/symbol-de.gif](media_Math_Thinking/media/image3.gif)
+![http://www.mathrec.org/jpeg/symbol-de.gif](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image3.gif)
 
 **In math we focus only on the conditional part**.
 
 A
-![http://www.mathrec.org/jpeg/symbol-de.gif](media_Math_Thinking/media/image3.gif)
+![http://www.mathrec.org/jpeg/symbol-de.gif](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image3.gif)
 B
 
 A= Antecedent , B= consequent
 
 Defines the truth of A implies B in terms of truth or falsity of A,B.
 
-![http://www.millersville.edu/\~bikenaga/math-proof/truth-tables/truth-tables13.png](media_Math_Thinking/media/image4.png)
+![http://www.millersville.edu/\~bikenaga/math-proof/truth-tables/truth-tables13.png](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Math_Thinking/media/image4.png)
 
 P: n \>7
 

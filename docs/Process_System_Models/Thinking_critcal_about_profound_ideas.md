@@ -65,11 +65,11 @@ Aim of philosophy:
 
 ### Branches of philosophy
 
-![](media_Thinking_critcal_about_profound_ideas/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image1.png)
 
 ### Critical thinking process
 
-![](media_Thinking_critcal_about_profound_ideas/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image2.png)
 
 ### Arguments:
 
@@ -334,7 +334,7 @@ installed in our intellectual operating systems.
 
 **External vs. internal forces**
 
-![](media_Thinking_critcal_about_profound_ideas/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image3.png)
 
 **If you are limited by external forces**, the way to free yourself is
 to neutralize or remove them, so that you can make choices that reflect
@@ -345,7 +345,7 @@ freedom. If you believe that your choices are excessively limited by the
 geographical location in which you live, you might have to move in order
 to increase your possibilities.
 
-![](media_Thinking_critcal_about_profound_ideas/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image4.png)
 
 ### Existentialism, 
 
@@ -363,14 +363,14 @@ The view that every event, including human actions, is brought about by
 previous events in accordance with universal causal laws that govern the
 world. Human freedom is an illusion.
 
-![](media_Thinking_critcal_about_profound_ideas/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image5.png)
 
 ### Indeterminism 
 
 The view that some events, including human actions, are not necessarily
 determined by previous events in accordance with universal causal laws.
 
-![](media_Thinking_critcal_about_profound_ideas/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image6.png)
 
 ### Libertarianism
 
@@ -398,12 +398,12 @@ The study of the nature of knowledge and justification.
 
 Plato:
 
-![](media_Thinking_critcal_about_profound_ideas/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image7.png)
 
 As we saw, Plato s metaphysical belief in the world of Being and the
 eternal Forms is tied to:
 
-![](media_Thinking_critcal_about_profound_ideas/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image8.png)
 
 ### Kant:
 
@@ -415,7 +415,7 @@ be connected together into (my) one conscious- ness. This principle
 stands firm a priori, and may be called "the transcendental principle of
 unity" for all the multiplicity of our perceptions and sensations.
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image9.png)![](media_Thinking_critcal_about_profound_ideas/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image9.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image10.png)
 
 **The entire reality, which we assume to be completely independent of
 ourselves, is in fact, as Kant maintained, constituted by the active
@@ -895,7 +895,7 @@ The virtue of altruism that traditional ethical theories and religions
 recommend is actually a vice because it encourages people not to pursue
 their own self-interest as their top priority.
 
-![](media_Thinking_critcal_about_profound_ideas/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image11.png)
 
 Again ethical egoism
 
@@ -938,7 +938,7 @@ Virtue then is a state of deliberate moral purpose consisting in a mean
 that is relative to ourselves, the mean being determined by reason, or
 as a prudent man would determine it.
 
-![](media_Thinking_critcal_about_profound_ideas/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image12.png)
 
 ### Existentialism
 
@@ -949,7 +949,7 @@ existing in a universe that lacks ultimate meaning? How can I develop an
 approach to moral responsibility that is grounded in my absolute freedom
 of choice?
 
-![](media_Thinking_critcal_about_profound_ideas/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Thinking_critcal_about_profound_ideas/media/image13.png)
 
 Once you have developed a clear understanding of your moral code, the
 struggle has just begun. Becoming a morally enlightened person a person

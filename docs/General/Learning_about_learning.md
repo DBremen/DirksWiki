@@ -8,7 +8,7 @@
 
 **Novices need quick successes and context-free rules.**
 
-![](media_Learning_about_learning/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Learning_about_learning/media/image1.png)
 
 -   Imitate
 
@@ -28,7 +28,7 @@
 
 ### The brain as a computer
 
-![](media_Learning_about_learning/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Learning_about_learning/media/image2.png)
 
 if CPU #1 is hogging the bus, CPU #2 can't get at memory to perform
 searches. Similarly, if CPU #2 is cranking away on a high-priority
@@ -81,7 +81,7 @@ R -mode is quite diligent at storing input. In fact, it's possible that
 every experience you have, no matter how mundane, is stored. But it is
 not necessarily indexed.
 
-![](media_Learning_about_learning/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Learning_about_learning/media/image3.png)
 
 Researchers in Japan did a study of a bank's ATM interfaces; subjects
 found the aesthetically pleasing button layouts much easier to use than
@@ -138,7 +138,7 @@ drifting too far from reality.
 
 <http://themindsetlist.com/lists/the-mindset-list-for-the-class-of-2018-born-in-1996/>
 
-![](media_Learning_about_learning/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Learning_about_learning/media/image4.png)
 
 ## Coursera learning to learn
 

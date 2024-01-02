@@ -90,11 +90,11 @@ algorithm.
 When to stop searching. When there is no chance of rejection "secretary
 problem":
 
-![](media_Mental_Models/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image1.png)
 
 With rejection working your way backwards from the last candidate:
 
-![](media_Mental_Models/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image2.png)
 
 Last candidate only hire if better than 50^th^ percentile
 
@@ -119,11 +119,11 @@ Repeat this process until there are just two stacks left, and merge them
 one last time onto the shelf. Just try to avoid getting pizza stains on
 the books.
 
-![](media_Mental_Models/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image3.png)
 
 ## Probability distributions
 
-![](media_Mental_Models/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image4.png)
 
 In a power-law distribution, the longer something has gone on, the
 longer we expect it to continue going on. So a power-law event is more
@@ -142,7 +142,7 @@ or less surprising no matter when they occur. Any state of affairs is
 always equally likely to end gardless of how long it's lasted. No wonder
 politicians are always thinking about their next election.
 
-![](media_Mental_Models/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image5.png)
 
 Gambling is characterized by a similar kind of steady-state expectancy.
 If your wait for, say, a win at the roulette wheel were characterized by
@@ -174,19 +174,19 @@ averaged, this resulting average approximately follows a normal
 distribution. This is the case even if the numbers originally came from
 a completely different distribution.
 
-![undefined](media_Mental_Models/media/image6.png)
+![undefined](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image6.png)
 
 ## Decision matrices
 
 Contrarian mindset (e.g. for start-up investors)
 
-![](media_Mental_Models/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image7.png)
 
-![](media_Mental_Models/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image8.png)
 
 2x2 matrix with scatterplot to avoid dichotomy
 
-![](media_Mental_Models/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image9.png)
 
 Reversible vs irreversible decisions
 
@@ -201,7 +201,7 @@ insurance market are to mandate participation, as many localities do for
 car insurance, and to distinguish subpopulations based on their risk
 profiles, as life insurers do for smokers.
 
-![](media_Mental_Models/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image10.png)
 
 ## Moral hazard
 
@@ -260,7 +260,7 @@ theorem because property rights are well defined through the permitting
 process, companies act rationally to maximize their profits, and the
 open market provides low transaction costs.
 
-![](media_Mental_Models/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image11.png)
 
 ## Emphasis
 
@@ -275,7 +275,7 @@ else\'s most respectful interpretation
 
 **Birth lottery **(luck based on where you were born)
 
-![](media_Mental_Models/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image12.png)
 
 ### Veil of ignorance 
 
@@ -299,13 +299,13 @@ and many others believe, is the essence of justice.
 
 ## Survivor ship bias
 
-![](media_Mental_Models/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image13.png)
 
-![](media_Mental_Models/media/image14.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image14.png)
 
 ## Deductive reasoning (from general to specific)
 
-![](media_Mental_Models/media/image15.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image15.png)
 
 ## Focus on avoiding mistakes instead of trying to be right all the time 
 
@@ -365,7 +365,7 @@ appropriate for the situation.
 
 ## Kelly formula for optimal betting size
 
-![](media_Mental_Models/media/image16.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image16.png)
 
 Coin flip:
 
@@ -382,21 +382,21 @@ Coin flip:
 
 ## Pareto = power law distro
 
-![](media_Mental_Models/media/image17.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image17.png)
 
-![](media_Mental_Models/media/image18.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image18.png)
 
 ## Statistical decision theory
 
-![](media_Mental_Models/media/image19.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image19.png)
 
-![](media_Mental_Models/media/image20.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image20.png)
 
-![](media_Mental_Models/media/image21.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image21.png)
 
-![](media_Mental_Models/media/image22.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image22.png)
 
-![](media_Mental_Models/media/image23.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image23.png)
 
 -   Hits and misses trade off by definition
 
@@ -406,9 +406,9 @@ Coin flip:
 
 -   Misses and correct rejections
 
-![](media_Mental_Models/media/image24.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image24.png)
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image25.png)![](media_Mental_Models/media/image26.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image25.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image26.png)
 
 -   Performance in a signal detection task depends on two parameters:
 
@@ -419,7 +419,7 @@ Coin flip:
 -   How separated the signal and noise distributions are (in standard
     > deviations)
 
-![](media_Mental_Models/media/image27.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image27.png)7
 
 -   Improving Sensitivity (Better than twiddling with response bias (ß))
 
@@ -433,19 +433,19 @@ Coin flip:
 
 -   Combinations of evidence
 
-![](media_Mental_Models/media/image28.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image28.png)
 
 Applied to hypothesis testing
 
-![](media_Mental_Models/media/image29.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image29.png)
 
-![](media_Mental_Models/media/image30.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image30.png)
 
-![](media_Mental_Models/media/image31.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image31.png)
 
-![](media_Mental_Models/media/image32.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image32.png)
 
-![](media_Mental_Models/media/image33.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image33.png)
 
 ## Correlation and causation
 
@@ -454,9 +454,9 @@ best fitting **straight-line.**
 
 **All r = .82**
 
-![](media_Mental_Models/media/image34.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image34.png)
 
-![](media_Mental_Models/media/image35.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image35.png)E
 
 Simpsons paradox example note: The overall correlation was negative
 because more women applied to departments where the general acceptance
@@ -507,7 +507,7 @@ probability. You come home after a weekend and find someone else\'s
 underpants on your bed. How likely is it that your girlfriend has been
 cheating on you?
 
-![](media_Mental_Models/media/image40.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image40.png)
 
 #### LaPlace
 
@@ -537,18 +537,18 @@ divide by the number of opportunities plus two.
 
 #### Quasi Bayes approach to forecasting
 
-![](media_Mental_Models/media/image41.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image41.png)
 
 ## Prospect theory
 
 As opposed to utility theory takes into consideration human
 preferences/biases (loss and risk aversion)
 
-![](media_Mental_Models/media/image42.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image42.png)
 
 Prospect = Psychologically conceivable possibility
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image43.png)![](media_Mental_Models/media/image44.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image43.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image44.png)
 
 ## Common sources of mistakes and misjudgements
 
@@ -1035,7 +1035,7 @@ involved was green. \"*
 
 -   Prior probability (before John is witnessing) = 10%
 
-![](media_Mental_Models/media/image47.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models/media/image47.png)
 
 Posterior % = (10\*.8) / (90\*.2) + (10\*.8) = 8 / 26
 

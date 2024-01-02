@@ -117,7 +117,7 @@ with max weight x 12--15 reps
 Every other week: single-arm kettlebell swings to 25 minimum reps each
 side
 
-![](media_4-hour-body/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image1.png)
 
 Based on several months of testing myself and other laptop hunchers, I
 can recommend six 80/20 exercises for desk-dwellers' postural
@@ -133,9 +133,9 @@ pelvis and relieve hamstring tightness.
 
 https://www.youtube.com/watch?v=rqNnmC09eUU
 
-![](media_4-hour-body/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image2.png)
 
-![](media_4-hour-body/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image3.png)
 
 Lie on your back with your legs up over a block or chair.
 
@@ -151,7 +151,7 @@ floor evenly from left to right.
 
 Sets 1 \| Reps 1 \| Duration 0:01:00
 
-![](media_4-hour-body/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image4.png)
 
 Start on the floor on your hands and knees, ensuring your higher joints
 are aligned (i.e., shoulders, elbows, and wrists in a straight line;
@@ -174,7 +174,7 @@ lower back.
 
 **Sets 1 \| Reps 1 \| Duration 0:01:00**
 
-![](media_4-hour-body/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image5.png)
 
 Lie on your back with your knees bent and your feet pointed straight
 ahead.
@@ -203,7 +203,7 @@ continuous as possible.
 
 **Duration 25 minutes each side**
 
-![](media_4-hour-body/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image6.png)
 
 Lie on the floor with one leg up over a block or chair, bent to 90
 degrees (in the illustration, the right leg). Your arms should be out to
@@ -228,7 +228,7 @@ level.
 
 **Sets 1 \| Reps 1 \| Duration 0:02:00**
 
-![](media_4-hour-body/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_4-hour-body/media/image7.png)
 
 1\. Stand with your back against a wall with feet and knees hip width
 apart. Feet point straight ahead.

@@ -61,7 +61,7 @@ Block = blob of transactions during approx. 10 minutes
 
 ## Bitcoin wallet
 
-![](media_Bitcoin/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image4.png)
 
 -   Bitcoin wallet address = public key = something like a bank account
     number
@@ -88,10 +88,10 @@ first computer to resolve the problem receives an award of Bitcoins.
 The difficulty of the calculation can be changed (as more computing
 power gets available)
 
-![](media_Bitcoin/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image5.png)
 
-![](media_Bitcoin/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image6.png)
 
 See blockchain at <https://tronscan.org/#/> or blockchain.org
 
-![](media_Bitcoin/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Bitcoin/media/image7.png)

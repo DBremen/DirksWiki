@@ -80,7 +80,7 @@ body-size is big) and pair-bonding (monogamous) species
 
 <https://naturallawinstitute.com/2018/07/tournament-species-vs-pair-bonding-species/#gsc.tab=0>
 
-![](media_Biological_behaviour/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image1.png)
 
 ### Examples of behaviour
 
@@ -123,7 +123,7 @@ related, they will work together more as a group and will end up
 outcompeting the original group members when they are reunited. This is
 called a founder effect.
 
-![](media_Biological_behaviour/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image2.png)\
 \
 Another scenario is demonstrated through the example of two chickens,
 one that\'s highly aggressive and one that\'s more laid back. When
@@ -206,37 +206,37 @@ that it\'s waiting to hear from before it does its thing.
 
 Understanding the context!
 
-![](media_Biological_behaviour/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image3.png)
 
-![](media_Biological_behaviour/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image4.png)
 
 ### Based on different parts of the brain
 
-![](media_Biological_behaviour/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image5.png)
 
-![](media_Biological_behaviour/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image6.png)
 
-![](media_Biological_behaviour/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image7.png)
 
 #### Pre-frontal cortex
 
 Responsible for delayed gratification and impulse control
 
-![](media_Biological_behaviour/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image8.png)
 
-![](media_Biological_behaviour/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image9.png)
 
-![](media_Biological_behaviour/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image10.png)
 
 #### Dopamine
 
 Reward system. Triggered by anticipation.
 
-![](media_Biological_behaviour/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image11.png)
 
 ### Environment
 
-![](media_Biological_behaviour/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image12.png)
 
 Sports team loyalties (and individuation, according to 69:00 Susan
 Fiske\'s studies) can override racial bias. Racial bias is not innate
@@ -254,35 +254,35 @@ testosterone he will not fight A,B but only stronger fight D;E....
 In a test with humans where you could win a game by being more generous.
 Humans with higher testosterone levels were more generous.
 
-![](media_Biological_behaviour/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image13.png)
 
 ### Adolescence
 
-![](media_Biological_behaviour/media/image14.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image14.png)
 
-![](media_Biological_behaviour/media/image15.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image15.png)
 
-![](media_Biological_behaviour/media/image16.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image16.png)
 
-![](media_Biological_behaviour/media/image17.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image17.png)
 
 ### Childhood
 
-![](media_Biological_behaviour/media/image18.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image18.png)
 
 ### Genes
 
 Not DNA determines what genes do (producing proteins) but environment
 does
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image20.png)![](media_Biological_behaviour/media/image21.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image20.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image21.png)
 
 ### Ancestors and culture
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image22.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image23.png)![](media_Biological_behaviour/media/image24.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image22.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image23.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image24.png)
 
 ### Evolution
 
-![](media_Biological_behaviour/media/image25.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image25.png)
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image26.png)![](media_Biological_behaviour/media/image27.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image26.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Biological_behaviour/media/image27.png)

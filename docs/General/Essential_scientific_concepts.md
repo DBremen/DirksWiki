@@ -168,7 +168,7 @@ different copies (like *Yy*), we can say it is **heterozygous**.
 Phenotype can also be affected by the environment in many real-life
 cases, though this did not have an impact on Mendel\'s work.
 
-![](media_Essential_scientific_concepts/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Essential_scientific_concepts/media/image1.png)
 
 .
 

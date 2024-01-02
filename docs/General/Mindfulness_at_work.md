@@ -9,7 +9,7 @@ attention, improve their awareness, and sharpen their focus and clarity.
 Life is about results. Results come from our actions. Our actions come
 from the choices we make. Our choices come from the thoughts we think.
 
-![](media_Mindfulness_at_work/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image1.png)
 
 We are living in an "attention economy" where the ability to manage our
 attention and the quality of our attention is key to our success. But in
@@ -54,7 +54,7 @@ consciously choosing to let go of the task you were working on and
 focusing your full attention on your boss. Rule #1 becomes re- engaged
 at this point.
 
-![](media_Mindfulness_at_work/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image2.png)
 
 1.  As the first quadrant shows, when you are focused but on autopilot,
     your state of mind can be described as being in "flow." Some people
@@ -201,7 +201,7 @@ overcome it. The tasks are in front of us, and we want to be useful and
 productive. Ensure that spend time on tasks is aligned with our main
 goals
 
-![](media_Mindfulness_at_work/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image3.png)
 
 Focus your effort on the 20% that produce 80% of your output.
 
@@ -212,7 +212,7 @@ again, that action addiction. But, as you now know, not all action is
 aligned with our goals. When priorities conflict, take a breath before
 you jump into action. Endure the discomfort of conflicting priorities.
 
-![](media_Mindfulness_at_work/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image4.png)
 
 #### Speed Up by Slowing Down
 
@@ -226,7 +226,7 @@ goals---rather than simply acting on autopilot.
 Real planning requires slowing down, so that you can speed up. It's an
 investment in time up front that has significant payback down the road.
 
-![](media_Mindfulness_at_work/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image5.png)
 
 Too often, instead of moving forward through intentional action, we end
 up stuck in place: working, acting, trying, but not making any real
@@ -252,7 +252,7 @@ do the following:
 -   Review your plan once or twice during the day to track your
     progress.
 
-![](media_Mindfulness_at_work/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image6.png)
 
 -   **Weekly and monthly planning sessions can help you keep the big
     picture in mind and manage your calendar accordingly.**
@@ -296,11 +296,11 @@ Simply put, listening with mindfulness involves giving your full
 attention to whoever is speaking. There are four guidelines for
 listening with this type of focus.
 
-![](media_Mindfulness_at_work/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image7.png)
 
 ####  Speaking with Mindfulness
 
-![](media_Mindfulness_at_work/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image8.png)
 
 ### Creativity
 
@@ -344,7 +344,7 @@ underlying driver of your resistance can be insightful.
 
 ### Mental energy
 
-![](media_Mindfulness_at_work/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image9.png)
 
 -   **Being Present**
 
@@ -427,7 +427,7 @@ ful performance breaks, try this, once every hour during work.
 
 ### Emotional balance
 
-![](media_Mindfulness_at_work/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image10.png)
 
 In mindfulness training, we work to develop the mental capacity, the
 patience, and the courage to endure discomfort. At the same time, we
@@ -482,7 +482,7 @@ with distractions.
 
 ### The ABCD Method
 
-![](media_Mindfulness_at_work/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Mindfulness_at_work/media/image11.png)
 
 ### From Sharp Focus to Open Awareness
 

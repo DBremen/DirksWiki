@@ -90,9 +90,9 @@ negative issues.
 A stand is a public declaration about how you will live your life and
 what you will and will not tolerate in yourself.
 
-![](media_speakup_showup_and_stand_out/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_speakup_showup_and_stand_out/media/image1.png)
 
-![](media_speakup_showup_and_stand_out/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_speakup_showup_and_stand_out/media/image2.png)
 
 ## Check Your Interpretation---Confront Your Assumptions
 
@@ -175,9 +175,9 @@ Stop the spread of negativity and make sustainable and great
 relationships your goal. To do this you must set a high standard for
 yourself---to stop negative talk---and consistently follow it.
 
-![](media_speakup_showup_and_stand_out/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_speakup_showup_and_stand_out/media/image3.png)
 
-![](media_speakup_showup_and_stand_out/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_speakup_showup_and_stand_out/media/image4.png)
 
 Establish your personal rule for not engaging in negative conversations.
 Explain your boundaries, but do not defend or justify them. It's your

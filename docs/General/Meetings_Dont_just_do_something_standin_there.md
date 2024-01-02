@@ -76,7 +76,7 @@ Control: structure and your own behavior
 
 ### Know your role
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image1.png)
 
 **Process Only (PO)---** You have no management or content tasks. Your
 role is to observe and comment on how the group is doing.
@@ -90,7 +90,7 @@ particular meeting model, you advocate explicit structures within which
 to frame goals, time required, room setups, and formal subgroups.
 However, the content comes entirely from participants.
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image2.png)
 
 **Process and Content (PC)---** This is a typical role for experts
 hired, for example, to help a group plan a building, raise money, ﬁx an
@@ -136,7 +136,7 @@ person had at the start. Get everybody on the same page before asking
 them to problem-solve or decide. They will make better choices and be
 more likely to accept responsibility for action.
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image3.png)
 
 ### Apply a go-around
 
@@ -155,7 +155,7 @@ acknowledged.
 
 ### Use Timelines
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image4.png)
 
 We use time lines to learn from the past, find patterns in the present,
 and discover implications for action. A time line consists of a strip of
@@ -179,7 +179,7 @@ people brainstorm trends in society that affect their topic now. We
 define a trend as a direction of change, from more to less, from smaller
 to greater, and so forth.
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image5.png)
 
 Each new item is written on a new line coming off the circle or tied to
 an existing line. The person who names the trend indicates where it goes
@@ -225,7 +225,7 @@ style.
 
 ### Encourage Self-Management
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image6.png)
 
 You can encourage people to share responsibility for a meeting and its
 outcomes if you don't take the entire burden on yourself. One way to
@@ -561,7 +561,7 @@ directions.
 
 ### 1. Visit the "Four Rooms of Change"
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image7.png)
 
 For example, in Contentment (we tell the group), we're happy with the
 status quo and don't need to change anything. However, stuff happens.
@@ -737,7 +737,7 @@ projection. You attribute to things and people "out there" qualities
 that originate in you. Whether they have any basis in fact is irrelevant
 when you are projecting.
 
-![](media_Meetings_Dont_just_do_something_standin_there/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Meetings_Dont_just_do_something_standin_there/media/image8.png)
 
 Now comes the tricky part. To keep your projections from leading you to
 act unskillfully, own as many of them as you can. By "owning," we mean

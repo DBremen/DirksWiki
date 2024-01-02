@@ -9,6 +9,122 @@ securities immediately, and then hopes to buy them back later at a lower
 price. Investors borrow securities when they believe that their value
 will fall.
 
+## Outcome
+
+The problem is that extraordinary performance comes only from correct
+nonconsensus forecasts, but nonconsensus forecasts are hard to make,
+hard to make correctly and hard to act on.
+
+The upshot is simple: to achieve superior investment results, you have
+to hold nonconsensus views regarding value, and they have to be
+accurate.
+
+Risk vs Return
+
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image1.png)
+
+Considerations when looking at an opportunity:
+
+-   Why should a bargain exist despite the presence of thousands of
+    investors who stand ready and willing to bid up the price of
+    anything that's too cheap?
+
+-   If the return appears so generous in proportion to the risk, might
+    you be overlooking some hidden risk?
+
+-   Why would the seller of the asset be willing to part with it at a
+    price from which it will give you an excessive return?
+
+-   Do you really know more about the asset than the seller does?
+
+-   If it's such a great proposition, why hasn't someone else snapped it
+    up?
+
+## Risk
+
+"risk" is---first and foremost---the likelihood of losing money
+
+-   Experience is what you got when you didn't get what you wanted.
+
+-   In theory there's no difference between theory and practice, but in
+    practice there is.
+
+-   if riskier investments could be counted on to produce higher
+    returns, they wouldn't be riskier.
+
+Given the difficulty of quantifying the probability of loss, investors
+who want some objective measure of risk-adjusted return---and they are
+many ---can only look to the so-called **Sharpe ratio.** This is the
+ratio of a portfolio's excess return (its return above the "riskless
+rate," or the rate short-term Treasury bills) to the standard deviation
+of the return.
+
+In a similar light, a **Sortino ratio looks at only downside volatility
+rather than both upside and downside volatility. However, neither
+measure does a good job of measuring risk of future loss.**
+
+It's impossible to assess the accuracy of probability estimates other
+than 0 and 100 except over a very large number of trials
+
+**"Risk means more things can happen than will happen."**
+
+The best we can do is fashion a probability distribution that summarizes
+the possibilities and describes their relative likelihood. We must think
+about the full range, not just the ones that are most likely to
+materialize. Some of the greatest losses arise when investors ignore the
+improbable possibilities.
+
+**I encourage you to think about "good-enough returns." It's essential
+to realize that there are returns so high that they aren't worth going
+for and risks that aren't worth taking.**
+
+**Risk means uncertainty about which outcome will occur and about the
+possibility of loss when the unfavorable ones do.**
+
+The riskiest things: The greatest risk doesn't come from low quality or
+high volatility. It comes from paying prices that are too high.
+
+When investors feel risk is high, their actions serve to reduce risk.
+But when investors believe risk is low, they create dangerous
+conditions. The market is dynamic rather than static, and it behaves in
+ways that are counterintuitive.
+
+**When everyone believes something is risky, their unwillingness to buy
+usually reduces its price to the point where it's not risky at all.
+Broadly negative opinion can make it the least risky thing, since all
+optimism has been driven out of its price.**
+
+**In the short run, a great deal of investment success can result from
+just being in the right place at the right time. I always say the keys
+to profit are aggressiveness, timing and skill, and someone who has
+enough aggressiveness at the right time doesn't need much skill. The
+quality of a decision is not determined by the outcome.**
+
+**This is why it is all-important to look not at investors' track
+records but at what they are doing to achieve those records. Does it
+make sense? Does it appear replicable? Why haven't competitive forces
+priced away any apparent market inefficiencies that enabled this
+investment success?**
+
+Pro-risk, aggressive investors, for example, should be expected to make
+more than the index in good times and lose more in bad times. This is
+where beta comes in. By the word **beta**, theory means relative
+volatility, or the relative responsiveness of the portfolio return to
+the market return. A portfolio with a beta above 1 is expected to be
+more volatile than the reference market, and a beta below 1 means it'll
+be less volatile. Multiply the market return by the beta and you'll get
+the return that a given portfolio should be expected to achieve,
+omitting nonsystematic sources of risk. If the market is up 15 percent,
+a portfolio with a beta of 1.2 should return 18 percent (plus or minus
+alpha).
+
+Efficient market theory: I have concluded that no market is completely
+one or the other. It's just a matter of degree. I wholeheartedly
+appreciate the opportunities that inefficiency can provide, but I also
+respect the concept of market efficiency, and I believe strongly that
+mainstream securities markets can be so efficient that it's largely a
+waste of time to work at finding winners there.
+
 Think of investing similar to horse betting where the amount of money in
 the pool for betting determines the odds (betting on a weak horse costs
 less money if you win you win the pool but paid less than people that
@@ -35,15 +151,15 @@ Fragile - robust - anti-fragile
     Something that is fragile (a car hitting a wall at increasing
     speeds). Exponential decrease
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image1.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image2.png)
 
     Something that is anti-fragile. Exponential growth:
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image2.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image3.png)
 
     Investing in bio-tech
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image3.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image4.png)
 
 **When dealing with random events (or black-swan events) focus on
 prevention rather than trying to predict**
@@ -60,11 +176,11 @@ against dropping out of book seller top chart:
 All else equal better bet on a company that his been longer around and a
 font manager with a longer track record.
 
-![](media_Investing/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image5.png)
 
 ## Focus on pay-off rather than probability
 
-![](media_Investing/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image6.png)
 
 1.  Pay-off: .1\*2 = .2
 
@@ -158,7 +274,7 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
     usually follows a quite constant growth while debts swing up and
     down)
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image6.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image7.png)
 
 ```{=html}
 <!-- -->
@@ -181,7 +297,7 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
 -   More debt allows people to purchase more than we produce and less
     debt prevents people from buying as much as we produce
 
-![](media_Investing/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image8.png)
 
 ### Dividend discount model
 
@@ -202,7 +318,7 @@ https://www.youtube.com/watch?v=PHe0bXAIuk0&list=RDLV2kJxqIO5sxQ&index=3
         -   To use the CAPM to estimate the expected return, or discount
             rate, on a stock, we use the following formula:
 
-        -   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image8.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image9.png)
+        -   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image9.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png)
 
         -   E(r~i~) = expected return
 
@@ -236,9 +352,9 @@ of its outstanding shares. This is a **substitute for a dividend**
 because the company has to pay cash for these repurchased shares, which
 returns cash to the company's shareholders.
 
-## Advantage of long term investment over short term![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png)
+## Advantage of long term investment over short term![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image11.png)
 
-![](media_Investing/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image12.png)
 
 <https://www.visualcapitalist.com/stock-market-returns-time-periods-1872-2018/>
 
@@ -251,7 +367,7 @@ Earnings yield = opposite of P/E shows % earning per stock price
 
 10-yr- US treasure bonds as indicator for interest
 
-![](media_Investing/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image13.png)
 
 ## Three pillars of trading
 
@@ -277,7 +393,7 @@ Man = trend
 Dog = oscillator (oscillates around trend sometimes strays away may end
 up in a different direction=
 
-![](media_Investing/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image14.png)
 
 -   Exponential moving averages are better than normal moving averages
     (stronger weight of more recent trend)
@@ -289,7 +405,7 @@ up in a different direction=
 
     Entry criteria:
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image14.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image15.png)
 
 ```{=html}
 <!-- -->
@@ -316,7 +432,7 @@ Box model for exit strategy
 -   Establish a new upper bound and make previous upper bound the new
     lower bound
 
-![](media_Investing/media/image15.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image16.png)
 
 #### Kelly Criterion
 
@@ -360,7 +476,7 @@ Determine position size based on:
 
 -   Expectancy = average R over time
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image16.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image17.png)
 
 -   **Look of the distribution of R multiples not only the average (e.g.
     volatility and drawdowns)**
@@ -375,11 +491,11 @@ Determine position size based on:
 
 -   Opportunity (how often does the system generate signals)
 
--   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image17.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)
 
 -   Position sizing
 
--   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image20.png)
 
 1.  Survival (never risk \> 2% of equity in one trade including fees)
 
@@ -390,7 +506,7 @@ Determine position size based on:
 
     c.  Only move stop-loss in direction of the trade (higher)
 
-> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image20.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image21.png)
 
 2.  Steady returns
 
@@ -398,9 +514,9 @@ Determine position size based on:
 
 ## Valuation of stock prices
 
-![](media_Investing/media/image21.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image22.png)
 
-![](media_Investing/media/image22.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image23.png)
 
 Compare this in conjunction with P/E
 
@@ -410,7 +526,7 @@ Compare stocks to a similar competitor and take the cheaper one.
 
 Competitive advantage
 
-![](media_Investing/media/image23.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image24.png)
 
 -   Find comparable
 
@@ -418,7 +534,7 @@ Competitive advantage
 
 -   Adjust for differences (e.g. take earning growths)
 
-> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image24.png)
+> ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image25.png)
 
 ### Intrinsic valuation (follow-up of above)
 
@@ -426,9 +542,9 @@ Competitive advantage
 
 -   Company share = claim against portion of the future earnings
 
-![](media_Investing/media/image25.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image26.png)
 
-![](media_Investing/media/image26.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image27.png)
 
 ## Interpretation of financial statements
 
@@ -439,26 +555,26 @@ Competitive advantage
 
 -   Compare within the same industry
 
-![](media_Investing/media/image27.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image28.png)
 
 ### Intrinsic value (liquidation value)
 
 Use book value = Sell all assets and repay all liabilities
 
-![](media_Investing/media/image28.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image29.png)
 
-![](media_Investing/media/image29.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image30.png)
 
 ### Income statement (over a period)
 
 Best is to express everything as a % of the of total revenue (top line)
 and compare with average of top 5 competitors
 
-![](media_Investing/media/image30.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image31.png)
 
-![](media_Investing/media/image31.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image32.png)
 
-![](media_Investing/media/image32.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image33.png)
 
 ### Balance sheet (snapshot in time)
 
@@ -466,11 +582,11 @@ Look at a percentage of total assets and compare with top competitors
 
 Bad signs
 
-![](media_Investing/media/image33.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image34.png)
 
-![](media_Investing/media/image34.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image35.png)
 
-![](media_Investing/media/image35.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image36.png)
 
 ### Cash flow statement
 
@@ -484,7 +600,7 @@ Net income (income statement) / Total equity (Balance sheet)
 
 #### Return on tangible assets
 
-![](media_Investing/media/image36.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image37.png)
 
 #### Net margin
 
@@ -494,7 +610,7 @@ Net income (income statement) / Total equity (Balance sheet)
 
 -   Gross margin = gross profit / revenue (+40% ideal)
 
-![](media_Investing/media/image37.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image38.png)
 
 -   Tells you what percentage of how much the company earns on a dollar
 
@@ -507,7 +623,7 @@ Net income (income statement) / Total equity (Balance sheet)
 -   Indicator of whether a company is able to fulfil its short-term
     obligations
 
-![](media_Investing/media/image38.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image39.png)
 
 #### P/B ratio price to book ratio
 
@@ -533,7 +649,7 @@ A market cycle oscillates around a secular trend.
 The stock market is driven by bust and boom periods. Those are
 exaggerations in both directions followed by reversion to the mean.
 
-![](media_Investing/media/image39.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image40.png)
 
 Cycles are influenced by other cycles:
 
@@ -542,14 +658,14 @@ Cycles are influenced by other cycles:
 -   Cycle of profits of businesses (P/E price to earnings ratio)
     (multpl.com)
 
--   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image40.png)
+-   ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image41.png)
 
 -   Credit cycle
 
 -   Psychology (attitudes towards risk)
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image41.png)
-
     ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image42.png)
+
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image43.png)
 
 ## Ideas
 
@@ -575,7 +691,7 @@ Look for most valuable brand with the lowest P/E
 -   AM = Enterprise value (market cap + cash reserves - debt) /
     operating earnings
 
-![](media_Investing/media/image43.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image44.png)
 
 -   Buy companies with low acquirer multiple
 
@@ -603,7 +719,7 @@ Look for most valuable brand with the lowest P/E
 
 -   Don't follow analysts or irrelevant news.
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image44.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image45.png)
 
 ### Evaluate risk
 
@@ -629,7 +745,7 @@ Look for most valuable brand with the lowest P/E
 
 -   Compare based on total cost of ownership rather than purchase price
 
-    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image45.png)
+    ![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image46.png)
 
 ## Don't fall in love with your investment/position
 

@@ -9,7 +9,7 @@ attention, improve their awareness, and sharpen their focus and clarity.
 Life is about results. Results come from our actions. Our actions come
 from the choices we make. Our choices come from the thoughts we think.
 
-![](media_MIndfullness_at_work/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image1.png)
 
 We are living in an "attention economy" where the ability to man- age
 our attention and the quality of our attention is key to our success.
@@ -59,7 +59,7 @@ already know that doesn't work. Instead, Rule #2 requires consciously
 choosing to let go of the task you were working on and focusing your
 full attention on your boss. Rule #1 becomes re- engaged at this point.
 
-![](media_MIndfullness_at_work/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image2.png)
 
 1.  As the first quadrant shows, when you are focused but on autopilot,
     your state of mind can be described as being in "flow." Some people
@@ -243,7 +243,7 @@ problem is, when we don't step back to ensure we're spending time on
 tasks aligned with our main goals, we end up wasting a lot of time on
 immediate--- though often inessential---tasks.
 
-![](media_MIndfullness_at_work/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image3.png)
 
 Focus your effort on the 20% that produce 80% of your output.
 
@@ -259,7 +259,7 @@ again, that action addiction. But, as you now know, not all action is
 aligned with our goals. When priorities conflict, take a breath before
 you jump into action. Endure the discomfort of conflicting priorities.
 
-![](media_MIndfullness_at_work/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image4.png)
 
 #### Speed Up by Slowing Down
 
@@ -273,7 +273,7 @@ goals---rather than simply acting on autopilot.
 Real planning requires slowing down, so that you can speed up. It's an
 investment in time up front that has significant payback down the road.
 
-![](media_MIndfullness_at_work/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image5.png)
 
 Too often, instead of moving forward through intentional action, we end
 up stuck in place: working, acting, trying, but not making any real
@@ -299,7 +299,7 @@ do the following:
 -   Review your plan once or twice during the day to track your
     progress.
 
-![](media_MIndfullness_at_work/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image6.png)
 
 -   **Weekly and monthly planning sessions can help you keep the big
     picture in mind and manage your calendar accordingly.**
@@ -352,11 +352,11 @@ Simply put, listening with mindfulness involves giving your full
 attention to whoever is speaking. There are four guidelines for
 listening with this type of focus.
 
-![](media_MIndfullness_at_work/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image7.png)
 
 ####  Speaking with Mindfulness
 
-![](media_MIndfullness_at_work/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image8.png)
 
 ### Creativity
 
@@ -364,7 +364,7 @@ Take more intentional pauses throughout these meetings to give people
 the opportunity to relax and release any of the attachment they had to
 one idea or another.
 
-![](media_MIndfullness_at_work/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image9.png)
 
 1.  Formulate the Problem (and write it down)
 
@@ -409,7 +409,7 @@ it negatively impacts both our health and well-being.
 The key to managing resistance and thereby better managing change is to
 face it and embrace it.
 
-![](media_MIndfullness_at_work/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image10.png)
 
 Once you're able to observe your resistance, see whether there's
 anything you can learn from it. Are you resisting simply because of your
@@ -417,7 +417,7 @@ natural preference for familiarity? Or are you resisting because
 something legitimately doesn't make sense? Seeking to understand the
 underlying driver of your resistance can be insightful.
 
-![](media_MIndfullness_at_work/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image11.png)
 
 #### Steps for Mindful Change Management 
 
@@ -471,7 +471,7 @@ attending training, being coached, or practicing mindfulness.
 When it comes to conserving mental energy, mindfulness can help in four
 key ways: being present, maintaining balance, making choices, and
 leveraging cycles.
-![](media_MIndfullness_at_work/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image12.png)
 
 -   **Being Present**
 
@@ -669,7 +669,7 @@ feel good in the moment. But if acting out is effective at all, it's
 only in that moment. In the long run, acting out our emotions usually
 leads to disappointment, regret, or shame.
 
-![](media_MIndfullness_at_work/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image13.png)
 
 In mindfulness training, we work to develop the mental capacity, the
 patience, and the courage to endure discomfort. At the same time, we
@@ -680,7 +680,7 @@ moment to pause. We stay one second ahead of automatic reactions, giving
 ourselves the time, space, and freedom to make conscious, deliberate
 choices.
 
-![](media_MIndfullness_at_work/media/image14.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image14.png)
 
 #### Emotional Awareness 
 
@@ -820,7 +820,7 @@ to know, the more your mind will open.
 
 ### Acceptance
 
-![](media_MIndfullness_at_work/media/image15.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image15.png)
 
 ### Balance
 
@@ -905,7 +905,7 @@ new "focus" neural connections and abilities. Thanks to neuroplasticity,
 the more you train, the stronger these neural connections and pathways
 become---and the easier it becomes to stay focused.
 
-![](media_MIndfullness_at_work/media/image16.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image16.png)
 
 #### Anatomy: Finding the Right Posture
 
@@ -963,7 +963,7 @@ sharp focus.
     count "two." Carry on in the same way until you get to ten, then
     count backward to one. Repeat this cycle
 
-![](media_MIndfullness_at_work/media/image17.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_MIndfullness_at_work/media/image17.png)
 
 -   If you have trouble counting higher than three or seven without
     losing focus, don't worry. The point of counting is not to see how

@@ -1,6 +1,6 @@
 ## Synergy
 
-![](media_The_third_alternative/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image1.png)
 
 **Most conflicts are two-sided (Black or White). The 1st Alternative is
 my way, the 2nd Alternative is your way. By synergizing, we can go on to
@@ -16,7 +16,7 @@ parts. Rather than going my way or your way, we take the path of synergy
 to higher and more productive results. You and I together are far
 greater than we are alone.**
 
-![](media_The_third_alternative/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image2.png)
 
 **Our paradigms govern our behavior, which in turn governs the
 consequences of our actions. We GET results based on what we DO, and
@@ -24,14 +24,14 @@ what we DO depends on how we SEE the world around us.**
 
 ### 4 step process of 3rd alternative thinking
 
-![](media_The_third_alternative/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image3.png)
 
 **To arrive at a 3rd Alternative, I must first practice self-awareness
 and value the different viewpoint that you represent. Then I must seek
 to understand that viewpoint thoroughly. Only then can we move up to
 synergy.**
 
-![](media_The_third_alternative/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image4.png)
 
 #### I see myself
 
@@ -46,7 +46,7 @@ I see myself as a creative, self-aware human being who is more than the
 "side" I favor in a conflict. I might share certain beliefs or belong to
 certain groups, but these do not define me. I choose my own "story."
 
-![](media_The_third_alternative/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image5.png)
 
 -   What's my story? Do I need to change the script?
 
@@ -77,7 +77,7 @@ innate worth, endowed with talents, passions, and strengths that are
 irreplaceable. You are more than your "side" in a conflict. You deserve
 dignity and my respect.**
 
-![](media_The_third_alternative/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image6.png)
 
 #### I seek you out
 
@@ -97,7 +97,7 @@ genuinely understand you.**
 **The heart of each one is tender, and when we touch that tenderness, we
 are in a sacred place.**
 
-![](media_The_third_alternative/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image7.png)
 
 "I Seek You Out" starts with the principle that truth is complicated and
 that everybody likely has a little slice of it. "Truth is never pure and
@@ -109,7 +109,7 @@ wouldn't I come and find you so you can teach me?
 
 ##### Talking stick
 
-![](media_The_third_alternative/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image8.png)
 
 The Talking Stick. An ancient Native American tradition, the Talking
 Stick is a symbol of peaceful communication. So long as the speaker
@@ -203,11 +203,11 @@ a position to go for synergy, to find a solution that is better than
 anything we've come up with individually. Synergy is rapid, creative,
 collaborative problem solving.
 
-![](media_The_third_alternative/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image9.png)
 
 ##### Steps to synergy
 
-![](media_The_third_alternative/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_The_third_alternative/media/image10.png)
 
 ######  Step 1: Ask the 3rd Alternative Question
 

@@ -68,7 +68,7 @@ Different perspectives of whether lightning struck at the same time
 (Bob) or first in front (Alice because of the train movement the light
 from point B had to move further and thus was perceived later)
 
-![](media_Mental_Models_FS./media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Mental_Models_FS./media/image1.png)
 
 We often think someone is wrong because they see things from a different
 perspective than we do. Relativity helps us to understand that there is

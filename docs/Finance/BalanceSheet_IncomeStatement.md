@@ -9,11 +9,11 @@ https://www.youtube.com/watch?v=WEDIj9JBTC8
 -   Borrow 250 \$ from a friend at 10% interest p.a. (money earned
     through this does not need to be redistributed to shareholders)
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image1.png)![](media_BalanceSheet_IncomeStatement/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image1.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image2.png)
 
 Buy a lemonade stand (fixed assets) and supplies (inventory)
 
-![](media_BalanceSheet_IncomeStatement/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image3.png)
 
 ## First year of operation income statement
 
@@ -35,7 +35,7 @@ Income statement:
 
 -   530\$ / year staff payments
 
-![](media_BalanceSheet_IncomeStatement/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image4.png)
 
 ## Growing the business
 
@@ -53,10 +53,10 @@ Operating assumptions:
 
 ## Cashflow statement
 
-![](media_BalanceSheet_IncomeStatement/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image6.png)
 
-![](media_BalanceSheet_IncomeStatement/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image7.png)
 
 ## Evaluating value
 
-![](media_BalanceSheet_IncomeStatement/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_BalanceSheet_IncomeStatement/media/image8.png)

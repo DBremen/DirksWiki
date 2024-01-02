@@ -10,12 +10,12 @@ independencies.
 
 Associations = biases
 
-![](media_Causal_Diagrams/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image1.png)
 
 Based on data we could validate this if the proportion of individuals
 with cancer is different among smokers and nonsmokers
 
-![](media_Causal_Diagrams/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image2.png)
 
 B in this case is a mediator (something through which A causes Y). Those
 are usually not included in causal graphs. The above would mean that
@@ -27,7 +27,7 @@ cancer)
 Aspirin is associated with stroke, conditionally on platelet
 aggregation:
 
-![](media_Causal_Diagrams/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image3.png)
 
 Based on knowledge
 
@@ -43,7 +43,7 @@ population. Therefore, it is a stronger assumption to not have an arrow
 on a DAG, than to have one. As such, if we cannot rule out a direct
 effect of D on E, we should draw an arrow.
 
-![](media_Causal_Diagrams/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image4.png)
 
 ## Χausal DAG 
 
@@ -60,13 +60,13 @@ If two variables on the graph share a cause:
 We don\'t need to include all causes of stroke since they are not
 causing to take the testers Aspirin
 
-![](media_Causal_Diagrams/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image5.png)
 
 If we chose treatments based on patient\'s medical records and whether
 they took Aspirin we will need to include the additional variable L
 since it is a common cause of Aspirin and is also causing Y directly
 
-![](media_Causal_Diagrams/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image6.png)
 
 # Common causes
 
@@ -76,7 +76,7 @@ considered a systematic bias. In particular, when there is a component
 of the association between A and Y that is due to a common cause of A
 and Y like L in our causal graph, we say that that is confounding.
 
-![](media_Causal_Diagrams/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image7.png)
 
 With data, we can answer the question of whether A and Y are associated
 conditional on L. For example, we can restrict the analysis to the
@@ -101,6 +101,6 @@ L. The box around L blocks the association between A and Y. So there is
 no arrow from A to Y, we say that there is no association between A and
 Y conditional on L.
 
-![](media_Causal_Diagrams/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Causal_Diagrams/media/image8.png)
 
 # Common effects

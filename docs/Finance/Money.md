@@ -1,4 +1,4 @@
-![](media_Money/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image1.png)
 
 ## 
 
@@ -305,7 +305,7 @@ like loyalty in government," wrote Bagehot in a famous comparison,
 
 ## Supply and demand
 
-![](media_Money/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image2.png)
 
 ![Supply versus demand: how to set your pricing \| New Frontiers
 programme](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image3.jpeg)
@@ -338,19 +338,19 @@ affects spending, and inflation, because **when interest rates are
 lower, saving is less and borrowing more attractive**, and when interest
 rates are higher, the opposite is true.
 
-![](media_Money/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image4.png)
 
 ### Increase money supply
 
-![](media_Money/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image5.png)
 
-![](media_Money/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image6.png)
 
 ## Government
 
-![](media_Money/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image7.png)
 
-![](media_Money/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image8.png)
 
 ## Money
 
@@ -373,4 +373,4 @@ money, they can use it to pay for good) ...
 
 -   Underlying all of these
 
-![](media_Money/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Money/media/image9.png)

@@ -99,7 +99,7 @@ Böse als Zusammentreffen von bestimmten Lastern mit entsprechenden
 Gelegenheiten in der Außenwelt, die destruktives Verhalten begünstigen
 (Krieg)**
 
-![](media_Innere_MItte/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Innere_MItte/media/image1.png)
 
 ## Leidenschaften
 
@@ -179,7 +179,7 @@ Emotionen:
 
 -   Überraschung
 
-![](media_Innere_MItte/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Innere_MItte/media/image2.png)
 
 #### Gefühl
 

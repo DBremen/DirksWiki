@@ -29,7 +29,7 @@
 
 ## Swimming
 
-![](media_4-hour-chef/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_4-hour-chef/media/image2.png)
 
 ## Unusual food combos
 

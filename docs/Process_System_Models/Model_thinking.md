@@ -15,9 +15,9 @@ Sample Models/Social Science/Segregation
 
 <http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Segregation.nlogo>
 
-![](media_Model_thinking/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image1.png)
 
-![](media_Model_thinking/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image2.png)Even
 though people might be comfortable with only 30 to 40% of their
 neighbors being like them, the mathematics of that preference shows that
 sorting of the sort seen in the New York map above is the natural
@@ -136,11 +136,11 @@ chance I\'m not going to make it. And if I don\'t make it, then I\'m
 going to have to buy two tickets. I\'m going to basically throw away the
 \$200.
 
-![](media_Model_thinking/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image3.png)
 
 .6\*200+.4\*600 = 360 vs. 400 better go for the buy option.
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](media_Model_thinking/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image4.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image5.png)
 
 ### Inferring probability
 
@@ -157,13 +157,13 @@ p \> 52,000/2 = 4%
 
 50 \* x + -2 \* (x-1) \> 0
 
-![](media_Model_thinking/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image6.png)
 
 ### Infer payouts
 
-![](media_Model_thinking/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image7.png)
 
-![](media_Model_thinking/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image8.png)
 
 Assuming that there is a cost to go to the Airport
 
@@ -180,20 +180,20 @@ PayOff was less than 3 times greater than the cost payoff
 
 ### Value of information
 
-![](media_Model_thinking/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image9.png)
 
 How much would I pay to know that there is going to be a cashback
 program?
 
-![](media_Model_thinking/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image10.png)
 
 1.  Without information (I'm better of buying now with 0\$ pay off)
 
-![](media_Model_thinking/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image11.png)
 
 2.  With Information (I better rent and with a payoff of \$200)
 
-![](media_Model_thinking/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image12.png)
 
 3.  \$200 -- 0\$ = **\$200**
 
@@ -277,7 +277,7 @@ http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Samp
 Tipping point = 59% in terms of tree density in a forest and the spread
 of fires
 
-![](media_Model_thinking/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image13.png)
 
 ## Rule of 72
 
@@ -343,19 +343,19 @@ Markov processes have helped us understand why that happens.
 Condorcet\'s jury theorem states that given a group of voters (a
 \"jury\") independently choosing by majority vote between a correct
 outcome with probability
-![0\<=p\<=1](media_Model_thinking/media/image14.gif)
+![0\<=p\<=1](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image14.gif)and
 an incorrect one with probability
-![1-p](media_Model_thinking/media/image15.gif)
+![1-p](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image15.gif):
 
 1\. If
-![p\>1/2](media_Model_thinking/media/image16.gif)
+![p\>1/2](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image16.gif)(so
 that each voter is more likely to vote correctly that incorrectly),
 adding more voters increases the probability that the majority chooses
 correctly and the probability of a correct decision approaches 1 as the
 number of voters increases;
 
 2\. If
-![p\<1/2](media_Model_thinking/media/image17.gif)
+![p\<1/2](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image17.gif)(so
 that each voter is less likely to vote incorrectly than correctly),
 adding more voters decreases the probability that the majority chooses
 correctly and the probability of a correct decision is maximized for a
@@ -385,7 +385,7 @@ mph.
 
 ## Entropy
 
-![](media_Model_thinking/media/image18.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image18.png)
 
 Entropy measures the uncertainty associated with a probability
 distribution over outcomes. It therefore also measures surprise. Entropy
@@ -436,9 +436,9 @@ fixed pattern.
 
 ## Bernoulli 
 
-![](media_Model_thinking/media/image19.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image19.png)
 
-![](media_Model_thinking/media/image20.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image20.png)
 
 A player who makes 46% of his three-pointers has about
 a 1/1000probability of making nine in a row (0.46^9^). If that player
@@ -463,7 +463,7 @@ Node = Dots
 
 Edges = Connections
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image21.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image22.png)![](media_Model_thinking/media/image23.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image21.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image22.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image23.png)
 
 | Node        | \# friends |
 |-------------|------------|
@@ -530,9 +530,9 @@ Edges = Connections
 </tbody>
 </table>
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image24.png)![](media_Model_thinking/media/image25.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image24.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image25.png)
 
-![](media_Model_thinking/media/image26.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image26.png)
 
 Numbers of triangles (see below) over of all possible triangles
 
@@ -540,7 +540,7 @@ Number of possible triangles = number edges choose 3.
 
 E.g. 4 choose 3 = 4 =FACT(4)/(FACT(3)\*FACT(4-3))
 
-![](media_Model_thinking/media/image27.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image27.png)
 
 Small worlds network model
 <http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Small%20Worlds.nlogo>
@@ -548,13 +548,13 @@ Small worlds network model
 Preferential attachment model
 <http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Preferential%20Attachment.nlogo>
 
-![](media_Model_thinking/media/image28.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image28.png)
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](media_Model_thinking/media/image30.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image29.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image30.png)
 
 ## Randomness
 
-![](media_Model_thinking/media/image31.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image31.png)
 
 Outcome **= a (luck) + (1-a) (skill) -- with a 0 \<= a \<= 1**
 
@@ -583,7 +583,7 @@ winner will be determined by luck!**
 
 **Random walks.**
 
-![](media_Model_thinking/media/image32.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image32.png)
 
 **Summary: An outcome may be a series of random events and thus we
 should expect to see some big winners and some big losers. So we cannot
@@ -591,16 +591,16 @@ expect past performance to be a good indicator of future performance.
 Thus key question is -- is this a random walk process -- or not? If so,
 expect regression to the mean.**
 
-![](media_Model_thinking/media/image33.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image33.png)
 
-![](media_Model_thinking/media/image34.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image34.png)
 
-![](media_Model_thinking/media/image35.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image35.png)
 
 **Efficient Market Hypothesis helps explain although there may be some
 deviations / challenges as noted in the critiques.**
 
-![](media_Model_thinking/media/image36.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image36.png)
 
 This is like a sliding window of randomness affects the overall outcome
 (e.g. employees leaving and new employees getting hired; new and old
@@ -627,26 +627,26 @@ they defect (avoiding 0 pay-off)
 
 ### Examples
 
-![](media_Model_thinking/media/image37.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image37.png)
 
 | First move | Second move | Pay-off P1 | Pay-off P2 |
 |------------|-------------|------------|------------|
 | P1 = C     | P2 = D      | 0          | 6          |
 | P1 = D     | P2 = D      | 2          | 2          |
 
-![](media_Model_thinking/media/image38.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image38.png)
 
-![](media_Model_thinking/media/image39.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image39.png)
 
 Different application of PD
 
-![](media_Model_thinking/media/image40.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image40.png)
 
 Firms would be better of with high prices but since they are
 individually better off with lower (gaining more market share over the
 competition) prices they will end up with lower prices.
 
-![](media_Model_thinking/media/image41.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image41.png)
 
 -   2 banks decide either not to buy ATM machines or to buy ATM machines
 
@@ -668,7 +668,7 @@ competition) prices they will end up with lower prices.
     whatever bank they want. And that\'s created more price 
     competition, we end up with the consumers being better off. 
 
-![](media_Model_thinking/media/image42.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image42.png)
 
 When player 1 gets the expensive hand made match he gets all the
 attention.
@@ -699,7 +699,7 @@ for everyone and ß = 0.6. If x~1~ defects his payoff is 5.4 but if
 cooperates his payoff is 5.0 so it is his advantage to defect to the
 expense of his colleagues.
 
-![](media_Model_thinking/media/image43.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image43.png)
 
 x~1~ takes action: 0 + .6 \* 9 = 5.4 - 0 because no cost of taking
 action; 9 because x~1~ takes no action
@@ -707,17 +707,17 @@ action; 9 because x~1~ takes no action
 x~1~ takes no action: -1 + .6 \* 10 = 5 - -1 = cost for x~1~ to take
 action; 10 = including x~1.~
 
-![](media_Model_thinking/media/image44.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image44.png)
 
 ## Common pool resource problems
 
 Limited resource available to be used by many
 
-![](media_Model_thinking/media/image45.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image45.png)
 
-![](media_Model_thinking/media/image46.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image46.png)
 
-![](media_Model_thinking/media/image47.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image47.png)
 
 ## Mechanism design
 
@@ -736,7 +736,7 @@ will be good anyways.
 More variation = faster adaptation
 
 Fisher's theorem vs. six sigma
-![](media_Model_thinking/media/image48.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image48.png)
 
 ## Diversity Prediction Theorem
 
@@ -799,4 +799,4 @@ profiles for three people:
 -   All except (2, 2, 3) are Pareto efficient. The allocation (2, 2, 3)
     is dominated by (3, 3, 4).
 
-![](media_Model_thinking/media/image49.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Model_thinking/media/image49.png)

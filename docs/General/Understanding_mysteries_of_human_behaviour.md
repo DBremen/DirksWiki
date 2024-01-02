@@ -322,7 +322,7 @@ their behaviors than any other personality traits.
 
 **Big five personality traits (OCEAN)**
 
-![](media_Understanding_mysteries_of_human_behaviour/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_Understanding_mysteries_of_human_behaviour/media/image1.png)
 
 ## Prejudice
 

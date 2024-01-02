@@ -514,7 +514,7 @@ even if it kills us.
 
 <https://www.cci.health.wa.gov.au/resources/looking-after-yourself/self-esteem>
 
-![](media_Anger_management/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Personal_Development\media_Anger_management/media/image2.png)
 
 ## Ego and fear
 

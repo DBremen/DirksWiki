@@ -11,7 +11,7 @@ president, vice-president, chair)
 Collections = combinations = order does not matter (1-2 = 2-1) (choosing
 a committee)
 
-![](media_Probability/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image1.png)
 
 ## Counting sequences (ordered) or permutations
 
@@ -39,7 +39,7 @@ How many numbers between 23 and 283 are divisible by 5?
 
 ### Multiplication principle
 
-![](media_Probability/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image2.png)
 
 #### With repitition
 
@@ -50,7 +50,7 @@ How many combos can you make out of 3 pairs of shoes 7 tops and 2 pants
 
 If the choices are without removal powers can be used.
 
-![](media_Probability/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image3.png)
 
 How many 5 letter combinations can be made out of the alphabet?
 
@@ -84,21 +84,21 @@ Fact(15)/Fact(11)
 Number of sequences of k objects chosen without repetition from a
 collection of n objects:
 
-![](media_Probability/media/image4.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image4.png)
 
-![](media_Probability/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image5.png)
 
-![](media_Probability/media/image6.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image6.png)
 
 The denominator removes the factors that we don't want e.g.:
 
 1\*2\*...\*15/1\*2\*..11 = 12\*13\*14\*15
 
-![](media_Probability/media/image7.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image7.png)
 
 9 \* 8 \*7 = 504
 
-![](media_Probability/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image8.png)
 
 Here the choices we make for the first two digits affect the number of
 choices we have at the third stage. But the problem can be worked out if
@@ -112,9 +112,9 @@ we choose the last digit first:
 
 = 5\*8\*7
 
-![](media_Probability/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image9.png)
 
-![](media_Probability/media/image10.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image10.png)
 
 Sequence must start with a boy and alternate between sexes:
 
@@ -134,7 +134,7 @@ Sequence must start with a boy and alternate between sexes:
 
 ### Subtraction principle
 
-![](media_Probability/media/image11.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image11.png)
 
 e.g. \# of consonants in alphabet = 26 -- \# of vowels.
 
@@ -150,7 +150,7 @@ subtract it from all four letter words.
 
 26^4^ -- 21^4^
 
-![](media_Probability/media/image12.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image12.png)
 
 \# between 23..283 = 283 -- 22 = 261
 
@@ -158,9 +158,9 @@ subtract it from all four letter words.
 
 \# between 23..283 and not divisible by 5 = 261-52 = 209
 
-![](media_Probability/media/image13.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image13.png)
 
-![](media_Probability/media/image14.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image14.png)
 
 \# of ways = 10!
 
@@ -169,7 +169,7 @@ Subtraction principle:
 10! - \# ways we can line up the class so that Donald and Marco ARE
 adjacent
 
-![](media_Probability/media/image15.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image15.png)
 
 \# ways we can line up the class so that Donald and Marco ARE adjacent =
 #ways we can put them adjacent \* 8!
@@ -184,7 +184,7 @@ adjacent
 
 10! -- (8! \* 18)
 
-![](media_Probability/media/image16.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image16.png)
 
 \# between 5..85 = 81
 
@@ -204,9 +204,9 @@ adjacent
 The number of ways of choosing a collection of k objects without
 repetition from a set of n objects
 
-![](media_Probability/media/image17.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image17.png)
 
-![](media_Probability/media/image18.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image18.png)
 
 The number of sequences (ordered) is given by: 15\*14\*13\*12\*11 or
 n!/(n-k)! or 15!/10!
@@ -220,13 +220,13 @@ The number of sequences can also be expressed as N \* 5!
 
 Therefore N \* 5! = 15!/10!
 
-![](media_Probability/media/image19.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image19.png)Solving
 for N:
-![](media_Probability/media/image20.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image20.png)
 
 Choose 5 from 15
 
-![](media_Probability/media/image21.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image21.png)
 
 Choose 3 from 6
 
@@ -237,15 +237,15 @@ Combin(6,3)
 The number of ways of choosing a collection of k objects without
 repetition from a set of n objects
 
-![](media_Probability/media/image22.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image22.png)
 
 Quotient of factorials = binomial coefficient
 
 N choose K
 
-![](media_Probability/media/image23.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image23.png)
 
-![](media_Probability/media/image24.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image24.png)
 
 10 choose 3 = 10 choose 7
 
@@ -256,9 +256,9 @@ set n, the n minus k objects remain and give you a collection of n minus
 k objects. So every time you have a set of k objects, you also have a
 set of n minus k objects.
 
-![](media_Probability/media/image25.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image25.png)
 
-![](media_Probability/media/image26.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image26.png)
 
 Divide into hands that contain ace of spades and don't
 
@@ -274,13 +274,13 @@ Divide into hands that contain ace of spades and don't
 
 Hands that don't contain ace of spades = 52-1 choose 5
 
-![](media_Probability/media/image27.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image27.png)
 
 Hands that do contain ace of spades = 52-1 choose 5-1
 
-![](media_Probability/media/image28.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image28.png)
 
-![](media_Probability/media/image29.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image29.png)
 
 Meat = 7 choose 2 = 7!/5!\*2! = 7\*6/2 = 21
 
@@ -297,7 +297,7 @@ group that you want to live together in a dorm on campus. You\'re in
 luck. The dorm has available a double, a triple, and a quad. That is
 suites that hold 2, 3, and 4 students. So the 9 of you will just fit.
 
-![](media_Probability/media/image30.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image30.png)
 
 1.  Way = 9 choose 4 \* 5 choose 3 = 1260
 
@@ -311,17 +311,17 @@ Suppose we have a pool of n objects and we want to divide them up into k
 collections of sizes a1, a2, a3, and so on up to ak. **Notice that for
 this to make sense, the numbers a1 through ak have to add up to n.**
 
-![](media_Probability/media/image31.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image31.png)
 
 **Simplified:**
 
 **Multinomial coefficient**
 
-®®![](media_Probability/media/image32.png)
+®®![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image32.png)
 
 #### Anagrams
 
-![](media_Probability/media/image33.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image33.png)
 
 Since there are duplicate letters the multiplication rule (7\*6\*...)
 doesn't work.
@@ -334,9 +334,9 @@ We want to divide up the pool of 7 slots into 4 collections:
 
 -   and two collections of 1 each that get the C and the H.
 
-![](media_Probability/media/image34.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image34.png)
 
-![](media_Probability/media/image32.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image32.png)
 
 7!/(3!\*2!\*1!\*1!) = 4\*5\*6\*7/2 = 420
 
@@ -348,9 +348,9 @@ get five servings of fruit. Not necessarily five different fruits, but a
 total of five servings. And the question, of course, is the usual, how
 many different snacks could you choose?
 
-![](media_Probability/media/image35.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image35.png)
 
-![](media_Probability/media/image36.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image36.png)
 
 The first rule is, each serving of fruit has to be on its own tray. (5
 trays)
@@ -364,39 +364,39 @@ he\'s not getting any of the fruits in questions. (7 empty trays).
 
 Answer: 12 choose 7
 
-![](media_Probability/media/image37.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image37.png)
 
-![](media_Probability/media/image38.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image38.png)
 
-![](media_Probability/media/image39.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image39.png)
 
 ## Probability
 
-![](media_Probability/media/image40.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image40.png)
 
-![](media_Probability/media/image41.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image41.png)
 
-![](media_Probability/media/image42.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image42.png)
 
-![](media_Probability/media/image43.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image43.png)
 
-![](media_Probability/media/image44.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image44.png)
 
-![](media_Probability/media/image45.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image45.png)
 
-![](media_Probability/media/image46.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image46.png)
 
 Conditional
 
-![](media_Probability/media/image47.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image47.png)
 
-![](media_Probability/media/image48.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image48.png)
 
-![](media_Probability/media/image49.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image49.png)
 
 ### Flipping coins
 
-![](media_Probability/media/image50.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image50.png)
 
 All possible outcomes = 2^6^ = 64
 
@@ -404,7 +404,7 @@ Outcomes with 3H and 3T = 6 choose 3 = 20
 
 Answer = 20/64 or 5/16
 
-![](media_Probability/media/image51.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image51.png)
 
 ### Rolling dice
 
@@ -416,29 +416,29 @@ probability of such an outcome is 1/36
 
 There are 2 ways adding up to 3: 1-2, 1-1 with probability 2/36
 
-![](media_Probability/media/image52.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image52.png)
 
-![](media_Probability/media/image53.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image53.png)
 
-![](media_Probability/media/image54.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image54.png)
 
-![](media_Probability/media/image55.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image55.png)
 
-![](media_Probability/media/image56.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image56.png)
 
-![](media_Probability/media/image57.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image57.png)
 
 6^3^ = 216 = probability = 27/216
 
-![](media_Probability/media/image58.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image58.png)
 
 = all outcomes -- all that are between 1-5
 
 = 6^3^ -- 5^3^ = 91
 
-![](media_Probability/media/image59.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image59.png)
 
-![](media_Probability/media/image60.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image60.png)
 
 Number of places = 5 choose 2 = 10
 
@@ -446,7 +446,7 @@ Number of ways filing in the remaining places = 5^3^ = 125
 
 Probability = 10\*125/6^5^
 
-![](media_Probability/media/image61.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image61.png)
 
 Number of places to put two 1s= 5 choose 2 = 10
 
@@ -461,20 +461,20 @@ Number of ways filing in the remaining places
 [2. The birthday
 problem.pdf](https://www.ucd.ie/mathstat/t4media/2.%20The%20birthday%20problem.pdf)
 
-![](media_Probability/media/image62.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image62.png)
 
 To calculate the probability of two or more independent events, we
 multiply the probabilities of the
 
 individual events.
 
-![](media_Probability/media/image63.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image63.png)
 
-![](media_Probability/media/image64.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image64.png)
 
-![](media_Probability/media/image65.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image65.png)
 
-![](media_Probability/media/image66.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image66.png)
 
 ### Poker
 
@@ -492,25 +492,25 @@ Correct answer = next day
 
 Probability of strike on Friday = .03 (\~ 1/30)
 
-![](media_Probability/media/image68.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image68.png)
 
 Exponentially less likely explaining clustering of random events
 
 ## Conditional probabilities
 
-![](media_Probability/media/image47.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image47.png)
 
-![](media_Probability/media/image43.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image43.png)
 
-![](media_Probability/media/image69.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image69.png)
 
-![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image70.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image71.png)![](media_Probability/media/image72.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image70.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image71.png)![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image72.png)
 
-![](media_Probability/media/image73.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image73.png)
 
-![](media_Probability/media/image74.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image74.png)
 
-![](media_Probability/media/image75.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image75.png)
 
 #### Bayes Theorem
 
@@ -526,7 +526,7 @@ for in our previous hypothesis. How do we update our hypothesis?
 Let H denote our hypothesis and E denote our evidence. Bayes' Theorem is
 defined by
 
-![](media_Probability/media/image76.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image76.png)
 
 It's saying what is the probability that my hypothesis is true given the
 evidence we have. In order to answer these questions, we need three
@@ -543,50 +543,50 @@ things:
 
 -   The result is called posterior
 
-![](media_Probability/media/image77.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image77.png)
 
-![](media_Probability/media/image78.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image78.png)
 
 D is in this case for data same as E in the other formula
 
 P(E) = P(H) \* p(E\|H)
 
-![](media_Probability/media/image74.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image74.png)
 
-![](media_Probability/media/image79.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image79.png)
 
-![](media_Probability/media/image76.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image76.png)
 
 P(breast cancer\|test positive) = p(breast cancer) \* p(test
 positive\|breast cancer)/p(test positive)
 
 = .01 \* .9 / (.01 \* .9 + .99 \* .09)
 
-![](media_Probability/media/image80.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image80.png)
 
-![](media_Probability/media/image81.emf)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image81.emf)
 
 P(cancer\|test positive) = 8/(8+95)
 
-![](media_Probability/media/image82.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image82.png)
 
-![](media_Probability/media/image83.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image83.png)
 
 <http://www.greenteapress.com/thinkbayes/thinkbayes.pdf>
 
 <https://mybinder.org/repo/rlabbe/ThinkBayes>
 
-![](media_Probability/media/image84.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image84.png)
 
-![](media_Probability/media/image85.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image85.png)
 
-![](media_Probability/media/image86.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image86.png)
 
 ##### Odds bayes
 
-![](media_Probability/media/image87.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image87.png)
 
-![](media_Probability/media/image88.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image88.png)
 
 ##### Taxi problem
 
@@ -629,7 +629,7 @@ P(D) = .8 \* .15 + (1-.8) \* (1-.15) = .29
 -   = .8 \* .15 / .29 = .41
 
 Odds solution:\
-![](media_Probability/media/image91.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image91.png)
 
 P(G\|W) = 17/29
 
@@ -681,7 +681,7 @@ p(Evidence | Hypothesis)</strong></th>
 
 ###### Graphical solution
 
-![](media_Probability/media/image92.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image92.png)
 
 **Post-Test Odds = Pre-test Odds \* LR.**
 
@@ -712,7 +712,7 @@ select a cookie at random. The cookie is vanilla.
 
 p( bowl 1 \| vanilla).
 
-![](media_Probability/media/image76.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image76.png)
 
 p( bowl 1 \| vanilla) = p(bowl 1) \* p(vanilla \| bowl 1) / p(vanilla)
 
@@ -919,7 +919,7 @@ p(car is behind Door A or C \| Monty opened Door B)
     the car is actually behind A, the probability that the car is not
     behind B is 1.
 
-![](media_Probability/media/image93.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image93.png)
 
 Choose 1 = 1/3 chance of winning
 
@@ -981,7 +981,7 @@ Probability to odds
 
 Odds form of Bayes:
 
-![](media_Probability/media/image88.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image88.png)
 
 #### Cookie Problem using odds
 
@@ -1029,7 +1029,7 @@ What is the chance in a room with 23 people that two people share a
 birthday?
 
 \# of pairs that can be build = 23\*22/2 = 253
-![](media_Probability/media/image23.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image23.png)
 
 23!/(21! \* 2!)
 
@@ -1049,9 +1049,9 @@ Chance of 253 unique pairs = (364/365)\^253
 
 Can also be calculated as = 1- Permut(365,23)/(365 \^ 23)
 
-![](media_Probability/media/image94.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image94.png)
 
-![](media_Probability/media/image95.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image95.png)
 
 **Problem 6.** There are n people present in a room. Prove that among
 them there are two people who have the same number of people they know
@@ -1077,9 +1077,9 @@ least two will be of the same suit.**
 Each of the five cards can belong to one of four suits. By the
 pigeonhole principle, two or more must belong to the same suit.
 
-![](media_Probability/media/image96.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image96.png)
 
-![](media_Probability/media/image97.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Math\media_Probability/media/image97.png)
 
 There is another version of the pigeonhole principle that comes in
 handy. This version is "the maximum value is at least the average value,

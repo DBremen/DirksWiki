@@ -4,11 +4,11 @@
 
 ## Wisdom of the crowd and the algorithm
 
-![](media_The_Science_of_Everyday_Thinking/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image1.png)
 
 ### Wisdom of the crowd
 
-![](media_The_Science_of_Everyday_Thinking/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image2.png)
 
 The diversity prediction theorem tells us that a diverse crowd will
 always predict more accurately than the average person in the crowd. Not
@@ -332,7 +332,7 @@ rapid feedback they can perform the processing through System 1.
 
 ## Skill vs luck
 
-![](media_The_Science_of_Everyday_Thinking/media/image3.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image3.png)
 
 The main lesson is that feedback should focus on the part of the outcome
 a person can control. Call it the skill part, or the process. Feedback
@@ -496,7 +496,7 @@ tricks](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_
 
 We judge others by their actions and ourselves by our intentions.
 
-![](media_The_Science_of_Everyday_Thinking/media/image5.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image5.png)
 
 ###  Fundamental cognitive error
 
@@ -586,7 +586,7 @@ a long-term trend.
 Judge the frequency or likelihood of an event by the extent to which it
 resembles the typical case. Linda the feminist bank teller.
 
-![](media_The_Science_of_Everyday_Thinking/media/image8.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image8.png)
 
 Sales people might use of the **anchoring effect** by offering an
 extremely high price at the beginning.
@@ -657,7 +657,7 @@ Cochrane library to check for tested alternative medicines or treatments
 2 Way contingency table to consider alternative causes/explanations for
 treatments/outcomes:
 
-![](media_The_Science_of_Everyday_Thinking/media/image9.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\General\media_The_Science_of_Everyday_Thinking/media/image9.png)
 
 <table>
 <colgroup>

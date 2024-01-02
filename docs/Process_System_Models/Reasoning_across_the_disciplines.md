@@ -17,9 +17,9 @@ Mass is measured in kg
 
 Weight in Newtons
 
-![](media_Reasoning_across_the_disciplines/media/image1.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Reasoning_across_the_disciplines/media/image1.png)
 
-![](media_Reasoning_across_the_disciplines/media/image2.png)
+![](C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Reasoning_across_the_disciplines/media/image2.png)
 
 ## Understanding how others think (mind perception)
 
