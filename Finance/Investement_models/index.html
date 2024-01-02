@@ -1,0 +1,2658 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../BalanceSheet_IncomeStatement/">
+      
+      
+        <link rel="next" href="../Investing/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
+    
+    
+      
+        <title>Investement models - Dirk's Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.50c56a3b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#physics" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-header__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dirk's Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Investement models
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-nav__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Dirk's Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Finance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Finance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../BalanceSheet_IncomeStatement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BalanceSheet IncomeStatement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Investement models
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Investement models
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#physics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Physics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Physics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#equilibrium" class="md-nav__link">
+    <span class="md-ellipsis">
+      Equilibrium
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#biology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biology
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Biology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#evolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Evolution
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complex-adaptive-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complex adaptive systems
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sociology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sociology
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Sociology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diversity-and-independence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diversity and independence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#self-organizing-criticality" class="md-nav__link">
+    <span class="md-ellipsis">
+      Self-organizing criticality
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#psychology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Psychology
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Psychology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#loss-aversion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Loss aversion
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#noise-and-signal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Noise and signal
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#philosophy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Philosophy
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mathematics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Mathematics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#variation-within-and-variation-of-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variation within and variation of the system
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#regression-to-the-mean" class="md-nav__link">
+    <span class="md-ellipsis">
+      Regression to the mean
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      Decision Making
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Investing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Investing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Money/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Money
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Same_as_ever/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Same as ever
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Think_like_an_economist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Think like an economist
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    General
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            General
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/4-hour-chef/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4 hour chef
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Advanced_Google_Search/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Advanced Google Search
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Biological_behaviour/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biological behaviour
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Bitcoin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bitcoin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/DeBono_Thinking_critical_critical_thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DeBono Thinking critical critical thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Essential_scientific_concepts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Essential scientific concepts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Get_Anyone_Do_Anything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Get Anyone Do Anything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Learning_about_learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning about learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Making_ideas_happen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Making ideas happen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Meetings_Dont_just_do_something_standin_there/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meetings Dont just do something standin there
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Mindfulness_at_work/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mindfulness at work
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Nature/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nature
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/TRIZ/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    TRIZ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/The_Science_of_Everyday_Thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Science of Everyday Thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Too_soon_old_too_late_smart/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Too soon old too late smart
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Understanding_mysteries_of_human_behaviour/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Understanding mysteries of human behaviour
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Math
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Math
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Discrete_Math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discrete Math
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math_Thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math Thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Probability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Thinking_better/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinking better
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Personal Development
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Personal Development
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/101_Essays/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    101 Essays
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/4-hour-body/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4 hour body
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7 habits of highly effective people
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Anger_management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anger management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Awakened_family/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Awakened family
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/First_things_first/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First things first
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Happy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Happy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/How_to_chart_new_course_for_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to chart new course for life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Influence_people/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Influence people
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Innere_MItte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Innere MItte
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Joy_on_demand/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Joy on demand
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Lifes_little_instruction_book/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lifes little instruction book
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/MIndfullness_at_work/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MIndfullness at work
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Non_violent_communications/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non violent communications
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Power_and_grace_between_nasty_and_nice/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power and grace between nasty and nice
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School of life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life_great_thinkers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School of life great thinkers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Slight_edge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Slight edge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_art_of_the_good_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The art of the good life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_third_alternative/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The third alternative
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/speakup_showup_and_stand_out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speakup showup and stand out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Process System Models
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Process System Models
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Causal_Diagrams/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Causal Diagrams
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Complexity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Complexity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Game_Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Mental_Models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mental Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Mental_Models_FS./" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mental Models FS.
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Model_thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Principles_of_ProductDevelopment_Flow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principles of ProductDevelopment Flow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Processes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Processes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Reasoning_across_the_disciplines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reasoning across the disciplines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Root_Cause_Analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Root Cause Analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Solving_complex_problems/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Solving complex problems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Thinking_critcal_about_profound_ideas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinking critcal about profound ideas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#physics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Physics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Physics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#equilibrium" class="md-nav__link">
+    <span class="md-ellipsis">
+      Equilibrium
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#biology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biology
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Biology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#evolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Evolution
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complex-adaptive-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complex adaptive systems
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sociology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sociology
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Sociology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diversity-and-independence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diversity and independence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#self-organizing-criticality" class="md-nav__link">
+    <span class="md-ellipsis">
+      Self-organizing criticality
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#psychology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Psychology
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Psychology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#loss-aversion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Loss aversion
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#noise-and-signal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Noise and signal
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#philosophy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Philosophy
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mathematics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Mathematics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#variation-within-and-variation-of-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variation within and variation of the system
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#regression-to-the-mean" class="md-nav__link">
+    <span class="md-ellipsis">
+      Regression to the mean
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      Decision Making
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Investement models</h1>
+
+<h2 id="physics">Physics</h2>
+<h3 id="equilibrium">Equilibrium</h3>
+<p><strong>Equilibrium</strong> is defined as a state of balance between opposing
+forces, powers, or influences. An equilibrium model typically identifies
+a system that is at rest; this is called <em>static equilibrium</em>. When
+competing forces are equally matched, a system reaches <em>dynamic
+equilibrium</em>. A scale that is equally weighted on both sides is an
+example of static equilibrium. Fill a bathtub full of water and then
+turn off the faucet and you will observe static equilibrium. But if you
+unplug the drain and then turn on the faucet so the level of the bathtub
+does not change, you are witnessing dynamic equilibrium. Another example
+is the human body. It remains in dynamic equilibrium so long as the heat
+loss from cooling remains in balance with the consumption of sugars.</p>
+<p><strong>Economic equilibrium</strong>: The simplest case of balance or equilibrium
+between desire and effort is found when a person satisfies one of his
+wants by his own direct work. When a boy picks blue-berries for his own
+eating, the action of picking is probably itself pleasurable for a
+while; and for sometime longer the pleasure of eating is more than
+enough to repay the trouble of picking. But after he has eaten a good
+deal, the desire for eating diminishes; while the task of picking begins
+to cause weakness, which may indeed be a feeling of monotony rather than
+fatigue.</p>
+<p>Equilibrium is reached when at last his eagerness to play and his
+disinclination for the work of picking counterbalance the desire for
+eating.<a href="javascript:void(0)">^3^</a></p>
+<p><strong>Efficient market theory</strong>: Fama's message was clear. Stock prices are
+unpredictable because the market is too efficient. In an efficient
+market, a great many smart people (Fama called them "rational profit
+maximizers") have simultaneous access to all the relevant information,
+and they aggressively apply that information in a way that causes prices
+to adjust instantaneously---thus restoring equilibrium---before anyone
+can profit. Predictions about the future therefore have no place in an
+efficient market, because share prices fully reflect all available
+information.</p>
+<p><strong>Sharpe</strong>: Sharpe was awarded the Nobel Prize in Economics for
+developing "a market equilibrium theory of asset prices under conditions
+of risk." His theory was originally outlined in a 1964 paper entitled
+"Capital Asset Prices: A Theory of Market Equilibrium under Conditions
+of Risk." Sharpe explained, "In equilibrium, there is a simple linear
+relationship between the expected return and standard deviation of
+return (defined as risk)."<a href="javascript:void(0)">^11^</a> According to
+Sharpe, the only way to achieve a greater return is to incur additional
+risk. To increase expected returns, investors need only march further
+out the capital market line. Conversely, if investors wished to assume
+less risk, they would step down the capital line and by doing so receive
+less return. In either case, equilibrium is maintained.</p>
+<p><strong>The counterview from Santa Fe suggests the opposite: a market that is
+not rational, is organic rather than mechanistic, and is imperfectly
+efficient. It assumes the individual agents are, in fact, irrational and
+hence will misprice securities, creating the possibility for profitable
+strategies.</strong></p>
+<h2 id="biology">Biology</h2>
+<h3 id="evolution">Evolution</h3>
+<p>Whereas in nature the process of evolution is one of natural selection,
+seeing the market within an evolutionary framework allows us to observe
+the law of economic selection.</p>
+<h3 id="complex-adaptive-systems">Complex adaptive systems</h3>
+<p>El Farol, a bar in Santa Fe, New Mexico, used to feature Irish music on
+Thursday nights. Arthur, the Irishman, loved to go there. On most
+occasions, the bar patrons were well behaved, and it was enjoyable to
+sit and listen to the music. But on some nights, the bar was packed with
+so many people crammed together drinking and singing that the scene
+became unruly. Now Arthur was confronted with a problem: How could he
+decide which nights to go to El Farol and which nights to stay home? The
+chore of having to decide led him to formulate a mathematical theory he
+named the El Farol Problem. It has, he says, all the characteristics of
+a complex adaptive system.</p>
+<p>Suppose, says Arthur, there are one hundred people in Santa Fe who are
+interested in going to El Farol to listen to Irish music, but none of
+them wants to go if the bar is going to be crowded. Now also suppose the
+bar published its weekly attendance for the past ten weeks. With this
+information, the music lovers will build models to predict how many
+people will show up next Thursday. Some may figure that it will be
+approximately the same number of people as last week. Others will take
+an average of the last few weeks. A few will attempt to correlate
+attendance data to the weather or to other activities for the same
+audience. There will be endless ways to build models to predict how many
+people will go to the bar.</p>
+<p>Now let's say that every lover of Irish music decides that the comfort
+level in the small bar is sixty people. All one hundred people will
+decide, using whatever predictor has been the most accurate over the
+last few weeks, when the limit is going to be reached. Because each
+person has a different predictor, on any given Thursday some people will
+turn up at El Farol and others will stay home because their model has
+predicted more than sixty people will be attending. The following day,
+El Farol publishes its attendance and the hundred music lovers will
+update their models and get ready for next week's prediction.</p>
+<p>The El Farol process can be termed an ecology of predictors, says
+Arthur. At any point, there is a group of models that are deemed
+"alive"---that is, they are useful predictors of how many people will
+attend the bar. Conversely, predictors that turn out to be inaccurate
+will slowly die off. Each week, new predictors, new models, new beliefs
+will compete for use by other music lovers.</p>
+<p>We can quickly see how the El Farol process echoes the Darwinian idea of
+survival through natural selection and how logically it extends to
+economies and markets. In the markets, each agent's predictive models
+compete for survival against the models of all other agents, and the
+feedback that is generated causes some models to be changed</p>
+<table>
+<thead>
+<tr>
+<th>Biological</th>
+<th>Financial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Species</td>
+<td>Trading Strategy</td>
+</tr>
+<tr>
+<td>Individual organism</td>
+<td>Trader</td>
+</tr>
+<tr>
+<td>Genotype (genetic const.)</td>
+<td>Functional representation of strategy</td>
+</tr>
+<tr>
+<td>Phenotype (appearance)</td>
+<td>Actions of the strategy (buying, selling)</td>
+</tr>
+<tr>
+<td>Population</td>
+<td>Capital</td>
+</tr>
+<tr>
+<td>External environment</td>
+<td>Price and other informational input</td>
+</tr>
+<tr>
+<td>Selection</td>
+<td>Capital allocation</td>
+</tr>
+<tr>
+<td>Mutation and recombination</td>
+<td>Creation of new strategies</td>
+</tr>
+</tbody>
+</table>
+<p>If we go back through the history of the stock market and seek to
+identify the trading strategies that dominated the landscape, I believe
+there have been five major strategies,</p>
+<p>1.  In the 1930s and 1940s, the discount-to-hard-book value strategy,
+first proposed by Benjamin Graham.</p>
+<p>2.  After World War II the second major strategy that dominated finance
+was the dividend model. As the memories of the 1929 market crash faded
+and prosperity returned, investors were increasingly attracted to stocks
+that paid high dividends, and lower-paying bonds lost favor. So popular
+was the dividend strategy that by the 1950s, the yield on
+dividend-paying stocks dropped below the yield of bonds---a historical
+first.</p>
+<p>3.  By the 1960s, a third strategy appeared. Investors exchanged stocks
+paying high dividends for companies that were expected to grow their
+earnings at a high rate.</p>
+<p>4.  By the 1980s, a fourth strategy took over. Warren Buffett stressed
+the need to focus on companies with high "owner-earnings" or cash flows.</p>
+<p>5.  Today we can see that cash return on invested capital is emerging as
+the fifth new strategy.</p>
+<h2 id="sociology">Sociology</h2>
+<h3 id="diversity-and-independence">Diversity and independence</h3>
+<p>Johnson's research suggests that the stock market, theoretically, is
+more robust when it is composed of a diverse group of agents---some of
+average intelligence, some of below-average intelligence, and some very
+smart---than a market singularly composed of smart agents. At first,
+this discovery appears counterintuitive. Today, we are quick to blame
+the amateur behavior of uninformed individual investors and day traders
+for the volatile nature of the market. But if Johnson is correct, the
+diverse participation of all investors, traders and speculators---smart
+and dumb alike---should make the markets stronger, not weaker.</p>
+<p>The two critical variables necessary <strong>for a collective to make superior
+decisions are <em>diversity<em> and </em>independence</em></strong><em>.</em> If a collective is
+able to tabulate decisions from a diverse group of individuals who have
+different ideas or opinions on how to solve a problem, the results will
+be superior to a decision made by a group of like-minded thinkers.</p>
+<p>We know the stock market is an incentive-based system that can aggregate
+investor decisions. What we need to understand is the market's level of
+diversity and the independence of its participants. If the stock market
+is adequately diversified and, most importantly, if the decisions of its
+participants have been reached independently, then it is likely the
+market is efficient. Surowiecki reminds us that just because we can
+observe some irrational investors, that does not necessarily mean the
+market is inefficient. Indeed, proponents of the efficient market
+hypothesis have latched onto the "wisdom of the crowds" as a plausible
+explanation for market efficiency.</p>
+<p>But what if independence is lost? What if the decisions of the market's
+participants are not independent but are now coalesced into one opinion?
+When this occurs, the system has effectively lost its diversity and
+along with it any chance of generating an optimal solution. If diversity
+is the key to how collectives can best reach solutions, then diversity
+breakdowns are the cause of suboptimal outcomes---or in the case of the
+stock market, diversity breakdowns cause the market to become
+inefficient.</p>
+<p>"information cascades (which can lead to diversity breakdowns) occur
+when people make decisions based on the actions of others rather than on
+their own private information. These cascades help explain booms, fads,
+fashions, and crashes."<a href="javascript:void(0)">^12^</a> Social network
+theorists, who view social relationships in terms of nodes and ties,
+whereby nodes are the individual actors and ties are the relationships
+between the actors</p>
+<h3 id="self-organizing-criticality">Self-organizing criticality</h3>
+<p>Most of the time, the interplay between trend followers and
+fundamentalists is somewhat balanced. Buying and selling continue with
+no discernible change in the overall behavior of the market. We might
+say the sand pile is growing without any corresponding avalanche
+effects. Put differently, diversification is present in the market.</p>
+<p>But when stock prices climb, the ratio of trend followers to
+fundamentalists begins to grow. This makes sense. As prices increase, a
+larger number of fundamentalists decide to sell and leave the market and
+are replaced by a growing number of trend followers who are attracted to
+rising prices. When the relative number of fundamentalists is small,
+stock market bubbles occur, explained Bak, because prices have moved far
+above the fair price a fundamentalist would pay. Extending the sand pile
+metaphor further, as the number of fundamentalists in the market
+declines, and the relative number of trend followers increases, the
+slope of the sand pile becomes ever steeper, increasing the possibility
+of an avalanche. Once again, we can put this differently by saying that
+when the mix of fundamentalists and trend followers becomes unbalanced,
+we are heading toward a diversity breakdown.</p>
+<p>It is important for us to remember at this point that while Per Bak's
+self-organizing criticality explains the overall behavior of avalanches,
+it does nothing to explain any one particular avalanche.</p>
+<p>An obvious question at this point is how people select from a collection
+of choices. According to Richards, if there is no clear favorite, the
+tendency of the system is to continually cycle over the possibilities.
+You might think this cyclical outcome would lead to instability, but
+according to Richards, it need not if the agents share similar mental
+concepts (that is, mutual knowledge) about the various choices. It is
+when the agents in the system do not have similar concepts about the
+possible choices that the system is in danger of becoming unstable. And
+that is clearly the case in the stock market.</p>
+<p>At this point, we have a fixed compass on how to analyze social systems.
+Whether they are economic, political, or social, we can say these
+systems are complex (they have a large number of individual units), and
+they are adaptive (the individual units adapt their behavior on the
+basis of interactions with other units as well as with the overall
+system). We also recognize that these systems have self-organizing
+properties and that, once organized, they generate emergent behavior.
+Finally, we realize that complex adaptive systems are constantly
+unstable and periodically reach a state of self-organized criticality.</p>
+<h2 id="psychology">Psychology</h2>
+<h3 id="loss-aversion">Loss aversion</h3>
+<p><em>Equity risk premium</em> is a term many investors have heard but few
+actually understand. It refers to the potential for higher returns
+represented by the inherently risky stock market compared to the
+risk-free rate, defined as the rate of a ten-year U.S. Treasury bond in
+effect at whatever point you're considering. (It is called the risk-free
+rate because up until now the government has never defaulted on its
+loans.) Whatever return an individual stock or the overall stock market
+earns beyond that rate is the investor's compensation for taking on the
+higher risk of the stock market---the equity risk. For example, if the
+return on a stock is 10 percent and the risk-free rate is 5 percent over
+the same period, the equity risk premium would be 5 percent. The size of
+the risk premium will vary based on the perceived riskiness of a
+particular stock or the stock market as a whole. According to Aswath
+Damodaran, professor of finance at the Stern School of Business at New
+York University, the implied equity risk premium has vacillated between
+less than 3 percent in 1961 and 6.5 percent in the early 1980s.</p>
+<p>Thaler and Benartzi were puzzled by two questions. One, why is the
+equity risk premium so high; and two, why is anyone willing to hold
+bonds when we know that over the years, stocks have consistently
+outperformed? The answer, they believed, rested upon two central
+concepts from Kahneman and Tversky. The first was loss aversion. The
+second was a behavioral concept called <em>mental accounting</em>.</p>
+<p>T haler and Benartzi reasoned the longer the investor holds an asset,
+the more attractive the asset becomes but only if the investment is
+<em>not</em> evaluated frequently. If you don't check your portfolio every day,
+you will be spared the angst of watching daily price gyrations; the
+longer you hold off, the less you will be confronted with volatility and
+therefore the more attractive your choices seem. Put differently, the
+two factors that contribute to an investor's unwillingness to bear the
+risks of holding stocks are loss aversion and a frequent evaluation
+period.</p>
+<p>Using the medical word for shortsightedness, Thaler and Benartzi coined
+the term <em>myopic loss aversion</em> to reflect a combination of loss
+aversion and the frequency with which an investment is measured.</p>
+<p>Thaler and Benartzi next considered whether myopic loss aversion could
+help explain the equity risk premium. They wondered what combination of
+loss aversion and evaluation frequency would explain the historical
+pattern of stock returns. How often, they asked, would an investor need
+to evaluate a stock portfolio to be indifferent to the historical
+distribution of returns on stocks and bonds? The answer: one year.</p>
+<p>Thaler and Benartzi argue that any discussion of loss aversion must be
+accompanied by a specification of the frequency by which returns are
+calculated. Clearly, investors are less attracted to high-risk
+investments like stocks when they evaluate their portfolio over shorter
+time horizons. "Loss aversion is a fact of life," explain Thaler and
+Benartzi. "In contrast, the frequency of evaluations is a policy choice
+that presumably could be altered, at least in principle."</p>
+<h3 id="noise-and-signal">Noise and signal</h3>
+<p>We are, through a long process of evolution, acutely uncomfortable and
+anxious in the face of uncertainty, so much so that we are willing to
+listen to those who promise to alleviate that anxiety. Even though we
+know in the rational part of our minds that market forecasters cannot
+predict what will happen tomorrow or next week, we want to believe they
+can, because the alternative (not knowing) is too uncomfortable.</p>
+<p>To overcome noise in a communication system, Shannon recommended that
+what he called a "correction device" be placed between the receiver and
+the destination. This correcting device would take the information from
+the receiving terminal, separate out the noise, and then reconstruct the
+messages so the information arrived correctly at its final destination.</p>
+<p>Shannon's correction system is a perfect metaphor for how investors
+should process information. We must mentally place a correcting device
+in our information channel. The first task for this correcting device is
+to maintain integrity of the information coming from the source. The
+device must filter out incorrect source information and reconfigure the
+signal if it has become garbled. The process for doing this is within
+our control. To do so means improving our ability to gather and analyze
+information and use it to further our understanding.</p>
+<p>The other side of our correcting device, the side that faces the
+receiving terminal, is responsible for verifying that the information is
+properly passed through and accurately received, without interference of
+psychological biases. The process for doing this is also within our
+control, but it is challenging. We must make ourselves aware of all the
+ways that emotion-based errors and errors of thinking can interfere with
+good investing decisions, as described in this chapter, and we must
+constantly be on guard against our own psychological missteps.</p>
+<h2 id="philosophy">Philosophy</h2>
+<p>If things remain a mystery, our job then is to shuffle our descriptions
+and offer redescriptions. Think of it this way: redescriptions are very
+powerful tools capable of breaking gridlock that sometimes occurs in the
+pursuit of understanding. I firmly believe, for instance, that one
+reason we have such difficulty understanding markets is that we have
+been locked into an equilibrium description of how they should behave.
+To reach a higher level of understanding, we must remain open-minded to
+accepting new descriptions of systems that appear complex, whether they
+are financial markets, social and political systems, or the physical
+world.</p>
+<p>For investors it is important to realize the slippery slope of
+narratives. Storytelling inadvertently increases our confidence in
+propositions as the story itself becomes its own proof. "The focus of
+stories is on the individual rather than the averages, on motives rather
+than movements, on context rather than raw data," explains
+Paulos.<a href="javascript:void(0)">^15^</a> Because investors primarily use
+storytelling to explain markets and economies, the absence of
+statistical evidence weakens the description. Quoting James Boswell,
+best known as the biographer of Samuel Johnson: "A thousand stories
+which the ignorant tell, and believe, die away at once when the
+computist takes them in his gripe [<em>sic</em>]."<a href="javascript:void(0)">^16^</a></p>
+<p>The lessons we have learned thus far from Benoit Mandelbrot, Ludwig
+Wittgenstein, C. P. Snow, and John Allen Paulos are all connected. The
+right description is critical for providing the right explanation.
+However, there is often more than one obvious description. Even so, we
+go to great lengths to defend our chosen description, constructing
+elaborate and entertaining stories in order to make our point despite
+the risk of statistical inconsistencies.</p>
+<p>The only way to do better than someone else, or more importantly, to
+outperform the stock market, is to have a way of interpreting the data
+that is different from other people's interpretations. To that I would
+add the need to have sources of information and experiences that are
+different.<a href="javascript:void(0)">^26^</a> In studying the great minds in
+investing, the one trait that stands out is the broad reach of their
+interests. Once your field of vision is widened, you are able to
+understand more fully what you observe, and then you use those insights
+for greater investment success.</p>
+<p>We live and work in a world in which the pace of change is staggering;
+just when you think things can't possibly move any faster, the pace once
+again accelerates. In such a world, successful performance demands
+flexible thinking. In an environment of rapid change, the flexible mind
+will always prevail over the rigid and absolute.</p>
+<h2 id="mathematics">Mathematics</h2>
+<h3 id="variation-within-and-variation-of-the-system">Variation within and variation of the system</h3>
+<p>The most important lesson investors can learn from Gould's experience is
+to appreciate the differences between the trend <em>of</em> the system and
+trends <em>in</em> the system. Put differently, investors need to understand
+the difference between the average return of the stock market and the
+performance variation of individual stocks. One of the easiest ways for
+investors to appreciate the differences is to study sideways markets.</p>
+<p>Putting it in Gould's terms, investors who observed the stock market
+between 1975 and 1982 and focused on the market average came to the
+wrong conclusion. They wrongly assumed that the direction of the market
+was sideways, when in fact the variation <em>within</em> the market was
+dramatic and led to plenty of opportunities to earn high excess returns.</p>
+<h3 id="regression-to-the-mean">Regression to the mean</h3>
+<p>J. P. Morgan was once asked what the stock market would do next. His
+response: "It will fluctuate." No one at the time thought this was a
+backhanded way of describing regression to the mean. But this now-famous
+reply has become the credo for contrarian investors. They would tell you
+greed forces stock prices to move higher and higher from intrinsic
+value, just as fear forces prices lower and lower from intrinsic value,
+until regression to the mean takes over. Eventually, variance will be
+corrected in the system.</p>
+<p>The frustration comes from three sources. First, reversion to the mean
+is not always instantaneous. Overvaluation and undervaluation can
+persist for a period longer---much longer---than patient rationality
+might dictate. Second, volatility is so high, with deviations so
+irregular, that stock prices don't correct neatly or come to rest easily
+on top of the mean. Last, and most important, in fluid environments
+(like markets) the mean itself may be unstable. Yesterday's normal is
+not tomorrow's. The mean may have shifted to a new location.</p>
+<p>Fifty years ago, the S&amp;P 500 Index was dominated by manufacturing,
+energy, and utility companies. Today it is dominated by technology,
+health care, and financial companies. Because the return on equity for
+the latter three is higher than the first group of three, the average
+return on equity of the index is now higher today than it was thirty
+years ago. The mean has shifted. In the words of Thomas Kuhn, there has
+been a paradigm shift.</p>
+<p>Overemphasizing the present without understanding the subtle shifts in
+composition can lead to perilous and faulty decisions. Although
+regression to the mean remains an important strategy, it is imperative
+that investors remember it is not inviolable. Stocks that are thought to
+be high in price can still move higher; stocks that are low in price can
+continue to decline. It is important to remain flexible in your
+thinking. Although reversion to the mean is the most likely outcome in
+markets, its presence is not sacrosanct.</p>
+<h2 id="decision-making">Decision Making</h2>
+<p>As investors, we too must strike a balance between exploiting what is
+most obvious while allocating some mental energy to exploring new
+possibilities.</p>
+<p>By recombining our existing building blocks, we are in fact learning and
+adapting to a changing environment. Think back for a moment to the
+description of neural networks and the theory of connectionism in
+<a href="javascript:void(0)">Chapter 1</a>. It will be immediately obvious to you
+that by choosing and then recombining building blocks, what we are doing
+is creating our own neural network, our connectionist model.</p>
+<p>It's important to understand that you have the opportunity to discover
+many new things and add new building blocks to your mental models
+<em>without ever taking undue risk</em>. You can throw a lot of theories and
+ideas into your thinking mix, assemble them into a model, and, like a
+pilot in a flight simulator, try them out in the marketplace. If the new
+building blocks prove useful, then keep them and give them the
+appropriate weight. But if they appear to add no value, you simply store
+them away and draw them up again some day in the future.</p>
+<p>But remember, none of this will happen if you conclude that you already
+know enough. Never stop discovering new building blocks. When a
+corporation cuts its research and development budget to focus on the
+here and now, that may produce greater profits in the short term, but
+more likely it places the company in competitive jeopardy at some point
+in the future. Likewise, if we stop exploring for new ideas, we may
+still be able to navigate the stock market for a while, but most likely
+we are putting ourselves at a disadvantage for tomorrow's changing
+environment.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,3536 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Investement_models/">
+      
+      
+        <link rel="next" href="../Money/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
+    
+    
+      
+        <title>Investing - Dirk's Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.50c56a3b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#outcome" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-header__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dirk's Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Investing
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-nav__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Dirk's Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Finance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Finance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../BalanceSheet_IncomeStatement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BalanceSheet IncomeStatement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Investement_models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Investement models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Investing
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Investing
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#outcome" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outcome
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#risk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risk
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anti-fragile" class="md-nav__link">
+    <span class="md-ellipsis">
+      Anti-Fragile
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focus-on-pay-off-rather-than-probability" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus on pay-off rather than probability
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#better-multiple-favorable-bets-with-less-pay-off-but-lower-risk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Better multiple favorable bets with less pay-off but lower risk
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#economy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Economy
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Economy">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dividend-discount-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dividend discount model
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dividends" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dividends
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#advantage-of-long-term-investment-over-short-term" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advantage of long term investment over short term
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#three-pillars-of-trading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Three pillars of trading
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Three pillars of trading">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psychology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Psychology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trading-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trading system
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#money-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Money management
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Money management">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kelly-criterion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kelly Criterion
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#van-tharp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Van Tharp
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#valuation-of-stock-prices" class="md-nav__link">
+    <span class="md-ellipsis">
+      Valuation of stock prices
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Valuation of stock prices">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#relative-evaluation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Relative evaluation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#intrinsic-valuation-follow-up-of-above" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intrinsic valuation (follow-up of above)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interpretation-of-financial-statements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interpretation of financial statements
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Interpretation of financial statements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#intrinsic-value-liquidation-value" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intrinsic value (liquidation value)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#income-statement-over-a-period" class="md-nav__link">
+    <span class="md-ellipsis">
+      Income statement (over a period)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#balance-sheet-snapshot-in-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      Balance sheet (snapshot in time)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cash-flow-statement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cash flow statement
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#indicators" class="md-nav__link">
+    <span class="md-ellipsis">
+      Indicators
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Indicators">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#roe-return-on-equity" class="md-nav__link">
+    <span class="md-ellipsis">
+      ROE return on equity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#return-on-tangible-assets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Return on tangible assets
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#net-margin" class="md-nav__link">
+    <span class="md-ellipsis">
+      Net margin
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#current-ratio" class="md-nav__link">
+    <span class="md-ellipsis">
+      Current Ratio
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pb-ratio-price-to-book-ratio" class="md-nav__link">
+    <span class="md-ellipsis">
+      P/B ratio price to book ratio
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inflation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inflation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cycles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cycles
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ideas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ideas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ideas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conservative-base-investment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conservative base investment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acquirers-multiple" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acquirer\'s multiple
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diversify" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diversify
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focus-on-avoiding-mistakes-instead-of-trying-to-be-right-all-the-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus on avoiding mistakes instead of trying to be right all the time
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Focus on avoiding mistakes instead of trying to be right all the time">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stay-in-circle-of-competence-with-humility-but-think-independently" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stay in circle of competence with humility (but think independently)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evaluate-risk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Evaluate risk
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resist-the-urge-to-act-fomo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resist the urge to act (FOMO)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focus-on-macro-rather-than-micro-decisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus on macro rather than micro decisions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dont-fall-in-love-with-your-investmentposition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Don't fall in love with your investment/position
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Money/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Money
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Same_as_ever/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Same as ever
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Think_like_an_economist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Think like an economist
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    General
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            General
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/4-hour-chef/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4 hour chef
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Advanced_Google_Search/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Advanced Google Search
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Biological_behaviour/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biological behaviour
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Bitcoin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bitcoin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/DeBono_Thinking_critical_critical_thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DeBono Thinking critical critical thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Essential_scientific_concepts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Essential scientific concepts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Get_Anyone_Do_Anything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Get Anyone Do Anything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Learning_about_learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning about learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Making_ideas_happen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Making ideas happen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Meetings_Dont_just_do_something_standin_there/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meetings Dont just do something standin there
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Mindfulness_at_work/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mindfulness at work
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Nature/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nature
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/TRIZ/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    TRIZ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/The_Science_of_Everyday_Thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Science of Everyday Thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Too_soon_old_too_late_smart/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Too soon old too late smart
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Understanding_mysteries_of_human_behaviour/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Understanding mysteries of human behaviour
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Math
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Math
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Discrete_Math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discrete Math
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math_Thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math Thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Probability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Thinking_better/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinking better
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Personal Development
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Personal Development
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/101_Essays/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    101 Essays
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/4-hour-body/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4 hour body
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7 habits of highly effective people
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Anger_management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anger management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Awakened_family/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Awakened family
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/First_things_first/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First things first
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Happy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Happy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/How_to_chart_new_course_for_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to chart new course for life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Influence_people/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Influence people
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Innere_MItte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Innere MItte
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Joy_on_demand/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Joy on demand
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Lifes_little_instruction_book/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lifes little instruction book
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/MIndfullness_at_work/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MIndfullness at work
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Non_violent_communications/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non violent communications
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Power_and_grace_between_nasty_and_nice/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power and grace between nasty and nice
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School of life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life_great_thinkers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School of life great thinkers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Slight_edge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Slight edge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_art_of_the_good_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The art of the good life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_third_alternative/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The third alternative
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/speakup_showup_and_stand_out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speakup showup and stand out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Process System Models
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Process System Models
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Causal_Diagrams/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Causal Diagrams
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Complexity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Complexity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Game_Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Mental_Models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mental Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Mental_Models_FS./" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mental Models FS.
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Model_thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Principles_of_ProductDevelopment_Flow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principles of ProductDevelopment Flow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Processes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Processes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Reasoning_across_the_disciplines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reasoning across the disciplines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Root_Cause_Analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Root Cause Analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Solving_complex_problems/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Solving complex problems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Process_System_Models/Thinking_critcal_about_profound_ideas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinking critcal about profound ideas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#outcome" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outcome
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#risk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risk
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anti-fragile" class="md-nav__link">
+    <span class="md-ellipsis">
+      Anti-Fragile
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focus-on-pay-off-rather-than-probability" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus on pay-off rather than probability
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#better-multiple-favorable-bets-with-less-pay-off-but-lower-risk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Better multiple favorable bets with less pay-off but lower risk
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#economy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Economy
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Economy">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dividend-discount-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dividend discount model
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dividends" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dividends
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#advantage-of-long-term-investment-over-short-term" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advantage of long term investment over short term
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#three-pillars-of-trading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Three pillars of trading
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Three pillars of trading">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psychology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Psychology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trading-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trading system
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#money-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Money management
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Money management">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kelly-criterion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kelly Criterion
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#van-tharp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Van Tharp
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#valuation-of-stock-prices" class="md-nav__link">
+    <span class="md-ellipsis">
+      Valuation of stock prices
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Valuation of stock prices">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#relative-evaluation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Relative evaluation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#intrinsic-valuation-follow-up-of-above" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intrinsic valuation (follow-up of above)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interpretation-of-financial-statements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interpretation of financial statements
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Interpretation of financial statements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#intrinsic-value-liquidation-value" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intrinsic value (liquidation value)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#income-statement-over-a-period" class="md-nav__link">
+    <span class="md-ellipsis">
+      Income statement (over a period)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#balance-sheet-snapshot-in-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      Balance sheet (snapshot in time)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cash-flow-statement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cash flow statement
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#indicators" class="md-nav__link">
+    <span class="md-ellipsis">
+      Indicators
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Indicators">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#roe-return-on-equity" class="md-nav__link">
+    <span class="md-ellipsis">
+      ROE return on equity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#return-on-tangible-assets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Return on tangible assets
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#net-margin" class="md-nav__link">
+    <span class="md-ellipsis">
+      Net margin
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#current-ratio" class="md-nav__link">
+    <span class="md-ellipsis">
+      Current Ratio
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pb-ratio-price-to-book-ratio" class="md-nav__link">
+    <span class="md-ellipsis">
+      P/B ratio price to book ratio
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inflation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inflation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cycles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cycles
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ideas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ideas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ideas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conservative-base-investment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conservative base investment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acquirers-multiple" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acquirer\'s multiple
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diversify" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diversify
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focus-on-avoiding-mistakes-instead-of-trying-to-be-right-all-the-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus on avoiding mistakes instead of trying to be right all the time
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Focus on avoiding mistakes instead of trying to be right all the time">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stay-in-circle-of-competence-with-humility-but-think-independently" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stay in circle of competence with humility (but think independently)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evaluate-risk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Evaluate risk
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resist-the-urge-to-act-fomo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resist the urge to act (FOMO)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focus-on-macro-rather-than-micro-decisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus on macro rather than micro decisions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dont-fall-in-love-with-your-investmentposition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Don't fall in love with your investment/position
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Investing</h1>
+
+<p>A stock is technically a loan with inﬁnite maturity, so the company
+won't actually ever pay back the loan. In reality, most companies come
+to an end eventually, but there are many companies that have lasted for
+100 years or more. Furthermore, a stock may not ever pay out any cash
+dividends at all, so you may not get any interest on the loan either.</p>
+<p><strong>Short selling:</strong> an investor borrows securities, sells the borrowed
+securities immediately, and then hopes to buy them back later at a lower
+price. Investors borrow securities when they believe that their value
+will fall.</p>
+<h2 id="outcome">Outcome</h2>
+<p>The problem is that extraordinary performance comes only from correct
+nonconsensus forecasts, but nonconsensus forecasts are hard to make,
+hard to make correctly and hard to act on.</p>
+<p>The upshot is simple: to achieve superior investment results, you have
+to hold nonconsensus views regarding value, and they have to be
+accurate.</p>
+<p>Risk vs Return</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image1.png" /></p>
+<p>Considerations when looking at an opportunity:</p>
+<ul>
+<li>
+<p>Why should a bargain exist despite the presence of thousands of
+    investors who stand ready and willing to bid up the price of
+    anything that's too cheap?</p>
+</li>
+<li>
+<p>If the return appears so generous in proportion to the risk, might
+    you be overlooking some hidden risk?</p>
+</li>
+<li>
+<p>Why would the seller of the asset be willing to part with it at a
+    price from which it will give you an excessive return?</p>
+</li>
+<li>
+<p>Do you really know more about the asset than the seller does?</p>
+</li>
+<li>
+<p>If it's such a great proposition, why hasn't someone else snapped it
+    up?</p>
+</li>
+</ul>
+<h2 id="risk">Risk</h2>
+<p>"risk" is---first and foremost---the likelihood of losing money</p>
+<ul>
+<li>
+<p>Experience is what you got when you didn't get what you wanted.</p>
+</li>
+<li>
+<p>In theory there's no difference between theory and practice, but in
+    practice there is.</p>
+</li>
+<li>
+<p>if riskier investments could be counted on to produce higher
+    returns, they wouldn't be riskier.</p>
+</li>
+</ul>
+<p>Given the difficulty of quantifying the probability of loss, investors
+who want some objective measure of risk-adjusted return---and they are
+many ---can only look to the so-called <strong>Sharpe ratio.</strong> This is the
+ratio of a portfolio's excess return (its return above the "riskless
+rate," or the rate short-term Treasury bills) to the standard deviation
+of the return.</p>
+<p>In a similar light, a <strong>Sortino ratio looks at only downside volatility
+rather than both upside and downside volatility. However, neither
+measure does a good job of measuring risk of future loss.</strong></p>
+<p>It's impossible to assess the accuracy of probability estimates other
+than 0 and 100 except over a very large number of trials</p>
+<p><strong>"Risk means more things can happen than will happen."</strong></p>
+<p>The best we can do is fashion a probability distribution that summarizes
+the possibilities and describes their relative likelihood. We must think
+about the full range, not just the ones that are most likely to
+materialize. Some of the greatest losses arise when investors ignore the
+improbable possibilities.</p>
+<p><strong>I encourage you to think about "good-enough returns." It's essential
+to realize that there are returns so high that they aren't worth going
+for and risks that aren't worth taking.</strong></p>
+<p><strong>Risk means uncertainty about which outcome will occur and about the
+possibility of loss when the unfavorable ones do.</strong></p>
+<p>The riskiest things: The greatest risk doesn't come from low quality or
+high volatility. It comes from paying prices that are too high.</p>
+<p>When investors feel risk is high, their actions serve to reduce risk.
+But when investors believe risk is low, they create dangerous
+conditions. The market is dynamic rather than static, and it behaves in
+ways that are counterintuitive.</p>
+<p><strong>When everyone believes something is risky, their unwillingness to buy
+usually reduces its price to the point where it's not risky at all.
+Broadly negative opinion can make it the least risky thing, since all
+optimism has been driven out of its price.</strong></p>
+<p><strong>In the short run, a great deal of investment success can result from
+just being in the right place at the right time. I always say the keys
+to profit are aggressiveness, timing and skill, and someone who has
+enough aggressiveness at the right time doesn't need much skill. The
+quality of a decision is not determined by the outcome.</strong></p>
+<p><strong>This is why it is all-important to look not at investors' track
+records but at what they are doing to achieve those records. Does it
+make sense? Does it appear replicable? Why haven't competitive forces
+priced away any apparent market inefficiencies that enabled this
+investment success?</strong></p>
+<p>Pro-risk, aggressive investors, for example, should be expected to make
+more than the index in good times and lose more in bad times. This is
+where beta comes in. By the word <strong>beta</strong>, theory means relative
+volatility, or the relative responsiveness of the portfolio return to
+the market return. A portfolio with a beta above 1 is expected to be
+more volatile than the reference market, and a beta below 1 means it'll
+be less volatile. Multiply the market return by the beta and you'll get
+the return that a given portfolio should be expected to achieve,
+omitting nonsystematic sources of risk. If the market is up 15 percent,
+a portfolio with a beta of 1.2 should return 18 percent (plus or minus
+alpha).</p>
+<p>Efficient market theory: I have concluded that no market is completely
+one or the other. It's just a matter of degree. I wholeheartedly
+appreciate the opportunities that inefficiency can provide, but I also
+respect the concept of market efficiency, and I believe strongly that
+mainstream securities markets can be so efficient that it's largely a
+waste of time to work at finding winners there.</p>
+<p>Think of investing similar to horse betting where the amount of money in
+the pool for betting determines the odds (betting on a weak horse costs
+less money if you win you win the pool but paid less than people that
+bet on a strong horse).</p>
+<p><strong>Always consider quality and price when buying stocks. Aim for getting
+more quality per price.</strong></p>
+<h2 id="anti-fragile">Anti-Fragile</h2>
+<p>E.g. youtuber winning with negative and positive comments</p>
+<p>Fragile - robust - anti-fragile</p>
+<ul>
+<li>
+<p>Bailouts</p>
+</li>
+<li>
+<p>Trying to protect your kid from all harms</p>
+</li>
+<li>
+<p>Overly hygienic</p>
+<p>Are all turning something robust or anti-fragile into something
+fragile</p>
+<p>Something that is fragile (a car hitting a wall at increasing
+speeds). Exponential decrease</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image2.png" /></p>
+<p>Something that is anti-fragile. Exponential growth:</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image3.png" /></p>
+<p>Investing in bio-tech</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image4.png" /></p>
+</li>
+</ul>
+<p><strong>When dealing with random events (or black-swan events) focus on
+prevention rather than trying to predict</strong></p>
+<p><strong>Aim for small uncorrelated errors</strong></p>
+<p><strong>Lindy effect = indicator of anti-fragile</strong></p>
+<p>That which is old is also that which is expected to survive the longest.
+Something that managed to survive for a long time has most likely
+developed anti-fragile features. Insurance for old vs. you and insurance
+against dropping out of book seller top chart:</p>
+<p>All else equal better bet on a company that his been longer around and a
+font manager with a longer track record.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image5.png" /></p>
+<h2 id="focus-on-pay-off-rather-than-probability">Focus on pay-off rather than probability</h2>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image6.png" /></p>
+<ol>
+<li>
+<p>Pay-off: .1*2 = .2</p>
+</li>
+<li>
+<p>Pay-off: .9* -.1 = -.09</p>
+</li>
+<li>
+<p>.2 + .09 = .11 = 11%</p>
+</li>
+<li>
+<p>Investing 100\$ = 100 * .2 + 100 * -.09 = 20 - 9 = 11%</p>
+</li>
+</ol>
+<h2 id="better-multiple-favorable-bets-with-less-pay-off-but-lower-risk">Better multiple favorable bets with less pay-off but lower risk</h2>
+<p><strong>Should you invest 100\$ in a start-up that has 40% probability of
+succeeding if a succeeding you win 500\$. Or put 25\$ in 4 (independent)
+start-ups with 40% probability of succeeding?</strong></p>
+<ul>
+<li>
+<p>One company expected value = 500\$ * .4 - 100\$ * .6 = 140\$</p>
+</li>
+<li>
+<p>Multiple companies</p>
+</li>
+<li>
+<p>4* 500\$ * .4 - 4 * 25\$ * .6 = 750\$</p>
+</li>
+<li>
+<p>60% p(failure)</p>
+</li>
+<li>
+<p>60% failure happening 4 times in a row = (.6)^4^ = 12.96%</p>
+</li>
+<li>
+<p>Chance of 40% event happening at least once = 100%-12.96% = 87.04%</p>
+</li>
+<li>
+<p>The probability that 10 mutually independent start-ups all succeed
+    is 0.01 % (0.4^10^) but the probability that at least one succeeds
+    is 99.4% (1 - 0.6^10^).</p>
+</li>
+</ul>
+<h2 id="economy">Economy</h2>
+<p>https://www.youtube.com/watch?v=PHe0bXAIuk0&amp;list=RDLV2kJxqIO5sxQ&amp;index=3</p>
+<ul>
+<li>
+<p>The economy is mainly driven by three factors</p>
+</li>
+<li>
+<p>Productivity growth</p>
+</li>
+<li>
+<p>Short term debt cycle (5-8 years cycle)</p>
+</li>
+<li>
+<p>Up-cycle</p>
+</li>
+<li>
+<p>More debt/credit creates more spending</p>
+</li>
+<li>
+<p>Economic expansion</p>
+</li>
+<li>
+<p>Prices rise</p>
+</li>
+<li>
+<p>Inflation</p>
+</li>
+<li>
+<p>Inflation is countered by higher interest rates (decrease borrowing
+    &gt; debt)</p>
+</li>
+<li>
+<p>Down-cycle</p>
+</li>
+<li>
+<p>Higher interest rates cause less credits</p>
+</li>
+<li>
+<p>Less spending</p>
+</li>
+<li>
+<p>Economy shrinks</p>
+</li>
+<li>
+<p>Prices go down</p>
+</li>
+<li>
+<p>Deflation -&gt; recession</p>
+</li>
+<li>
+<p>Deflation is countered by lower interest rates to fuel the economy
+    &gt; with more credit</p>
+</li>
+<li>
+<p>Long term debt cycle (75-100 years cycles)</p>
+</li>
+<li>
+<p>People tend to borrow more than the repay</p>
+</li>
+<li>
+<p>As longs as the income and asset values grow faster than the debts
+    &gt; that works</p>
+</li>
+<li>
+<p>At one point the level of debt grows bigger than the income and
+    &gt; asset values</p>
+</li>
+<li>
+<p>People have to spend more on repaying their loans than they can
+    &gt; afford</p>
+</li>
+<li>
+<p>That causes people to spend less</p>
+</li>
+<li>
+<p>Causing a depression and stock market crashes</p>
+</li>
+<li>
+<p>Credit is an asset to the lender (bank) and a liability to the
+    borrower.</p>
+</li>
+<li>
+<p>Debt drives the economic cycles more than productivity growth (it
+    usually follows a quite constant growth while debts swing up and
+    down)</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image7.png" /></p>
+</li>
+</ul>
+<pre><code>&lt;!-- --&gt;
+</code></pre>
+<ul>
+<li>
+<p>Borrowing is a way of spending more money in the present rather than
+    in the future (the settlement of the transaction based on debt is
+    deferred)</p>
+</li>
+<li>
+<p>In order to buy something that you can\'t afford you need to spend
+    more than you currently make</p>
+</li>
+<li>
+<p>You borrow from your future self</p>
+</li>
+<li>
+<p>To pay the debt back at one point you need to spend less than you
+    make.</p>
+</li>
+</ul>
+<pre><code>&lt;!-- --&gt;
+</code></pre>
+<ul>
+<li>More debt allows people to purchase more than we produce and less
+    debt prevents people from buying as much as we produce</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image8.png" /></p>
+<h3 id="dividend-discount-model">Dividend discount model</h3>
+<ul>
+<li>
+<p>The cash ﬂows that investors receive from stock are the dividends,
+    so fundamentals-based models of stock price note that the current
+    price of a share of stock is equal to the present discounted value
+    of the sum of all its future dividends. Technically, this represents
+    an inﬁnite number of future dividends.</p>
+</li>
+<li>
+<p>There's a surprisingly simple formula for the present value of the
+    sum of all future dividends: D/(r − g). This formula is called the
+    dividend discount model.</p>
+<ul>
+<li>
+<p>the amount of the next annual dividend: D = \$1.72 per share</p>
+</li>
+<li>
+<p>the expected return on the stock (based on CAPM): r</p>
+<ul>
+<li>
+<p>To use the CAPM to estimate the expected return, or discount
+    rate, on a stock, we use the following formula:</p>
+</li>
+<li>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image9.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image10.png" /></p>
+</li>
+<li>
+<p>E(r~i~) = expected return</p>
+</li>
+<li>
+<p>r~f~ = risk-free-rate = return on a 10-year treasury bond
+    (about 5%)</p>
+</li>
+<li>
+<p>ß~i~ = beta</p>
+</li>
+<li>
+<p>The ﬁnal term is the difference between the expected return
+    on the entire market and the risk-free rate---called the
+    market risk premium, or the compensation for bearing one
+    unit of risk.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>average growth rate of the dividend: g (average dividend growth rate
+    over the past 5 years.)</p>
+</li>
+</ul>
+<h3 id="dividends">Dividends</h3>
+<p>Companies usually don't reduce the relative amount of dividends
+(dividend yield) the pay but rather try to keep them stable or even
+increase. Reducing or increasing dividends is an indicator of strength
+or weakness.</p>
+<p>Several academic studies show that the higher the fraction of earnings a
+company pays out as dividends, the higher the growth rate of earnings
+tends to be over the next 10 years.</p>
+<p>A <strong>stock buyback, or share repurchase</strong>, is a transaction in which a
+company goes into the stock market and repurchases, or buys back, some
+of its outstanding shares. This is a <strong>substitute for a dividend</strong>
+because the company has to pay cash for these repurchased shares, which
+returns cash to the company's shareholders.</p>
+<h2 id="advantage-of-long-term-investment-over-short-term">Advantage of long term investment over short term<img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image11.png" /></h2>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image12.png" /></p>
+<p><a href="https://www.visualcapitalist.com/stock-market-returns-time-periods-1872-2018/">https://www.visualcapitalist.com/stock-market-returns-time-periods-1872-2018/</a></p>
+<p><a href="https://themeasureofaplan.com/us-stock-market-returns-1870s-to-present/">https://themeasureofaplan.com/us-stock-market-returns-1870s-to-present/</a></p>
+<p>Interest rates and stocks prices have a reverse relationship (compare
+P/E ratio overall in relation to interest rates)</p>
+<p>Earnings yield = opposite of P/E shows % earning per stock price</p>
+<p>10-yr- US treasure bonds as indicator for interest</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image13.png" /></p>
+<h2 id="three-pillars-of-trading">Three pillars of trading</h2>
+<h3 id="psychology">Psychology</h3>
+<ul>
+<li>
+<p>Keep track of your trades including your assumptions and reasoning
+    (plan to sell)</p>
+</li>
+<li>
+<p>Setup rules and follow them</p>
+<ul>
+<li>
+<p>Analyse your performance and change rules accordingly</p>
+</li>
+<li>
+<p>Measure adherence to rules</p>
+</li>
+<li>
+<p>Mood when entering and exiting the trade</p>
+</li>
+</ul>
+</li>
+<li></li>
+</ul>
+<h3 id="trading-system">Trading system</h3>
+<p>Man = trend</p>
+<p>Dog = oscillator (oscillates around trend sometimes strays away may end
+up in a different direction=</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image14.png" /></p>
+<ul>
+<li>
+<p>Exponential moving averages are better than normal moving averages
+    (stronger weight of more recent trend)</p>
+</li>
+<li>
+<p>Try to confirm trends in related markets (e.g., ema of different
+    stocks trending in the same direction)</p>
+</li>
+<li>
+<p>Longer EMA = stronger signal</p>
+<p>Entry criteria:</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image15.png" /></p>
+</li>
+</ul>
+<pre><code>&lt;!-- --&gt;
+</code></pre>
+<ul>
+<li>
+<p>Market tide: weekly MACD histogram (trend) - buy in that direction</p>
+</li>
+<li>
+<p>Market wave: 2-day EMA (oscillator) - opposite of that direction</p>
+</li>
+<li>
+<p>Intraday breakout: buy order 1 tick above the high of the previous
+    day.</p>
+</li>
+</ul>
+<h3 id="money-management">Money management</h3>
+<p>Cut losses short and let winners run</p>
+<p>Box model for exit strategy</p>
+<ul>
+<li>
+<p>Buy stock when it moves into a higher box</p>
+</li>
+<li>
+<p>Stop loss is lower end of box (previous high)</p>
+</li>
+<li>
+<p>When box exceeds upper bound of box</p>
+</li>
+<li>
+<p>Establish a new upper bound and make previous upper bound the new
+    lower bound</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image16.png" /></p>
+<h4 id="kelly-criterion">Kelly Criterion</h4>
+<p>Determine position size based on:</p>
+<ul>
+<li>
+<p>Equity Balance (how much money available for trading)</p>
+</li>
+<li>
+<p>Expected return (average R over time (Risk/Reward ratio)</p>
+</li>
+<li>
+<p>Probability of winning/losing</p>
+<p>Example:</p>
+<p>Balance: 20K</p>
+<p>Expected return: 4.04 (needs to be constantly adjusted to actual
+averages)</p>
+<p>Win Rate: 59% (needs to be constantly adjusted to actual averages)</p>
+<p>If the downside-case loss is less than 100%, as in the scenario
+above, a different Kelly formula is required: <strong>Kelly % = W/A -- (1
+-- W)/B</strong>, where W is the win probability, B is the profit in the
+event of a win (20%), and A is the potential loss (also 20%).</p>
+<p>(Expected return * (Win Rate - Losing Rate)) / Expected Return</p>
+<p>(4.04 * .59 - (1-.59))/ 4.04 = 0.488 / 3 = .163% (/3 = fractional
+Kelly)</p>
+<p>20000 * .163% = 3256.77 (actual risk is determined based on stop
+loss e.g. 10% of position size)</p>
+</li>
+</ul>
+<h4 id="van-tharp">Van Tharp</h4>
+<ul>
+<li>
+<p>R = Unit of risk</p>
+</li>
+<li>
+<p>Buy price 100 \$ price and 90 \$ stop-loss = 1R = 10\$</p>
+</li>
+<li>
+<p>Sale price = 140 \$ = 4R profit</p>
+</li>
+<li>
+<p>Expectancy = average R over time</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image17.png" /></p>
+</li>
+<li>
+<p><strong>Look of the distribution of R multiples not only the average (e.g.
+    volatility and drawdowns)</strong></p>
+</li>
+<li>
+<p>Exiting strategies</p>
+</li>
+<li>
+<p>Percentage (7-8%) could be trailing</p>
+</li>
+<li>
+<p>Time based (if based on fundamentals)</p>
+</li>
+<li>
+<p>Volatility based (if outside normal vola of stock)</p>
+</li>
+<li>
+<p>Opportunity (how often does the system generate signals)</p>
+</li>
+<li>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image18.png" /></p>
+</li>
+<li>
+<p>Position sizing</p>
+</li>
+<li>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image19.png" /><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image20.png" /></p>
+</li>
+<li>
+<p>Survival (never risk &gt; 2% of equity in one trade including fees)</p>
+<p>a.  Set up stop-loss according to strategy</p>
+<p>b.  Stop-loss amount (stock prices - stop-loss amount) defines # of
+    stocks to buy</p>
+<p>c.  Only move stop-loss in direction of the trade (higher)</p>
+</li>
+</ul>
+<blockquote>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image21.png" /></p>
+</blockquote>
+<ol>
+<li>
+<p>Steady returns</p>
+</li>
+<li>
+<p>High returns</p>
+</li>
+</ol>
+<h2 id="valuation-of-stock-prices">Valuation of stock prices</h2>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image22.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image23.png" /></p>
+<p>Compare this in conjunction with P/E</p>
+<h3 id="relative-evaluation">Relative evaluation</h3>
+<p>Compare stocks to a similar competitor and take the cheaper one.</p>
+<p>Competitive advantage</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image24.png" /></p>
+<ul>
+<li>
+<p>Find comparable</p>
+</li>
+<li>
+<p>Compare price based on P/E ratio</p>
+</li>
+<li>
+<p>Adjust for differences (e.g. take earning growths)</p>
+</li>
+</ul>
+<blockquote>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image25.png" /></p>
+</blockquote>
+<h3 id="intrinsic-valuation-follow-up-of-above">Intrinsic valuation (follow-up of above)</h3>
+<ul>
+<li>
+<p>Discount rate = yearly return of the stock</p>
+</li>
+<li>
+<p>Company share = claim against portion of the future earnings</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image26.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image27.png" /></p>
+<h2 id="interpretation-of-financial-statements">Interpretation of financial statements</h2>
+<ul>
+<li>
+<p>Watch out for overstated values in the balance sheet (e.g.
+    intangible assets)</p>
+</li>
+<li>
+<p>Look for consistency over several years (ideally 10)</p>
+</li>
+<li>
+<p>Compare within the same industry</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image28.png" /></p>
+<h3 id="intrinsic-value-liquidation-value">Intrinsic value (liquidation value)</h3>
+<p>Use book value = Sell all assets and repay all liabilities</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image29.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image30.png" /></p>
+<h3 id="income-statement-over-a-period">Income statement (over a period)</h3>
+<p>Best is to express everything as a % of the of total revenue (top line)
+and compare with average of top 5 competitors</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image31.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image32.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image33.png" /></p>
+<h3 id="balance-sheet-snapshot-in-time">Balance sheet (snapshot in time)</h3>
+<p>Look at a percentage of total assets and compare with top competitors</p>
+<p>Bad signs</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image34.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image35.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image36.png" /></p>
+<h3 id="cash-flow-statement">Cash flow statement</h3>
+<p>Statement of actual ins and outs of money</p>
+<h3 id="indicators">Indicators</h3>
+<h4 id="roe-return-on-equity">ROE return on equity</h4>
+<p>Net income (income statement) / Total equity (Balance sheet)</p>
+<h4 id="return-on-tangible-assets">Return on tangible assets</h4>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image37.png" /></p>
+<h4 id="net-margin">Net margin</h4>
+<ul>
+<li>
+<p>Highly dependent on industry</p>
+</li>
+<li>
+<p>Net margin = Net income (earnings) / Revenue (+20% ideal)</p>
+</li>
+<li>
+<p>Gross margin = gross profit / revenue (+40% ideal)</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image38.png" /></p>
+<ul>
+<li>Tells you what percentage of how much the company earns on a dollar</li>
+</ul>
+<h4 id="current-ratio">Current Ratio</h4>
+<ul>
+<li>
+<p>Current Ratio = Current Assets / Current liabilities</p>
+</li>
+<li>
+<p>Should be positive (higher for low inventory industries)</p>
+</li>
+<li>
+<p>Indicator of whether a company is able to fulfil its short-term
+    obligations</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image39.png" /></p>
+<h4 id="pb-ratio-price-to-book-ratio">P/B ratio price to book ratio</h4>
+<ul>
+<li>
+<p>Highly dependent on industry</p>
+</li>
+<li>
+<p>P/B = market cap (number of stocks * price of stock) / total assets</p>
+</li>
+</ul>
+<h2 id="inflation">Inflation</h2>
+<ul>
+<li>
+<p>During inflation it's good to invest in companies that have low
+    capital requirements (low debt ratio) and high return on assets
+    (produce once and sell many times)</p>
+</li>
+<li>
+<p>Companies that can scale easier (intangible assets e.g. software)</p>
+</li>
+<li>
+<p>Companies that have pricing power (e.g. they can increase the price
+    according to inflation or higher)</p>
+</li>
+</ul>
+<h2 id="cycles">Cycles</h2>
+<p>A market cycle oscillates around a secular trend.</p>
+<p>The stock market is driven by bust and boom periods. Those are
+exaggerations in both directions followed by reversion to the mean.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image40.png" /></p>
+<p>Cycles are influenced by other cycles:</p>
+<ul>
+<li>
+<p>Economy (GDP)</p>
+</li>
+<li>
+<p>Cycle of profits of businesses (P/E price to earnings ratio)
+    (multpl.com)</p>
+</li>
+<li>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image41.png" /></p>
+</li>
+<li>
+<p>Credit cycle</p>
+</li>
+<li>
+<p>Psychology (attitudes towards risk)
+    <img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image42.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image43.png" /></p>
+</li>
+</ul>
+<h2 id="ideas">Ideas</h2>
+<p>Look for most valuable brand with the lowest P/E</p>
+<h3 id="conservative-base-investment">Conservative base investment</h3>
+<ul>
+<li>
+<p>Dividend stocks (paying dividends for 10+ years)</p>
+</li>
+<li>
+<p>Current ratio = assets / liabilities &gt; 2 (conservative finance)</p>
+</li>
+<li>
+<p>Earning money + earning growth (5+ years)</p>
+</li>
+<li>
+<p>Net current assets (current assets -- liabilities) &gt; price</p>
+<p>Don't bet on companies that do a lot of acquisitions rather focus on
+organic grows</p>
+</li>
+</ul>
+<h3 id="acquirers-multiple">Acquirer\'s multiple</h3>
+<ul>
+<li>
+<p>P/E = market cap / net earnings</p>
+</li>
+<li>
+<p>AM = Enterprise value (market cap + cash reserves - debt) /
+    operating earnings</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image44.png" /></p>
+<ul>
+<li>
+<p>Buy companies with low acquirer multiple</p>
+</li>
+<li>
+<p><a href="https://acquirersmultiple.com/largecapsuccess/">https://acquirersmultiple.com/largecapsuccess/</a></p>
+</li>
+</ul>
+<h2 id="diversify">Diversify</h2>
+<p>10-20 stocks</p>
+<h2 id="focus-on-avoiding-mistakes-instead-of-trying-to-be-right-all-the-time">Focus on avoiding mistakes instead of trying to be right all the time</h2>
+<ul>
+<li>
+<p>Try to be consistently not stupid.</p>
+</li>
+<li>
+<p>Focus on what you don't want to do (e.g. not investing in...)</p>
+</li>
+<li>
+<p>Avoid disaster (e.g. running out of money)</p>
+</li>
+</ul>
+<h3 id="stay-in-circle-of-competence-with-humility-but-think-independently">Stay in circle of competence with humility (but think independently)</h3>
+<ul>
+<li>
+<p>Know what you don't know</p>
+</li>
+<li>
+<p>Look for evidence that goes against your conclusion/view</p>
+</li>
+<li>
+<p>Don't follow the herd</p>
+</li>
+<li>
+<p>Don't follow analysts or irrelevant news.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image45.png" /></p>
+</li>
+</ul>
+<h3 id="evaluate-risk">Evaluate risk</h3>
+<ul>
+<li>
+<p>Use a margin of safety (e.g. buy under valued stocks)</p>
+</li>
+<li>
+<p>More risk = higher compensation</p>
+</li>
+<li>
+<p>What could go wrong?</p>
+</li>
+</ul>
+<h2 id="resist-the-urge-to-act-fomo">Resist the urge to act (FOMO)</h2>
+<ul>
+<li>
+<p>Avoid transaction fees</p>
+</li>
+<li>
+<p>But not when it comes to cutting losss</p>
+</li>
+</ul>
+<h2 id="focus-on-macro-rather-than-micro-decisions">Focus on macro rather than micro decisions</h2>
+<ul>
+<li>
+<p>Don't save on small expenses or try to win on small bets</p>
+</li>
+<li>
+<p>Use a credit card to get bonuses</p>
+</li>
+<li>
+<p>Automatic saving plan</p>
+</li>
+<li>
+<p>Compare based on total cost of ownership rather than purchase price</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Finance\media_Investing/media/image46.png" /></p>
+</li>
+</ul>
+<h2 id="dont-fall-in-love-with-your-investmentposition">Don't fall in love with your investment/position</h2>
+<ul>
+<li>
+<p>Always set a value at which you will sell before investing and
+    follow it</p>
+</li>
+<li>
+<p>What you paid for your house, stock, or car has no relevance to its
+    value. If the value is below what you paid, you don\'t have to get
+    even. If you bought a stock for \$100 and it is now \$50, you should
+    sell it, if it is not worth more than \$50. Ask: Suppose I hadn\'t
+    made the investment, would I make this investment today at today\'s
+    price?</p>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      
+    
+  </body>
+</html>

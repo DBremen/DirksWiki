@@ -1,0 +1,2409 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Causal_Diagrams/">
+      
+      
+        <link rel="next" href="../Game_Theory/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
+    
+    
+      
+        <title>Complexity - Dirk's Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.50c56a3b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#complexity" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-header__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dirk's Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Complexity
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dirk&#39;s Wiki" class="md-nav__button md-logo" aria-label="Dirk's Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Dirk's Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Finance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Finance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/BalanceSheet_IncomeStatement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BalanceSheet IncomeStatement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Investement_models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Investement models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Investing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Investing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Money/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Money
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Same_as_ever/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Same as ever
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Finance/Think_like_an_economist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Think like an economist
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    General
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            General
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/4-hour-chef/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4 hour chef
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Advanced_Google_Search/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Advanced Google Search
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Biological_behaviour/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biological behaviour
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Bitcoin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bitcoin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/DeBono_Thinking_critical_critical_thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DeBono Thinking critical critical thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Essential_scientific_concepts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Essential scientific concepts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Get_Anyone_Do_Anything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Get Anyone Do Anything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Learning_about_learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning about learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Making_ideas_happen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Making ideas happen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Meetings_Dont_just_do_something_standin_there/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meetings Dont just do something standin there
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Mindfulness_at_work/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mindfulness at work
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Nature/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nature
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/TRIZ/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    TRIZ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/The_Science_of_Everyday_Thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Science of Everyday Thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Too_soon_old_too_late_smart/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Too soon old too late smart
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General/Understanding_mysteries_of_human_behaviour/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Understanding mysteries of human behaviour
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Math
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Math
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Discrete_Math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discrete Math
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Math_Thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math Thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Probability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Math/Thinking_better/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinking better
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Personal Development
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Personal Development
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/101_Essays/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    101 Essays
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/4-hour-body/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4 hour body
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/7_habits_of_highly_effective_people/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7 habits of highly effective people
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Anger_management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anger management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Awakened_family/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Awakened family
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/First_things_first/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First things first
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Happy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Happy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/How_to_chart_new_course_for_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to chart new course for life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Influence_people/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Influence people
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Innere_MItte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Innere MItte
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Joy_on_demand/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Joy on demand
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Lifes_little_instruction_book/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lifes little instruction book
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/MIndfullness_at_work/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MIndfullness at work
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Non_violent_communications/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non violent communications
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Power_and_grace_between_nasty_and_nice/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power and grace between nasty and nice
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School of life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/School_of_life_great_thinkers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School of life great thinkers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/Slight_edge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Slight edge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_art_of_the_good_life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The art of the good life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/The_third_alternative/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The third alternative
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Personal_Development/speakup_showup_and_stand_out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speakup showup and stand out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Process System Models
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Process System Models
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Causal_Diagrams/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Causal Diagrams
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Complexity
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Game_Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mental_Models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mental Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mental_Models_FS./" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mental Models FS.
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Model_thinking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model thinking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Principles_of_ProductDevelopment_Flow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principles of ProductDevelopment Flow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Processes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Processes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Reasoning_across_the_disciplines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reasoning across the disciplines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Root_Cause_Analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Root Cause Analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Solving_complex_problems/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Solving complex problems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thinking_critcal_about_profound_ideas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinking critcal about profound ideas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="complexity">Complexity</h1>
+<p>An actor in a complex system controls almost nothing but influences
+everything.</p>
+<p>Depends on:</p>
+<ul>
+<li>
+<p>Diversity (see further down for details)</p>
+<ul>
+<li>
+<p>Applied to chemical elements:</p>
+<ul>
+<li>
+<p>Mixing the same type of elements will not lead to anything
+    interesting.</p>
+</li>
+<li>
+<p>Mixing few components together leads to new (sometimes
+    emergent) phenomena.</p>
+</li>
+<li>
+<p>Mixing a lot of elements together leads to a mess.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Connectedness (how many people a person connects to)</p>
+</li>
+<li>
+<p>Interdependence (whether other entities influence actions)</p>
+</li>
+<li>
+<p>Adaptation/Learning</p>
+</li>
+</ul>
+<p>Complex systems don't lie at the extremes of those attributes but at a
+moderate level.</p>
+<p>It's easier to analyse games/models with only two players or an infinite
+number of numbers since they are not complex.</p>
+<p>A complex system produces interesting non-periodic patterns and emergent
+structures and functionalities.</p>
+<p>Social systems are usually complex because their attributes (diversity,
+connectedness, interdependence, adaptation) at a moderate level.</p>
+<h1 id="classification-of-systemsmodels">Classification of systems/models</h1>
+<p>based on:</p>
+<ol>
+<li>
+<p>the rules followed by its parts</p>
+</li>
+<li>
+<p>the initial state of the system</p>
+<ul>
+<li>
+<p>family at a dinner table</p>
+</li>
+<li>
+<p>family in a car for 36 hours</p>
+</li>
+</ul>
+</li>
+</ol>
+<p>Classifications:</p>
+<ol>
+<li>
+<p>single point equilibria (ball in a bowl)</p>
+</li>
+<li>
+<p>regular patterns (stop light)</p>
+</li>
+<li>
+<p>chaotic</p>
+</li>
+<li>
+<p>extremely sensitive to initial conditions (starting at the same
+    point under slightly different conditions will end up at a
+    completely different point)</p>
+</li>
+<li>
+<p>complex</p>
+<ul>
+<li>
+<p>no regular behaviour</p>
+</li>
+<li>
+<p>no regular pattern</p>
+</li>
+<li>
+<p>structure not easily discernible</p>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="diversity">Diversity</h2>
+<p>Diversity measures</p>
+<ul>
+<li>
+<p>Variation average squared distance from the mean</p>
+</li>
+<li>
+<p>Entropy</p>
+<ul>
+<li>
+<p>Capture the evenness of a distribution across types. (kinda
+    variation for categorical values)</p>
+</li>
+<li>
+<p>Also called Simpson's index</p>
+</li>
+<li>
+<p>Does not take the differences between the types into account
+    (e.g. differences between apples and peers vs. elephants and
+    apples)</p>
+</li>
+<li>
+<p>E.g. colors of tables</p>
+</li>
+<li>
+<p>There is 1/3 red 1/3 white and 1/3 white tables</p>
+</li>
+<li>
+<p>Square each result (i.e. 1/3^2^*3) = 1/3</p>
+</li>
+<li>
+<p>Take the inverse of the number = 3/1</p>
+</li>
+<li>
+<p>The entropy is higher the more types there are</p>
+</li>
+<li>
+<p>The entropy is lower if the proportions of the type are unequal
+    (more of one type as compared to the others)</p>
+</li>
+<li></li>
+</ul>
+</li>
+<li>
+<p>Distance</p>
+<ul>
+<li>
+<p>Take into account differences between types (see entropy which
+    doesn't do this)</p>
+</li>
+<li>
+<p>Assume a pre-existing distance function between pairs of types.</p>
+<ul>
+<li>Some way to measure how equal the types are</li>
+</ul>
+</li>
+<li>
+<p>The more distance there is between the types the more diverse is
+    the whole set of entities.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Attribute</p>
+<ul>
+<li>
+<p>Take into account differences between types (see entropy which
+    doesn't do this)</p>
+</li>
+<li>
+<p>Identify the attributes of each type in a set and count up the
+    total number of unique attributes</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="how-diversity-gets-produced-in-complex-systems">How diversity gets produced in complex systems</h2>
+<ul>
+<li>
+<p>Positive feedbacks</p>
+<ul>
+<li>
+<p>Diversity causes more diversity</p>
+</li>
+<li>
+<p>The more diversity you start with (e.g. more types of
+    materials), the more diversity you can produce.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Week selective pressures</p>
+<ul>
+<li>Not like in a bank where you need to dress a certain way</li>
+</ul>
+</li>
+<li>
+<p>Different landscapes</p>
+</li>
+</ul>
+<p>Thinking of possible actions actors can take as moves along geographic
+coordinates. The fitness/success of the moves can be thought of as
+elevation in the landscape. The actors objective is to climb and search
+for elevations on the landscape with the ambition to find the highest
+point.</p>
+<ul>
+<li>
+<p>Mount Fuyi (only one peak)</p>
+</li>
+<li>
+<p>Rugged (multiple peaks)</p>
+</li>
+</ul>
+<pre><code>&lt;!-- --&gt;
+</code></pre>
+<ul>
+<li>
+<p>Dancing landscapes</p>
+<ul>
+<li>Changing/shifting height landscapes e.g. through competition or
+    innovation</li>
+</ul>
+</li>
+</ul>
+<h2 id="diversity-produces-innovation">Diversity produces innovation</h2>
+<p>Combinations:</p>
+<p>Imagine Thomas Edison had 100 jars of elements on his shelf in his
+laboratory.</p>
+<p>To choose 2 jars there 100 choices to take one jar and 99 choices to
+take the 2^nd^ jar. Since order does matter (i.e. element1 + element2 is
+the same as element2 + element1) we need to divide the result by two:</p>
+<p>Numbers of combinations to pick 2 out of 100 = 100 * 99 /1* 2 = 4950</p>
+<p>3 out of 100 = 100 * 99 * 98 / 1*2*3 =</p>
+<p>4 out of 100 = 100 * 99 * 98 * 97 / 1*2*3*4</p>
+<p>Also diversity of thought/ideas i.e. different ways of seeing or
+representing things can lead to reaching another peak.</p>
+<h2 id="diversity-produces-robustness">Diversity produces robustness</h2>
+<p>Robustness = Ability to maintain functionality despite disturbance</p>
+<p>Variation produces robustness</p>
+<ul>
+<li>
+<p>Having a set of screwdrivers enables you to respond to fix any screw
+    that is loose.</p>
+</li>
+<li>
+<p>Variation in beaks of a population of birds of a specific type makes
+    them robust against environmental changes (e.g. Darwin's finches)</p>
+</li>
+</ul>
+<p>Diversity produces robustness</p>
+<ul>
+<li>
+<p>Set of different tools enables you even better to respond to any
+    problems.</p>
+</li>
+<li>
+<p>The more species there are, the more likely it is that at least one
+    of them will survive any kind of change.</p>
+</li>
+</ul>
+<h2 id="explore-vs-exploit">Explore vs. Exploit</h2>
+<p>Complex systems consist of agents/parts that have interdependent rules
+and payoffs, which create robustness and emergent phenomena.</p>
+<p>There is a fundamental trade-off for the agents in the system between
+explore and exploit.</p>
+<p>Exploration = Searching for better solutions (continue to search for new
+solutions)</p>
+<p>Exploitation = Taking advantage of what you know (use the information
+you found previously)</p>
+<p>Restaurant example:\
+There are lots of different restaurants.</p>
+<p>If you keep searching/trying out new one's your result will reflect the
+average quality of all restaurants.</p>
+<p>If you use the knowledge you have and keep going only to the restaurants
+you already know and like you could miss out on something really good.</p>
+<p>Ideally one should balance exploration against exploitation.</p>
+<p>Rugged vs. mount fuyi landscape context:</p>
+<p>The actor's objective is to climb and search for elevations on the
+landscape with the ambition to find the highest point. There are only
+limited time/resources to find the highest point therefore there must be
+a balance between exploration and exploitation.</p>
+<p>Going only in the direction that leads uphill and stay if there is no
+such direction will only lead to the first local peak in a rugged
+landscape, but is not effective to find the highest peak (greedy
+algorithm).</p>
+<h3 id="simulated-annealing">Simulated annealing</h3>
+<p>Annealing is a process used to harden glass and metals (E.g. tempered
+glass or hardened steel</p>
+<p>), or to make crystals.</p>
+<p>Spin glass -&gt; checker board of particles pointing upwards = 1, pointing
+downwards = -1</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image1.png" /></p>
+<p>The goal is to change the particles such that they all point in the same
+direction.</p>
+<p>The particles/agents actually all want to point in the same direction.
+If the material is too cold the particles are stuck in a frustrated
+state. If the material's temperature is increased the agents/particles
+are set free to move and try to align themselves in terms of the
+direction they are pointing with their neighbours. This will cause
+neighbourhoods of particles to point into the same direction.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image2.png" /></p>
+<p>At this stage the material is made gradually colder again. This will
+cause the bigger regions to be fixed. But the boundaries where the
+particles are pointing in opposite directions are still moving and will
+eventually all point in the same direction at which point the particles
+are organized and fixed since the material is cold again.</p>
+<p>Simulated annealing applied to the hiker trying to find the highest
+point in a rugged landscape:</p>
+<p>High temperature = the hiker's moves cause a lot of mistakes (going
+downhill). The hiker will move around all over the place doing
+exploration.</p>
+<p>Low temperature = less mistakes (mainly uphill moves).</p>
+<p>On rugged landscapes the agents should start wit high temperature (more
+exploration) and then gradually do more and more exploitation to end up
+on a high local peak.</p>
+<p>With dancing landscapes, the agents can never stop exploring since a
+peak can turn into a valley.</p>
+<p>This is causing complexity. What is preventing the system to do too much
+exploration is that too much exploration would cause randomness which
+would cause more and more agents to find local peaks (exploitation). The
+benefits from exploration declines as there is more randomness and makes
+more sense to exploit instead.</p>
+<p>Applied to job search or other searches it might mean that it makes
+sense to explore more, if you have the resources to do so.</p>
+<h1 id="emergence">Emergence</h1>
+<p>Spontaneous creation of order and functionality from the bottom up (not
+controlled from top-down). E.g. specific fire-flies that blink at the
+same time by syncing only with their neighbour and hence reaching the
+whole group to blink at the same time. Rather than by a central
+conductor that tells them when to blink.</p>
+<p>Something that is more than the sum of its parts.</p>
+<p>Types of emergence</p>
+<ul>
+<li>
+<p>Simple or complex</p>
+<ul>
+<li>
+<p>Simple -&gt; macro level property in an equilibrium system (e.g.
+    wetness of water, a single water molecule cannot be wet)</p>
+</li>
+<li>
+<p>Complex -&gt; macro level property that exists in complex systems
+    not in equilibrium. (e.g. slime moles can form a snail like
+    organism or pile up (breaking the symmetry since they know act
+    differently even though they are all the same)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Strong or weak emergence</p>
+<ul>
+<li>
+<p>Strong -&gt; what occurs at the macro level <strong>cannot be deduced</strong>
+    from the interactions at the micro level (e.g. consciousness)</p>
+</li>
+<li>
+<p>Weak -&gt; what occurs at the macro level <strong>cannot be expected</strong>
+    from the interactions at the micro level, but can be explained
+    once it is observed. (e.g. slime moles)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="culture">Culture</h2>
+<p>Definition: Shared set of beliefs, behaviours, and routines.</p>
+<p>Functions:</p>
+<ul>
+<li>
+<p>Cultures allow people to know how others will behave.</p>
+</li>
+<li>
+<p>People know how to behave in novel situations.</p>
+</li>
+</ul>
+<p>Culture arises through series of coordination games (higher pay-off if
+we pick the same) in conjunction with consistent choices (doing similar
+things across different domains), builds characteristics of a specific
+culture (e.g. Americans are more risk-taking than French).</p>
+<h1 id="networks">Networks</h1>
+<p>Functions of networks</p>
+<h2 id="how-quickly-does-information-diffuse-across-a-network">How quickly does information diffuse across a network?</h2>
+<h2 id="are-the-networks-that-emerge-robust-to-failures">Are the networks that emerge robust to failures?</h2>
+<ul>
+<li>
+<p>Random failures (internet is robust to random failure)</p>
+</li>
+<li>
+<p>Strategic attacks</p>
+</li>
+</ul>
+<h1 id="feedbacks-and-externalities">Feedbacks and externalities</h1>
+<p>Feedback -&gt; dependencies between the same actions</p>
+<p>Externalities -&gt; dependencies between different actions (e.g. the more
+flowers the more vases are needed). There are positive and negative
+externalities.</p>
+<ul>
+<li>
+<p>Positive feedback (more creates more, actions that create more of
+    the same) can lead to tipping points</p>
+</li>
+<li>
+<p>Negative feedback (more creates less, gas prices increase -&gt; less
+    people buy gas -&gt; gas prizes go down) can create stability</p>
+</li>
+<li>
+<p>Combinations of positive feedback and negative externalities can
+    create path-dependence</p>
+<ul>
+<li>Path-dependence: future outcomes depend on the actions along the
+    way. Outcomes in path-dependent processes can be difficult to
+    understand.</li>
+</ul>
+</li>
+<li>
+<p>Usually based on threshold rule. E.g. what is the % of people that
+    run for the exit for me to run for the exit, too?</p>
+</li>
+<li>
+<p>In complex systems (that are diverse) the extreme thresholds (at the
+    tails of the distribution) can have a big impact on the behaviour of
+    the system:</p>
+<ul>
+<li>
+<p>E.g. people leaving mall based on how many other people are
+    leaving. If the threshold is j for every j person
+    (threshold:personN: 1:1, 2:2, ....) then there will be a cascade
+    effect if only one person leaves that will make everyone follow.
+    As compared to everyone having a threshold of 5, where nothing
+    happens until at least 5 people leave.</p>
+</li>
+<li>
+<p>The same effect can lead to stock market crashes (the system is
+    tipping) and segregated neighbourhoods (even though individual
+    tolerance levels are pretty high)</p>
+</li>
+<li>
+<p>There won't be a tipping that moves the system back into the
+    other direction.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="self-organized-criticality">Self organized criticality</h1>
+<p>Systems self organize if the aggregation of individual actions produced
+an organized pattern at the macro level (e.g. bird flocks, fish shoals).
+A system is set to be critical if small events trigger large cascades.
+If a system self organizes into a critical state it is called
+self-organized criticality.</p>
+<h2 id="central-limit-theorem">Central limit theorem</h2>
+<p>if we add or average samples of individual independent events, they will
+be normally distributed (e.g. weight of loaf of bread).</p>
+<ul>
+<li>
+<p>Regardless of their distribution</p>
+</li>
+<li>
+<p>They only need to have finite variance (not too extreme)</p>
+</li>
+</ul>
+<p>This contributes to the stability of society since it makes events
+predictable (there are usually not many events that deviate by large
+from the mean).</p>
+<h2 id="power-law-distributions">Power law distributions</h2>
+<p>Some events are not normally distributed but power laws(e.g. cost
+overrun of projects, war size, floods, earth quake).</p>
+<p>In a power law distribution huge events are not likely, but they can
+occur.</p>
+<p>Event sizes follow a power law if the probability of an event of size x
+is proportional to x raised to some negative power. (e.g. with an
+exponent of 2, the probability of an event with the size of 100 is
+1/100\^2.</p>
+<p>If you measure how long it takes to return to 0 in a game where I get
+1\$ for heads for a coin flip and you get 1\$ for tail it will resemble
+a power law distribution. Most of the time it will only take few steps
+to go back to 0\$ but some times it will take a long time.</p>
+<h2 id="per-baks-sand-pile-model-of-self-organized-criticality">Per Bak's sand pile model of self-organized criticality</h2>
+<p>In reality (if not simulated on a computer) the sand box model better
+works with rice.</p>
+<p>If you drop individual rice corns on a square table rice piles up on the
+table. A pile is going to build up. At one point the pile gets high
+enough so that additional rice corns will cause an avalanche causing
+some of the rice corns to drop to the floor. Most of the time there will
+be only few rice grains dropping to the floor. But some times there will
+be huge avalanches. The distribution of the avalanche sizes will follow
+a power law.</p>
+<p>If we replace the table in the sand pile model with a checker board and
+the sand with people from a group called bridge player anonymous. Every
+person will drop on a specific square of the checker board.</p>
+<p>Members of the group would like to avoid meeting in groups greater than
+4. Because of 4 of them meet on a square they might want to start a game
+of bridge.</p>
+<p>If at any point 4 people of the group do meet at the same square they
+will go off in 4 different directions.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image3.png" /></p>
+<p>Eventually this system will self-organize into a critical state where
+dropping additional people will lead to huge cascades of movements
+(similar to the avalanches within the sand pile model) because of the
+<strong>connectedness and interdependence within the system</strong>.</p>
+<h2 id="avoiding-critical-events-from-happening">Avoiding critical events from happening</h2>
+<p><strong>As connectedness and interdependence increases within the world these
+distributions become more likely to emerge. This can be prevented by</strong></p>
+<ul>
+<li>
+<p>Reducing connectedness (e.g. separating parts of a system in order
+    to avoid cascade effects in case of emergencies)</p>
+</li>
+<li>
+<p>avoiding systems to reach a critical stage (e.g. preventing cars
+    entering a motor way if it's getting too busy).</p>
+</li>
+<li>
+<p>Monitoring systems in order to recognize and release the build up of
+    tension (e.g. monitoring political alliances).</p>
+</li>
+</ul>
+<h2 id="how-do-traffic-jams-happen">How do traffic jams happen?</h2>
+<p>If a car slows down when there are many other cars driving behind it,
+the others cars will have to slow down too. Even if the car in front
+will accelerate again it will take the other cars much longer to take up
+speed again.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image4.png" /></p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image5.png" /></p>
+<p>It might take long enough for others cars driving behind the lane of
+cars also having to queue behind the same lane.</p>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image6.png" /></p>
+<p>This can then cascade down to more cars causing a traffic jam.</p>
+<h2 id="first-world-war">First world war</h2>
+<ul>
+<li>
+<p>The arch duke of Austria-Hungary is assassinated by supposedly some
+    group (black hand) from Serbia in Sarajevo.</p>
+</li>
+<li>
+<p>They give Serbia an (unreasonable) ultimatum.</p>
+</li>
+<li>
+<p>Russia is an ally of Serbia and Germany is an ally of
+    Austria-Hungary</p>
+</li>
+<li>
+<p>As soon as Serbia rejects the ultimatum Austria-Hungary declares war
+    on Serbia</p>
+</li>
+<li>
+<p>Russia and Germany join to support their allies.</p>
+</li>
+<li>
+<p>Also France is an ally of Russia and Serbia and joins the war.</p>
+</li>
+<li>
+<p>Later also Britain and Japan joined to help Russia, Serbia, and
+    France</p>
+</li>
+</ul>
+<p><img alt="" src="C:\Users\User\OneDrive\Scripts\DirksWiki\docs\Process_System_Models\media_Complexity/media/image7.png" /></p>
+<h1 id="where-does-randomness-come-from">Where does randomness come from?</h1>
+<ul>
+<li>
+<p>Engineered (e.g. Rand() in Excel) or lottery system.</p>
+</li>
+<li>
+<p>Disturbances (small changes) the disturbances are random as well as
+    the cause of the disturbance (other random disturbances)</p>
+</li>
+<li>
+<p>Fundamental property (e.g. quantum physics)</p>
+</li>
+<li>
+<p>Interdependent rules</p>
+</li>
+</ul>
+<h1 id="decision-theory">Decision theory</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      
+    
+  </body>
+</html>
