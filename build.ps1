@@ -1,6 +1,7 @@
 $sourceDocsFolder = 'C:\scripts\wikiDocs'
 $repoFolder = $PSScriptRoot
 
+
 function build () {
     dir $sourceDocsFolder -rec -file | ren -NewName {$_.Name.Replace(' ','_')}
     if (Test-Path "$repoFolder\docs"){
@@ -51,7 +52,7 @@ function build () {
                 Replacement = $_.Matches.Groups[1].Value + '(' + $_.Matches.Groups[2].Value + ')'
             }
         }
-        $content = Get-Content -Path $file
+        $content = Get-Content -Path $file -ErrorAction SilentlyContinue
         $replacements.foreach{$content = $content.Replace($_.toreplace,$_.replacement)}
         $content | set-content $file
     }
